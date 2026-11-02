@@ -1,0 +1,1269 @@
+[
+  {
+    "id": "en-2301",
+    "word": "juxtapose",
+    "pos": "動詞",
+    "meaning": "並べて置く、並列する",
+    "level": 3,
+    "confusers": [
+      "en-0156",
+      "en-2231"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2302",
+    "word": "mollify",
+    "pos": "動詞",
+    "meaning": "なだめる、和らげる",
+    "level": 3,
+    "confusers": [
+      "en-0948",
+      "en-0959"
+    ],
+    "synonyms": [
+      "en-2208",
+      "en-2206"
+    ]
+  },
+  {
+    "id": "en-2303",
+    "word": "muster",
+    "pos": "動詞",
+    "meaning": "（勇気・支持などを）奮い起こす、集める",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1504"
+    ]
+  },
+  {
+    "id": "en-2304",
+    "word": "negate",
+    "pos": "動詞",
+    "meaning": "無効にする、否定する",
+    "level": 3,
+    "confusers": [
+      "en-0950",
+      "en-1443",
+      "en-0738"
+    ],
+    "synonyms": [
+      "en-2305"
+    ]
+  },
+  {
+    "id": "en-2305",
+    "word": "nullify",
+    "pos": "動詞",
+    "meaning": "無効にする",
+    "level": 3,
+    "confusers": [
+      "en-0226"
+    ],
+    "synonyms": [
+      "en-2306",
+      "en-2304"
+    ]
+  },
+  {
+    "id": "en-2306",
+    "word": "invalidate",
+    "pos": "動詞",
+    "meaning": "無効にする",
+    "level": 3,
+    "confusers": [
+      "en-0922"
+    ],
+    "synonyms": [
+      "en-2305"
+    ]
+  },
+  {
+    "id": "en-2307",
+    "word": "obliterate",
+    "pos": "動詞",
+    "meaning": "消し去る、跡形もなくする",
+    "level": 3,
+    "confusers": [
+      "en-0723"
+    ],
+    "synonyms": [
+      "en-1381"
+    ]
+  },
+  {
+    "id": "en-2308",
+    "word": "ostracize",
+    "pos": "動詞",
+    "meaning": "仲間外れにする",
+    "level": 3,
+    "confusers": [
+      "en-0894",
+      "en-0038"
+    ],
+    "synonyms": [
+      "en-0200"
+    ]
+  },
+  {
+    "id": "en-2309",
+    "word": "oust",
+    "pos": "動詞",
+    "meaning": "追い出す",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2310"
+    ]
+  },
+  {
+    "id": "en-2310",
+    "word": "expel",
+    "pos": "動詞",
+    "meaning": "追い出す、除名する",
+    "level": 3,
+    "confusers": [
+      "en-1475"
+    ],
+    "synonyms": [
+      "en-2309"
+    ]
+  },
+  {
+    "id": "en-2311",
+    "word": "outwit",
+    "pos": "動詞",
+    "meaning": "出し抜く",
+    "level": 3,
+    "confusers": [
+      "en-2115"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2312",
+    "word": "perpetrate",
+    "pos": "動詞",
+    "meaning": "（悪事を）犯す",
+    "level": 3,
+    "confusers": [
+      "en-2313",
+      "en-1453"
+    ],
+    "synonyms": [
+      "en-0265"
+    ]
+  },
+  {
+    "id": "en-2313",
+    "word": "perpetuate",
+    "pos": "動詞",
+    "meaning": "永続させる",
+    "level": 3,
+    "confusers": [
+      "en-2312",
+      "en-2041"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2314",
+    "word": "plummet",
+    "pos": "動詞",
+    "meaning": "急落する",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1455"
+    ]
+  },
+  {
+    "id": "en-2315",
+    "word": "preclude",
+    "pos": "動詞",
+    "meaning": "妨げる、不可能にする",
+    "level": 3,
+    "confusers": [
+      "en-0136",
+      "en-0200"
+    ],
+    "synonyms": [
+      "en-0018",
+      "en-1413",
+      "en-2188",
+      "en-1057"
+    ]
+  },
+  {
+    "id": "en-2316",
+    "word": "procrastinate",
+    "pos": "動詞",
+    "meaning": "先延ばしにする",
+    "level": 3,
+    "confusers": [
+      "en-1458"
+    ],
+    "synonyms": [
+      "en-1346",
+      "en-0025"
+    ]
+  },
+  {
+    "id": "en-2317",
+    "word": "proliferate",
+    "pos": "動詞",
+    "meaning": "急増する、増殖する",
+    "level": 3,
+    "confusers": [
+      "en-2052",
+      "en-0651"
+    ],
+    "synonyms": [
+      "en-1442"
+    ]
+  },
+  {
+    "id": "en-2318",
+    "word": "propagate",
+    "pos": "動詞",
+    "meaning": "広める、繁殖させる",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2319"
+    ]
+  },
+  {
+    "id": "en-2319",
+    "word": "spread",
+    "pos": "動詞",
+    "meaning": "広げる、広まる",
+    "level": 3,
+    "confusers": [
+      "en-0247"
+    ],
+    "synonyms": [
+      "en-1317",
+      "en-2318"
+    ]
+  },
+  {
+    "id": "en-2320",
+    "word": "quell",
+    "pos": "動詞",
+    "meaning": "鎮める",
+    "level": 3,
+    "confusers": [
+      "en-1366"
+    ],
+    "synonyms": [
+      "en-1106",
+      "en-1501"
+    ]
+  },
+  {
+    "id": "en-2321",
+    "word": "rebuke",
+    "pos": "動詞",
+    "meaning": "叱責する",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1477",
+      "en-1486",
+      "en-2398"
+    ]
+  },
+  {
+    "id": "en-2322",
+    "word": "recant",
+    "pos": "動詞",
+    "meaning": "（主張を）撤回する",
+    "level": 3,
+    "confusers": [
+      "en-0963"
+    ],
+    "synonyms": [
+      "en-0992"
+    ]
+  },
+  {
+    "id": "en-2323",
+    "word": "recuperate",
+    "pos": "動詞",
+    "meaning": "回復する",
+    "level": 3,
+    "confusers": [
+      "en-0184",
+      "en-0183"
+    ],
+    "synonyms": [
+      "en-0149",
+      "en-0970"
+    ]
+  },
+  {
+    "id": "en-2324",
+    "word": "refurbish",
+    "pos": "動詞",
+    "meaning": "改装する",
+    "level": 3,
+    "confusers": [
+      "en-0231"
+    ],
+    "synonyms": [
+      "en-1095"
+    ]
+  },
+  {
+    "id": "en-2325",
+    "word": "relinquish",
+    "pos": "動詞",
+    "meaning": "放棄する、手放す",
+    "level": 3,
+    "confusers": [
+      "en-2396",
+      "en-1395"
+    ],
+    "synonyms": [
+      "en-0995"
+    ]
+  },
+  {
+    "id": "en-2326",
+    "word": "remunerate",
+    "pos": "動詞",
+    "meaning": "報酬を払う",
+    "level": 3,
+    "confusers": [
+      "en-2259",
+      "en-1056"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2327",
+    "word": "renounce",
+    "pos": "動詞",
+    "meaning": "放棄する、断念する",
+    "level": 3,
+    "confusers": [
+      "en-0228",
+      "en-1588"
+    ],
+    "synonyms": [
+      "en-0995"
+    ]
+  },
+  {
+    "id": "en-2328",
+    "word": "repudiate",
+    "pos": "動詞",
+    "meaning": "拒絶する、否認する",
+    "level": 3,
+    "confusers": [
+      "en-1472",
+      "en-2198"
+    ],
+    "synonyms": [
+      "en-0010"
+    ]
+  },
+  {
+    "id": "en-2329",
+    "word": "rescind",
+    "pos": "動詞",
+    "meaning": "取り消す、無効にする",
+    "level": 3,
+    "confusers": [
+      "en-0966",
+      "en-0138"
+    ],
+    "synonyms": [
+      "en-0879"
+    ]
+  },
+  {
+    "id": "en-2330",
+    "word": "retaliate",
+    "pos": "動詞",
+    "meaning": "報復する",
+    "level": 3,
+    "confusers": [
+      "en-0203"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2331",
+    "word": "revere",
+    "pos": "動詞",
+    "meaning": "あがめる、尊敬する",
+    "level": 3,
+    "confusers": [
+      "en-0783"
+    ],
+    "synonyms": [
+      "en-0020"
+    ]
+  },
+  {
+    "id": "en-2332",
+    "word": "saturate",
+    "pos": "動詞",
+    "meaning": "飽和させる、浸す",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1491"
+    ]
+  },
+  {
+    "id": "en-2333",
+    "word": "shun",
+    "pos": "動詞",
+    "meaning": "避ける",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0115",
+      "en-2174",
+      "en-2246"
+    ]
+  },
+  {
+    "id": "en-2334",
+    "word": "squander",
+    "pos": "動詞",
+    "meaning": "浪費する",
+    "level": 3,
+    "confusers": [
+      "en-0991"
+    ],
+    "synonyms": [
+      "en-2335",
+      "en-2243"
+    ]
+  },
+  {
+    "id": "en-2335",
+    "word": "waste",
+    "pos": "動詞",
+    "meaning": "浪費する、無駄にする",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2334"
+    ]
+  },
+  {
+    "id": "en-2336",
+    "word": "stifle",
+    "pos": "動詞",
+    "meaning": "抑える、窒息させる",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1106"
+    ]
+  },
+  {
+    "id": "en-2337",
+    "word": "stipulate",
+    "pos": "動詞",
+    "meaning": "規定する、明記する",
+    "level": 3,
+    "confusers": [
+      "en-1100",
+      "en-1099"
+    ],
+    "synonyms": [
+      "en-1098"
+    ]
+  },
+  {
+    "id": "en-2338",
+    "word": "subjugate",
+    "pos": "動詞",
+    "meaning": "征服する、服従させる",
+    "level": 3,
+    "confusers": [
+      "en-0502"
+    ],
+    "synonyms": [
+      "en-1333"
+    ]
+  },
+  {
+    "id": "en-2339",
+    "word": "substantiate",
+    "pos": "動詞",
+    "meaning": "実証する",
+    "level": 3,
+    "confusers": [
+      "en-1289",
+      "en-0981"
+    ],
+    "synonyms": [
+      "en-0016",
+      "en-1113",
+      "en-0900"
+    ]
+  },
+  {
+    "id": "en-2340",
+    "word": "supplant",
+    "pos": "動詞",
+    "meaning": "取って代わる",
+    "level": 3,
+    "confusers": [
+      "en-0107"
+    ],
+    "synonyms": [
+      "en-0207",
+      "en-1505",
+      "en-1535"
+    ]
+  },
+  {
+    "id": "en-2341",
+    "word": "surmise",
+    "pos": "動詞",
+    "meaning": "推測する",
+    "level": 3,
+    "confusers": [
+      "en-0865"
+    ],
+    "synonyms": [
+      "en-1099",
+      "en-0156"
+    ]
+  },
+  {
+    "id": "en-2342",
+    "word": "tantalize",
+    "pos": "動詞",
+    "meaning": "じらす",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2343"
+    ]
+  },
+  {
+    "id": "en-2343",
+    "word": "tease",
+    "pos": "動詞",
+    "meaning": "からかう、いじめる",
+    "level": 3,
+    "confusers": [
+      "en-2093"
+    ],
+    "synonyms": [
+      "en-2342"
+    ]
+  },
+  {
+    "id": "en-2344",
+    "word": "thwart",
+    "pos": "動詞",
+    "meaning": "阻止する、くじく",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1400"
+    ]
+  },
+  {
+    "id": "en-2345",
+    "word": "transcend",
+    "pos": "動詞",
+    "meaning": "超越する",
+    "level": 3,
+    "confusers": [
+      "en-1308",
+      "en-0217"
+    ],
+    "synonyms": [
+      "en-1506"
+    ]
+  },
+  {
+    "id": "en-2346",
+    "word": "undercut",
+    "pos": "動詞",
+    "meaning": "（価格を）下回る、弱体化させる",
+    "level": 3,
+    "confusers": [
+      "en-1109"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2347",
+    "word": "unravel",
+    "pos": "動詞",
+    "meaning": "解明する、ほどく",
+    "level": 3,
+    "confusers": [
+      "en-1521"
+    ],
+    "synonyms": [
+      "en-2348"
+    ]
+  },
+  {
+    "id": "en-2348",
+    "word": "solve",
+    "pos": "動詞",
+    "meaning": "解く、解決する",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0968",
+      "en-2347"
+    ]
+  },
+  {
+    "id": "en-2349",
+    "word": "usurp",
+    "pos": "動詞",
+    "meaning": "（地位・権力を）奪う",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1487"
+    ]
+  },
+  {
+    "id": "en-2350",
+    "word": "vex",
+    "pos": "動詞",
+    "meaning": "いらだたせる、悩ませる",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1550"
+    ]
+  },
+  {
+    "id": "en-2351",
+    "word": "vindicate",
+    "pos": "動詞",
+    "meaning": "潔白を証明する",
+    "level": 3,
+    "confusers": [
+      "en-0173",
+      "en-0223"
+    ],
+    "synonyms": [
+      "en-0944"
+    ]
+  },
+  {
+    "id": "en-2352",
+    "word": "waver",
+    "pos": "動詞",
+    "meaning": "揺れる、迷う",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0932"
+    ]
+  },
+  {
+    "id": "en-2353",
+    "word": "wane",
+    "pos": "動詞",
+    "meaning": "衰える、（月が）欠ける",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0011"
+    ]
+  },
+  {
+    "id": "en-2354",
+    "word": "wield",
+    "pos": "動詞",
+    "meaning": "（権力などを）振るう",
+    "level": 3,
+    "confusers": [
+      "en-0993"
+    ],
+    "synonyms": [
+      "en-1050"
+    ]
+  },
+  {
+    "id": "en-2355",
+    "word": "abhor",
+    "pos": "動詞",
+    "meaning": "ひどく嫌う",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2239",
+      "en-2240"
+    ]
+  },
+  {
+    "id": "en-2356",
+    "word": "adjourn",
+    "pos": "動詞",
+    "meaning": "休会する、延期する",
+    "level": 3,
+    "confusers": [
+      "en-0008",
+      "en-0409"
+    ],
+    "synonyms": [
+      "en-1346",
+      "en-1345"
+    ]
+  },
+  {
+    "id": "en-2357",
+    "word": "allot",
+    "pos": "動詞",
+    "meaning": "割り当てる",
+    "level": 3,
+    "confusers": [
+      "en-0102"
+    ],
+    "synonyms": [
+      "en-1008",
+      "en-0869",
+      "en-1566"
+    ]
+  },
+  {
+    "id": "en-2358",
+    "word": "ameliorate",
+    "pos": "動詞",
+    "meaning": "改善する",
+    "level": 3,
+    "confusers": [
+      "en-1033"
+    ],
+    "synonyms": [
+      "en-0014"
+    ]
+  },
+  {
+    "id": "en-2359",
+    "word": "annex",
+    "pos": "動詞",
+    "meaning": "併合する",
+    "level": 3,
+    "confusers": [
+      "en-0612"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2360",
+    "word": "bequeath",
+    "pos": "動詞",
+    "meaning": "遺言で譲る",
+    "level": 3,
+    "confusers": [
+      "en-0877"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2361",
+    "word": "beset",
+    "pos": "動詞",
+    "meaning": "悩ませる、付きまとう",
+    "level": 3,
+    "confusers": [
+      "en-1447"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2362",
+    "word": "blur",
+    "pos": "動詞",
+    "meaning": "ぼやけさせる",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2363",
+    "word": "brandish",
+    "pos": "動詞",
+    "meaning": "振り回す",
+    "level": 3,
+    "confusers": [
+      "en-0565"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2364",
+    "word": "cede",
+    "pos": "動詞",
+    "meaning": "譲る、割譲する",
+    "level": 3,
+    "confusers": [
+      "en-1329"
+    ],
+    "synonyms": [
+      "en-0993",
+      "en-0994"
+    ]
+  },
+  {
+    "id": "en-2365",
+    "word": "chastise",
+    "pos": "動詞",
+    "meaning": "厳しく叱る、懲らしめる",
+    "level": 3,
+    "confusers": [
+      "en-0882"
+    ],
+    "synonyms": [
+      "en-1486"
+    ]
+  },
+  {
+    "id": "en-2366",
+    "word": "collude",
+    "pos": "動詞",
+    "meaning": "共謀する",
+    "level": 3,
+    "confusers": [
+      "en-1569",
+      "en-0199",
+      "en-2173"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2367",
+    "word": "construe",
+    "pos": "動詞",
+    "meaning": "解釈する",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0940"
+    ]
+  },
+  {
+    "id": "en-2368",
+    "word": "contrive",
+    "pos": "動詞",
+    "meaning": "考案する、たくらむ",
+    "level": 3,
+    "confusers": [
+      "en-0243",
+      "en-1498"
+    ],
+    "synonyms": [
+      "en-0259"
+    ]
+  },
+  {
+    "id": "en-2369",
+    "word": "debase",
+    "pos": "動詞",
+    "meaning": "（価値・品位を）落とす",
+    "level": 3,
+    "confusers": [
+      "en-0345"
+    ],
+    "synonyms": [
+      "en-1347"
+    ]
+  },
+  {
+    "id": "en-2370",
+    "word": "decry",
+    "pos": "動詞",
+    "meaning": "公然と非難する",
+    "level": 3,
+    "confusers": [
+      "en-0024"
+    ],
+    "synonyms": [
+      "en-1588",
+      "en-1024"
+    ]
+  },
+  {
+    "id": "en-2371",
+    "word": "deface",
+    "pos": "動詞",
+    "meaning": "外観を損なう",
+    "level": 3,
+    "confusers": [
+      "en-2377",
+      "en-0506"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2372",
+    "word": "defraud",
+    "pos": "動詞",
+    "meaning": "だまし取る",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0881"
+    ]
+  },
+  {
+    "id": "en-2373",
+    "word": "delude",
+    "pos": "動詞",
+    "meaning": "欺く、惑わす",
+    "level": 3,
+    "confusers": [
+      "en-2249",
+      "en-2173",
+      "en-0899"
+    ],
+    "synonyms": [
+      "en-1344"
+    ]
+  },
+  {
+    "id": "en-2374",
+    "word": "desecrate",
+    "pos": "動詞",
+    "meaning": "（神聖なものを）汚す",
+    "level": 3,
+    "confusers": [
+      "en-0896"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2375",
+    "word": "douse",
+    "pos": "動詞",
+    "meaning": "（火を）消す、水をかける",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1395"
+    ]
+  },
+  {
+    "id": "en-2376",
+    "word": "dupe",
+    "pos": "動詞",
+    "meaning": "だます",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1344",
+      "en-0881"
+    ]
+  },
+  {
+    "id": "en-2377",
+    "word": "efface",
+    "pos": "動詞",
+    "meaning": "消し去る",
+    "level": 3,
+    "confusers": [
+      "en-2371",
+      "en-0506"
+    ],
+    "synonyms": [
+      "en-1381"
+    ]
+  },
+  {
+    "id": "en-2378",
+    "word": "engulf",
+    "pos": "動詞",
+    "meaning": "飲み込む、巻き込む",
+    "level": 3,
+    "confusers": [
+      "en-1375"
+    ],
+    "synonyms": [
+      "en-0985"
+    ]
+  },
+  {
+    "id": "en-2379",
+    "word": "exalt",
+    "pos": "動詞",
+    "meaning": "高める、称賛する",
+    "level": 3,
+    "confusers": [
+      "en-1390"
+    ],
+    "synonyms": [
+      "en-1302",
+      "en-1301"
+    ]
+  },
+  {
+    "id": "en-2380",
+    "word": "exhort",
+    "pos": "動詞",
+    "meaning": "熱心に勧める",
+    "level": 3,
+    "confusers": [
+      "en-2271",
+      "en-1050",
+      "en-1393"
+    ],
+    "synonyms": [
+      "en-0988"
+    ]
+  },
+  {
+    "id": "en-2381",
+    "word": "expound",
+    "pos": "動詞",
+    "meaning": "詳しく説明する",
+    "level": 3,
+    "confusers": [
+      "en-0246",
+      "en-1659"
+    ],
+    "synonyms": [
+      "en-0125"
+    ]
+  },
+  {
+    "id": "en-2382",
+    "word": "extricate",
+    "pos": "動詞",
+    "meaning": "救い出す、解放する",
+    "level": 3,
+    "confusers": [
+      "en-1259"
+    ],
+    "synonyms": [
+      "en-0966",
+      "en-1430"
+    ]
+  },
+  {
+    "id": "en-2383",
+    "word": "fend",
+    "pos": "動詞",
+    "meaning": "（攻撃を）かわす、何とかやっていく",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2384",
+    "word": "flinch",
+    "pos": "動詞",
+    "meaning": "ひるむ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2385",
+    "word": "foment",
+    "pos": "動詞",
+    "meaning": "（騒ぎを）あおる",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2291",
+      "en-1085"
+    ]
+  },
+  {
+    "id": "en-2386",
+    "word": "impel",
+    "pos": "動詞",
+    "meaning": "駆り立てる",
+    "level": 3,
+    "confusers": [
+      "en-2310"
+    ],
+    "synonyms": [
+      "en-1326",
+      "en-2286",
+      "en-2291"
+    ]
+  },
+  {
+    "id": "en-2387",
+    "word": "ingratiate",
+    "pos": "動詞",
+    "meaning": "取り入る",
+    "level": 3,
+    "confusers": [
+      "en-2287",
+      "en-0222"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2388",
+    "word": "mar",
+    "pos": "動詞",
+    "meaning": "損なう、台無しにする",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1494",
+      "en-1484"
+    ]
+  },
+  {
+    "id": "en-2389",
+    "word": "partake",
+    "pos": "動詞",
+    "meaning": "参加する、共にする",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0185"
+    ]
+  },
+  {
+    "id": "en-2390",
+    "word": "peruse",
+    "pos": "動詞",
+    "meaning": "熟読する",
+    "level": 3,
+    "confusers": [
+      "en-0193",
+      "en-0195"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2391",
+    "word": "pilfer",
+    "pos": "動詞",
+    "meaning": "くすねる",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2392"
+    ]
+  },
+  {
+    "id": "en-2392",
+    "word": "steal",
+    "pos": "動詞",
+    "meaning": "盗む",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2391"
+    ]
+  },
+  {
+    "id": "en-2393",
+    "word": "plagiarize",
+    "pos": "動詞",
+    "meaning": "盗用する",
+    "level": 3,
+    "confusers": [
+      "en-1823"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2394",
+    "word": "quash",
+    "pos": "動詞",
+    "meaning": "（判決を）破棄する、鎮圧する",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1106"
+    ]
+  },
+  {
+    "id": "en-2395",
+    "word": "ransack",
+    "pos": "動詞",
+    "meaning": "くまなく探す、荒らす",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2399"
+    ]
+  },
+  {
+    "id": "en-2396",
+    "word": "relish",
+    "pos": "動詞",
+    "meaning": "楽しむ、味わう",
+    "level": 3,
+    "confusers": [
+      "en-2325",
+      "en-0231"
+    ],
+    "synonyms": [
+      "en-2397"
+    ]
+  },
+  {
+    "id": "en-2397",
+    "word": "enjoy",
+    "pos": "動詞",
+    "meaning": "楽しむ",
+    "level": 3,
+    "confusers": [
+      "en-0916",
+      "en-1550"
+    ],
+    "synonyms": [
+      "en-2396"
+    ]
+  },
+  {
+    "id": "en-2398",
+    "word": "reprimand",
+    "pos": "動詞",
+    "meaning": "叱責する",
+    "level": 3,
+    "confusers": [
+      "en-0188"
+    ],
+    "synonyms": [
+      "en-2321",
+      "en-1486"
+    ]
+  },
+  {
+    "id": "en-2399",
+    "word": "rummage",
+    "pos": "動詞",
+    "meaning": "かき回して探す",
+    "level": 3,
+    "confusers": [
+      "en-0344",
+      "en-0428"
+    ],
+    "synonyms": [
+      "en-2395"
+    ]
+  },
+  {
+    "id": "en-2400",
+    "word": "tarnish",
+    "pos": "動詞",
+    "meaning": "（名声などを）汚す、曇らせる",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1496"
+    ]
+  }
+]
