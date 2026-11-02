@@ -22,7 +22,9 @@
     "confusers": [
       "en-1042"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2289"
+    ]
   },
   {
     "id": "en-1603",
@@ -32,7 +34,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-0215"
+      "en-0215",
+      "en-2298"
     ]
   },
   {

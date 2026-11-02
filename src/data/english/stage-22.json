@@ -870,7 +870,8 @@
     "confusers": [],
     "synonyms": [
       "en-1090",
-      "en-0263"
+      "en-0263",
+      "en-2280"
     ]
   },
   {
@@ -921,7 +922,9 @@
       "en-0593",
       "en-0148"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2244"
+    ]
   },
   {
     "id": "en-2180",
@@ -995,7 +998,7 @@
     "id": "en-2185",
     "word": "forfeit",
     "pos": "動詞",
-    "meaning": "（罰として）失う、没収される",
+    "meaning": "（権利などを罰として）失う",
     "level": 2,
     "confusers": [],
     "synonyms": []
@@ -1070,7 +1073,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-1441"
+      "en-1441",
+      "en-2236"
     ]
   },
   {
@@ -1112,7 +1116,9 @@
     "meaning": "影を薄くする、暗い影を落とす",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2247"
+    ]
   },
   {
     "id": "en-2196",
