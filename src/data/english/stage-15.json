@@ -1,0 +1,1182 @@
+[
+  {
+    "id": "en-1401",
+    "word": "glance",
+    "pos": "動詞",
+    "meaning": "ちらりと見る",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1402",
+    "word": "grasp",
+    "pos": "動詞",
+    "meaning": "つかむ、理解する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1403",
+      "en-1487"
+    ]
+  },
+  {
+    "id": "en-1403",
+    "word": "grip",
+    "pos": "動詞",
+    "meaning": "しっかりつかむ",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1402"
+    ]
+  },
+  {
+    "id": "en-1404",
+    "word": "halt",
+    "pos": "動詞",
+    "meaning": "止める、停止する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1405"
+    ]
+  },
+  {
+    "id": "en-1405",
+    "word": "stop",
+    "pos": "動詞",
+    "meaning": "止める",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1404"
+    ]
+  },
+  {
+    "id": "en-1406",
+    "word": "harvest",
+    "pos": "動詞",
+    "meaning": "収穫する",
+    "level": 2,
+    "confusers": [
+      "en-0941"
+    ],
+    "synonyms": [
+      "en-1462"
+    ]
+  },
+  {
+    "id": "en-1407",
+    "word": "heal",
+    "pos": "動詞",
+    "meaning": "治す、癒やす",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0895"
+    ]
+  },
+  {
+    "id": "en-1408",
+    "word": "hunt",
+    "pos": "動詞",
+    "meaning": "狩る、探し求める",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0976"
+    ]
+  },
+  {
+    "id": "en-1409",
+    "word": "ignite",
+    "pos": "動詞",
+    "meaning": "点火する、火をつける",
+    "level": 2,
+    "confusers": [
+      "en-0169"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1410",
+    "word": "illuminate",
+    "pos": "動詞",
+    "meaning": "照らす、解明する",
+    "level": 2,
+    "confusers": [
+      "en-1041",
+      "en-0933"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1411",
+    "word": "immerse",
+    "pos": "動詞",
+    "meaning": "浸す、没頭させる",
+    "level": 2,
+    "confusers": [
+      "en-0710",
+      "en-0914"
+    ],
+    "synonyms": [
+      "en-1491"
+    ]
+  },
+  {
+    "id": "en-1412",
+    "word": "impair",
+    "pos": "動詞",
+    "meaning": "損なう、弱める",
+    "level": 2,
+    "confusers": [
+      "en-0188"
+    ],
+    "synonyms": [
+      "en-1109"
+    ]
+  },
+  {
+    "id": "en-1413",
+    "word": "impede",
+    "pos": "動詞",
+    "meaning": "妨げる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1057",
+      "en-0018"
+    ]
+  },
+  {
+    "id": "en-1414",
+    "word": "imprison",
+    "pos": "動詞",
+    "meaning": "投獄する",
+    "level": 2,
+    "confusers": [
+      "en-0014",
+      "en-0394"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1415",
+    "word": "improvise",
+    "pos": "動詞",
+    "meaning": "即興で行う",
+    "level": 2,
+    "confusers": [
+      "en-0014",
+      "en-1075",
+      "en-0258"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1416",
+    "word": "incline",
+    "pos": "動詞",
+    "meaning": "傾ける、〜したい気にさせる",
+    "level": 2,
+    "confusers": [
+      "en-0011",
+      "en-0136"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1417",
+    "word": "indulge",
+    "pos": "動詞",
+    "meaning": "ふける、甘やかす",
+    "level": 2,
+    "confusers": [
+      "en-0237"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1418",
+    "word": "inflict",
+    "pos": "動詞",
+    "meaning": "（打撃・苦痛を）与える",
+    "level": 2,
+    "confusers": [
+      "en-0063",
+      "en-1419"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1419",
+    "word": "inflate",
+    "pos": "動詞",
+    "meaning": "ふくらませる",
+    "level": 2,
+    "confusers": [
+      "en-1418"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1420",
+    "word": "infringe",
+    "pos": "動詞",
+    "meaning": "（権利・法を）侵害する",
+    "level": 2,
+    "confusers": [
+      "en-1418",
+      "en-1061"
+    ],
+    "synonyms": [
+      "en-1114"
+    ]
+  },
+  {
+    "id": "en-1421",
+    "word": "innovate",
+    "pos": "動詞",
+    "meaning": "革新する",
+    "level": 2,
+    "confusers": [
+      "en-1095",
+      "en-0712",
+      "en-0949"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1422",
+    "word": "insure",
+    "pos": "動詞",
+    "meaning": "保険をかける",
+    "level": 2,
+    "confusers": [
+      "en-0919",
+      "en-0871",
+      "en-0935"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1423",
+    "word": "intensify",
+    "pos": "動詞",
+    "meaning": "強める、激化する",
+    "level": 2,
+    "confusers": [
+      "en-0168",
+      "en-1255"
+    ],
+    "synonyms": [
+      "en-0263"
+    ]
+  },
+  {
+    "id": "en-1424",
+    "word": "intercept",
+    "pos": "動詞",
+    "meaning": "途中で奪う、遮る",
+    "level": 2,
+    "confusers": [
+      "en-0940"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1425",
+    "word": "intimidate",
+    "pos": "動詞",
+    "meaning": "脅す、怖がらせる",
+    "level": 2,
+    "confusers": [
+      "en-0222"
+    ],
+    "synonyms": [
+      "en-0215",
+      "en-0929"
+    ]
+  },
+  {
+    "id": "en-1426",
+    "word": "intrude",
+    "pos": "動詞",
+    "meaning": "侵入する、押し入る",
+    "level": 2,
+    "confusers": [
+      "en-0136"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1427",
+    "word": "invade",
+    "pos": "動詞",
+    "meaning": "侵略する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1428",
+    "word": "irritate",
+    "pos": "動詞",
+    "meaning": "いらいらさせる",
+    "level": 2,
+    "confusers": [
+      "en-0172"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1429",
+    "word": "lean",
+    "pos": "動詞",
+    "meaning": "寄りかかる、傾く",
+    "level": 2,
+    "confusers": [
+      "en-0220"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1430",
+    "word": "liberate",
+    "pos": "動詞",
+    "meaning": "解放する",
+    "level": 2,
+    "confusers": [
+      "en-0651",
+      "en-0723"
+    ],
+    "synonyms": [
+      "en-0201",
+      "en-1359"
+    ]
+  },
+  {
+    "id": "en-1431",
+    "word": "linger",
+    "pos": "動詞",
+    "meaning": "ぐずぐずする、長引く",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1432",
+    "word": "loom",
+    "pos": "動詞",
+    "meaning": "ぼんやり現れる、迫る",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0914"
+    ]
+  },
+  {
+    "id": "en-1433",
+    "word": "magnify",
+    "pos": "動詞",
+    "meaning": "拡大する",
+    "level": 2,
+    "confusers": [
+      "en-1490",
+      "en-0948"
+    ],
+    "synonyms": [
+      "en-1377",
+      "en-0246"
+    ]
+  },
+  {
+    "id": "en-1434",
+    "word": "memorize",
+    "pos": "動詞",
+    "meaning": "暗記する",
+    "level": 2,
+    "confusers": [
+      "en-0427",
+      "en-1068",
+      "en-0982"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1435",
+    "word": "mimic",
+    "pos": "動詞",
+    "meaning": "まねる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0172"
+    ]
+  },
+  {
+    "id": "en-1436",
+    "word": "mislead",
+    "pos": "動詞",
+    "meaning": "誤解させる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1437",
+    "word": "mock",
+    "pos": "動詞",
+    "meaning": "あざける",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1438",
+    "word": "mold",
+    "pos": "動詞",
+    "meaning": "形作る",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1439"
+    ]
+  },
+  {
+    "id": "en-1439",
+    "word": "shape",
+    "pos": "動詞",
+    "meaning": "形作る",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1438"
+    ]
+  },
+  {
+    "id": "en-1440",
+    "word": "mount",
+    "pos": "動詞",
+    "meaning": "上がる、増える、取り付ける",
+    "level": 2,
+    "confusers": [
+      "en-0291"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1441",
+    "word": "mourn",
+    "pos": "動詞",
+    "meaning": "（死を）悼む",
+    "level": 2,
+    "confusers": [
+      "en-1440"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1442",
+    "word": "multiply",
+    "pos": "動詞",
+    "meaning": "増やす、掛け算する",
+    "level": 2,
+    "confusers": [
+      "en-0105",
+      "en-0107"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1443",
+    "word": "navigate",
+    "pos": "動詞",
+    "meaning": "航行する、操縦する",
+    "level": 2,
+    "confusers": [
+      "en-0950",
+      "en-1304"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1444",
+    "word": "nominate",
+    "pos": "動詞",
+    "meaning": "指名する、推薦する",
+    "level": 2,
+    "confusers": [
+      "en-0912",
+      "en-1264",
+      "en-1041"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1445",
+    "word": "nourish",
+    "pos": "動詞",
+    "meaning": "栄養を与える、育む",
+    "level": 2,
+    "confusers": [
+      "en-1397",
+      "en-0191"
+    ],
+    "synonyms": [
+      "en-1071"
+    ]
+  },
+  {
+    "id": "en-1446",
+    "word": "obstruct",
+    "pos": "動詞",
+    "meaning": "妨害する、ふさぐ",
+    "level": 2,
+    "confusers": [
+      "en-0602"
+    ],
+    "synonyms": [
+      "en-1057"
+    ]
+  },
+  {
+    "id": "en-1447",
+    "word": "offset",
+    "pos": "動詞",
+    "meaning": "相殺する、埋め合わせる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1018"
+    ]
+  },
+  {
+    "id": "en-1448",
+    "word": "originate",
+    "pos": "動詞",
+    "meaning": "始まる、生じる",
+    "level": 2,
+    "confusers": [
+      "en-0750",
+      "en-1444"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1449",
+    "word": "overhaul",
+    "pos": "動詞",
+    "meaning": "総点検する",
+    "level": 2,
+    "confusers": [
+      "en-1269"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1450",
+    "word": "overtake",
+    "pos": "動詞",
+    "meaning": "追い越す",
+    "level": 2,
+    "confusers": [
+      "en-1110",
+      "en-1176",
+      "en-0952"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1451",
+    "word": "overturn",
+    "pos": "動詞",
+    "meaning": "ひっくり返す",
+    "level": 2,
+    "confusers": [
+      "en-1197"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1452",
+    "word": "overwhelm",
+    "pos": "動詞",
+    "meaning": "圧倒する",
+    "level": 2,
+    "confusers": [
+      "en-0952",
+      "en-1449"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1453",
+    "word": "penetrate",
+    "pos": "動詞",
+    "meaning": "貫く、浸透する",
+    "level": 2,
+    "confusers": [
+      "en-1056"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1454",
+    "word": "persevere",
+    "pos": "動詞",
+    "meaning": "辛抱する、根気よく続ける",
+    "level": 2,
+    "confusers": [
+      "en-0189",
+      "en-0783"
+    ],
+    "synonyms": [
+      "en-1077",
+      "en-0134"
+    ]
+  },
+  {
+    "id": "en-1455",
+    "word": "plunge",
+    "pos": "動詞",
+    "meaning": "突っ込む、急落する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1456",
+    "word": "ponder",
+    "pos": "動詞",
+    "meaning": "じっくり考える",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1029"
+    ]
+  },
+  {
+    "id": "en-1457",
+    "word": "preside",
+    "pos": "動詞",
+    "meaning": "議長を務める",
+    "level": 2,
+    "confusers": [
+      "en-1367",
+      "en-0017",
+      "en-0140"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1458",
+    "word": "proclaim",
+    "pos": "動詞",
+    "meaning": "宣言する",
+    "level": 2,
+    "confusers": [
+      "en-1387",
+      "en-1301",
+      "en-1466"
+    ],
+    "synonyms": [
+      "en-0897"
+    ]
+  },
+  {
+    "id": "en-1459",
+    "word": "prosecute",
+    "pos": "動詞",
+    "meaning": "起訴する",
+    "level": 2,
+    "confusers": [
+      "en-1388"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1460",
+    "word": "purify",
+    "pos": "動詞",
+    "meaning": "浄化する",
+    "level": 2,
+    "confusers": [
+      "en-1113",
+      "en-0883"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1461",
+    "word": "radiate",
+    "pos": "動詞",
+    "meaning": "放射する",
+    "level": 2,
+    "confusers": [
+      "en-1275",
+      "en-1065"
+    ],
+    "synonyms": [
+      "en-0267"
+    ]
+  },
+  {
+    "id": "en-1462",
+    "word": "reap",
+    "pos": "動詞",
+    "meaning": "収穫する、（成果を）得る",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1406"
+    ]
+  },
+  {
+    "id": "en-1463",
+    "word": "rebel",
+    "pos": "動詞",
+    "meaning": "反抗する",
+    "level": 2,
+    "confusers": [
+      "en-1475"
+    ],
+    "synonyms": [
+      "en-1482"
+    ]
+  },
+  {
+    "id": "en-1464",
+    "word": "recede",
+    "pos": "動詞",
+    "meaning": "後退する、遠ざかる",
+    "level": 2,
+    "confusers": [
+      "en-0251",
+      "en-0250"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1465",
+    "word": "reckon",
+    "pos": "動詞",
+    "meaning": "（〜と）思う、みなす",
+    "level": 2,
+    "confusers": [
+      "en-1087"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1466",
+    "word": "reclaim",
+    "pos": "動詞",
+    "meaning": "取り戻す、埋め立てる",
+    "level": 2,
+    "confusers": [
+      "en-1458",
+      "en-1387",
+      "en-0574"
+    ],
+    "synonyms": [
+      "en-1096"
+    ]
+  },
+  {
+    "id": "en-1467",
+    "word": "recruit",
+    "pos": "動詞",
+    "meaning": "採用する、募集する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0917"
+    ]
+  },
+  {
+    "id": "en-1468",
+    "word": "rectify",
+    "pos": "動詞",
+    "meaning": "正す、修正する",
+    "level": 2,
+    "confusers": [
+      "en-0168"
+    ],
+    "synonyms": [
+      "en-0128",
+      "en-0948",
+      "en-1009"
+    ]
+  },
+  {
+    "id": "en-1469",
+    "word": "redeem",
+    "pos": "動詞",
+    "meaning": "取り戻す、償う",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1470",
+    "word": "refrain",
+    "pos": "動詞",
+    "meaning": "差し控える",
+    "level": 2,
+    "confusers": [
+      "en-1480"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1471",
+    "word": "refund",
+    "pos": "動詞",
+    "meaning": "払い戻す",
+    "level": 2,
+    "confusers": [
+      "en-1088",
+      "en-0195"
+    ],
+    "synonyms": [
+      "en-1089"
+    ]
+  },
+  {
+    "id": "en-1472",
+    "word": "refute",
+    "pos": "動詞",
+    "meaning": "論破する、反証する",
+    "level": 2,
+    "confusers": [
+      "en-0195"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1473",
+    "word": "rehearse",
+    "pos": "動詞",
+    "meaning": "リハーサルする、練習する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1474",
+    "word": "reign",
+    "pos": "動詞",
+    "meaning": "君臨する、支配する",
+    "level": 2,
+    "confusers": [
+      "en-0145"
+    ],
+    "synonyms": [
+      "en-0912"
+    ]
+  },
+  {
+    "id": "en-1475",
+    "word": "repel",
+    "pos": "動詞",
+    "meaning": "追い払う、はねつける",
+    "level": 2,
+    "confusers": [
+      "en-1463",
+      "en-1326"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1476",
+    "word": "replicate",
+    "pos": "動詞",
+    "meaning": "複製する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1478"
+    ]
+  },
+  {
+    "id": "en-1477",
+    "word": "reproach",
+    "pos": "動詞",
+    "meaning": "非難する、とがめる",
+    "level": 2,
+    "confusers": [
+      "en-0046",
+      "en-1478"
+    ],
+    "synonyms": [
+      "en-0876",
+      "en-1024"
+    ]
+  },
+  {
+    "id": "en-1478",
+    "word": "reproduce",
+    "pos": "動詞",
+    "meaning": "複製する、繁殖する",
+    "level": 2,
+    "confusers": [
+      "en-0026",
+      "en-0196",
+      "en-0027"
+    ],
+    "synonyms": [
+      "en-1476"
+    ]
+  },
+  {
+    "id": "en-1479",
+    "word": "resent",
+    "pos": "動詞",
+    "meaning": "憤慨する",
+    "level": 2,
+    "confusers": [
+      "en-0209",
+      "en-0588"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1480",
+    "word": "restrain",
+    "pos": "動詞",
+    "meaning": "抑える、制止する",
+    "level": 2,
+    "confusers": [
+      "en-1470",
+      "en-0245"
+    ],
+    "synonyms": [
+      "en-1106"
+    ]
+  },
+  {
+    "id": "en-1481",
+    "word": "retreat",
+    "pos": "動詞",
+    "meaning": "退却する",
+    "level": 2,
+    "confusers": [
+      "en-0216"
+    ],
+    "synonyms": [
+      "en-0992"
+    ]
+  },
+  {
+    "id": "en-1482",
+    "word": "revolt",
+    "pos": "動詞",
+    "meaning": "反乱を起こす",
+    "level": 2,
+    "confusers": [
+      "en-0276"
+    ],
+    "synonyms": [
+      "en-1463"
+    ]
+  },
+  {
+    "id": "en-1483",
+    "word": "rotate",
+    "pos": "動詞",
+    "meaning": "回転する、交代する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1484",
+    "word": "ruin",
+    "pos": "動詞",
+    "meaning": "台無しにする、破滅させる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0151",
+      "en-1494"
+    ]
+  },
+  {
+    "id": "en-1485",
+    "word": "scatter",
+    "pos": "動詞",
+    "meaning": "まき散らす",
+    "level": 2,
+    "confusers": [
+      "en-1488"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1486",
+    "word": "scold",
+    "pos": "動詞",
+    "meaning": "叱る",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1487",
+    "word": "seize",
+    "pos": "動詞",
+    "meaning": "つかむ、押収する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1402"
+    ]
+  },
+  {
+    "id": "en-1488",
+    "word": "shatter",
+    "pos": "動詞",
+    "meaning": "粉々にする",
+    "level": 2,
+    "confusers": [
+      "en-1485"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1489",
+    "word": "shrink",
+    "pos": "動詞",
+    "meaning": "縮む",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1490",
+    "word": "signify",
+    "pos": "動詞",
+    "meaning": "意味する、示す",
+    "level": 2,
+    "confusers": [
+      "en-0978",
+      "en-1098",
+      "en-0785"
+    ],
+    "synonyms": [
+      "en-0173"
+    ]
+  },
+  {
+    "id": "en-1491",
+    "word": "soak",
+    "pos": "動詞",
+    "meaning": "浸す",
+    "level": 2,
+    "confusers": [
+      "en-1492"
+    ],
+    "synonyms": [
+      "en-1411"
+    ]
+  },
+  {
+    "id": "en-1492",
+    "word": "soar",
+    "pos": "動詞",
+    "meaning": "舞い上がる、急騰する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1493",
+    "word": "solicit",
+    "pos": "動詞",
+    "meaning": "求める、懇願する",
+    "level": 2,
+    "confusers": [
+      "en-0787",
+      "en-1240"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1494",
+    "word": "spoil",
+    "pos": "動詞",
+    "meaning": "台無しにする、甘やかす",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1484"
+    ]
+  },
+  {
+    "id": "en-1495",
+    "word": "squeeze",
+    "pos": "動詞",
+    "meaning": "絞る",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1496",
+    "word": "stain",
+    "pos": "動詞",
+    "meaning": "汚す、しみをつける",
+    "level": 2,
+    "confusers": [
+      "en-1107"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1497",
+    "word": "steer",
+    "pos": "動詞",
+    "meaning": "操縦する、導く",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1498",
+    "word": "strive",
+    "pos": "動詞",
+    "meaning": "努力する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1374"
+    ]
+  },
+  {
+    "id": "en-1499",
+    "word": "stumble",
+    "pos": "動詞",
+    "meaning": "つまずく",
+    "level": 2,
+    "confusers": [
+      "en-0702"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1500",
+    "word": "subside",
+    "pos": "動詞",
+    "meaning": "（嵐・痛みなどが）おさまる",
+    "level": 2,
+    "confusers": [
+      "en-1193",
+      "en-1367",
+      "en-0140"
+    ],
+    "synonyms": []
+  }
+]

@@ -56,7 +56,9 @@
       "en-1103",
       "en-1104"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1388"
+    ]
   },
   {
     "id": "en-1106",
@@ -70,7 +72,8 @@
       "en-0164"
     ],
     "synonyms": [
-      "en-1062"
+      "en-1062",
+      "en-1480"
     ]
   },
   {
@@ -108,7 +111,9 @@
       "en-1111",
       "en-0141"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1412"
+    ]
   },
   {
     "id": "en-1110",
@@ -165,7 +170,9 @@
     "confusers": [
       "en-0943"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1420"
+    ]
   },
   {
     "id": "en-1115",
@@ -174,7 +181,9 @@
     "meaning": "放棄する、免除する",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1389"
+    ]
   },
   {
     "id": "en-1116",

@@ -77,7 +77,9 @@
     "meaning": "区別する",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1360"
+    ]
   },
   {
     "id": "en-0908",
@@ -141,7 +143,9 @@
     "confusers": [
       "en-0911"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1474"
+    ]
   },
   {
     "id": "en-0913",
@@ -163,7 +167,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0109"
+      "en-0109",
+      "en-1432"
     ]
   },
   {
@@ -200,7 +205,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0916"
+      "en-0916",
+      "en-1467"
     ]
   },
   {
@@ -335,7 +341,9 @@
     "meaning": "怖がらせる",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1425"
+    ]
   },
   {
     "id": "en-0930",
@@ -535,7 +543,8 @@
     ],
     "synonyms": [
       "en-0258",
-      "en-1009"
+      "en-1009",
+      "en-1468"
     ]
   },
   {
@@ -558,7 +567,9 @@
     "confusers": [
       "en-0170"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1311"
+    ]
   },
   {
     "id": "en-0951",
@@ -582,7 +593,9 @@
       "en-0396",
       "en-0953"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1333"
+    ]
   },
   {
     "id": "en-0953",
@@ -868,7 +881,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0193"
+      "en-0193",
+      "en-1408"
     ]
   },
   {
@@ -1049,7 +1063,9 @@
     "meaning": "引き出す、撤回する",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1481"
+    ]
   },
   {
     "id": "en-0993",
@@ -1082,7 +1098,9 @@
     "meaning": "捨てる、断念する",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1358"
+    ]
   },
   {
     "id": "en-0996",
@@ -1116,7 +1134,8 @@
       "en-0298"
     ],
     "synonyms": [
-      "en-0103"
+      "en-0103",
+      "en-1329"
     ]
   },
   {
