@@ -53,7 +53,10 @@
     "meaning": "熱意",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2423",
+      "en-2497"
+    ]
   },
   {
     "id": "en-1706",
@@ -457,7 +460,10 @@
       "en-1722",
       "en-1247"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2414",
+      "en-2415"
+    ]
   },
   {
     "id": "en-1742",
@@ -549,7 +555,9 @@
     "confusers": [
       "en-0307"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2452"
+    ]
   },
   {
     "id": "en-1751",
@@ -699,7 +707,9 @@
     "confusers": [
       "en-0936"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2404"
+    ]
   },
   {
     "id": "en-1764",

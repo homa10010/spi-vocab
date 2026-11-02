@@ -778,7 +778,9 @@
     "confusers": [
       "en-0039"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2472"
+    ]
   },
   {
     "id": "en-1668",
@@ -791,7 +793,8 @@
       "en-0337"
     ],
     "synonyms": [
-      "en-1669"
+      "en-1669",
+      "en-2455"
     ]
   },
   {
@@ -846,7 +849,10 @@
     "confusers": [
       "en-0594"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2462",
+      "en-2463"
+    ]
   },
   {
     "id": "en-1674",
@@ -1003,7 +1009,9 @@
     "confusers": [
       "en-1688"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2456"
+    ]
   },
   {
     "id": "en-1688",

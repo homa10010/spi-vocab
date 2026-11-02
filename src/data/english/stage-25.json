@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "en-2401",
+    "word": "aberration",
+    "pos": "名詞",
+    "meaning": "常軌を逸すること、異常",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2402"
+    ]
+  },
+  {
+    "id": "en-2402",
+    "word": "anomaly",
+    "pos": "名詞",
+    "meaning": "異常",
+    "level": 3,
+    "confusers": [
+      "en-0363"
+    ],
+    "synonyms": [
+      "en-2401"
+    ]
+  },
+  {
+    "id": "en-2403",
+    "word": "accolade",
+    "pos": "名詞",
+    "meaning": "称賛、栄誉",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1302"
+    ]
+  },
+  {
+    "id": "en-2404",
+    "word": "acumen",
+    "pos": "名詞",
+    "meaning": "鋭い洞察力、手腕",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1763"
+    ]
+  },
+  {
+    "id": "en-2405",
+    "word": "adage",
+    "pos": "名詞",
+    "meaning": "格言、ことわざ",
+    "level": 3,
+    "confusers": [
+      "en-0391",
+      "en-0292"
+    ],
+    "synonyms": [
+      "en-2406"
+    ]
+  },
+  {
+    "id": "en-2406",
+    "word": "proverb",
+    "pos": "名詞",
+    "meaning": "ことわざ",
+    "level": 3,
+    "confusers": [
+      "en-0017",
+      "en-2088"
+    ],
+    "synonyms": [
+      "en-2405"
+    ]
+  },
+  {
+    "id": "en-2407",
+    "word": "advent",
+    "pos": "名詞",
+    "meaning": "到来、出現",
+    "level": 3,
+    "confusers": [
+      "en-0371"
+    ],
+    "synonyms": [
+      "en-2408"
+    ]
+  },
+  {
+    "id": "en-2408",
+    "word": "emergence",
+    "pos": "名詞",
+    "meaning": "出現",
+    "level": 3,
+    "confusers": [
+      "en-1703",
+      "en-0914",
+      "en-2477"
+    ],
+    "synonyms": [
+      "en-0306",
+      "en-2407"
+    ]
+  },
+  {
+    "id": "en-2409",
+    "word": "affinity",
+    "pos": "名詞",
+    "meaning": "親近感、類似性",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2410",
+    "word": "allegiance",
+    "pos": "名詞",
+    "meaning": "忠誠",
+    "level": 3,
+    "confusers": [
+      "en-1618",
+      "en-1121"
+    ],
+    "synonyms": [
+      "en-2411"
+    ]
+  },
+  {
+    "id": "en-2411",
+    "word": "loyalty",
+    "pos": "名詞",
+    "meaning": "忠誠（心）",
+    "level": 3,
+    "confusers": [
+      "en-0725",
+      "en-0449"
+    ],
+    "synonyms": [
+      "en-2410"
+    ]
+  },
+  {
+    "id": "en-2412",
+    "word": "altruism",
+    "pos": "名詞",
+    "meaning": "利他主義",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2413",
+    "word": "amenity",
+    "pos": "名詞",
+    "meaning": "快適さ、生活を快適にする設備",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0376"
+    ]
+  },
+  {
+    "id": "en-2414",
+    "word": "animosity",
+    "pos": "名詞",
+    "meaning": "敵意、憎しみ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1741"
+    ]
+  },
+  {
+    "id": "en-2415",
+    "word": "antagonism",
+    "pos": "名詞",
+    "meaning": "敵対、反感",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1741"
+    ]
+  },
+  {
+    "id": "en-2416",
+    "word": "apathy",
+    "pos": "名詞",
+    "meaning": "無関心",
+    "level": 3,
+    "confusers": [
+      "en-1657",
+      "en-1656"
+    ],
+    "synonyms": [
+      "en-2417"
+    ]
+  },
+  {
+    "id": "en-2417",
+    "word": "indifference",
+    "pos": "名詞",
+    "meaning": "無関心",
+    "level": 3,
+    "confusers": [
+      "en-0356",
+      "en-0657"
+    ],
+    "synonyms": [
+      "en-2416"
+    ]
+  },
+  {
+    "id": "en-2418",
+    "word": "apex",
+    "pos": "名詞",
+    "meaning": "頂点",
+    "level": 3,
+    "confusers": [
+      "en-2359"
+    ],
+    "synonyms": [
+      "en-2419",
+      "en-2458"
+    ]
+  },
+  {
+    "id": "en-2419",
+    "word": "peak",
+    "pos": "名詞",
+    "meaning": "頂点、最高点",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2418"
+    ]
+  },
+  {
+    "id": "en-2420",
+    "word": "apprehension",
+    "pos": "名詞",
+    "meaning": "不安、懸念、理解",
+    "level": 3,
+    "confusers": [
+      "en-1660",
+      "en-2209"
+    ],
+    "synonyms": [
+      "en-0305"
+    ]
+  },
+  {
+    "id": "en-2421",
+    "word": "arbitration",
+    "pos": "名詞",
+    "meaning": "仲裁",
+    "level": 3,
+    "confusers": [
+      "en-1207"
+    ],
+    "synonyms": [
+      "en-2422"
+    ]
+  },
+  {
+    "id": "en-2422",
+    "word": "mediation",
+    "pos": "名詞",
+    "meaning": "調停、仲裁",
+    "level": 3,
+    "confusers": [
+      "en-1065"
+    ],
+    "synonyms": [
+      "en-2421"
+    ]
+  },
+  {
+    "id": "en-2423",
+    "word": "ardor",
+    "pos": "名詞",
+    "meaning": "熱情",
+    "level": 3,
+    "confusers": [
+      "en-0442"
+    ],
+    "synonyms": [
+      "en-1705",
+      "en-2424",
+      "en-2497"
+    ]
+  },
+  {
+    "id": "en-2424",
+    "word": "passion",
+    "pos": "名詞",
+    "meaning": "情熱",
+    "level": 3,
+    "confusers": [
+      "en-0606"
+    ],
+    "synonyms": [
+      "en-2423",
+      "en-2497"
+    ]
+  },
+  {
+    "id": "en-2425",
+    "word": "attrition",
+    "pos": "名詞",
+    "meaning": "消耗、（人員の）自然減",
+    "level": 3,
+    "confusers": [
+      "en-1801",
+      "en-0313"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2426",
+    "word": "audacity",
+    "pos": "名詞",
+    "meaning": "大胆さ、厚かましさ",
+    "level": 3,
+    "confusers": [
+      "en-0320"
+    ],
+    "synonyms": [
+      "en-2427"
+    ]
+  },
+  {
+    "id": "en-2427",
+    "word": "boldness",
+    "pos": "名詞",
+    "meaning": "大胆さ",
+    "level": 3,
+    "confusers": [
+      "en-1930"
+    ],
+    "synonyms": [
+      "en-2426"
+    ]
+  },
+  {
+    "id": "en-2428",
+    "word": "austerity",
+    "pos": "名詞",
+    "meaning": "緊縮、質素",
+    "level": 3,
+    "confusers": [
+      "en-1837"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2429",
+    "word": "aversion",
+    "pos": "名詞",
+    "meaning": "嫌悪",
+    "level": 3,
+    "confusers": [
+      "en-0524"
+    ],
+    "synonyms": [
+      "en-2430"
+    ]
+  },
+  {
+    "id": "en-2430",
+    "word": "dislike",
+    "pos": "名詞",
+    "meaning": "嫌悪、嫌い",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2429"
+    ]
+  },
+  {
+    "id": "en-2431",
+    "word": "avarice",
+    "pos": "名詞",
+    "meaning": "強欲",
+    "level": 3,
+    "confusers": [
+      "en-0292"
+    ],
+    "synonyms": [
+      "en-2432"
+    ]
+  },
+  {
+    "id": "en-2432",
+    "word": "greed",
+    "pos": "名詞",
+    "meaning": "貪欲",
+    "level": 3,
+    "confusers": [
+      "en-1316",
+      "en-0931"
+    ],
+    "synonyms": [
+      "en-2431"
+    ]
+  },
+  {
+    "id": "en-2433",
+    "word": "banter",
+    "pos": "名詞",
+    "meaning": "からかい、冗談",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2434",
+    "word": "benevolence",
+    "pos": "名詞",
+    "meaning": "善意",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2435"
+    ]
+  },
+  {
+    "id": "en-2435",
+    "word": "kindness",
+    "pos": "名詞",
+    "meaning": "親切",
+    "level": 3,
+    "confusers": [
+      "en-2190"
+    ],
+    "synonyms": [
+      "en-2434"
+    ]
+  },
+  {
+    "id": "en-2436",
+    "word": "blight",
+    "pos": "名詞",
+    "meaning": "害、荒廃させるもの",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2437",
+    "word": "bravado",
+    "pos": "名詞",
+    "meaning": "虚勢",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2438",
+    "word": "brevity",
+    "pos": "名詞",
+    "meaning": "簡潔さ、短さ",
+    "level": 3,
+    "confusers": [
+      "en-0625"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2439",
+    "word": "camaraderie",
+    "pos": "名詞",
+    "meaning": "友情、仲間意識",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2440"
+    ]
+  },
+  {
+    "id": "en-2440",
+    "word": "fellowship",
+    "pos": "名詞",
+    "meaning": "仲間意識、奨学金",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2439"
+    ]
+  },
+  {
+    "id": "en-2441",
+    "word": "candor",
+    "pos": "名詞",
+    "meaning": "率直さ",
+    "level": 3,
+    "confusers": [
+      "en-1932"
+    ],
+    "synonyms": [
+      "en-2442"
+    ]
+  },
+  {
+    "id": "en-2442",
+    "word": "frankness",
+    "pos": "名詞",
+    "meaning": "率直さ",
+    "level": 3,
+    "confusers": [
+      "en-1933"
+    ],
+    "synonyms": [
+      "en-2441"
+    ]
+  },
+  {
+    "id": "en-2443",
+    "word": "caveat",
+    "pos": "名詞",
+    "meaning": "警告、注意書き",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2444"
+    ]
+  },
+  {
+    "id": "en-2444",
+    "word": "warning",
+    "pos": "名詞",
+    "meaning": "警告",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2443"
+    ]
+  },
+  {
+    "id": "en-2445",
+    "word": "chagrin",
+    "pos": "名詞",
+    "meaning": "無念さ、悔しさ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2446"
+    ]
+  },
+  {
+    "id": "en-2446",
+    "word": "disappointment",
+    "pos": "名詞",
+    "meaning": "失望",
+    "level": 3,
+    "confusers": [
+      "en-0308",
+      "en-0904"
+    ],
+    "synonyms": [
+      "en-2445"
+    ]
+  },
+  {
+    "id": "en-2447",
+    "word": "clemency",
+    "pos": "名詞",
+    "meaning": "寛大な処置、慈悲",
+    "level": 3,
+    "confusers": [
+      "en-1703",
+      "en-0595"
+    ],
+    "synonyms": [
+      "en-2448"
+    ]
+  },
+  {
+    "id": "en-2448",
+    "word": "mercy",
+    "pos": "名詞",
+    "meaning": "慈悲",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2447"
+    ]
+  },
+  {
+    "id": "en-2449",
+    "word": "complacency",
+    "pos": "名詞",
+    "meaning": "自己満足",
+    "level": 3,
+    "confusers": [
+      "en-1937",
+      "en-1138"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2450",
+    "word": "conjecture",
+    "pos": "名詞",
+    "meaning": "推測",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2451"
+    ]
+  },
+  {
+    "id": "en-2451",
+    "word": "speculation",
+    "pos": "名詞",
+    "meaning": "推測、投機",
+    "level": 3,
+    "confusers": [
+      "en-1189",
+      "en-1650"
+    ],
+    "synonyms": [
+      "en-2450"
+    ]
+  },
+  {
+    "id": "en-2452",
+    "word": "connotation",
+    "pos": "名詞",
+    "meaning": "言外の意味、含み",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1750"
+    ]
+  },
+  {
+    "id": "en-2453",
+    "word": "consternation",
+    "pos": "名詞",
+    "meaning": "驚愕、うろたえ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2454"
+    ]
+  },
+  {
+    "id": "en-2454",
+    "word": "dismay",
+    "pos": "名詞",
+    "meaning": "落胆、うろたえ",
+    "level": 3,
+    "confusers": [
+      "en-0905",
+      "en-1036",
+      "en-0025"
+    ],
+    "synonyms": [
+      "en-2453"
+    ]
+  },
+  {
+    "id": "en-2455",
+    "word": "contention",
+    "pos": "名詞",
+    "meaning": "論争、主張",
+    "level": 3,
+    "confusers": [
+      "en-0404",
+      "en-0313"
+    ],
+    "synonyms": [
+      "en-1668"
+    ]
+  },
+  {
+    "id": "en-2456",
+    "word": "conundrum",
+    "pos": "名詞",
+    "meaning": "難問",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1687"
+    ]
+  },
+  {
+    "id": "en-2457",
+    "word": "credence",
+    "pos": "名詞",
+    "meaning": "信用",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0318"
+    ]
+  },
+  {
+    "id": "en-2458",
+    "word": "culmination",
+    "pos": "名詞",
+    "meaning": "頂点、最高潮",
+    "level": 3,
+    "confusers": [
+      "en-2229"
+    ],
+    "synonyms": [
+      "en-2459",
+      "en-2418"
+    ]
+  },
+  {
+    "id": "en-2459",
+    "word": "climax",
+    "pos": "名詞",
+    "meaning": "最高潮",
+    "level": 3,
+    "confusers": [
+      "en-0327",
+      "en-0202"
+    ],
+    "synonyms": [
+      "en-2458"
+    ]
+  },
+  {
+    "id": "en-2460",
+    "word": "debacle",
+    "pos": "名詞",
+    "meaning": "大失敗、崩壊",
+    "level": 3,
+    "confusers": [
+      "en-0561"
+    ],
+    "synonyms": [
+      "en-2461",
+      "en-0378"
+    ]
+  },
+  {
+    "id": "en-2461",
+    "word": "fiasco",
+    "pos": "名詞",
+    "meaning": "大失敗",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0378",
+      "en-2460"
+    ]
+  },
+  {
+    "id": "en-2462",
+    "word": "decorum",
+    "pos": "名詞",
+    "meaning": "礼儀正しさ",
+    "level": 3,
+    "confusers": [
+      "en-0896"
+    ],
+    "synonyms": [
+      "en-2463",
+      "en-1673"
+    ]
+  },
+  {
+    "id": "en-2463",
+    "word": "propriety",
+    "pos": "名詞",
+    "meaning": "礼儀正しさ、妥当性",
+    "level": 3,
+    "confusers": [
+      "en-0059",
+      "en-0058"
+    ],
+    "synonyms": [
+      "en-1673",
+      "en-2462"
+    ]
+  },
+  {
+    "id": "en-2464",
+    "word": "deference",
+    "pos": "名詞",
+    "meaning": "敬意、服従",
+    "level": 3,
+    "confusers": [
+      "en-0356"
+    ],
+    "synonyms": [
+      "en-0020"
+    ]
+  },
+  {
+    "id": "en-2465",
+    "word": "deluge",
+    "pos": "名詞",
+    "meaning": "大洪水、殺到",
+    "level": 3,
+    "confusers": [
+      "en-2373"
+    ],
+    "synonyms": [
+      "en-2466"
+    ]
+  },
+  {
+    "id": "en-2466",
+    "word": "flood",
+    "pos": "名詞",
+    "meaning": "洪水、殺到",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2465"
+    ]
+  },
+  {
+    "id": "en-2467",
+    "word": "demeanor",
+    "pos": "名詞",
+    "meaning": "態度、振る舞い",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0317",
+      "en-0047"
+    ]
+  },
+  {
+    "id": "en-2468",
+    "word": "deterrent",
+    "pos": "名詞",
+    "meaning": "抑止力、妨げ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2469",
+    "word": "detriment",
+    "pos": "名詞",
+    "meaning": "損害、不利益",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0387",
+      "en-0344"
+    ]
+  },
+  {
+    "id": "en-2470",
+    "word": "diligence",
+    "pos": "名詞",
+    "meaning": "勤勉",
+    "level": 3,
+    "confusers": [
+      "en-2471",
+      "en-0715"
+    ],
+    "synonyms": [
+      "en-0399"
+    ]
+  },
+  {
+    "id": "en-2471",
+    "word": "negligence",
+    "pos": "名詞",
+    "meaning": "怠慢、過失",
+    "level": 3,
+    "confusers": [
+      "en-2470",
+      "en-0716",
+      "en-0170"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2472",
+    "word": "disdain",
+    "pos": "名詞",
+    "meaning": "軽蔑",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1667"
+    ]
+  },
+  {
+    "id": "en-2473",
+    "word": "disparity",
+    "pos": "名詞",
+    "meaning": "（大きな）格差",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2474"
+    ]
+  },
+  {
+    "id": "en-2474",
+    "word": "gap",
+    "pos": "名詞",
+    "meaning": "すき間、隔たり",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2473"
+    ]
+  },
+  {
+    "id": "en-2475",
+    "word": "dissent",
+    "pos": "名詞",
+    "meaning": "異議、反対意見",
+    "level": 3,
+    "confusers": [
+      "en-1681",
+      "en-1945",
+      "en-0588"
+    ],
+    "synonyms": [
+      "en-2476"
+    ]
+  },
+  {
+    "id": "en-2476",
+    "word": "objection",
+    "pos": "名詞",
+    "meaning": "反対、異議",
+    "level": 3,
+    "confusers": [
+      "en-0384"
+    ],
+    "synonyms": [
+      "en-2475"
+    ]
+  },
+  {
+    "id": "en-2477",
+    "word": "divergence",
+    "pos": "名詞",
+    "meaning": "相違、分岐",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2478",
+    "word": "duress",
+    "pos": "名詞",
+    "meaning": "強制、脅迫",
+    "level": 3,
+    "confusers": [
+      "en-1700"
+    ],
+    "synonyms": [
+      "en-2479"
+    ]
+  },
+  {
+    "id": "en-2479",
+    "word": "coercion",
+    "pos": "名詞",
+    "meaning": "強制",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2478"
+    ]
+  },
+  {
+    "id": "en-2480",
+    "word": "edifice",
+    "pos": "名詞",
+    "meaning": "大建築物、体系",
+    "level": 3,
+    "confusers": [
+      "en-0975"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2481",
+    "word": "efficacy",
+    "pos": "名詞",
+    "meaning": "効能、有効性",
+    "level": 3,
+    "confusers": [
+      "en-1155"
+    ],
+    "synonyms": [
+      "en-2482"
+    ]
+  },
+  {
+    "id": "en-2482",
+    "word": "effectiveness",
+    "pos": "名詞",
+    "meaning": "有効性",
+    "level": 3,
+    "confusers": [
+      "en-1155",
+      "en-0060"
+    ],
+    "synonyms": [
+      "en-1908",
+      "en-2481"
+    ]
+  },
+  {
+    "id": "en-2483",
+    "word": "elation",
+    "pos": "名詞",
+    "meaning": "大喜び、高揚",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2484"
+    ]
+  },
+  {
+    "id": "en-2484",
+    "word": "joy",
+    "pos": "名詞",
+    "meaning": "喜び",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2483"
+    ]
+  },
+  {
+    "id": "en-2485",
+    "word": "enigma",
+    "pos": "名詞",
+    "meaning": "謎",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2486"
+    ]
+  },
+  {
+    "id": "en-2486",
+    "word": "mystery",
+    "pos": "名詞",
+    "meaning": "謎",
+    "level": 3,
+    "confusers": [
+      "en-0389"
+    ],
+    "synonyms": [
+      "en-2485"
+    ]
+  },
+  {
+    "id": "en-2487",
+    "word": "epitome",
+    "pos": "名詞",
+    "meaning": "典型、縮図",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2488"
+    ]
+  },
+  {
+    "id": "en-2488",
+    "word": "embodiment",
+    "pos": "名詞",
+    "meaning": "具現、化身",
+    "level": 3,
+    "confusers": [
+      "en-0069"
+    ],
+    "synonyms": [
+      "en-2487"
+    ]
+  },
+  {
+    "id": "en-2489",
+    "word": "equanimity",
+    "pos": "名詞",
+    "meaning": "平静、落ち着き",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2490"
+    ]
+  },
+  {
+    "id": "en-2490",
+    "word": "composure",
+    "pos": "名詞",
+    "meaning": "落ち着き",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2489"
+    ]
+  },
+  {
+    "id": "en-2491",
+    "word": "euphemism",
+    "pos": "名詞",
+    "meaning": "婉曲表現",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2492",
+    "word": "exodus",
+    "pos": "名詞",
+    "meaning": "（大勢の）移動、脱出",
+    "level": 3,
+    "confusers": [
+      "en-1963"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2493",
+    "word": "facade",
+    "pos": "名詞",
+    "meaning": "（建物の）正面、見せかけ",
+    "level": 3,
+    "confusers": [
+      "en-2494",
+      "en-0346"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2494",
+    "word": "facet",
+    "pos": "名詞",
+    "meaning": "（物事の）面、側面",
+    "level": 3,
+    "confusers": [
+      "en-2493"
+    ],
+    "synonyms": [
+      "en-0310"
+    ]
+  },
+  {
+    "id": "en-2495",
+    "word": "fallacy",
+    "pos": "名詞",
+    "meaning": "誤った考え、誤謬",
+    "level": 3,
+    "confusers": [
+      "en-1739"
+    ],
+    "synonyms": [
+      "en-2496"
+    ]
+  },
+  {
+    "id": "en-2496",
+    "word": "misconception",
+    "pos": "名詞",
+    "meaning": "誤解",
+    "level": 3,
+    "confusers": [
+      "en-1661"
+    ],
+    "synonyms": [
+      "en-2495"
+    ]
+  },
+  {
+    "id": "en-2497",
+    "word": "fervor",
+    "pos": "名詞",
+    "meaning": "熱情",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2423",
+      "en-1705",
+      "en-2424"
+    ]
+  },
+  {
+    "id": "en-2498",
+    "word": "finesse",
+    "pos": "名詞",
+    "meaning": "手腕、巧妙さ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0300"
+    ]
+  },
+  {
+    "id": "en-2499",
+    "word": "foresight",
+    "pos": "名詞",
+    "meaning": "先見の明",
+    "level": 3,
+    "confusers": [
+      "en-1763",
+      "en-1053"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2500",
+    "word": "fortitude",
+    "pos": "名詞",
+    "meaning": "不屈の精神",
+    "level": 3,
+    "confusers": [
+      "en-0047"
+    ],
+    "synonyms": [
+      "en-0593"
+    ]
+  }
+]

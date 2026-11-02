@@ -62,7 +62,9 @@
       "en-0294",
       "en-0295"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2420"
+    ]
   },
   {
     "id": "en-0306",
@@ -71,7 +73,9 @@
     "meaning": "外見、出現",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2408"
+    ]
   },
   {
     "id": "en-0307",
@@ -116,7 +120,9 @@
       "en-0020",
       "en-0023"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2494"
+    ]
   },
   {
     "id": "en-0311",
@@ -197,7 +203,8 @@
       "en-0047"
     ],
     "synonyms": [
-      "en-0584"
+      "en-0584",
+      "en-2467"
     ]
   },
   {
@@ -209,7 +216,9 @@
     "confusers": [
       "en-0317"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2457"
+    ]
   },
   {
     "id": "en-0319",
@@ -504,7 +513,9 @@
       "en-0391",
       "en-0292"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2469"
+    ]
   },
   {
     "id": "en-0345",
@@ -846,7 +857,9 @@
     "meaning": "施設、設備",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2413"
+    ]
   },
   {
     "id": "en-0377",
@@ -868,7 +881,10 @@
     "confusers": [
       "en-0379"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2460",
+      "en-2461"
+    ]
   },
   {
     "id": "en-0379",
@@ -968,7 +984,9 @@
     "meaning": "害",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2469"
+    ]
   },
   {
     "id": "en-0388",
@@ -1098,7 +1116,9 @@
     "meaning": "産業、勤勉",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2470"
+    ]
   },
   {
     "id": "en-0400",
