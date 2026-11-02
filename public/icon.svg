@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#2b4a8c"/>
+  <rect x="96" y="112" width="320" height="288" rx="28" fill="#fbfcf9"/>
+  <circle cx="148" cy="164" r="20" fill="#2b4a8c"/>
+  <text x="272" y="338" text-anchor="middle" font-family="'Hiragino Mincho ProN','Noto Serif CJK JP','Noto Serif CJK SC','Noto Serif JP',serif" font-weight="700" font-size="190" fill="#1f2622">語</text>
+</svg>
