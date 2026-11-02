@@ -35,6 +35,8 @@ export type WordProgress = {
   wrong: number;
   lastCorrect: boolean;
   weak: boolean;
+  /** 初めて出題された日（1日の新しい語の数を数えるため） */
+  firstDay?: string;
 };
 export type ProgressMap = Record<string, WordProgress>;
 

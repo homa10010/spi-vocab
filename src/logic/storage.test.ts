@@ -101,3 +101,12 @@ test('isSaveData は進捗の各項目の型まで見る', () => {
   expect(isSaveData(bad)).toBe(false);
   expect(isSaveData(sample())).toBe(true);
 });
+
+test('isSaveData は firstDay の有無どちらも受け付け、型違いは拒否', () => {
+  const ok = sample();
+  ok.progress.jukugo['jk-0001'].firstDay = '2026-11-01';
+  expect(isSaveData(ok)).toBe(true);
+  const bad = sample() as unknown as { progress: { jukugo: Record<string, Record<string, unknown>> } };
+  bad.progress.jukugo['jk-0001'].firstDay = 5;
+  expect(isSaveData(bad)).toBe(false);
+});

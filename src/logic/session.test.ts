@@ -83,3 +83,13 @@ test('dailyCounts は buildDailySession の件数と一致', () => {
   expect(c).toEqual({ review: 12, fresh: 20 });
   expect(buildDailySession('jukugo', ds, progress, settings, TODAY, makeRng(1)).queue).toHaveLength(32);
 });
+
+test('新しい語の数は1日単位：今日すでに出た新しい語の分だけ減る', () => {
+  const progress: ProgressMap = {};
+  for (let n = 1; n <= 15; n++) progress[id('jk', n)] = wp({ firstDay: TODAY, due: '2026-11-11' });
+  expect(dailyCounts('jukugo', ds, progress, settings, TODAY)).toEqual({ review: 0, fresh: 5 });
+  for (let n = 16; n <= 20; n++) progress[id('jk', n)] = wp({ firstDay: TODAY, due: '2026-11-11' });
+  expect(dailyCounts('jukugo', ds, progress, settings, TODAY)).toEqual({ review: 0, fresh: 0 });
+  // 翌日はまた設定数
+  expect(dailyCounts('jukugo', ds, progress, settings, '2026-11-11')).toMatchObject({ fresh: 20 });
+});

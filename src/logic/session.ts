@@ -15,10 +15,12 @@ function pickDaily(ds: Dataset, progress: ProgressMap, settings: Settings, today
     .slice(0, REVIEW_LIMIT)
     .map(({ e }) => e);
   const stage = currentNewStage(stageInfos(ds, progress));
+  const freshToday = ds.entries.filter((e) => progress[e.id]?.firstDay === today).length;
+  const quota = Math.max(0, settings.newPerDay - freshToday);
   const fresh =
     stage === null
       ? []
-      : ds.entries.filter((e) => e.stage === stage && !isSeen(progress[e.id])).slice(0, settings.newPerDay);
+      : ds.entries.filter((e) => e.stage === stage && !isSeen(progress[e.id])).slice(0, quota);
   return { review, fresh };
 }
 

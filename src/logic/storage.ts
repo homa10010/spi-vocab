@@ -21,7 +21,7 @@ const isBool = (x: unknown): x is boolean => typeof x === 'boolean';
 const MODES = ['jukugo', 'english'];
 
 function isProgress(x: unknown): boolean {
-  return isObj(x) && isNum(x.box) && isStr(x.due) && isNum(x.correct) && isNum(x.wrong) && isBool(x.lastCorrect) && isBool(x.weak);
+  return isObj(x) && isNum(x.box) && isStr(x.due) && isNum(x.correct) && isNum(x.wrong) && isBool(x.lastCorrect) && isBool(x.weak) && (x.firstDay === undefined || isStr(x.firstDay));
 }
 
 function isSession(x: unknown): boolean {

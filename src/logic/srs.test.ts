@@ -13,12 +13,12 @@ const p = (o: Partial<WordProgress> = {}): WordProgress => ({
 
 test('未出題で正解 → box1・1日後', () => {
   expect(applyAnswer(undefined, true, '2026-11-02')).toEqual({
-    box: 1, due: '2026-11-03', correct: 1, wrong: 0, lastCorrect: true, weak: false,
+    box: 1, due: '2026-11-03', correct: 1, wrong: 0, lastCorrect: true, weak: false, firstDay: '2026-11-02',
   });
 });
 test('未出題で不正解 → box1・翌日・苦手', () => {
   expect(applyAnswer(undefined, false, '2026-11-02')).toEqual({
-    box: 1, due: '2026-11-03', correct: 0, wrong: 1, lastCorrect: false, weak: true,
+    box: 1, due: '2026-11-03', correct: 0, wrong: 1, lastCorrect: false, weak: true, firstDay: '2026-11-02',
   });
 });
 test('box1で正解 → box2・3日後', () => {
@@ -53,4 +53,9 @@ test('isSeen: box1以上', () => {
   expect(isSeen(undefined)).toBe(false);
   expect(isSeen(p({ box: 0 }))).toBe(false);
   expect(isSeen(p({ box: 1 }))).toBe(true);
+});
+
+test('初めて出た日は2回目以降も変わらない', () => {
+  expect(applyAnswer(p({ firstDay: '2026-10-01' }), true, '2026-11-02').firstDay).toBe('2026-10-01');
+  expect(applyAnswer(p({ firstDay: '2026-10-01' }), false, '2026-11-02').firstDay).toBe('2026-10-01');
 });
