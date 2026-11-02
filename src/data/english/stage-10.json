@@ -392,7 +392,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0125"
+      "en-0125",
+      "en-3000"
     ]
   },
   {
@@ -693,7 +694,9 @@
     "confusers": [
       "en-0019"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2949"
+    ]
   },
   {
     "id": "en-0959",

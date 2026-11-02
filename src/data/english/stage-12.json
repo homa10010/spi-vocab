@@ -254,7 +254,9 @@
     "meaning": "手当、許容",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2975"
+    ]
   },
   {
     "id": "en-1122",
@@ -950,7 +952,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-1680"
+      "en-1680",
+      "en-2971"
     ]
   },
   {

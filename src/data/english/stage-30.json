@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "en-2901",
+    "word": "conduit",
+    "pos": "名詞",
+    "meaning": "導管、経路",
+    "level": 3,
+    "confusers": [
+      "en-0584"
+    ],
+    "synonyms": [
+      "en-2902"
+    ]
+  },
+  {
+    "id": "en-2902",
+    "word": "channel",
+    "pos": "名詞",
+    "meaning": "経路、手段、チャンネル",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2901"
+    ]
+  },
+  {
+    "id": "en-2903",
+    "word": "constituent",
+    "pos": "名詞",
+    "meaning": "構成要素、有権者",
+    "level": 3,
+    "confusers": [
+      "en-1028",
+      "en-0642"
+    ],
+    "synonyms": [
+      "en-0581"
+    ]
+  },
+  {
+    "id": "en-2904",
+    "word": "contraband",
+    "pos": "名詞",
+    "meaning": "密輸品",
+    "level": 3,
+    "confusers": [
+      "en-0589",
+      "en-0064"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2905",
+    "word": "covenant",
+    "pos": "名詞",
+    "meaning": "契約、誓約",
+    "level": 3,
+    "confusers": [
+      "en-0644"
+    ],
+    "synonyms": [
+      "en-1824"
+    ]
+  },
+  {
+    "id": "en-2906",
+    "word": "crux",
+    "pos": "名詞",
+    "meaning": "核心、要点",
+    "level": 3,
+    "confusers": [
+      "en-1342",
+      "en-0646"
+    ],
+    "synonyms": [
+      "en-2503"
+    ]
+  },
+  {
+    "id": "en-2907",
+    "word": "demise",
+    "pos": "名詞",
+    "meaning": "消滅、死去",
+    "level": 3,
+    "confusers": [
+      "en-2562",
+      "en-1036"
+    ],
+    "synonyms": [
+      "en-2908"
+    ]
+  },
+  {
+    "id": "en-2908",
+    "word": "downfall",
+    "pos": "名詞",
+    "meaning": "没落、破滅",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2907"
+    ]
+  },
+  {
+    "id": "en-2909",
+    "word": "discourse",
+    "pos": "名詞",
+    "meaning": "談話、論説",
+    "level": 3,
+    "confusers": [
+      "en-0535",
+      "en-2570"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2910",
+    "word": "dogma",
+    "pos": "名詞",
+    "meaning": "教義、独断的な主張",
+    "level": 3,
+    "confusers": [
+      "en-2590",
+      "en-2485",
+      "en-2674"
+    ],
+    "synonyms": [
+      "en-1696"
+    ]
+  },
+  {
+    "id": "en-2911",
+    "word": "echelon",
+    "pos": "名詞",
+    "meaning": "（組織の）階層",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1740"
+    ]
+  },
+  {
+    "id": "en-2912",
+    "word": "emblem",
+    "pos": "名詞",
+    "meaning": "象徴、紋章",
+    "level": 3,
+    "confusers": [
+      "en-0281"
+    ],
+    "synonyms": [
+      "en-0507"
+    ]
+  },
+  {
+    "id": "en-2913",
+    "word": "epoch",
+    "pos": "名詞",
+    "meaning": "（画期的な）時代",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2914"
+    ]
+  },
+  {
+    "id": "en-2914",
+    "word": "era",
+    "pos": "名詞",
+    "meaning": "時代",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2913"
+    ]
+  },
+  {
+    "id": "en-2915",
+    "word": "ethos",
+    "pos": "名詞",
+    "meaning": "気風、精神",
+    "level": 3,
+    "confusers": [
+      "en-1710",
+      "en-2551"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2916",
+    "word": "feat",
+    "pos": "名詞",
+    "meaning": "偉業",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0536"
+    ]
+  },
+  {
+    "id": "en-2917",
+    "word": "flair",
+    "pos": "名詞",
+    "meaning": "才能、センス",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2918"
+    ]
+  },
+  {
+    "id": "en-2918",
+    "word": "talent",
+    "pos": "名詞",
+    "meaning": "才能",
+    "level": 3,
+    "confusers": [
+      "en-2005"
+    ],
+    "synonyms": [
+      "en-2917"
+    ]
+  },
+  {
+    "id": "en-2919",
+    "word": "forte",
+    "pos": "名詞",
+    "meaning": "長所、得意なこと",
+    "level": 3,
+    "confusers": [
+      "en-1327"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2920",
+    "word": "fraud",
+    "pos": "名詞",
+    "meaning": "詐欺",
+    "level": 3,
+    "confusers": [
+      "en-2869"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2921",
+    "word": "grandeur",
+    "pos": "名詞",
+    "meaning": "壮大さ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2922"
+    ]
+  },
+  {
+    "id": "en-2922",
+    "word": "splendor",
+    "pos": "名詞",
+    "meaning": "壮麗さ",
+    "level": 3,
+    "confusers": [
+      "en-2013",
+      "en-2075"
+    ],
+    "synonyms": [
+      "en-2921"
+    ]
+  },
+  {
+    "id": "en-2923",
+    "word": "hallmark",
+    "pos": "名詞",
+    "meaning": "特徴、品質証明",
+    "level": 3,
+    "confusers": [
+      "en-1775"
+    ],
+    "synonyms": [
+      "en-1898"
+    ]
+  },
+  {
+    "id": "en-2924",
+    "word": "hiatus",
+    "pos": "名詞",
+    "meaning": "中断、休止",
+    "level": 3,
+    "confusers": [
+      "en-0498"
+    ],
+    "synonyms": [
+      "en-2925"
+    ]
+  },
+  {
+    "id": "en-2925",
+    "word": "pause",
+    "pos": "名詞",
+    "meaning": "一時停止、休止",
+    "level": 3,
+    "confusers": [
+      "en-0278"
+    ],
+    "synonyms": [
+      "en-2924"
+    ]
+  },
+  {
+    "id": "en-2926",
+    "word": "hindsight",
+    "pos": "名詞",
+    "meaning": "後知恵",
+    "level": 3,
+    "confusers": [
+      "en-1763",
+      "en-2499"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2927",
+    "word": "hypocrisy",
+    "pos": "名詞",
+    "meaning": "偽善",
+    "level": 3,
+    "confusers": [
+      "en-0598"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2928",
+    "word": "impunity",
+    "pos": "名詞",
+    "meaning": "罰を受けないこと",
+    "level": 3,
+    "confusers": [
+      "en-1749",
+      "en-0296"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2929",
+    "word": "incumbent",
+    "pos": "名詞",
+    "meaning": "現職者",
+    "level": 3,
+    "confusers": [
+      "en-2998"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2930",
+    "word": "inkling",
+    "pos": "名詞",
+    "meaning": "うすうす感づくこと",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2931"
+    ]
+  },
+  {
+    "id": "en-2931",
+    "word": "hint",
+    "pos": "名詞",
+    "meaning": "ヒント、ほのめかし",
+    "level": 3,
+    "confusers": [
+      "en-1408"
+    ],
+    "synonyms": [
+      "en-2930"
+    ]
+  },
+  {
+    "id": "en-2932",
+    "word": "jargon",
+    "pos": "名詞",
+    "meaning": "専門用語、隠語",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2933"
+    ]
+  },
+  {
+    "id": "en-2933",
+    "word": "terminology",
+    "pos": "名詞",
+    "meaning": "専門用語",
+    "level": 3,
+    "confusers": [
+      "en-0512",
+      "en-2094"
+    ],
+    "synonyms": [
+      "en-2932"
+    ]
+  },
+  {
+    "id": "en-2934",
+    "word": "leeway",
+    "pos": "名詞",
+    "meaning": "（行動の）余地、自由",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2935"
+    ]
+  },
+  {
+    "id": "en-2935",
+    "word": "latitude",
+    "pos": "名詞",
+    "meaning": "緯度、（行動の）自由",
+    "level": 3,
+    "confusers": [
+      "en-0047"
+    ],
+    "synonyms": [
+      "en-2934"
+    ]
+  },
+  {
+    "id": "en-2936",
+    "word": "lineage",
+    "pos": "名詞",
+    "meaning": "血統、家系",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2937"
+    ]
+  },
+  {
+    "id": "en-2937",
+    "word": "ancestry",
+    "pos": "名詞",
+    "meaning": "家系",
+    "level": 3,
+    "confusers": [
+      "en-0545",
+      "en-1794"
+    ],
+    "synonyms": [
+      "en-2936"
+    ]
+  },
+  {
+    "id": "en-2938",
+    "word": "magnate",
+    "pos": "名詞",
+    "meaning": "大物実業家",
+    "level": 3,
+    "confusers": [
+      "en-1786",
+      "en-2012"
+    ],
+    "synonyms": [
+      "en-2939"
+    ]
+  },
+  {
+    "id": "en-2939",
+    "word": "tycoon",
+    "pos": "名詞",
+    "meaning": "大物実業家",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2938"
+    ]
+  },
+  {
+    "id": "en-2940",
+    "word": "malaise",
+    "pos": "名詞",
+    "meaning": "不調、沈滞",
+    "level": 3,
+    "confusers": [
+      "en-2533"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2941",
+    "word": "manifesto",
+    "pos": "名詞",
+    "meaning": "（政策の）宣言書",
+    "level": 3,
+    "confusers": [
+      "en-2015"
+    ],
+    "synonyms": [
+      "en-2942"
+    ]
+  },
+  {
+    "id": "en-2942",
+    "word": "declaration",
+    "pos": "名詞",
+    "meaning": "宣言",
+    "level": 3,
+    "confusers": [
+      "en-0011"
+    ],
+    "synonyms": [
+      "en-2941"
+    ]
+  },
+  {
+    "id": "en-2943",
+    "word": "mayhem",
+    "pos": "名詞",
+    "meaning": "大混乱",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1649",
+      "en-1904",
+      "en-0585"
+    ]
+  },
+  {
+    "id": "en-2944",
+    "word": "milestone",
+    "pos": "名詞",
+    "meaning": "画期的な出来事、節目",
+    "level": 3,
+    "confusers": [
+      "en-1775"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2945",
+    "word": "misnomer",
+    "pos": "名詞",
+    "meaning": "不適切な名称",
+    "level": 3,
+    "confusers": [
+      "en-0731"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2946",
+    "word": "nadir",
+    "pos": "名詞",
+    "meaning": "どん底",
+    "level": 3,
+    "confusers": [
+      "en-2947"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2947",
+    "word": "zenith",
+    "pos": "名詞",
+    "meaning": "絶頂、頂点",
+    "level": 3,
+    "confusers": [
+      "en-2946"
+    ],
+    "synonyms": [
+      "en-2419",
+      "en-2555",
+      "en-2418"
+    ]
+  },
+  {
+    "id": "en-2948",
+    "word": "onus",
+    "pos": "名詞",
+    "meaning": "責任、義務",
+    "level": 3,
+    "confusers": [
+      "en-2543"
+    ],
+    "synonyms": [
+      "en-0566",
+      "en-0273",
+      "en-0438"
+    ]
+  },
+  {
+    "id": "en-2949",
+    "word": "outcry",
+    "pos": "名詞",
+    "meaning": "（世論の）抗議の声",
+    "level": 3,
+    "confusers": [
+      "en-0396"
+    ],
+    "synonyms": [
+      "en-0958"
+    ]
+  },
+  {
+    "id": "en-2950",
+    "word": "parity",
+    "pos": "名詞",
+    "meaning": "同等、等価",
+    "level": 3,
+    "confusers": [
+      "en-0572"
+    ],
+    "synonyms": [
+      "en-2951"
+    ]
+  },
+  {
+    "id": "en-2951",
+    "word": "equality",
+    "pos": "名詞",
+    "meaning": "平等",
+    "level": 3,
+    "confusers": [
+      "en-0289",
+      "en-1159"
+    ],
+    "synonyms": [
+      "en-2950"
+    ]
+  },
+  {
+    "id": "en-2952",
+    "word": "precept",
+    "pos": "名詞",
+    "meaning": "教訓、戒め",
+    "level": 3,
+    "confusers": [
+      "en-0331"
+    ],
+    "synonyms": [
+      "en-2535"
+    ]
+  },
+  {
+    "id": "en-2953",
+    "word": "premonition",
+    "pos": "名詞",
+    "meaning": "（悪い）予感",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2954"
+    ]
+  },
+  {
+    "id": "en-2954",
+    "word": "foreboding",
+    "pos": "名詞",
+    "meaning": "（悪い）予感",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2953"
+    ]
+  },
+  {
+    "id": "en-2955",
+    "word": "purview",
+    "pos": "名詞",
+    "meaning": "範囲、権限",
+    "level": 3,
+    "confusers": [
+      "en-0973"
+    ],
+    "synonyms": [
+      "en-2956",
+      "en-0293"
+    ]
+  },
+  {
+    "id": "en-2956",
+    "word": "scope",
+    "pos": "名詞",
+    "meaning": "範囲、余地",
+    "level": 3,
+    "confusers": [
+      "en-1578"
+    ],
+    "synonyms": [
+      "en-0293",
+      "en-2955"
+    ]
+  },
+  {
+    "id": "en-2957",
+    "word": "ramification",
+    "pos": "名詞",
+    "meaning": "（予期せぬ）結果、影響",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0335",
+      "en-2574"
+    ]
+  },
+  {
+    "id": "en-2958",
+    "word": "rancor",
+    "pos": "名詞",
+    "meaning": "深い恨み",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2516"
+    ]
+  },
+  {
+    "id": "en-2959",
+    "word": "reciprocity",
+    "pos": "名詞",
+    "meaning": "相互関係、互恵",
+    "level": 3,
+    "confusers": [
+      "en-1910"
+    ],
+    "synonyms": [
+      "en-2960"
+    ]
+  },
+  {
+    "id": "en-2960",
+    "word": "mutuality",
+    "pos": "名詞",
+    "meaning": "相互関係",
+    "level": 3,
+    "confusers": [
+      "en-1263",
+      "en-2165"
+    ],
+    "synonyms": [
+      "en-2959"
+    ]
+  },
+  {
+    "id": "en-2961",
+    "word": "recluse",
+    "pos": "名詞",
+    "meaning": "世捨て人",
+    "level": 3,
+    "confusers": [
+      "en-0195"
+    ],
+    "synonyms": [
+      "en-2962"
+    ]
+  },
+  {
+    "id": "en-2962",
+    "word": "hermit",
+    "pos": "名詞",
+    "meaning": "隠遁者",
+    "level": 3,
+    "confusers": [
+      "en-0954"
+    ],
+    "synonyms": [
+      "en-2961"
+    ]
+  },
+  {
+    "id": "en-2963",
+    "word": "repertoire",
+    "pos": "名詞",
+    "meaning": "レパートリー",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2964",
+    "word": "residue",
+    "pos": "名詞",
+    "meaning": "残留物、残り",
+    "level": 3,
+    "confusers": [
+      "en-1367",
+      "en-1186"
+    ],
+    "synonyms": [
+      "en-2965"
+    ]
+  },
+  {
+    "id": "en-2965",
+    "word": "remnant",
+    "pos": "名詞",
+    "meaning": "残り、名残",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2964"
+    ]
+  },
+  {
+    "id": "en-2966",
+    "word": "revelation",
+    "pos": "名詞",
+    "meaning": "暴露、新事実",
+    "level": 3,
+    "confusers": [
+      "en-1712"
+    ],
+    "synonyms": [
+      "en-2967"
+    ]
+  },
+  {
+    "id": "en-2967",
+    "word": "disclosure",
+    "pos": "名詞",
+    "meaning": "公開、開示",
+    "level": 3,
+    "confusers": [
+      "en-1035"
+    ],
+    "synonyms": [
+      "en-2966"
+    ]
+  },
+  {
+    "id": "en-2968",
+    "word": "sanctuary",
+    "pos": "名詞",
+    "meaning": "聖域",
+    "level": 3,
+    "confusers": [
+      "en-1865"
+    ],
+    "synonyms": [
+      "en-1873"
+    ]
+  },
+  {
+    "id": "en-2969",
+    "word": "scourge",
+    "pos": "名詞",
+    "meaning": "災いのもと、天罰",
+    "level": 3,
+    "confusers": [
+      "en-0593"
+    ],
+    "synonyms": [
+      "en-1823"
+    ]
+  },
+  {
+    "id": "en-2970",
+    "word": "siege",
+    "pos": "名詞",
+    "meaning": "包囲（攻撃）",
+    "level": 3,
+    "confusers": [
+      "en-1487"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2971",
+    "word": "slump",
+    "pos": "名詞",
+    "meaning": "不振、暴落",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1183"
+    ]
+  },
+  {
+    "id": "en-2972",
+    "word": "specter",
+    "pos": "名詞",
+    "meaning": "恐ろしい予感、幽霊",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2536"
+    ]
+  },
+  {
+    "id": "en-2973",
+    "word": "stalemate",
+    "pos": "名詞",
+    "meaning": "行き詰まり",
+    "level": 3,
+    "confusers": [
+      "en-0497"
+    ],
+    "synonyms": [
+      "en-2511",
+      "en-2510"
+    ]
+  },
+  {
+    "id": "en-2974",
+    "word": "stance",
+    "pos": "名詞",
+    "meaning": "立場、姿勢",
+    "level": 3,
+    "confusers": [
+      "en-0361"
+    ],
+    "synonyms": [
+      "en-0459"
+    ]
+  },
+  {
+    "id": "en-2975",
+    "word": "stipend",
+    "pos": "名詞",
+    "meaning": "給付金、奨学金",
+    "level": 3,
+    "confusers": [
+      "en-2337",
+      "en-0247"
+    ],
+    "synonyms": [
+      "en-1121"
+    ]
+  },
+  {
+    "id": "en-2976",
+    "word": "subterfuge",
+    "pos": "名詞",
+    "meaning": "ごまかし、口実",
+    "level": 3,
+    "confusers": [
+      "en-2465"
+    ],
+    "synonyms": [
+      "en-2977"
+    ]
+  },
+  {
+    "id": "en-2977",
+    "word": "trick",
+    "pos": "名詞",
+    "meaning": "策略、こつ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2976"
+    ]
+  },
+  {
+    "id": "en-2978",
+    "word": "synergy",
+    "pos": "名詞",
+    "meaning": "相乗効果",
+    "level": 3,
+    "confusers": [
+      "en-0370"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2979",
+    "word": "tangent",
+    "pos": "名詞",
+    "meaning": "接線、脱線",
+    "level": 3,
+    "confusers": [
+      "en-1294",
+      "en-0540"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2980",
+    "word": "trajectory",
+    "pos": "名詞",
+    "meaning": "軌道、軌跡",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2981"
+    ]
+  },
+  {
+    "id": "en-2981",
+    "word": "path",
+    "pos": "名詞",
+    "meaning": "道、進路",
+    "level": 3,
+    "confusers": [
+      "en-2551"
+    ],
+    "synonyms": [
+      "en-2980"
+    ]
+  },
+  {
+    "id": "en-2982",
+    "word": "upsurge",
+    "pos": "名詞",
+    "meaning": "急増",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2593"
+    ]
+  },
+  {
+    "id": "en-2983",
+    "word": "utopia",
+    "pos": "名詞",
+    "meaning": "理想郷",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2984",
+    "word": "vicissitude",
+    "pos": "名詞",
+    "meaning": "（人生の）浮き沈み、変遷",
+    "level": 3,
+    "confusers": [
+      "en-2873"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2985",
+    "word": "absolve",
+    "pos": "動詞",
+    "meaning": "（罪・責任を）免除する",
+    "level": 3,
+    "confusers": [
+      "en-1363",
+      "en-0968",
+      "en-2348"
+    ],
+    "synonyms": [
+      "en-2267",
+      "en-1389"
+    ]
+  },
+  {
+    "id": "en-2986",
+    "word": "acquiesce",
+    "pos": "動詞",
+    "meaning": "黙って従う",
+    "level": 3,
+    "confusers": [
+      "en-0001"
+    ],
+    "synonyms": [
+      "en-0197",
+      "en-1020"
+    ]
+  },
+  {
+    "id": "en-2987",
+    "word": "admonish",
+    "pos": "動詞",
+    "meaning": "訓戒する、忠告する",
+    "level": 3,
+    "confusers": [
+      "en-1034",
+      "en-1001"
+    ],
+    "synonyms": [
+      "en-2321"
+    ]
+  },
+  {
+    "id": "en-2988",
+    "word": "amalgamate",
+    "pos": "動詞",
+    "meaning": "合併する、融合する",
+    "level": 3,
+    "confusers": [
+      "en-2204"
+    ],
+    "synonyms": [
+      "en-1066"
+    ]
+  },
+  {
+    "id": "en-2989",
+    "word": "assuage",
+    "pos": "動詞",
+    "meaning": "和らげる",
+    "level": 3,
+    "confusers": [
+      "en-0871",
+      "en-2244"
+    ],
+    "synonyms": [
+      "en-2203",
+      "en-1091",
+      "en-1069",
+      "en-1368",
+      "en-2302"
+    ]
+  },
+  {
+    "id": "en-2990",
+    "word": "berate",
+    "pos": "動詞",
+    "meaning": "激しく叱る",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1486"
+    ]
+  },
+  {
+    "id": "en-2991",
+    "word": "commiserate",
+    "pos": "動詞",
+    "meaning": "同情する",
+    "level": 3,
+    "confusers": [
+      "en-1324",
+      "en-2643",
+      "en-2602"
+    ],
+    "synonyms": [
+      "en-2992"
+    ]
+  },
+  {
+    "id": "en-2992",
+    "word": "sympathize",
+    "pos": "動詞",
+    "meaning": "同情する、共感する",
+    "level": 3,
+    "confusers": [
+      "en-0915",
+      "en-1656"
+    ],
+    "synonyms": [
+      "en-2991"
+    ]
+  },
+  {
+    "id": "en-2993",
+    "word": "concoct",
+    "pos": "動詞",
+    "meaning": "でっち上げる、調合する",
+    "level": 3,
+    "confusers": [
+      "en-0584"
+    ],
+    "synonyms": [
+      "en-1396"
+    ]
+  },
+  {
+    "id": "en-2994",
+    "word": "decimate",
+    "pos": "動詞",
+    "meaning": "大量に殺す、激減させる",
+    "level": 3,
+    "confusers": [
+      "en-0140",
+      "en-0158"
+    ],
+    "synonyms": [
+      "en-1354"
+    ]
+  },
+  {
+    "id": "en-2995",
+    "word": "disparage",
+    "pos": "動詞",
+    "meaning": "けなす",
+    "level": 3,
+    "confusers": [
+      "en-2671",
+      "en-2179",
+      "en-1361"
+    ],
+    "synonyms": [
+      "en-2214"
+    ]
+  },
+  {
+    "id": "en-2996",
+    "word": "embolden",
+    "pos": "動詞",
+    "meaning": "大胆にする、勇気づける",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0153"
+    ]
+  },
+  {
+    "id": "en-2997",
+    "word": "emancipate",
+    "pos": "動詞",
+    "meaning": "解放する",
+    "level": 3,
+    "confusers": [
+      "en-2250",
+      "en-0186"
+    ],
+    "synonyms": [
+      "en-1430",
+      "en-0201",
+      "en-1359",
+      "en-2382"
+    ]
+  },
+  {
+    "id": "en-2998",
+    "word": "encumber",
+    "pos": "動詞",
+    "meaning": "負担をかける",
+    "level": 3,
+    "confusers": [
+      "en-1373",
+      "en-2929"
+    ],
+    "synonyms": [
+      "en-0566"
+    ]
+  },
+  {
+    "id": "en-2999",
+    "word": "eschew",
+    "pos": "動詞",
+    "meaning": "（意図的に）避ける",
+    "level": 3,
+    "confusers": [
+      "en-0921"
+    ],
+    "synonyms": [
+      "en-2333",
+      "en-0115"
+    ]
+  },
+  {
+    "id": "en-3000",
+    "word": "exemplify",
+    "pos": "動詞",
+    "meaning": "例証する、典型となる",
+    "level": 3,
+    "confusers": [
+      "en-2687",
+      "en-0978"
+    ],
+    "synonyms": [
+      "en-0933"
+    ]
+  }
+]

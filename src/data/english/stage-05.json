@@ -404,7 +404,8 @@
       "en-0307"
     ],
     "synonyms": [
-      "en-0362"
+      "en-0362",
+      "en-2948"
     ]
   },
   {
@@ -644,7 +645,9 @@
     "meaning": "位置、立場",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2974"
+    ]
   },
   {
     "id": "en-0460",

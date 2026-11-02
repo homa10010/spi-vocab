@@ -13,4 +13,6 @@
 - 英単語 30ステージ：L1 1-10、L2 11-22、L3 23-30
 
 ## 進み具合
-進んだステージは `scripts/authoring/manifest.tsv` を見ればわかる。
+- 2026-11-03：熟語15ステージ（1500語）・英単語30ステージ（3000語）すべて完成
+- 進んだステージは `scripts/authoring/manifest.tsv` を見ればわかる
+- 同義語の一括登録：`python3 scripts/authoring/addsyn.py <mode> 語=語 ...`（後のステージの語は前のステージから参照できないので、後ろ側の語の行に書かれる）

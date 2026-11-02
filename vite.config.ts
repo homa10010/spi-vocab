@@ -5,6 +5,8 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
   base: '/spi-vocab/',
+  // 単語データ（約4500語）をオフライン用に同梱しているため、JSが大きくなるのは想定どおり
+  build: { chunkSizeWarningLimit: 1500 },
   plugins: [
     react(),
     VitePWA({
