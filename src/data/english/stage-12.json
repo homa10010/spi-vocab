@@ -73,7 +73,8 @@
     ],
     "synonyms": [
       "en-1062",
-      "en-1480"
+      "en-1480",
+      "en-1501"
     ]
   },
   {
@@ -419,7 +420,8 @@
       "en-0335"
     ],
     "synonyms": [
-      "en-0271"
+      "en-0271",
+      "en-1646"
     ]
   },
   {
@@ -620,7 +622,9 @@
     "meaning": "草稿、下書き",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1789"
+    ]
   },
   {
     "id": "en-1155",
@@ -935,7 +939,9 @@
     "meaning": "景気後退",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1680"
+    ]
   },
   {
     "id": "en-1184",

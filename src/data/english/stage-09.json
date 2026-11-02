@@ -759,7 +759,9 @@
     "meaning": "変える",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1577"
+    ]
   },
   {
     "id": "en-0864",
@@ -831,7 +833,8 @@
       "en-0145"
     ],
     "synonyms": [
-      "en-1008"
+      "en-1008",
+      "en-1566"
     ]
   },
   {
@@ -929,7 +932,9 @@
     "meaning": "計算する",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1532"
+    ]
   },
   {
     "id": "en-0879",
@@ -1001,7 +1006,9 @@
     "confusers": [
       "en-0883"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1567"
+    ]
   },
   {
     "id": "en-0885",

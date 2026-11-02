@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "en-1701",
+    "word": "ecology",
+    "pos": "名詞",
+    "meaning": "生態（学）",
+    "level": 2,
+    "confusers": [
+      "en-0363"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1702",
+    "word": "ecosystem",
+    "pos": "名詞",
+    "meaning": "生態系",
+    "level": 2,
+    "confusers": [
+      "en-0509",
+      "en-0363",
+      "en-1701"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1703",
+    "word": "emergency",
+    "pos": "名詞",
+    "meaning": "緊急事態",
+    "level": 2,
+    "confusers": [
+      "en-0539"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1704",
+    "word": "emission",
+    "pos": "名詞",
+    "meaning": "排出（物）",
+    "level": 2,
+    "confusers": [
+      "en-0429",
+      "en-1612"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1705",
+    "word": "enthusiasm",
+    "pos": "名詞",
+    "meaning": "熱意",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1706",
+    "word": "epidemic",
+    "pos": "名詞",
+    "meaning": "（病気の）流行",
+    "level": 2,
+    "confusers": [
+      "en-0604"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1707",
+    "word": "equation",
+    "pos": "名詞",
+    "meaning": "方程式、同一視",
+    "level": 2,
+    "confusers": [
+      "en-0364"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1708",
+    "word": "erosion",
+    "pos": "名詞",
+    "meaning": "浸食",
+    "level": 2,
+    "confusers": [
+      "en-1704"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1709",
+    "word": "essence",
+    "pos": "名詞",
+    "meaning": "本質",
+    "level": 2,
+    "confusers": [
+      "en-1605",
+      "en-1604",
+      "en-0091"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1710",
+    "word": "ethics",
+    "pos": "名詞",
+    "meaning": "倫理",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1711",
+    "word": "evolution",
+    "pos": "名詞",
+    "meaning": "進化",
+    "level": 2,
+    "confusers": [
+      "en-1712",
+      "en-0282"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1712",
+    "word": "revolution",
+    "pos": "名詞",
+    "meaning": "革命",
+    "level": 2,
+    "confusers": [
+      "en-1711"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1713",
+    "word": "exclusion",
+    "pos": "名詞",
+    "meaning": "除外、排除",
+    "level": 2,
+    "confusers": [
+      "en-0332"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1714",
+    "word": "exhaustion",
+    "pos": "名詞",
+    "meaning": "極度の疲労",
+    "level": 2,
+    "confusers": [
+      "en-1716"
+    ],
+    "synonyms": [
+      "en-1715"
+    ]
+  },
+  {
+    "id": "en-1715",
+    "word": "fatigue",
+    "pos": "名詞",
+    "meaning": "疲労",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1714"
+    ]
+  },
+  {
+    "id": "en-1716",
+    "word": "exhibition",
+    "pos": "名詞",
+    "meaning": "展示会",
+    "level": 2,
+    "confusers": [
+      "en-1714",
+      "en-1717"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1717",
+    "word": "expedition",
+    "pos": "名詞",
+    "meaning": "遠征、探検",
+    "level": 2,
+    "confusers": [
+      "en-1716"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1718",
+    "word": "exploitation",
+    "pos": "名詞",
+    "meaning": "搾取、利用",
+    "level": 2,
+    "confusers": [
+      "en-0374"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1719",
+    "word": "extinction",
+    "pos": "名詞",
+    "meaning": "絶滅",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1720",
+    "word": "famine",
+    "pos": "名詞",
+    "meaning": "飢饉",
+    "level": 2,
+    "confusers": [
+      "en-0684"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1721",
+    "word": "federation",
+    "pos": "名詞",
+    "meaning": "連盟、連邦",
+    "level": 2,
+    "confusers": [
+      "en-0563",
+      "en-0382"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1722",
+    "word": "fertility",
+    "pos": "名詞",
+    "meaning": "肥沃さ、出生率",
+    "level": 2,
+    "confusers": [
+      "en-0376",
+      "en-1741"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1723",
+    "word": "fiction",
+    "pos": "名詞",
+    "meaning": "小説、作り話",
+    "level": 2,
+    "confusers": [
+      "en-1724",
+      "en-0381"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1724",
+    "word": "friction",
+    "pos": "名詞",
+    "meaning": "摩擦、不和",
+    "level": 2,
+    "confusers": [
+      "en-1723"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1725",
+    "word": "flaw",
+    "pos": "名詞",
+    "meaning": "欠点、欠陥",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0597"
+    ]
+  },
+  {
+    "id": "en-1726",
+    "word": "fragment",
+    "pos": "名詞",
+    "meaning": "断片",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1727",
+    "word": "framework",
+    "pos": "名詞",
+    "meaning": "枠組み",
+    "level": 2,
+    "confusers": [
+      "en-0435"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1728",
+    "word": "fusion",
+    "pos": "名詞",
+    "meaning": "融合",
+    "level": 2,
+    "confusers": [
+      "en-0585"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1729",
+    "word": "galaxy",
+    "pos": "名詞",
+    "meaning": "銀河",
+    "level": 2,
+    "confusers": [
+      "en-0479"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1730",
+    "word": "genre",
+    "pos": "名詞",
+    "meaning": "ジャンル、分野",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1731",
+    "word": "glimpse",
+    "pos": "名詞",
+    "meaning": "ちらりと見ること",
+    "level": 2,
+    "confusers": [
+      "en-1401"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1732",
+    "word": "grief",
+    "pos": "名詞",
+    "meaning": "深い悲しみ",
+    "level": 2,
+    "confusers": [
+      "en-0625",
+      "en-0318"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1733",
+    "word": "grievance",
+    "pos": "名詞",
+    "meaning": "不満、苦情",
+    "level": 2,
+    "confusers": [
+      "en-1121"
+    ],
+    "synonyms": [
+      "en-0579"
+    ]
+  },
+  {
+    "id": "en-1734",
+    "word": "habitat",
+    "pos": "名詞",
+    "meaning": "生息地",
+    "level": 2,
+    "confusers": [
+      "en-0288"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1735",
+    "word": "harassment",
+    "pos": "名詞",
+    "meaning": "嫌がらせ",
+    "level": 2,
+    "confusers": [
+      "en-0552"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1736",
+    "word": "hazard",
+    "pos": "名詞",
+    "meaning": "危険（要因）",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0474"
+    ]
+  },
+  {
+    "id": "en-1737",
+    "word": "heir",
+    "pos": "名詞",
+    "meaning": "相続人",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1738",
+    "word": "heritage",
+    "pos": "名詞",
+    "meaning": "（文化的）遺産",
+    "level": 2,
+    "confusers": [
+      "en-0451"
+    ],
+    "synonyms": [
+      "en-1739"
+    ]
+  },
+  {
+    "id": "en-1739",
+    "word": "legacy",
+    "pos": "名詞",
+    "meaning": "遺産",
+    "level": 2,
+    "confusers": [
+      "en-0708"
+    ],
+    "synonyms": [
+      "en-1738"
+    ]
+  },
+  {
+    "id": "en-1740",
+    "word": "hierarchy",
+    "pos": "名詞",
+    "meaning": "階層、序列",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1741",
+    "word": "hostility",
+    "pos": "名詞",
+    "meaning": "敵意",
+    "level": 2,
+    "confusers": [
+      "en-1722",
+      "en-1247"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1742",
+    "word": "humidity",
+    "pos": "名詞",
+    "meaning": "湿気",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1743",
+    "word": "hygiene",
+    "pos": "名詞",
+    "meaning": "衛生",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1744",
+    "word": "hypothesis",
+    "pos": "名詞",
+    "meaning": "仮説",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0554"
+    ]
+  },
+  {
+    "id": "en-1745",
+    "word": "identity",
+    "pos": "名詞",
+    "meaning": "身元、独自性",
+    "level": 2,
+    "confusers": [
+      "en-0168",
+      "en-1248"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1746",
+    "word": "ideology",
+    "pos": "名詞",
+    "meaning": "イデオロギー、思想",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1747",
+    "word": "illusion",
+    "pos": "名詞",
+    "meaning": "錯覚、幻想",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1748",
+    "word": "immigrant",
+    "pos": "名詞",
+    "meaning": "（入国する）移民",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1749",
+    "word": "immunity",
+    "pos": "名詞",
+    "meaning": "免疫",
+    "level": 2,
+    "confusers": [
+      "en-0296"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1750",
+    "word": "implication",
+    "pos": "名詞",
+    "meaning": "（言外の）含み、影響",
+    "level": 2,
+    "confusers": [
+      "en-0307"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1751",
+    "word": "incentive",
+    "pos": "名詞",
+    "meaning": "動機づけ、奨励策",
+    "level": 2,
+    "confusers": [
+      "en-0678"
+    ],
+    "synonyms": [
+      "en-1752"
+    ]
+  },
+  {
+    "id": "en-1752",
+    "word": "motive",
+    "pos": "名詞",
+    "meaning": "動機",
+    "level": 2,
+    "confusers": [
+      "en-0431"
+    ],
+    "synonyms": [
+      "en-1751"
+    ]
+  },
+  {
+    "id": "en-1753",
+    "word": "inclination",
+    "pos": "名詞",
+    "meaning": "傾向、意向",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0514"
+    ]
+  },
+  {
+    "id": "en-1754",
+    "word": "inequality",
+    "pos": "名詞",
+    "meaning": "不平等",
+    "level": 2,
+    "confusers": [
+      "en-0289"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1755",
+    "word": "infancy",
+    "pos": "名詞",
+    "meaning": "幼年期、初期",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1756",
+    "word": "inflation",
+    "pos": "名詞",
+    "meaning": "物価上昇、インフレ",
+    "level": 2,
+    "confusers": [
+      "en-0400"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1757",
+    "word": "infrastructure",
+    "pos": "名詞",
+    "meaning": "社会基盤",
+    "level": 2,
+    "confusers": [
+      "en-0501"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1758",
+    "word": "ingredient",
+    "pos": "名詞",
+    "meaning": "材料、成分",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0581"
+    ]
+  },
+  {
+    "id": "en-1759",
+    "word": "inhabitant",
+    "pos": "名詞",
+    "meaning": "住民",
+    "level": 2,
+    "confusers": [
+      "en-1734"
+    ],
+    "synonyms": [
+      "en-1760"
+    ]
+  },
+  {
+    "id": "en-1760",
+    "word": "resident",
+    "pos": "名詞",
+    "meaning": "居住者",
+    "level": 2,
+    "confusers": [
+      "en-0531"
+    ],
+    "synonyms": [
+      "en-1759"
+    ]
+  },
+  {
+    "id": "en-1761",
+    "word": "initiative",
+    "pos": "名詞",
+    "meaning": "主導権、新たな取り組み",
+    "level": 2,
+    "confusers": [
+      "en-0093",
+      "en-0222"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1762",
+    "word": "innovation",
+    "pos": "名詞",
+    "meaning": "革新",
+    "level": 2,
+    "confusers": [
+      "en-0405"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1763",
+    "word": "insight",
+    "pos": "名詞",
+    "meaning": "洞察（力）",
+    "level": 2,
+    "confusers": [
+      "en-0936"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1764",
+    "word": "inspection",
+    "pos": "名詞",
+    "meaning": "検査、視察",
+    "level": 2,
+    "confusers": [
+      "en-0401",
+      "en-1630"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1765",
+    "word": "instinct",
+    "pos": "名詞",
+    "meaning": "本能",
+    "level": 2,
+    "confusers": [
+      "en-1233"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1766",
+    "word": "integrity",
+    "pos": "名詞",
+    "meaning": "誠実さ、完全性",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1767"
+    ]
+  },
+  {
+    "id": "en-1767",
+    "word": "honesty",
+    "pos": "名詞",
+    "meaning": "正直",
+    "level": 2,
+    "confusers": [
+      "en-0700",
+      "en-1741"
+    ],
+    "synonyms": [
+      "en-1766"
+    ]
+  },
+  {
+    "id": "en-1768",
+    "word": "interaction",
+    "pos": "名詞",
+    "meaning": "相互作用、交流",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1769",
+    "word": "interference",
+    "pos": "名詞",
+    "meaning": "干渉、妨害",
+    "level": 2,
+    "confusers": [
+      "en-0334"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1770",
+    "word": "intuition",
+    "pos": "名詞",
+    "meaning": "直感",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1771",
+    "word": "irony",
+    "pos": "名詞",
+    "meaning": "皮肉",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1772",
+    "word": "isolation",
+    "pos": "名詞",
+    "meaning": "孤立",
+    "level": 2,
+    "confusers": [
+      "en-0943"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1773",
+    "word": "jurisdiction",
+    "pos": "名詞",
+    "meaning": "管轄権",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1774",
+    "word": "justice",
+    "pos": "名詞",
+    "meaning": "正義、司法",
+    "level": 2,
+    "confusers": [
+      "en-0944"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1775",
+    "word": "landmark",
+    "pos": "名詞",
+    "meaning": "目印、画期的な出来事",
+    "level": 2,
+    "confusers": [
+      "en-1776"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1776",
+    "word": "landscape",
+    "pos": "名詞",
+    "meaning": "風景",
+    "level": 2,
+    "confusers": [
+      "en-1775",
+      "en-0921"
+    ],
+    "synonyms": [
+      "en-1777"
+    ]
+  },
+  {
+    "id": "en-1777",
+    "word": "scenery",
+    "pos": "名詞",
+    "meaning": "景色",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1776"
+    ]
+  },
+  {
+    "id": "en-1778",
+    "word": "legislation",
+    "pos": "名詞",
+    "meaning": "法律の制定",
+    "level": 2,
+    "confusers": [
+      "en-0477"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1779",
+    "word": "leisure",
+    "pos": "名詞",
+    "meaning": "余暇",
+    "level": 2,
+    "confusers": [
+      "en-0160"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1780",
+    "word": "lifespan",
+    "pos": "名詞",
+    "meaning": "寿命",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1781"
+    ]
+  },
+  {
+    "id": "en-1781",
+    "word": "longevity",
+    "pos": "名詞",
+    "meaning": "長寿、寿命",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1780"
+    ]
+  },
+  {
+    "id": "en-1782",
+    "word": "likelihood",
+    "pos": "名詞",
+    "meaning": "見込み、可能性",
+    "level": 2,
+    "confusers": [
+      "en-1783"
+    ],
+    "synonyms": [
+      "en-0272"
+    ]
+  },
+  {
+    "id": "en-1783",
+    "word": "livelihood",
+    "pos": "名詞",
+    "meaning": "生計（手段）",
+    "level": 2,
+    "confusers": [
+      "en-1782"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1784",
+    "word": "literacy",
+    "pos": "名詞",
+    "meaning": "読み書きの能力",
+    "level": 2,
+    "confusers": [
+      "en-0722",
+      "en-1739"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1785",
+    "word": "luxury",
+    "pos": "名詞",
+    "meaning": "ぜいたく（品）",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1786",
+    "word": "magnitude",
+    "pos": "名詞",
+    "meaning": "大きさ、規模",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1787",
+    "word": "maintenance",
+    "pos": "名詞",
+    "meaning": "維持、保守",
+    "level": 2,
+    "confusers": [
+      "en-0162"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1788",
+    "word": "malfunction",
+    "pos": "名詞",
+    "meaning": "（機械の）故障",
+    "level": 2,
+    "confusers": [
+      "en-0381"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1789",
+    "word": "manuscript",
+    "pos": "名詞",
+    "meaning": "原稿",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1154"
+    ]
+  },
+  {
+    "id": "en-1790",
+    "word": "mechanism",
+    "pos": "名詞",
+    "meaning": "仕組み、機構",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1791",
+    "word": "metabolism",
+    "pos": "名詞",
+    "meaning": "新陳代謝",
+    "level": 2,
+    "confusers": [
+      "en-1792",
+      "en-1790"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1792",
+    "word": "metaphor",
+    "pos": "名詞",
+    "meaning": "隠喩、比喩",
+    "level": 2,
+    "confusers": [
+      "en-1791"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1793",
+    "word": "migration",
+    "pos": "名詞",
+    "meaning": "移住、移動",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1794",
+    "word": "ministry",
+    "pos": "名詞",
+    "meaning": "（政府の）省",
+    "level": 2,
+    "confusers": [
+      "en-0422"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1795",
+    "word": "molecule",
+    "pos": "名詞",
+    "meaning": "分子",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1796",
+    "word": "morale",
+    "pos": "名詞",
+    "meaning": "士気",
+    "level": 2,
+    "confusers": [
+      "en-0736",
+      "en-0737"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1797",
+    "word": "mortality",
+    "pos": "名詞",
+    "meaning": "死亡率",
+    "level": 2,
+    "confusers": [
+      "en-0737"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1798",
+    "word": "myth",
+    "pos": "名詞",
+    "meaning": "神話、作り話",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1799",
+    "word": "narrative",
+    "pos": "名詞",
+    "meaning": "物語、話",
+    "level": 2,
+    "confusers": [
+      "en-0738"
+    ],
+    "synonyms": [
+      "en-1800"
+    ]
+  },
+  {
+    "id": "en-1800",
+    "word": "story",
+    "pos": "名詞",
+    "meaning": "話、物語",
+    "level": 2,
+    "confusers": [
+      "en-0389"
+    ],
+    "synonyms": [
+      "en-1799"
+    ]
+  }
+]

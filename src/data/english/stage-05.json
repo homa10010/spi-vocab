@@ -682,7 +682,9 @@
     "confusers": [
       "en-0026"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1654"
+    ]
   },
   {
     "id": "en-0464",
@@ -805,7 +807,9 @@
     "meaning": "危険性",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1736"
+    ]
   },
   {
     "id": "en-0475",
@@ -991,7 +995,8 @@
       "en-0261"
     ],
     "synonyms": [
-      "en-0055"
+      "en-0055",
+      "en-1678"
     ]
   },
   {

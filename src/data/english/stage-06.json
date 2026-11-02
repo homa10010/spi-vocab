@@ -155,7 +155,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0515"
+      "en-0515",
+      "en-1753"
     ]
   },
   {
@@ -390,7 +391,9 @@
       "en-0302",
       "en-0551"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1608"
+    ]
   },
   {
     "id": "en-0537",
@@ -485,7 +488,9 @@
     "meaning": "野心、大望",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1629"
+    ]
   },
   {
     "id": "en-0545",
@@ -590,7 +595,9 @@
     "confusers": [
       "en-0555"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1744"
+    ]
   },
   {
     "id": "en-0555",
@@ -702,7 +709,9 @@
     "confusers": [
       "en-0442"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1640"
+    ]
   },
   {
     "id": "en-0565",
@@ -861,7 +870,9 @@
     "confusers": [
       "en-0580"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1733"
+    ]
   },
   {
     "id": "en-0580",
@@ -883,7 +894,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0365"
+      "en-0365",
+      "en-1758"
     ]
   },
   {
@@ -933,7 +945,10 @@
     "confusers": [
       "en-0332"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1649",
+      "en-1693"
+    ]
   },
   {
     "id": "en-0586",
@@ -1066,7 +1081,9 @@
     "confusers": [
       "en-0060"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1725"
+    ]
   },
   {
     "id": "en-0598",
@@ -1087,7 +1104,9 @@
       "en-0259",
       "en-0490"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1624"
+    ]
   },
   {
     "id": "en-0600",
@@ -1098,6 +1117,9 @@
     "confusers": [
       "en-0360"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1644",
+      "en-1645"
+    ]
   }
 ]

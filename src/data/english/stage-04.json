@@ -34,7 +34,9 @@
     "confusers": [
       "en-0302"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1669"
+    ]
   },
   {
     "id": "en-0304",
@@ -345,7 +347,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0436"
+      "en-0436",
+      "en-1661"
     ]
   },
   {
@@ -1063,7 +1066,9 @@
     "confusers": [
       "en-0393"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1634"
+    ]
   },
   {
     "id": "en-0398",

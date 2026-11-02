@@ -109,7 +109,9 @@
       "en-0938",
       "en-1391"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1531"
+    ]
   },
   {
     "id": "en-1310",
@@ -168,7 +170,9 @@
     "confusers": [
       "en-1313"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1560"
+    ]
   },
   {
     "id": "en-1315",
@@ -177,7 +181,9 @@
     "meaning": "悩ませる、わざわざ〜する",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1550"
+    ]
   },
   {
     "id": "en-1316",
@@ -269,7 +275,9 @@
     "confusers": [
       "en-1016"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1582"
+    ]
   },
   {
     "id": "en-1324",
@@ -331,7 +339,9 @@
       "en-0164",
       "en-1106"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1575"
+    ]
   },
   {
     "id": "en-1329",
@@ -496,7 +506,9 @@
     "meaning": "はう",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1581"
+    ]
   },
   {
     "id": "en-1342",
@@ -1096,7 +1108,9 @@
     "meaning": "疲れ果てさせる、使い果たす",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1589"
+    ]
   },
   {
     "id": "en-1391",
@@ -1119,7 +1133,9 @@
     "confusers": [
       "en-1383"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1562"
+    ]
   },
   {
     "id": "en-1393",
@@ -1176,7 +1192,9 @@
       "en-0231"
     ],
     "synonyms": [
-      "en-1398"
+      "en-1398",
+      "en-1514",
+      "en-1558"
     ]
   },
   {
@@ -1190,7 +1208,8 @@
       "en-0466"
     ],
     "synonyms": [
-      "en-1397"
+      "en-1397",
+      "en-1514"
     ]
   },
   {

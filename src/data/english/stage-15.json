@@ -329,7 +329,9 @@
     "confusers": [
       "en-0172"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1550"
+    ]
   },
   {
     "id": "en-1429",
@@ -621,7 +623,9 @@
     "confusers": [
       "en-1056"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1540"
+    ]
   },
   {
     "id": "en-1454",
@@ -744,7 +748,8 @@
       "en-1475"
     ],
     "synonyms": [
-      "en-1482"
+      "en-1482",
+      "en-1585"
     ]
   },
   {
@@ -768,7 +773,9 @@
     "confusers": [
       "en-1087"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1584"
+    ]
   },
   {
     "id": "en-1466",
@@ -898,7 +905,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-1478"
+      "en-1478",
+      "en-1601"
     ]
   },
   {
@@ -928,7 +936,8 @@
       "en-0027"
     ],
     "synonyms": [
-      "en-1476"
+      "en-1476",
+      "en-1601"
     ]
   },
   {
@@ -1001,7 +1010,8 @@
     "confusers": [],
     "synonyms": [
       "en-0151",
-      "en-1494"
+      "en-1494",
+      "en-1530"
     ]
   },
   {
@@ -1013,7 +1023,9 @@
     "confusers": [
       "en-1488"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1597"
+    ]
   },
   {
     "id": "en-1486",
@@ -1032,7 +1044,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-1402"
+      "en-1402",
+      "en-1564"
     ]
   },
   {
@@ -1044,7 +1057,9 @@
     "confusers": [
       "en-1485"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1545"
+    ]
   },
   {
     "id": "en-1489",
