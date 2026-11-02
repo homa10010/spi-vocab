@@ -586,7 +586,9 @@
     "confusers": [
       "en-0443"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1265"
+    ]
   },
   {
     "id": "en-0751",
@@ -926,7 +928,7 @@
     "id": "en-0780",
     "word": "tough",
     "pos": "形容詞",
-    "meaning": "困難な、頑丈な",
+    "meaning": "困難な、たくましい",
     "level": 1,
     "confusers": [
       "en-0779"
@@ -966,7 +968,8 @@
       "en-0745"
     ],
     "synonyms": [
-      "en-0784"
+      "en-0784",
+      "en-1246"
     ]
   },
   {
@@ -977,7 +980,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0783"
+      "en-0783",
+      "en-1281"
     ]
   },
   {
@@ -998,7 +1002,9 @@
     "meaning": "わずかな",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1262"
+    ]
   },
   {
     "id": "en-0787",

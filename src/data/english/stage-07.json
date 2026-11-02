@@ -54,7 +54,9 @@
       "en-0606",
       "en-0608"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1236"
+    ]
   },
   {
     "id": "en-0606",
@@ -101,7 +103,9 @@
     "meaning": "追加の",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1292"
+    ]
   },
   {
     "id": "en-0610",
@@ -312,7 +316,9 @@
       "en-0569",
       "en-0320"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1218"
+    ]
   },
   {
     "id": "en-0627",
@@ -324,7 +330,9 @@
       "en-0628",
       "en-0622"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1209"
+    ]
   },
   {
     "id": "en-0628",
@@ -419,7 +427,8 @@
       "en-0123"
     ],
     "synonyms": [
-      "en-0636"
+      "en-0636",
+      "en-1259"
     ]
   },
   {
@@ -430,7 +439,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0635"
+      "en-0635",
+      "en-1259"
     ]
   },
   {
@@ -499,7 +509,9 @@
       "en-0641",
       "en-0643"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1213"
+    ]
   },
   {
     "id": "en-0643",
@@ -726,12 +738,14 @@
     "id": "en-0662",
     "word": "drastic",
     "pos": "形容詞",
-    "meaning": "思い切った、徹底的な",
+    "meaning": "思い切った、抜本的な",
     "level": 1,
     "confusers": [
       "en-0661"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1275"
+    ]
   },
   {
     "id": "en-0663",
@@ -833,7 +847,9 @@
     "confusers": [
       "en-0219"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1269"
+    ]
   },
   {
     "id": "en-0672",
@@ -842,7 +858,9 @@
     "meaning": "等しい",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1239"
+    ]
   },
   {
     "id": "en-0673",
@@ -1012,7 +1030,9 @@
     "confusers": [
       "en-0093"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1244"
+    ]
   },
   {
     "id": "en-0688",
@@ -1097,7 +1117,9 @@
     "meaning": "本物の、心からの",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1210"
+    ]
   },
   {
     "id": "en-0696",
