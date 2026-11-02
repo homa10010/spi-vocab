@@ -1,28 +1,5 @@
-import type { EnglishEntry, JukugoEntry } from '../types';
+import { en, jk, range } from '../test/fixtures';
 import { buildDataset, validateDataset } from './validate';
-
-const jk = (n: number, o: Partial<JukugoEntry> = {}): JukugoEntry => ({
-  id: `jk-${String(n).padStart(4, '0')}`,
-  type: '二字熟語',
-  word: `語${n}`,
-  reading: `ご${n}`,
-  meaning: `意味${n}`,
-  level: 1,
-  confusers: [],
-  synonyms: [],
-  ...o,
-});
-const en = (n: number, o: Partial<EnglishEntry> = {}): EnglishEntry => ({
-  id: `en-${String(n).padStart(4, '0')}`,
-  word: `word${n}`,
-  pos: '動詞',
-  meaning: `訳${n}`,
-  level: 1,
-  confusers: [],
-  synonyms: [],
-  ...o,
-});
-const range = <T>(count: number, f: (n: number) => T): T[] => Array.from({ length: count }, (_, i) => f(i + 1));
 
 test('buildDataset は stage を添字+1で付ける', () => {
   const ds = buildDataset([[jk(1)], [jk(2)]]);
@@ -89,4 +66,9 @@ test('requireFull のとき100語でないファイルを検出', () => {
   const errs = validateDataset('jukugo', [range(10, (n) => jk(n))], { requireFull: true });
   expect(errs.some((e) => e.includes('ステージ1') && e.includes('100'))).toBe(true);
   expect(validateDataset('jukugo', [range(100, (n) => jk(n))], { requireFull: true })).toEqual([]);
+});
+
+test('誤答の候補が足りない語を検出', () => {
+  const errs = validateDataset('jukugo', [range(3, (n) => jk(n))]);
+  expect(errs.some((e) => e.includes('jk-0001') && e.includes('選択肢'))).toBe(true);
 });

@@ -1,4 +1,6 @@
 import type { Dataset, Entry, LoadedEntry, Mode } from '../types';
+import { buildChoices } from './distractors';
+import { makeRng } from './random';
 
 export const STAGE_SIZE = 100;
 const JUKUGO_TYPES = ['二字熟語', '和語', '四字熟語', 'ことわざ'];
@@ -83,6 +85,15 @@ export function validateDataset(mode: Mode, stages: Entry[][], opts: { requireFu
         errors.push(`${s}: ${e.id} と同義語が双方向になっていません`);
       }
     });
+  });
+
+  const ds = buildDataset(stages);
+  all.forEach((e) => {
+    try {
+      buildChoices(mode, e.id, ds, makeRng(1));
+    } catch {
+      errors.push(`${e.id}: 選択肢を作るための誤答の候補が足りません`);
+    }
   });
 
   return errors;
