@@ -1,0 +1,47 @@
+[
+  {
+    "id": "en-0001",
+    "word": "acquire",
+    "pos": "動詞",
+    "meaning": "得る、習得する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0002",
+    "word": "decline",
+    "pos": "動詞",
+    "meaning": "断る、減少する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0003",
+    "word": "adequate",
+    "pos": "形容詞",
+    "meaning": "十分な、適切な",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0004",
+    "word": "purpose",
+    "pos": "名詞",
+    "meaning": "目的",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0005",
+    "word": "rarely",
+    "pos": "副詞",
+    "meaning": "めったに〜しない",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  }
+]

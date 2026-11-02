@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jk-0001",
+    "type": "二字熟語",
+    "word": "概算",
+    "reading": "がいさん",
+    "meaning": "おおよその見当で計算すること",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0002",
+    "type": "二字熟語",
+    "word": "踏襲",
+    "reading": "とうしゅう",
+    "meaning": "前の人のやり方をそのまま受け継ぐこと",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0003",
+    "type": "二字熟語",
+    "word": "逡巡",
+    "reading": "しゅんじゅん",
+    "meaning": "決心がつかず、ためらうこと",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0004",
+    "type": "二字熟語",
+    "word": "看過",
+    "reading": "かんか",
+    "meaning": "よくないことを見ていながら、そのままにしておくこと",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0005",
+    "type": "二字熟語",
+    "word": "拮抗",
+    "reading": "きっこう",
+    "meaning": "力が同じくらいで、互いに張り合うこと",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  }
+]
