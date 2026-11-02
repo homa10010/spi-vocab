@@ -476,7 +476,9 @@
     "confusers": [
       "en-1240"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2817"
+    ]
   },
   {
     "id": "en-1242",
@@ -525,7 +527,9 @@
     "meaning": "壊れやすい",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2819"
+    ]
   },
   {
     "id": "en-1246",
@@ -909,7 +913,9 @@
     "confusers": [
       "en-1116"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2815"
+    ]
   },
   {
     "id": "en-1277",
@@ -967,7 +973,8 @@
       "en-0689"
     ],
     "synonyms": [
-      "en-0784"
+      "en-0784",
+      "en-2812"
     ]
   },
   {

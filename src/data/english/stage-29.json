@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "en-2801",
+    "word": "sanguine",
+    "pos": "形容詞",
+    "meaning": "楽観的な",
+    "level": 3,
+    "confusers": [
+      "en-0695"
+    ],
+    "synonyms": [
+      "en-2034"
+    ]
+  },
+  {
+    "id": "en-2802",
+    "word": "scrupulous",
+    "pos": "形容詞",
+    "meaning": "良心的な、細心の",
+    "level": 3,
+    "confusers": [
+      "en-2803",
+      "en-2061"
+    ],
+    "synonyms": [
+      "en-2017"
+    ]
+  },
+  {
+    "id": "en-2803",
+    "word": "unscrupulous",
+    "pos": "形容詞",
+    "meaning": "不道徳な、悪徳な",
+    "level": 3,
+    "confusers": [
+      "en-2802"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2804",
+    "word": "sedentary",
+    "pos": "形容詞",
+    "meaning": "座りがちな、あまり動かない",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2805",
+    "word": "sordid",
+    "pos": "形容詞",
+    "meaning": "卑しい、汚い",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2806",
+    "word": "sporadic",
+    "pos": "形容詞",
+    "meaning": "散発的な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2807",
+    "word": "spurious",
+    "pos": "形容詞",
+    "meaning": "偽の",
+    "level": 3,
+    "confusers": [
+      "en-0650",
+      "en-0649"
+    ],
+    "synonyms": [
+      "en-2808"
+    ]
+  },
+  {
+    "id": "en-2808",
+    "word": "false",
+    "pos": "形容詞",
+    "meaning": "誤った、偽の",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2685",
+      "en-2807"
+    ]
+  },
+  {
+    "id": "en-2809",
+    "word": "staunch",
+    "pos": "形容詞",
+    "meaning": "忠実な、熱心な",
+    "level": 3,
+    "confusers": [
+      "en-0945"
+    ],
+    "synonyms": [
+      "en-2810",
+      "en-0725"
+    ]
+  },
+  {
+    "id": "en-2810",
+    "word": "steadfast",
+    "pos": "形容詞",
+    "meaning": "揺るぎない、忠実な",
+    "level": 3,
+    "confusers": [
+      "en-0790"
+    ],
+    "synonyms": [
+      "en-0727",
+      "en-0725",
+      "en-2809"
+    ]
+  },
+  {
+    "id": "en-2811",
+    "word": "stoic",
+    "pos": "形容詞",
+    "meaning": "禁欲的な、我慢強い",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2812",
+    "word": "stringent",
+    "pos": "形容詞",
+    "meaning": "厳格な、厳しい",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0784",
+      "en-1281"
+    ]
+  },
+  {
+    "id": "en-2813",
+    "word": "succinct",
+    "pos": "形容詞",
+    "meaning": "簡潔な",
+    "level": 3,
+    "confusers": [
+      "en-1233"
+    ],
+    "synonyms": [
+      "en-1938",
+      "en-2814",
+      "en-0625"
+    ]
+  },
+  {
+    "id": "en-2814",
+    "word": "terse",
+    "pos": "形容詞",
+    "meaning": "簡潔な、そっけない",
+    "level": 3,
+    "confusers": [
+      "en-2343"
+    ],
+    "synonyms": [
+      "en-1938",
+      "en-2813"
+    ]
+  },
+  {
+    "id": "en-2815",
+    "word": "superfluous",
+    "pos": "形容詞",
+    "meaning": "余分な、不必要な",
+    "level": 3,
+    "confusers": [
+      "en-1291"
+    ],
+    "synonyms": [
+      "en-1276"
+    ]
+  },
+  {
+    "id": "en-2816",
+    "word": "surreptitious",
+    "pos": "形容詞",
+    "meaning": "内密の、こそこそした",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2700"
+    ]
+  },
+  {
+    "id": "en-2817",
+    "word": "tacit",
+    "pos": "形容詞",
+    "meaning": "暗黙の",
+    "level": 3,
+    "confusers": [
+      "en-2798"
+    ],
+    "synonyms": [
+      "en-1241"
+    ]
+  },
+  {
+    "id": "en-2818",
+    "word": "tenacious",
+    "pos": "形容詞",
+    "meaning": "粘り強い",
+    "level": 3,
+    "confusers": [
+      "en-2554"
+    ],
+    "synonyms": [
+      "en-0643"
+    ]
+  },
+  {
+    "id": "en-2819",
+    "word": "tenuous",
+    "pos": "形容詞",
+    "meaning": "薄弱な、もろい",
+    "level": 3,
+    "confusers": [
+      "en-2020"
+    ],
+    "synonyms": [
+      "en-1245"
+    ]
+  },
+  {
+    "id": "en-2820",
+    "word": "turbulent",
+    "pos": "形容詞",
+    "meaning": "荒れ狂う、動乱の",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2821",
+    "word": "ubiquitous",
+    "pos": "形容詞",
+    "meaning": "至る所にある",
+    "level": 3,
+    "confusers": [
+      "en-2761"
+    ],
+    "synonyms": [
+      "en-2114"
+    ]
+  },
+  {
+    "id": "en-2822",
+    "word": "venerable",
+    "pos": "形容詞",
+    "meaning": "尊敬すべき、由緒ある",
+    "level": 3,
+    "confusers": [
+      "en-1300"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2823",
+    "word": "verbose",
+    "pos": "形容詞",
+    "meaning": "冗長な、言葉数の多い",
+    "level": 3,
+    "confusers": [
+      "en-2106"
+    ],
+    "synonyms": [
+      "en-2824"
+    ]
+  },
+  {
+    "id": "en-2824",
+    "word": "wordy",
+    "pos": "形容詞",
+    "meaning": "言葉数の多い",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2823"
+    ]
+  },
+  {
+    "id": "en-2825",
+    "word": "vicarious",
+    "pos": "形容詞",
+    "meaning": "（他人を通して）間接的に味わう",
+    "level": 3,
+    "confusers": [
+      "en-0087",
+      "en-2046"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2826",
+    "word": "vigilant",
+    "pos": "形容詞",
+    "meaning": "用心深い、油断のない",
+    "level": 3,
+    "confusers": [
+      "en-2874",
+      "en-2107"
+    ],
+    "synonyms": [
+      "en-2111",
+      "en-0622",
+      "en-2639"
+    ]
+  },
+  {
+    "id": "en-2827",
+    "word": "vindictive",
+    "pos": "形容詞",
+    "meaning": "復讐心に燃えた",
+    "level": 3,
+    "confusers": [
+      "en-2351"
+    ],
+    "synonyms": [
+      "en-2828"
+    ]
+  },
+  {
+    "id": "en-2828",
+    "word": "vengeful",
+    "pos": "形容詞",
+    "meaning": "復讐心のある",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2827"
+    ]
+  },
+  {
+    "id": "en-2829",
+    "word": "virulent",
+    "pos": "形容詞",
+    "meaning": "悪性の、敵意に満ちた",
+    "level": 3,
+    "confusers": [
+      "en-2820"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2830",
+    "word": "whimsical",
+    "pos": "形容詞",
+    "meaning": "気まぐれな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2637"
+    ]
+  },
+  {
+    "id": "en-2831",
+    "word": "candidly",
+    "pos": "副詞",
+    "meaning": "率直に",
+    "level": 3,
+    "confusers": [
+      "en-0568",
+      "en-1932"
+    ],
+    "synonyms": [
+      "en-0853"
+    ]
+  },
+  {
+    "id": "en-2832",
+    "word": "covertly",
+    "pos": "副詞",
+    "meaning": "ひそかに",
+    "level": 3,
+    "confusers": [
+      "en-2834"
+    ],
+    "synonyms": [
+      "en-2833"
+    ]
+  },
+  {
+    "id": "en-2833",
+    "word": "secretly",
+    "pos": "副詞",
+    "meaning": "こっそりと",
+    "level": 3,
+    "confusers": [
+      "en-2641"
+    ],
+    "synonyms": [
+      "en-2832"
+    ]
+  },
+  {
+    "id": "en-2834",
+    "word": "overtly",
+    "pos": "副詞",
+    "meaning": "公然と",
+    "level": 3,
+    "confusers": [
+      "en-2832"
+    ],
+    "synonyms": [
+      "en-2835"
+    ]
+  },
+  {
+    "id": "en-2835",
+    "word": "openly",
+    "pos": "副詞",
+    "meaning": "公然と",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2834"
+    ]
+  },
+  {
+    "id": "en-2836",
+    "word": "implicitly",
+    "pos": "副詞",
+    "meaning": "暗に、無条件に",
+    "level": 3,
+    "confusers": [
+      "en-2119",
+      "en-1241"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2837",
+    "word": "inadvertently",
+    "pos": "副詞",
+    "meaning": "うっかり、不注意で",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2154"
+    ]
+  },
+  {
+    "id": "en-2838",
+    "word": "indiscriminately",
+    "pos": "副詞",
+    "meaning": "無差別に",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2839",
+    "word": "inherently",
+    "pos": "副詞",
+    "meaning": "本来、本質的に",
+    "level": 3,
+    "confusers": [
+      "en-1253"
+    ],
+    "synonyms": [
+      "en-2840"
+    ]
+  },
+  {
+    "id": "en-2840",
+    "word": "essentially",
+    "pos": "副詞",
+    "meaning": "本質的に、基本的に",
+    "level": 3,
+    "confusers": [
+      "en-0091",
+      "en-0820",
+      "en-2132"
+    ],
+    "synonyms": [
+      "en-2839"
+    ]
+  },
+  {
+    "id": "en-2841",
+    "word": "invariably",
+    "pos": "副詞",
+    "meaning": "いつも、必ず",
+    "level": 3,
+    "confusers": [
+      "en-2120"
+    ],
+    "synonyms": [
+      "en-2842"
+    ]
+  },
+  {
+    "id": "en-2842",
+    "word": "always",
+    "pos": "副詞",
+    "meaning": "いつも",
+    "level": 3,
+    "confusers": [
+      "en-0803"
+    ],
+    "synonyms": [
+      "en-2841"
+    ]
+  },
+  {
+    "id": "en-2843",
+    "word": "meticulously",
+    "pos": "副詞",
+    "meaning": "細心の注意を払って",
+    "level": 3,
+    "confusers": [
+      "en-2017"
+    ],
+    "synonyms": [
+      "en-2844"
+    ]
+  },
+  {
+    "id": "en-2844",
+    "word": "painstakingly",
+    "pos": "副詞",
+    "meaning": "念入りに",
+    "level": 3,
+    "confusers": [
+      "en-2038"
+    ],
+    "synonyms": [
+      "en-2843"
+    ]
+  },
+  {
+    "id": "en-2845",
+    "word": "nonetheless",
+    "pos": "副詞",
+    "meaning": "それにもかかわらず",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0836"
+    ]
+  },
+  {
+    "id": "en-2846",
+    "word": "notoriously",
+    "pos": "副詞",
+    "meaning": "悪名高く",
+    "level": 3,
+    "confusers": [
+      "en-2130",
+      "en-0685"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2847",
+    "word": "ostensibly",
+    "pos": "副詞",
+    "meaning": "表向きは",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0804",
+      "en-2138"
+    ]
+  },
+  {
+    "id": "en-2848",
+    "word": "perpetually",
+    "pos": "副詞",
+    "meaning": "絶えず、永久に",
+    "level": 3,
+    "confusers": [
+      "en-2041"
+    ],
+    "synonyms": [
+      "en-0817"
+    ]
+  },
+  {
+    "id": "en-2849",
+    "word": "profoundly",
+    "pos": "副詞",
+    "meaning": "深く、大いに",
+    "level": 3,
+    "confusers": [
+      "en-2786"
+    ],
+    "synonyms": [
+      "en-2850"
+    ]
+  },
+  {
+    "id": "en-2850",
+    "word": "deeply",
+    "pos": "副詞",
+    "meaning": "深く",
+    "level": 3,
+    "confusers": [
+      "en-2787"
+    ],
+    "synonyms": [
+      "en-2849"
+    ]
+  },
+  {
+    "id": "en-2851",
+    "word": "prudently",
+    "pos": "副詞",
+    "meaning": "慎重に",
+    "level": 3,
+    "confusers": [
+      "en-2054"
+    ],
+    "synonyms": [
+      "en-2852"
+    ]
+  },
+  {
+    "id": "en-2852",
+    "word": "cautiously",
+    "pos": "副詞",
+    "meaning": "用心深く",
+    "level": 3,
+    "confusers": [
+      "en-0622"
+    ],
+    "synonyms": [
+      "en-2851"
+    ]
+  },
+  {
+    "id": "en-2853",
+    "word": "reputedly",
+    "pos": "副詞",
+    "meaning": "評判では",
+    "level": 3,
+    "confusers": [
+      "en-2854"
+    ],
+    "synonyms": [
+      "en-2146"
+    ]
+  },
+  {
+    "id": "en-2854",
+    "word": "repeatedly",
+    "pos": "副詞",
+    "meaning": "繰り返して",
+    "level": 3,
+    "confusers": [
+      "en-2853"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2855",
+    "word": "sparingly",
+    "pos": "副詞",
+    "meaning": "控えめに、節約して",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2856",
+    "word": "unanimously",
+    "pos": "副詞",
+    "meaning": "満場一致で",
+    "level": 3,
+    "confusers": [
+      "en-1297"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2857",
+    "word": "unequivocally",
+    "pos": "副詞",
+    "meaning": "明確に、きっぱりと",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0819"
+    ]
+  },
+  {
+    "id": "en-2858",
+    "word": "vehemently",
+    "pos": "副詞",
+    "meaning": "激しく、猛烈に",
+    "level": 3,
+    "confusers": [
+      "en-2105"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2859",
+    "word": "verbatim",
+    "pos": "副詞",
+    "meaning": "一語一語そのまま、逐語的に",
+    "level": 3,
+    "confusers": [
+      "en-2106"
+    ],
+    "synonyms": [
+      "en-2164"
+    ]
+  },
+  {
+    "id": "en-2860",
+    "word": "wholeheartedly",
+    "pos": "副詞",
+    "meaning": "心から、全面的に",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2139"
+    ]
+  },
+  {
+    "id": "en-2861",
+    "word": "intermittently",
+    "pos": "副詞",
+    "meaning": "断続的に",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0838"
+    ]
+  },
+  {
+    "id": "en-2862",
+    "word": "paradoxically",
+    "pos": "副詞",
+    "meaning": "逆説的に",
+    "level": 3,
+    "confusers": [
+      "en-1810"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2863",
+    "word": "ironically",
+    "pos": "副詞",
+    "meaning": "皮肉にも",
+    "level": 3,
+    "confusers": [
+      "en-1999"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2864",
+    "word": "conceivably",
+    "pos": "副詞",
+    "meaning": "考えられる限りでは、ひょっとすると",
+    "level": 3,
+    "confusers": [
+      "en-1023"
+    ],
+    "synonyms": [
+      "en-0841"
+    ]
+  },
+  {
+    "id": "en-2865",
+    "word": "inexplicably",
+    "pos": "副詞",
+    "meaning": "不可解にも",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2866",
+    "word": "haphazardly",
+    "pos": "副詞",
+    "meaning": "無計画に",
+    "level": 3,
+    "confusers": [
+      "en-2706"
+    ],
+    "synonyms": [
+      "en-2867"
+    ]
+  },
+  {
+    "id": "en-2867",
+    "word": "randomly",
+    "pos": "副詞",
+    "meaning": "無作為に",
+    "level": 3,
+    "confusers": [
+      "en-2707"
+    ],
+    "synonyms": [
+      "en-2866"
+    ]
+  },
+  {
+    "id": "en-2868",
+    "word": "vendetta",
+    "pos": "名詞",
+    "meaning": "（長期の）確執",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2869"
+    ]
+  },
+  {
+    "id": "en-2869",
+    "word": "feud",
+    "pos": "名詞",
+    "meaning": "（長く続く）確執、不和",
+    "level": 3,
+    "confusers": [
+      "en-2383"
+    ],
+    "synonyms": [
+      "en-2868"
+    ]
+  },
+  {
+    "id": "en-2870",
+    "word": "venue",
+    "pos": "名詞",
+    "meaning": "開催地、会場",
+    "level": 3,
+    "confusers": [
+      "en-1186"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2871",
+    "word": "vestige",
+    "pos": "名詞",
+    "meaning": "名残、痕跡",
+    "level": 3,
+    "confusers": [
+      "en-1832"
+    ],
+    "synonyms": [
+      "en-2872"
+    ]
+  },
+  {
+    "id": "en-2872",
+    "word": "trace",
+    "pos": "名詞",
+    "meaning": "痕跡、跡",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2871"
+    ]
+  },
+  {
+    "id": "en-2873",
+    "word": "vicinity",
+    "pos": "名詞",
+    "meaning": "近辺",
+    "level": 3,
+    "confusers": [
+      "en-2409"
+    ],
+    "synonyms": [
+      "en-1841"
+    ]
+  },
+  {
+    "id": "en-2874",
+    "word": "vigilance",
+    "pos": "名詞",
+    "meaning": "警戒",
+    "level": 3,
+    "confusers": [
+      "en-2826",
+      "en-2470"
+    ],
+    "synonyms": [
+      "en-1633"
+    ]
+  },
+  {
+    "id": "en-2875",
+    "word": "whim",
+    "pos": "名詞",
+    "meaning": "気まぐれ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2876",
+    "word": "adversity",
+    "pos": "名詞",
+    "meaning": "逆境",
+    "level": 3,
+    "confusers": [
+      "en-1695"
+    ],
+    "synonyms": [
+      "en-2877"
+    ]
+  },
+  {
+    "id": "en-2877",
+    "word": "hardship",
+    "pos": "名詞",
+    "meaning": "苦難",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2876"
+    ]
+  },
+  {
+    "id": "en-2878",
+    "word": "ailment",
+    "pos": "名詞",
+    "meaning": "（軽い）病気",
+    "level": 3,
+    "confusers": [
+      "en-0365"
+    ],
+    "synonyms": [
+      "en-2879",
+      "en-0360"
+    ]
+  },
+  {
+    "id": "en-2879",
+    "word": "illness",
+    "pos": "名詞",
+    "meaning": "病気",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0360",
+      "en-2878"
+    ]
+  },
+  {
+    "id": "en-2880",
+    "word": "allure",
+    "pos": "名詞",
+    "meaning": "魅力",
+    "level": 3,
+    "confusers": [
+      "en-2173",
+      "en-2184"
+    ],
+    "synonyms": [
+      "en-2881"
+    ]
+  },
+  {
+    "id": "en-2881",
+    "word": "charm",
+    "pos": "名詞",
+    "meaning": "魅力",
+    "level": 3,
+    "confusers": [
+      "en-0387"
+    ],
+    "synonyms": [
+      "en-2880"
+    ]
+  },
+  {
+    "id": "en-2882",
+    "word": "anarchy",
+    "pos": "名詞",
+    "meaning": "無政府状態、無秩序",
+    "level": 3,
+    "confusers": [
+      "en-1740"
+    ],
+    "synonyms": [
+      "en-1649"
+    ]
+  },
+  {
+    "id": "en-2883",
+    "word": "anguish",
+    "pos": "名詞",
+    "meaning": "苦悩",
+    "level": 3,
+    "confusers": [
+      "en-2299",
+      "en-0907"
+    ],
+    "synonyms": [
+      "en-2884"
+    ]
+  },
+  {
+    "id": "en-2884",
+    "word": "agony",
+    "pos": "名詞",
+    "meaning": "激しい苦痛、苦悩",
+    "level": 3,
+    "confusers": [
+      "en-1771"
+    ],
+    "synonyms": [
+      "en-2883"
+    ]
+  },
+  {
+    "id": "en-2885",
+    "word": "apprentice",
+    "pos": "名詞",
+    "meaning": "見習い、弟子",
+    "level": 3,
+    "confusers": [
+      "en-2209",
+      "en-0306",
+      "en-0460"
+    ],
+    "synonyms": [
+      "en-2886"
+    ]
+  },
+  {
+    "id": "en-2886",
+    "word": "novice",
+    "pos": "名詞",
+    "meaning": "初心者",
+    "level": 3,
+    "confusers": [
+      "en-0178",
+      "en-1265"
+    ],
+    "synonyms": [
+      "en-2887",
+      "en-2885"
+    ]
+  },
+  {
+    "id": "en-2887",
+    "word": "beginner",
+    "pos": "名詞",
+    "meaning": "初心者",
+    "level": 3,
+    "confusers": [
+      "en-2514"
+    ],
+    "synonyms": [
+      "en-2886"
+    ]
+  },
+  {
+    "id": "en-2888",
+    "word": "archive",
+    "pos": "名詞",
+    "meaning": "記録保管所、アーカイブ",
+    "level": 3,
+    "confusers": [
+      "en-0004",
+      "en-0241"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2889",
+    "word": "ascent",
+    "pos": "名詞",
+    "meaning": "上昇、登ること",
+    "level": 3,
+    "confusers": [
+      "en-1681"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2890",
+    "word": "attire",
+    "pos": "名詞",
+    "meaning": "服装",
+    "level": 3,
+    "confusers": [
+      "en-0671"
+    ],
+    "synonyms": [
+      "en-2891"
+    ]
+  },
+  {
+    "id": "en-2891",
+    "word": "clothing",
+    "pos": "名詞",
+    "meaning": "衣類",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2890"
+    ]
+  },
+  {
+    "id": "en-2892",
+    "word": "breach",
+    "pos": "名詞",
+    "meaning": "違反、破ること",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2893"
+    ]
+  },
+  {
+    "id": "en-2893",
+    "word": "violation",
+    "pos": "名詞",
+    "meaning": "違反",
+    "level": 3,
+    "confusers": [
+      "en-1772"
+    ],
+    "synonyms": [
+      "en-2892"
+    ]
+  },
+  {
+    "id": "en-2894",
+    "word": "brink",
+    "pos": "名詞",
+    "meaning": "瀬戸際",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2895"
+    ]
+  },
+  {
+    "id": "en-2895",
+    "word": "verge",
+    "pos": "名詞",
+    "meaning": "縁、間際",
+    "level": 3,
+    "confusers": [
+      "en-1066",
+      "en-2593"
+    ],
+    "synonyms": [
+      "en-2894"
+    ]
+  },
+  {
+    "id": "en-2896",
+    "word": "catalyst",
+    "pos": "名詞",
+    "meaning": "触媒、きっかけ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2897",
+    "word": "cessation",
+    "pos": "名詞",
+    "meaning": "停止、中止",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1404"
+    ]
+  },
+  {
+    "id": "en-2898",
+    "word": "cohesion",
+    "pos": "名詞",
+    "meaning": "結束、まとまり",
+    "level": 3,
+    "confusers": [
+      "en-2479"
+    ],
+    "synonyms": [
+      "en-2899"
+    ]
+  },
+  {
+    "id": "en-2899",
+    "word": "unity",
+    "pos": "名詞",
+    "meaning": "統一、まとまり",
+    "level": 3,
+    "confusers": [
+      "en-0522",
+      "en-1906"
+    ],
+    "synonyms": [
+      "en-2898"
+    ]
+  },
+  {
+    "id": "en-2900",
+    "word": "dearth",
+    "pos": "名詞",
+    "meaning": "不足、欠乏",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0491",
+      "en-1869"
+    ]
+  }
+]
