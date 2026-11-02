@@ -20,7 +20,9 @@
     "confusers": [
       "en-0303"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0588"
+    ]
   },
   {
     "id": "en-0303",
@@ -119,7 +121,9 @@
     "meaning": "援助",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0541"
+    ]
   },
   {
     "id": "en-0312",
@@ -188,7 +192,9 @@
       "en-0318",
       "en-0047"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0584"
+    ]
   },
   {
     "id": "en-0318",
@@ -230,7 +236,10 @@
     "meaning": "経歴、職業",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0439",
+      "en-0440"
+    ]
   },
   {
     "id": "en-0322",
@@ -262,7 +271,9 @@
       "en-0341",
       "en-0379"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0454"
+    ]
   },
   {
     "id": "en-0325",
@@ -271,7 +282,10 @@
     "meaning": "選択",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0441",
+      "en-0543"
+    ]
   },
   {
     "id": "en-0326",
@@ -329,7 +343,9 @@
     "meaning": "概念",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0436"
+    ]
   },
   {
     "id": "en-0332",
@@ -406,7 +422,9 @@
     "confusers": [
       "en-0337"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0467"
+    ]
   },
   {
     "id": "en-0339",
@@ -669,7 +687,9 @@
     "meaning": "義務、職務、関税",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0438"
+    ]
   },
   {
     "id": "en-0363",
@@ -696,7 +716,9 @@
     "meaning": "要素",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0581"
+    ]
   },
   {
     "id": "en-0366",
@@ -892,7 +914,8 @@
     "confusers": [],
     "synonyms": [
       "en-0043",
-      "en-0383"
+      "en-0383",
+      "en-0542"
     ]
   },
   {
@@ -979,7 +1002,9 @@
     "meaning": "重要性",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0493"
+    ]
   },
   {
     "id": "en-0394",
