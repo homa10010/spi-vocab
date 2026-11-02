@@ -22,7 +22,8 @@
     ],
     "synonyms": [
       "en-0588",
-      "en-1140"
+      "en-1140",
+      "en-1901"
     ]
   },
   {
@@ -783,7 +784,9 @@
     "meaning": "エネルギー、活力",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1916"
+    ]
   },
   {
     "id": "en-0371",

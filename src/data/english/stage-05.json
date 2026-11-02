@@ -432,7 +432,8 @@
     "confusers": [],
     "synonyms": [
       "en-0439",
-      "en-0321"
+      "en-0321",
+      "en-1918"
     ]
   },
   {
@@ -500,7 +501,9 @@
     "meaning": "速度、歩調",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1910"
+    ]
   },
   {
     "id": "en-0447",
