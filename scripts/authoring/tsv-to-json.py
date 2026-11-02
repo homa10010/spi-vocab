@@ -69,6 +69,9 @@ for e in entries:
     for s in e['synonyms']:
         if e['id'] not in by_id[s]['synonyms']:
             by_id[s]['synonyms'].append(e['id'])
+# 同義語は誤答に出してはいけないので、紛らわしい語からは外す（同義語が優先）
+for e in by_id.values():
+    e['confusers'] = [c for c in e['confusers'] if c not in e['synonyms']]
 
 def dump(path, data):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
