@@ -298,7 +298,9 @@
     "confusers": [
       "en-0435"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1809"
+    ]
   },
   {
     "id": "en-1728",
@@ -397,7 +399,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-0474"
+      "en-0474",
+      "en-1816"
     ]
   },
   {
@@ -472,7 +475,9 @@
     "meaning": "衛生",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1866"
+    ]
   },
   {
     "id": "en-1744",
@@ -903,7 +908,8 @@
       "en-1783"
     ],
     "synonyms": [
-      "en-0272"
+      "en-0272",
+      "en-1834"
     ]
   },
   {

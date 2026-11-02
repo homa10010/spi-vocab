@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "en-1801",
+    "word": "nutrition",
+    "pos": "名詞",
+    "meaning": "栄養",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1802",
+    "word": "obesity",
+    "pos": "名詞",
+    "meaning": "肥満",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1803",
+    "word": "obsession",
+    "pos": "名詞",
+    "meaning": "強迫観念、執着",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1804",
+    "word": "offspring",
+    "pos": "名詞",
+    "meaning": "子、子孫",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0546"
+    ]
+  },
+  {
+    "id": "en-1805",
+    "word": "opponent",
+    "pos": "名詞",
+    "meaning": "相手、反対者",
+    "level": 2,
+    "confusers": [
+      "en-0581",
+      "en-1806"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1806",
+    "word": "proponent",
+    "pos": "名詞",
+    "meaning": "支持者",
+    "level": 2,
+    "confusers": [
+      "en-1805",
+      "en-0581"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1807",
+    "word": "outbreak",
+    "pos": "名詞",
+    "meaning": "（戦争・病気の）発生",
+    "level": 2,
+    "confusers": [
+      "en-1129"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1808",
+    "word": "outlook",
+    "pos": "名詞",
+    "meaning": "見通し、見解",
+    "level": 2,
+    "confusers": [
+      "en-0953",
+      "en-1072"
+    ],
+    "synonyms": [
+      "en-0466"
+    ]
+  },
+  {
+    "id": "en-1809",
+    "word": "paradigm",
+    "pos": "名詞",
+    "meaning": "（考え方の）枠組み、模範",
+    "level": 2,
+    "confusers": [
+      "en-1810"
+    ],
+    "synonyms": [
+      "en-1727"
+    ]
+  },
+  {
+    "id": "en-1810",
+    "word": "paradox",
+    "pos": "名詞",
+    "meaning": "逆説、矛盾",
+    "level": 2,
+    "confusers": [
+      "en-1809"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1811",
+    "word": "parliament",
+    "pos": "名詞",
+    "meaning": "議会",
+    "level": 2,
+    "confusers": [
+      "en-0350"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1812",
+    "word": "particle",
+    "pos": "名詞",
+    "meaning": "粒子",
+    "level": 2,
+    "confusers": [
+      "en-0309",
+      "en-0683",
+      "en-1250"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1813",
+    "word": "pedestrian",
+    "pos": "名詞",
+    "meaning": "歩行者",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1814",
+    "word": "peer",
+    "pos": "名詞",
+    "meaning": "同僚、仲間、同等の人",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0328"
+    ]
+  },
+  {
+    "id": "en-1815",
+    "word": "perception",
+    "pos": "名詞",
+    "meaning": "知覚、認識",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1816",
+    "word": "peril",
+    "pos": "名詞",
+    "meaning": "（重大な）危険",
+    "level": 2,
+    "confusers": [
+      "en-0232"
+    ],
+    "synonyms": [
+      "en-1736"
+    ]
+  },
+  {
+    "id": "en-1817",
+    "word": "persistence",
+    "pos": "名詞",
+    "meaning": "粘り強さ",
+    "level": 2,
+    "confusers": [
+      "en-0643"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1818",
+    "word": "pesticide",
+    "pos": "名詞",
+    "meaning": "殺虫剤、農薬",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1819",
+    "word": "petition",
+    "pos": "名詞",
+    "meaning": "請願（書）",
+    "level": 2,
+    "confusers": [
+      "en-0330"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1820",
+    "word": "philosophy",
+    "pos": "名詞",
+    "meaning": "哲学",
+    "level": 2,
+    "confusers": [
+      "en-1821"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1821",
+    "word": "psychology",
+    "pos": "名詞",
+    "meaning": "心理学",
+    "level": 2,
+    "confusers": [
+      "en-1820"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1822",
+    "word": "pioneer",
+    "pos": "名詞",
+    "meaning": "先駆者",
+    "level": 2,
+    "confusers": [
+      "en-1814"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1823",
+    "word": "plague",
+    "pos": "名詞",
+    "meaning": "疫病、災い",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1824",
+    "word": "pledge",
+    "pos": "名詞",
+    "meaning": "誓約、公約",
+    "level": 2,
+    "confusers": [
+      "en-1537"
+    ],
+    "synonyms": [
+      "en-0233"
+    ]
+  },
+  {
+    "id": "en-1825",
+    "word": "poverty",
+    "pos": "名詞",
+    "meaning": "貧困",
+    "level": 2,
+    "confusers": [
+      "en-0059",
+      "en-0058"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1826",
+    "word": "precaution",
+    "pos": "名詞",
+    "meaning": "予防措置、用心",
+    "level": 2,
+    "confusers": [
+      "en-1633"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1827",
+    "word": "precedent",
+    "pos": "名詞",
+    "meaning": "前例",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1828",
+    "word": "predator",
+    "pos": "名詞",
+    "meaning": "捕食者",
+    "level": 2,
+    "confusers": [
+      "en-1829"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1829",
+    "word": "predecessor",
+    "pos": "名詞",
+    "meaning": "前任者",
+    "level": 2,
+    "confusers": [
+      "en-1828",
+      "en-1830"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1830",
+    "word": "successor",
+    "pos": "名詞",
+    "meaning": "後継者",
+    "level": 2,
+    "confusers": [
+      "en-0051",
+      "en-1829"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1831",
+    "word": "prescription",
+    "pos": "名詞",
+    "meaning": "処方（箋）",
+    "level": 2,
+    "confusers": [
+      "en-0352"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1832",
+    "word": "prestige",
+    "pos": "名詞",
+    "meaning": "名声、威信",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0470"
+    ]
+  },
+  {
+    "id": "en-1833",
+    "word": "privilege",
+    "pos": "名詞",
+    "meaning": "特権",
+    "level": 2,
+    "confusers": [
+      "en-1832"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1834",
+    "word": "probability",
+    "pos": "名詞",
+    "meaning": "確率、見込み",
+    "level": 2,
+    "confusers": [
+      "en-0272",
+      "en-0842"
+    ],
+    "synonyms": [
+      "en-1782"
+    ]
+  },
+  {
+    "id": "en-1835",
+    "word": "proficiency",
+    "pos": "名詞",
+    "meaning": "熟達、技量",
+    "level": 2,
+    "confusers": [
+      "en-1155",
+      "en-1678"
+    ],
+    "synonyms": [
+      "en-0300"
+    ]
+  },
+  {
+    "id": "en-1836",
+    "word": "prohibition",
+    "pos": "名詞",
+    "meaning": "禁止",
+    "level": 2,
+    "confusers": [
+      "en-0927",
+      "en-1716"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1837",
+    "word": "prosperity",
+    "pos": "名詞",
+    "meaning": "繁栄",
+    "level": 2,
+    "confusers": [
+      "en-0059"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1838",
+    "word": "protocol",
+    "pos": "名詞",
+    "meaning": "議定書、手順、儀礼",
+    "level": 2,
+    "confusers": [
+      "en-1181",
+      "en-0958"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1839",
+    "word": "province",
+    "pos": "名詞",
+    "meaning": "州、省、分野",
+    "level": 2,
+    "confusers": [
+      "en-1840"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1840",
+    "word": "provision",
+    "pos": "名詞",
+    "meaning": "供給、規定、備え",
+    "level": 2,
+    "confusers": [
+      "en-1839"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1841",
+    "word": "proximity",
+    "pos": "名詞",
+    "meaning": "近接、近さ",
+    "level": 2,
+    "confusers": [
+      "en-0805"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1842",
+    "word": "publicity",
+    "pos": "名詞",
+    "meaning": "宣伝、世間の注目",
+    "level": 2,
+    "confusers": [
+      "en-0760"
+    ],
+    "synonyms": [
+      "en-0537"
+    ]
+  },
+  {
+    "id": "en-1843",
+    "word": "quest",
+    "pos": "名詞",
+    "meaning": "探求",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1844"
+    ]
+  },
+  {
+    "id": "en-1844",
+    "word": "pursuit",
+    "pos": "名詞",
+    "meaning": "追求",
+    "level": 2,
+    "confusers": [
+      "en-0193"
+    ],
+    "synonyms": [
+      "en-1843"
+    ]
+  },
+  {
+    "id": "en-1845",
+    "word": "radiation",
+    "pos": "名詞",
+    "meaning": "放射線",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1846",
+    "word": "rebellion",
+    "pos": "名詞",
+    "meaning": "反乱",
+    "level": 2,
+    "confusers": [
+      "en-1463",
+      "en-1712"
+    ],
+    "synonyms": [
+      "en-1482"
+    ]
+  },
+  {
+    "id": "en-1847",
+    "word": "recognition",
+    "pos": "名詞",
+    "meaning": "認識、承認",
+    "level": 2,
+    "confusers": [
+      "en-0036"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1848",
+    "word": "refugee",
+    "pos": "名詞",
+    "meaning": "難民",
+    "level": 2,
+    "confusers": [
+      "en-0195"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1849",
+    "word": "rehabilitation",
+    "pos": "名詞",
+    "meaning": "社会復帰、リハビリ",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1850",
+    "word": "reliance",
+    "pos": "名詞",
+    "meaning": "依存、頼ること",
+    "level": 2,
+    "confusers": [
+      "en-0088",
+      "en-1618"
+    ],
+    "synonyms": [
+      "en-1851"
+    ]
+  },
+  {
+    "id": "en-1851",
+    "word": "dependence",
+    "pos": "名詞",
+    "meaning": "依存",
+    "level": 2,
+    "confusers": [
+      "en-0397",
+      "en-0655"
+    ],
+    "synonyms": [
+      "en-1850"
+    ]
+  },
+  {
+    "id": "en-1852",
+    "word": "reluctance",
+    "pos": "名詞",
+    "meaning": "気が進まないこと",
+    "level": 2,
+    "confusers": [
+      "en-0775"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1853",
+    "word": "replica",
+    "pos": "名詞",
+    "meaning": "複製",
+    "level": 2,
+    "confusers": [
+      "en-1476",
+      "en-0106"
+    ],
+    "synonyms": [
+      "en-1854"
+    ]
+  },
+  {
+    "id": "en-1854",
+    "word": "copy",
+    "pos": "名詞",
+    "meaning": "写し、複製、（本の）部",
+    "level": 2,
+    "confusers": [
+      "en-1578"
+    ],
+    "synonyms": [
+      "en-1853"
+    ]
+  },
+  {
+    "id": "en-1855",
+    "word": "reservoir",
+    "pos": "名詞",
+    "meaning": "貯水池、蓄え",
+    "level": 2,
+    "confusers": [
+      "en-0230"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1856",
+    "word": "residence",
+    "pos": "名詞",
+    "meaning": "住居",
+    "level": 2,
+    "confusers": [
+      "en-1760"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1857",
+    "word": "resignation",
+    "pos": "名詞",
+    "meaning": "辞職、あきらめ",
+    "level": 2,
+    "confusers": [
+      "en-0145"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1858",
+    "word": "resilience",
+    "pos": "名詞",
+    "meaning": "回復力、弾力性",
+    "level": 2,
+    "confusers": [
+      "en-1850"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1859",
+    "word": "resolution",
+    "pos": "名詞",
+    "meaning": "決議、決意、解像度",
+    "level": 2,
+    "confusers": [
+      "en-1712",
+      "en-0968",
+      "en-0282"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1860",
+    "word": "retirement",
+    "pos": "名詞",
+    "meaning": "退職",
+    "level": 2,
+    "confusers": [
+      "en-0219"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1861",
+    "word": "revenge",
+    "pos": "名詞",
+    "meaning": "復讐",
+    "level": 2,
+    "confusers": [
+      "en-1186"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1862",
+    "word": "rhetoric",
+    "pos": "名詞",
+    "meaning": "修辞（法）、美辞麗句",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1863",
+    "word": "ritual",
+    "pos": "名詞",
+    "meaning": "儀式",
+    "level": 2,
+    "confusers": [
+      "en-0608"
+    ],
+    "synonyms": [
+      "en-0570"
+    ]
+  },
+  {
+    "id": "en-1864",
+    "word": "rivalry",
+    "pos": "名詞",
+    "meaning": "競争、対抗意識",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0330"
+    ]
+  },
+  {
+    "id": "en-1865",
+    "word": "sanction",
+    "pos": "名詞",
+    "meaning": "制裁、認可",
+    "level": 2,
+    "confusers": [
+      "en-0485",
+      "en-1632"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1866",
+    "word": "sanitation",
+    "pos": "名詞",
+    "meaning": "公衆衛生（設備）",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1743"
+    ]
+  },
+  {
+    "id": "en-1867",
+    "word": "satellite",
+    "pos": "名詞",
+    "meaning": "（人工）衛星",
+    "level": 2,
+    "confusers": [
+      "en-0969"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1868",
+    "word": "scandal",
+    "pos": "名詞",
+    "meaning": "不祥事、醜聞",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1869",
+    "word": "scarcity",
+    "pos": "名詞",
+    "meaning": "不足、欠乏",
+    "level": 2,
+    "confusers": [
+      "en-1282"
+    ],
+    "synonyms": [
+      "en-0491"
+    ]
+  },
+  {
+    "id": "en-1870",
+    "word": "segment",
+    "pos": "名詞",
+    "meaning": "部分、区分",
+    "level": 2,
+    "confusers": [
+      "en-1726"
+    ],
+    "synonyms": [
+      "en-0485"
+    ]
+  },
+  {
+    "id": "en-1871",
+    "word": "sentiment",
+    "pos": "名詞",
+    "meaning": "感情、心情",
+    "level": 2,
+    "confusers": [
+      "en-1872"
+    ],
+    "synonyms": [
+      "en-0366"
+    ]
+  },
+  {
+    "id": "en-1872",
+    "word": "settlement",
+    "pos": "名詞",
+    "meaning": "解決、和解、入植地",
+    "level": 2,
+    "confusers": [
+      "en-0497",
+      "en-1871"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1873",
+    "word": "shelter",
+    "pos": "名詞",
+    "meaning": "避難所",
+    "level": 2,
+    "confusers": [
+      "en-1488"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1874",
+    "word": "skepticism",
+    "pos": "名詞",
+    "meaning": "懐疑（心）",
+    "level": 2,
+    "confusers": [
+      "en-0340"
+    ],
+    "synonyms": [
+      "en-0913"
+    ]
+  },
+  {
+    "id": "en-1875",
+    "word": "solidarity",
+    "pos": "名詞",
+    "meaning": "団結",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1876",
+    "word": "sovereignty",
+    "pos": "名詞",
+    "meaning": "主権",
+    "level": 2,
+    "confusers": [
+      "en-0315"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1877",
+    "word": "spectrum",
+    "pos": "名詞",
+    "meaning": "範囲、スペクトル",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0293"
+    ]
+  },
+  {
+    "id": "en-1878",
+    "word": "spouse",
+    "pos": "名詞",
+    "meaning": "配偶者",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1879",
+    "word": "stability",
+    "pos": "名詞",
+    "meaning": "安定（性）",
+    "level": 2,
+    "confusers": [
+      "en-0271",
+      "en-0789"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1880",
+    "word": "statistics",
+    "pos": "名詞",
+    "meaning": "統計（学）",
+    "level": 2,
+    "confusers": [
+      "en-0498"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1881",
+    "word": "stereotype",
+    "pos": "名詞",
+    "meaning": "固定観念",
+    "level": 2,
+    "confusers": [
+      "en-1181"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1882",
+    "word": "stimulus",
+    "pos": "名詞",
+    "meaning": "刺激",
+    "level": 2,
+    "confusers": [
+      "en-1100",
+      "en-0498"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1883",
+    "word": "superstition",
+    "pos": "名詞",
+    "meaning": "迷信",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1884",
+    "word": "surgeon",
+    "pos": "名詞",
+    "meaning": "外科医",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1885",
+    "word": "surveillance",
+    "pos": "名詞",
+    "meaning": "監視",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1886",
+    "word": "suspicion",
+    "pos": "名詞",
+    "meaning": "疑い",
+    "level": 2,
+    "confusers": [
+      "en-1883"
+    ],
+    "synonyms": [
+      "en-0913"
+    ]
+  },
+  {
+    "id": "en-1887",
+    "word": "symmetry",
+    "pos": "名詞",
+    "meaning": "左右対称、均整",
+    "level": 2,
+    "confusers": [
+      "en-1656"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1888",
+    "word": "syndrome",
+    "pos": "名詞",
+    "meaning": "症候群",
+    "level": 2,
+    "confusers": [
+      "en-0508"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1889",
+    "word": "synthesis",
+    "pos": "名詞",
+    "meaning": "合成、総合",
+    "level": 2,
+    "confusers": [
+      "en-1744"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1890",
+    "word": "temperament",
+    "pos": "名詞",
+    "meaning": "気質",
+    "level": 2,
+    "confusers": [
+      "en-0513"
+    ],
+    "synonyms": [
+      "en-0454"
+    ]
+  },
+  {
+    "id": "en-1891",
+    "word": "tension",
+    "pos": "名詞",
+    "meaning": "緊張",
+    "level": 2,
+    "confusers": [
+      "en-0313"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1892",
+    "word": "testimony",
+    "pos": "名詞",
+    "meaning": "証言",
+    "level": 2,
+    "confusers": [
+      "en-0570"
+    ],
+    "synonyms": [
+      "en-0066"
+    ]
+  },
+  {
+    "id": "en-1893",
+    "word": "texture",
+    "pos": "名詞",
+    "meaning": "手触り、質感",
+    "level": 2,
+    "confusers": [
+      "en-0501"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1894",
+    "word": "threshold",
+    "pos": "名詞",
+    "meaning": "敷居、境目、入り口",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1895",
+    "word": "tolerance",
+    "pos": "名詞",
+    "meaning": "寛容、許容範囲",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1896",
+    "word": "tragedy",
+    "pos": "名詞",
+    "meaning": "悲劇",
+    "level": 2,
+    "confusers": [
+      "en-0499",
+      "en-0520"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1897",
+    "word": "trait",
+    "pos": "名詞",
+    "meaning": "特性、特徴",
+    "level": 2,
+    "confusers": [
+      "en-0216"
+    ],
+    "synonyms": [
+      "en-0379",
+      "en-1898"
+    ]
+  },
+  {
+    "id": "en-1898",
+    "word": "characteristic",
+    "pos": "名詞",
+    "meaning": "特徴",
+    "level": 2,
+    "confusers": [
+      "en-0324"
+    ],
+    "synonyms": [
+      "en-0379",
+      "en-1897"
+    ]
+  },
+  {
+    "id": "en-1899",
+    "word": "transition",
+    "pos": "名詞",
+    "meaning": "移行、推移",
+    "level": 2,
+    "confusers": [
+      "en-1196",
+      "en-0286"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1900",
+    "word": "transparency",
+    "pos": "名詞",
+    "meaning": "透明性",
+    "level": 2,
+    "confusers": [
+      "en-0617"
+    ],
+    "synonyms": []
+  }
+]

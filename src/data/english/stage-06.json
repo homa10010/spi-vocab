@@ -402,7 +402,9 @@
     "meaning": "広告",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1842"
+    ]
   },
   {
     "id": "en-0538",
@@ -512,7 +514,9 @@
     "confusers": [
       "en-0545"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1804"
+    ]
   },
   {
     "id": "en-0547",
@@ -769,7 +773,9 @@
     "meaning": "儀式",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1863"
+    ]
   },
   {
     "id": "en-0571",

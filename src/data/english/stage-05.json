@@ -586,7 +586,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0324"
+      "en-0324",
+      "en-1890"
     ]
   },
   {
@@ -724,7 +725,9 @@
       "en-0020",
       "en-0023"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1808"
+    ]
   },
   {
     "id": "en-0467",
@@ -766,7 +769,9 @@
     "confusers": [
       "en-0458"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1832"
+    ]
   },
   {
     "id": "en-0471",
@@ -928,7 +933,9 @@
     "confusers": [
       "en-0275"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1870"
+    ]
   },
   {
     "id": "en-0486",
@@ -996,7 +1003,8 @@
     ],
     "synonyms": [
       "en-0055",
-      "en-1678"
+      "en-1678",
+      "en-1869"
     ]
   },
   {

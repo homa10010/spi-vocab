@@ -317,7 +317,9 @@
     "meaning": "同僚",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1814"
+    ]
   },
   {
     "id": "en-0329",
@@ -337,7 +339,9 @@
     "meaning": "競争",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1864"
+    ]
   },
   {
     "id": "en-0331",
@@ -735,7 +739,9 @@
     "meaning": "感情",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1871"
+    ]
   },
   {
     "id": "en-0367",
@@ -871,7 +877,10 @@
       "en-0378",
       "en-0380"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1897",
+      "en-1898"
+    ]
   },
   {
     "id": "en-0380",
