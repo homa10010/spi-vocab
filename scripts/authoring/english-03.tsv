@@ -1,0 +1,100 @@
+release	動詞	解放する、公開する	relax,relate,replace
+relax	動詞	くつろぐ	release,relate,remain
+relate	動詞	関係させる、関連づける	relax,release,rely	connect
+rely	動詞	頼る	relate,reply,deny	depend
+depend	動詞	頼る、〜次第である	defend,spend,expend
+remove	動詞	取り除く	remain,remind,recover
+replace	動詞	取り替える	remove,represent,repair
+represent	動詞	代表する、表す	present,prevent,repeat
+present	動詞	贈る、提示する	represent,prevent,preserve
+satisfy	動詞	満足させる	identify,supply,succeed
+succeed	動詞	成功する、受け継ぐ	exceed,proceed,success
+exceed	動詞	超える	succeed,proceed,expand
+survive	動詞	生き残る	survey,revive,arrive
+survey	動詞	調査する	survive,serve,observe
+threaten	動詞	脅す	treat,threat,shorten
+treat	動詞	扱う、治療する	threaten,trick,trust
+transfer	動詞	移す、転勤させる	translate,transform,offer
+translate	動詞	翻訳する	transfer,transform,relate
+retire	動詞	引退する	resign,require,remain
+learn	動詞	学ぶ、知る	earn,lean,teach
+prescribe	動詞	（薬を）処方する、規定する	describe,subscribe,predict
+initiate	動詞	始める、開始する	imitate,indicate,initial
+dedicate	動詞	捧げる	indicate,decide,educate
+evolve	動詞	進化する、発展する	involve,revolve,develop
+invite	動詞	招待する	invent,involve,inform
+notify	動詞	通知する	notice,identify,satisfy	inform
+note	動詞	注意する、書き留める	notice,vote,quote
+announce	動詞	発表する	pronounce,denounce,notice
+deserve	動詞	〜に値する	preserve,reserve,observe
+reserve	動詞	予約する、取っておく	preserve,deserve,observe
+polish	動詞	磨く	publish,punish,abolish
+perish	動詞	死ぬ、滅びる	punish,publish,polish
+promise	動詞	約束する	purchase,promote,premise
+persuade	動詞	説得する	pursue,pervade,suppose
+comment	動詞	論評する、意見を述べる	command,recommend,commit
+command	動詞	命令する	comment,commend,demand
+induce	動詞	誘発する、引き起こす	reduce,produce,deduce
+deduce	動詞	推論する	reduce,induce,deduct
+teach	動詞	教える	learn,reach,touch
+reach	動詞	着く、届く	teach,arrive,attain
+arrive	動詞	到着する	survive,derive,reach
+derive	動詞	由来する、引き出す	arrive,deprive,drive
+deprive	動詞	奪う	derive,deserve,prevent
+attain	動詞	達成する、到達する	obtain,contain,retain	achieve
+retain	動詞	保持する	obtain,contain,attain
+expand	動詞	拡大する、広がる	extend,expend,exceed
+spend	動詞	（金や時間を）使う、過ごす	depend,expend,lend
+defend	動詞	守る、弁護する	depend,offend,descend
+offend	動詞	怒らせる、気分を害する	defend,attend,afford
+proceed	動詞	進む、続行する	succeed,exceed,precede
+precede	動詞	〜に先行する	proceed,recede,succeed
+promote	動詞	促進する、昇進させる	promise,remote,provide
+vote	動詞	投票する	note,quote,devote
+quote	動詞	引用する	note,vote,quota
+devote	動詞	捧げる、充てる	vote,devour,divide	dedicate
+transform	動詞	変形させる、一変させる	transfer,translate,perform
+revive	動詞	生き返らせる、復活させる	survive,revise,arrive
+revise	動詞	改訂する、修正する	revive,devise,advise
+devise	動詞	考案する	revise,advise,divide
+trust	動詞	信頼する	treat,thrust,rely
+shorten	動詞	短くする	threaten,shelter,lengthen
+lengthen	動詞	長くする	shorten,strengthen,extend
+strengthen	動詞	強化する	lengthen,threaten,support
+demand	動詞	要求する	command,depend,require
+commit	動詞	（罪を）犯す、委ねる	comment,admit,omit
+omit	動詞	省く	admit,commit,emit
+emit	動詞	放出する	omit,admit,remit
+advantage	名詞	利点、有利	disadvantage,advance,average
+advance	名詞	前進、進歩	advantage,balance,distance	progress
+disadvantage	名詞	不利、不利な点	advantage,distance,disease
+ability	名詞	能力	possibility,responsibility,quality
+possibility	名詞	可能性	ability,responsibility,opportunity
+responsibility	名詞	責任	possibility,ability,response
+response	名詞	反応、応答	responsibility,result,reason	reaction
+reaction	名詞	反応	relation,action,result
+result	名詞	結果	reason,effect,cause
+reason	名詞	理由	result,season,cause
+cause	名詞	原因	case,result,reason
+case	名詞	場合、事例	cause,occasion,issue	occasion
+issue	名詞	（議論すべき）問題、発行	tissue,solution,situation	problem
+problem	名詞	問題、困難	solution,situation,purpose
+solution	名詞	解決策	pollution,situation,problem
+pollution	名詞	汚染	solution,population,situation
+situation	名詞	状況	condition,solution,tradition
+condition	名詞	状態、条件	situation,tradition,contract
+tradition	名詞	伝統	condition,custom,situation
+custom	名詞	（社会の）習慣、慣習	tradition,costume,culture	habit
+habit	名詞	（個人の）習慣、癖	custom,ability,tradition
+quality	名詞	質	quantity,ability,quantity
+quantity	名詞	量	quality,amount,variety	amount
+amount	名詞	総額、量	average,account,range
+average	名詞	平均	amount,range,advantage
+range	名詞	範囲	average,variety,change
+variety	名詞	多様性、種類	society,quality,range
+society	名詞	社会	variety,community,government	community
+community	名詞	地域社会、共同体	government,commodity,opportunity
+government	名詞	政府	environment,society,community
+knowledge	名詞	知識	ability,experience,evidence
+method	名詞	方法	process,approach,purpose
+skill	名詞	技術、腕前	ability,knowledge,quality

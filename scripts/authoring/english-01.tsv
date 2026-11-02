@@ -35,7 +35,7 @@ inform	動詞	知らせる、通知する	confirm,perform,introduce
 perform	動詞	行う、演じる	inform,confirm,produce
 recognize	動詞	認識する、それとわかる	organize,consider,inspect	realize
 realize	動詞	気づく、実現する	organize,achieve,attempt
-organize	動詞	組織する、準備する	recognize,realize,produce
+organize	動詞	組織する、まとめる	recognize,realize,produce
 attempt	動詞	試みる	attend,achieve,intend
 attend	動詞	出席する	attempt,intend,extend
 intend	動詞	〜するつもりである、意図する	attend,extend,attempt

@@ -19,6 +19,7 @@ ap.add_argument('tsv')
 ap.add_argument('stage', type=int)
 ap.add_argument('--type', default='二字熟語')
 ap.add_argument('--level', type=int, default=1)
+ap.add_argument('--drop-missing', action='store_true')
 a = ap.parse_args()
 
 root = pathlib.Path(__file__).resolve().parents[2] / 'src' / 'data' / a.mode
@@ -50,16 +51,17 @@ for i, r in enumerate(rows):
 by_word = {e['word']: e for v in others.values() for e in v}
 by_word.update({e['word']: e for e in entries})
 missing = []
-def resolve(words):
+def resolve(words, drop=False):
     out = []
     for w in words:
         if w not in by_word:
-            missing.append(w)
-        else:
+            if not drop:
+                missing.append(w)
+        elif by_word[w]['id'] not in out:
             out.append(by_word[w]['id'])
     return out
 for e in entries:
-    e['confusers'] = resolve(e['confusers'])
+    e['confusers'] = [c for c in resolve(e['confusers'], a.drop_missing) if c != e['id']]
     e['synonyms'] = resolve(e['synonyms'])
 if missing:
     sys.exit('見つからない語: ' + ', '.join(sorted(set(missing))))

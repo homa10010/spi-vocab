@@ -13,6 +13,8 @@ for mode, stage, tsv, typ, level in rows:
     args = [sys.executable, str(here / 'tsv-to-json.py'), mode, str(here / tsv), stage, '--level', level]
     if mode == 'jukugo':
         args += ['--type', typ]
+    else:
+        args += ['--drop-missing']
     r = subprocess.run(args, capture_output=True, text=True)
     if r.returncode:
         sys.exit(f'{tsv}: {r.stderr or r.stdout}')
