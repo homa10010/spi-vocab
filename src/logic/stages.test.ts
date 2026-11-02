@@ -37,11 +37,15 @@ test('ステージ1クリアでステージ2開放', () => {
   expect(clearedCount(infos)).toBe(1);
 });
 
-test('現在のステージが全出題済み・未クリアなら currentNewStage は null', () => {
+test('ステージの語を全部出したら、クリアしていなくても次のステージが開く', () => {
   const infos = stageInfos(ds, answered(1, 100, 50));
   expect(infos[0].cleared).toBe(false);
-  expect(infos[1].unlocked).toBe(false);
-  expect(currentNewStage(infos)).toBeNull();
+  expect(infos.map((i) => i.unlocked)).toEqual([true, true, false]);
+  expect(currentNewStage(infos)).toBe(2);
+});
+
+test('全ステージを出し終えたら currentNewStage は null', () => {
+  expect(currentNewStage(stageInfos(ds, answered(1, 300, 0)))).toBeNull();
 });
 
 test('クリア後に復習で正答率が下がっても、次のステージに進んでいればクリアのまま', () => {

@@ -1,8 +1,8 @@
 import type { Mode } from '../types';
 import type { Screen } from '../App';
 import { useStore } from '../state/store';
-import { buildDailySession, dailyCounts } from '../logic/session';
-import { clearedCount, currentNewStage, stageInfos } from '../logic/stages';
+import { buildDailySession, buildRandomSession, dailyCounts, PRACTICE_SIZE } from '../logic/session';
+import { clearedCount, stageInfos } from '../logic/stages';
 import { displayStreak } from '../logic/streak';
 import IosGuide from '../components/IosGuide';
 import { MODE_LABEL, freshRng } from './shared';
@@ -17,10 +17,11 @@ export default function Home({ mode, onModeChange, onNavigate }: Props) {
   const counts = dailyCounts(mode, ds, progress, save.settings, today);
   const total = counts.review + counts.fresh;
   const weakCount = ds.entries.filter((e) => progress[e.id]?.weak).length;
-  const stuck = currentNewStage(infos) === null ? infos.find((i) => i.unlocked && !i.cleared) : undefined;
 
   const start = () =>
     dispatch({ type: 'START', session: buildDailySession(mode, ds, progress, save.settings, today, freshRng()) });
+  const startRandom = () =>
+    dispatch({ type: 'START', session: buildRandomSession(mode, ds, progress, today, freshRng()) });
 
   return (
     <main className="home">
@@ -45,13 +46,15 @@ export default function Home({ mode, onModeChange, onNavigate }: Props) {
       </div>
 
       <button className="daily" onClick={start} disabled={total === 0}>
-        <span className="daily-title">今日の学習</span>
+        <span className="daily-title">学習を始める</span>
         <span className="daily-detail">
           復習{counts.review}問＋新しい語{counts.fresh}問
         </span>
       </button>
-      {total === 0 && stuck && <p className="hint">ステージ{stuck.stage}を練習してクリアしよう</p>}
-      {total === 0 && !stuck && <p className="hint">今日の分は終わりました</p>}
+      {total === 0 && <p className="hint">すべての語を出題済みです。ランダムで復習できます</p>}
+      <button className="secondary random" onClick={startRandom}>
+        ランダム{PRACTICE_SIZE}問
+      </button>
 
       <dl className="stats">
         <div>

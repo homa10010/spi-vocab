@@ -43,7 +43,7 @@ export type ProgressMap = Record<string, WordProgress>;
 export type Settings = { newPerDay: 10 | 20 | 30; iosGuideSeen: boolean };
 
 export type QueueItem = { id: string; choices: string[]; requeue: boolean };
-export type SessionKind = 'daily' | 'stage' | 'weak';
+export type SessionKind = 'daily' | 'stage' | 'weak' | 'random';
 export type Session = {
   mode: Mode;
   kind: SessionKind;

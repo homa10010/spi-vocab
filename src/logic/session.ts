@@ -15,12 +15,10 @@ function pickDaily(ds: Dataset, progress: ProgressMap, settings: Settings, today
     .slice(0, REVIEW_LIMIT)
     .map(({ e }) => e);
   const stage = currentNewStage(stageInfos(ds, progress));
-  const freshToday = ds.entries.filter((e) => progress[e.id]?.firstDay === today).length;
-  const quota = Math.max(0, settings.newPerDay - freshToday);
   const fresh =
     stage === null
       ? []
-      : ds.entries.filter((e) => e.stage === stage && !isSeen(progress[e.id])).slice(0, quota);
+      : ds.entries.filter((e) => e.stage === stage && !isSeen(progress[e.id])).slice(0, settings.newPerDay);
   return { review, fresh };
 }
 
@@ -66,6 +64,11 @@ export function buildStagePractice(
   const rest = shuffle(words.filter((e) => isSeen(progress[e.id]) && progress[e.id].lastCorrect), rng);
   const picked = [...unseen, ...wrong, ...rest].slice(0, PRACTICE_SIZE);
   return makeSession(mode, 'stage', stage, picked, ds, today, rng);
+}
+
+/** ステージや出題済みかどうかに関係なく、そのモードの全語から選ぶ */
+export function buildRandomSession(mode: Mode, ds: Dataset, _progress: ProgressMap, today: string, rng: Rng): Session {
+  return makeSession(mode, 'random', null, shuffle(ds.entries, rng).slice(0, PRACTICE_SIZE), ds, today, rng);
 }
 
 export function buildWeakSession(mode: Mode, ds: Dataset, progress: ProgressMap, today: string, rng: Rng): Session {

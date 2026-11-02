@@ -76,7 +76,7 @@ export default function Settings({ onBack }: { onBack: () => void }) {
       )}
 
       <section className="setting">
-        <h2>1日に出す新しい語</h2>
+        <h2>1回に出す新しい語</h2>
         <div className="segmented">
           {([10, 20, 30] as const).map((v) => (
             <button

@@ -40,15 +40,15 @@ beforeEach(() => {
 });
 afterEach(() => vi.restoreAllMocks());
 
-test('今日の学習ボタンに件数が出る', () => {
+test('学習を始めるボタンに件数が出る', () => {
   renderApp();
-  expect(screen.getByRole('button', { name: /今日の学習/ })).toHaveTextContent('新しい語20問');
+  expect(screen.getByRole('button', { name: /学習を始める/ })).toHaveTextContent('新しい語20問');
 });
 
 test('選択肢をタップすると正誤と全選択肢の意味が出る', async () => {
   const user = userEvent.setup();
   renderApp();
-  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   const word = correctWord();
   await user.click(choiceButton(word));
   expect(screen.getByText('正解')).toBeInTheDocument();
@@ -60,7 +60,7 @@ test('選択肢をタップすると正誤と全選択肢の意味が出る', as
 test('回答後に別の選択肢をタップしても結果は変わらない', async () => {
   const user = userEvent.setup();
   renderApp();
-  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   const word = correctWord();
   const buttons = within(screen.getByTestId('choices')).getAllByRole('button');
   const wrong = buttons.find((b) => b.textContent !== word)!;
@@ -75,7 +75,7 @@ test('回答後に別の選択肢をタップしても結果は変わらない',
 test('全問終えると結果画面になる', async () => {
   const user = userEvent.setup();
   renderApp();
-  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   for (let i = 0; i < 20; i++) {
     await user.click(choiceButton(correctWord()));
     await user.click(screen.getByRole('button', { name: '次へ' }));
@@ -83,13 +83,13 @@ test('全問終えると結果画面になる', async () => {
   expect(screen.getByRole('heading', { name: '結果' })).toBeInTheDocument();
   expect(screen.getByText('20 / 20問 正解')).toBeInTheDocument();
   await user.click(screen.getByRole('button', { name: 'ホームへ' }));
-  expect(screen.getByRole('button', { name: /今日の学習/ })).toBeInTheDocument();
+  expect(screen.getByRole('button', { name: /学習を始める/ })).toBeInTheDocument();
 });
 
 test('途中でやめて再読み込みすると続きから', async () => {
   const user = userEvent.setup();
   const first = renderApp();
-  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   await user.click(choiceButton(correctWord()));
   await user.click(screen.getByRole('button', { name: '次へ' }));
   const question = screen.getByTestId('question').textContent;
@@ -113,7 +113,7 @@ test('英単語タブでは英単語が問題になり、日本語の意味を�
   const user = userEvent.setup();
   renderApp();
   await user.click(screen.getByRole('tab', { name: '英単語' }));
-  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   expect(screen.getByTestId('question').textContent).toMatch(/^word\d+$/);
   expect(within(screen.getByTestId('choices')).getAllByRole('button')).toHaveLength(4);
 });
@@ -126,19 +126,19 @@ test('アプリを開いたまま翌朝に戻ってくると、前日の途中�
       <App />
     </StoreProvider>,
   );
-  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   expect(screen.getByTestId('question')).toBeInTheDocument();
   current = new Date(2026, 10, 3, 7, 0);
   act(() => {
     document.dispatchEvent(new Event('visibilitychange'));
   });
-  expect(screen.getByRole('button', { name: /今日の学習/ })).toHaveTextContent('新しい語20問');
+  expect(screen.getByRole('button', { name: /学習を始める/ })).toHaveTextContent('新しい語20問');
 });
 
 test('次へを素早く2回タップしても、次の問題に回答してしまわない', async () => {
   const user = userEvent.setup();
   renderApp();
-  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   await user.click(choiceButton(correctWord()));
   let manual = clock;
   vi.spyOn(Date, 'now').mockImplementation(() => manual);
@@ -149,4 +149,31 @@ test('次へを素早く2回タップしても、次の問題に回答してし�
   manual += 400;
   await user.click(choiceButton(correctWord()));
   expect(screen.getByText('正解')).toBeInTheDocument();
+});
+
+test('1回終えても、続けて新しい語で学習を始められる', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
+  for (let i = 0; i < 20; i++) {
+    await user.click(choiceButton(correctWord()));
+    await user.click(screen.getByRole('button', { name: '次へ' }));
+  }
+  await user.click(screen.getByRole('button', { name: 'ホームへ' }));
+  expect(screen.getByRole('button', { name: /学習を始める/ })).toHaveTextContent('新しい語10問');
+  expect(screen.getByRole('button', { name: /学習を始める/ })).toBeEnabled();
+});
+
+test('ランダム20問を始めると、20問のセッションになる', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  await user.click(screen.getByRole('button', { name: 'ランダム20問' }));
+  expect(screen.getByText('1 / 20')).toBeInTheDocument();
+});
+
+test('設定は「1回に出す新しい語」', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  await user.click(screen.getByRole('button', { name: '設定' }));
+  expect(screen.getByRole('heading', { name: '1回に出す新しい語' })).toBeInTheDocument();
 });

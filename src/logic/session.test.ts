@@ -1,7 +1,7 @@
 import type { ProgressMap, Settings, WordProgress } from '../types';
 import { id, jk, range } from '../test/fixtures';
 import { makeRng } from './random';
-import { buildDailySession, buildStagePractice, buildWeakSession, dailyCounts } from './session';
+import { buildDailySession, buildRandomSession, buildStagePractice, buildWeakSession, dailyCounts } from './session';
 import { buildDataset } from './validate';
 
 const TODAY = '2026-11-10';
@@ -42,12 +42,12 @@ test('期日が未来の語は復習に入らない', () => {
   expect(ids(s)).not.toContain(id('jk', 1));
 });
 
-test('現在ステージ全出題・未クリアなら新しい語0', () => {
+test('現在のステージを出し終えたら、クリアしていなくても次のステージから新しい語が出る', () => {
   const progress: ProgressMap = {};
   for (let n = 1; n <= 100; n++) progress[id('jk', n)] = wp({ lastCorrect: n <= 50 });
   const s = buildDailySession('jukugo', ds, progress, settings, TODAY, makeRng(1));
-  expect(s.queue).toHaveLength(0);
-  expect(dailyCounts('jukugo', ds, progress, settings, TODAY)).toEqual({ review: 0, fresh: 0 });
+  expect(new Set(ids(s))).toEqual(new Set(range(20, (n) => id('jk', 100 + n))));
+  expect(dailyCounts('jukugo', ds, progress, settings, TODAY)).toEqual({ review: 0, fresh: 20 });
 });
 
 test('ステージ練習は未出題→不正解→その他の優先で20問', () => {
@@ -84,12 +84,21 @@ test('dailyCounts は buildDailySession の件数と一致', () => {
   expect(buildDailySession('jukugo', ds, progress, settings, TODAY, makeRng(1)).queue).toHaveLength(32);
 });
 
-test('新しい語の数は1日単位：今日すでに出た新しい語の分だけ減る', () => {
+test('回数制限はなく、今日すでに新しい語を解いていても毎回設定数の新しい語が出る', () => {
   const progress: ProgressMap = {};
-  for (let n = 1; n <= 15; n++) progress[id('jk', n)] = wp({ firstDay: TODAY, due: '2026-11-11' });
-  expect(dailyCounts('jukugo', ds, progress, settings, TODAY)).toEqual({ review: 0, fresh: 5 });
-  for (let n = 16; n <= 20; n++) progress[id('jk', n)] = wp({ firstDay: TODAY, due: '2026-11-11' });
-  expect(dailyCounts('jukugo', ds, progress, settings, TODAY)).toEqual({ review: 0, fresh: 0 });
-  // 翌日はまた設定数
-  expect(dailyCounts('jukugo', ds, progress, settings, '2026-11-11')).toMatchObject({ fresh: 20 });
+  for (let n = 1; n <= 40; n++) progress[id('jk', n)] = wp({ firstDay: TODAY, due: '2026-11-11' });
+  expect(dailyCounts('jukugo', ds, progress, settings, TODAY)).toEqual({ review: 0, fresh: 20 });
+});
+
+test('ランダムは全ステージから20問、出題済みかどうかに関係なく選ぶ', () => {
+  const progress: ProgressMap = {};
+  for (let n = 1; n <= 300; n++) progress[id('jk', n)] = wp();
+  const s = buildRandomSession('jukugo', ds, progress, TODAY, makeRng(5));
+  expect(s).toMatchObject({ kind: 'random', stage: null, day: TODAY, index: 0 });
+  expect(s.queue).toHaveLength(20);
+  expect(new Set(ids(s)).size).toBe(20);
+  // 未出題の語もステージ2・3の語も選ばれうる
+  const all = new Set<string>();
+  for (let seed = 0; seed < 30; seed++) buildRandomSession('jukugo', ds, {}, TODAY, makeRng(seed)).queue.forEach((q) => all.add(ds.byId.get(q.id)!.stage + ''));
+  expect(all).toEqual(new Set(['1', '2', '3']));
 });

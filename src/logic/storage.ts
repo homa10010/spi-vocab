@@ -29,7 +29,7 @@ function isSession(x: unknown): boolean {
   if (!isObj(x)) return false;
   return (
     MODES.includes(x.mode as string) &&
-    ['daily', 'stage', 'weak'].includes(x.kind as string) &&
+    ['daily', 'stage', 'weak', 'random'].includes(x.kind as string) &&
     (x.stage === null || isNum(x.stage)) &&
     isStr(x.day) &&
     isNum(x.index) &&

@@ -30,7 +30,8 @@ export function stageInfos(ds: Dataset, progress: ProgressMap): StageInfo[] {
     // 一度クリアして次のステージに進んだら、復習で正答率が下がってもクリアのまま扱う
     const movedOn = (raw[i + 1]?.seen ?? 0) > 0;
     const cleared = isCleared(r) || movedOn;
-    const unlocked = i === 0 || infos[i - 1].cleared;
+    // 前のステージをクリアするか、前のステージの語を全部出し終えたら開く
+    const unlocked = i === 0 || infos[i - 1].cleared || raw[i - 1].seen === raw[i - 1].total;
     infos.push({ ...r, accuracy: r.total ? r.correctNow / r.total : 0, cleared, unlocked });
   });
   return infos;
