@@ -18,16 +18,21 @@ export function isCleared(info: Pick<StageInfo, 'total' | 'seen' | 'correctNow'>
 }
 
 export function stageInfos(ds: Dataset, progress: ProgressMap): StageInfo[] {
-  const infos: StageInfo[] = [];
+  const raw: Pick<StageInfo, 'stage' | 'total' | 'seen' | 'correctNow'>[] = [];
   for (let stage = 1; stage <= ds.stageCount; stage++) {
     const words = ds.entries.filter((e) => e.stage === stage);
     const seen = words.filter((e) => isSeen(progress[e.id])).length;
     const correctNow = words.filter((e) => isSeen(progress[e.id]) && progress[e.id].lastCorrect).length;
-    const total = words.length;
-    const cleared = isCleared({ total, seen, correctNow });
-    const unlocked = stage === 1 || infos[stage - 2].cleared;
-    infos.push({ stage, total, seen, correctNow, accuracy: total ? correctNow / total : 0, cleared, unlocked });
+    raw.push({ stage, total: words.length, seen, correctNow });
   }
+  const infos: StageInfo[] = [];
+  raw.forEach((r, i) => {
+    // 一度クリアして次のステージに進んだら、復習で正答率が下がってもクリアのまま扱う
+    const movedOn = (raw[i + 1]?.seen ?? 0) > 0;
+    const cleared = isCleared(r) || movedOn;
+    const unlocked = i === 0 || infos[i - 1].cleared;
+    infos.push({ ...r, accuracy: r.total ? r.correctNow / r.total : 0, cleared, unlocked });
+  });
   return infos;
 }
 

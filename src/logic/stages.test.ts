@@ -43,3 +43,12 @@ test('現在のステージが全出題済み・未クリアなら currentNewSta
   expect(infos[1].unlocked).toBe(false);
   expect(currentNewStage(infos)).toBeNull();
 });
+
+test('クリア後に復習で正答率が下がっても、次のステージに進んでいればクリアのまま', () => {
+  const progress = { ...answered(1, 100, 77), ...answered(101, 140, 140) };
+  const infos = stageInfos(ds, progress);
+  expect(infos[0].cleared).toBe(true);
+  expect(infos[1].unlocked).toBe(true);
+  expect(currentNewStage(infos)).toBe(2);
+  expect(clearedCount(infos)).toBe(1);
+});
