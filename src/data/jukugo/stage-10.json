@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "jk-0901",
+    "type": "和語",
+    "word": "おもむろに",
+    "reading": "おもむろに",
+    "meaning": "ゆっくりと、落ち着いて動作を始めるさま",
+    "level": 1,
+    "confusers": [
+      "jk-0903",
+      "jk-0904",
+      "jk-0907"
+    ],
+    "synonyms": [
+      "jk-0902"
+    ]
+  },
+  {
+    "id": "jk-0902",
+    "type": "和語",
+    "word": "やおら",
+    "reading": "やおら",
+    "meaning": "ゆっくりと、静かに動き出すさま",
+    "level": 1,
+    "confusers": [
+      "jk-0903",
+      "jk-0904",
+      "jk-0906"
+    ],
+    "synonyms": [
+      "jk-0901"
+    ]
+  },
+  {
+    "id": "jk-0903",
+    "type": "和語",
+    "word": "にわかに",
+    "reading": "にわかに",
+    "meaning": "急に。突然",
+    "level": 1,
+    "confusers": [
+      "jk-0901",
+      "jk-0905",
+      "jk-0906"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0904",
+    "type": "和語",
+    "word": "すかさず",
+    "reading": "すかさず",
+    "meaning": "間をおかずに、すぐに",
+    "level": 1,
+    "confusers": [
+      "jk-0903",
+      "jk-0901",
+      "jk-0910"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0905",
+    "type": "和語",
+    "word": "つとに",
+    "reading": "つとに",
+    "meaning": "ずっと以前から。早くから",
+    "level": 1,
+    "confusers": [
+      "jk-0903",
+      "jk-0915",
+      "jk-0910"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0906",
+    "type": "和語",
+    "word": "しきりに",
+    "reading": "しきりに",
+    "meaning": "何度も繰り返して。また、熱心に",
+    "level": 1,
+    "confusers": [
+      "jk-0907",
+      "jk-0905",
+      "jk-0915"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0907",
+    "type": "和語",
+    "word": "ひたすら",
+    "reading": "ひたすら",
+    "meaning": "ただそのことだけに、心を向けるさま",
+    "level": 1,
+    "confusers": [
+      "jk-0906",
+      "jk-0908",
+      "jk-0909"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0908",
+    "type": "和語",
+    "word": "いたずらに",
+    "reading": "いたずらに",
+    "meaning": "むだに。役に立たないさま",
+    "level": 1,
+    "confusers": [
+      "jk-0907",
+      "jk-0909",
+      "jk-0918"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0909",
+    "type": "和語",
+    "word": "ことさら",
+    "reading": "ことさら",
+    "meaning": "わざわざ。特に意識して",
+    "level": 1,
+    "confusers": [
+      "jk-0908",
+      "jk-0910",
+      "jk-0911"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0910",
+    "type": "和語",
+    "word": "ひとしお",
+    "reading": "ひとしお",
+    "meaning": "いっそう。ひときわ",
+    "level": 1,
+    "confusers": [
+      "jk-0909",
+      "jk-0905",
+      "jk-0906"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0911",
+    "type": "和語",
+    "word": "あながち",
+    "reading": "あながち",
+    "meaning": "（打ち消しを伴って）必ずしも",
+    "level": 1,
+    "confusers": [
+      "jk-0913",
+      "jk-0914",
+      "jk-0922"
+    ],
+    "synonyms": [
+      "jk-0912"
+    ]
+  },
+  {
+    "id": "jk-0912",
+    "type": "和語",
+    "word": "まんざら",
+    "reading": "まんざら",
+    "meaning": "（打ち消しを伴って）まったく〜というわけではない",
+    "level": 1,
+    "confusers": [
+      "jk-0918",
+      "jk-0913",
+      "jk-0923"
+    ],
+    "synonyms": [
+      "jk-0911"
+    ]
+  },
+  {
+    "id": "jk-0913",
+    "type": "和語",
+    "word": "すべからく",
+    "reading": "すべからく",
+    "meaning": "当然。ぜひとも",
+    "level": 1,
+    "confusers": [
+      "jk-0911",
+      "jk-0914",
+      "jk-0922"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0914",
+    "type": "和語",
+    "word": "おしなべて",
+    "reading": "おしなべて",
+    "meaning": "全体にわたって。一様に",
+    "level": 1,
+    "confusers": [
+      "jk-0916",
+      "jk-0917",
+      "jk-0913"
+    ],
+    "synonyms": [
+      "jk-0915"
+    ]
+  },
+  {
+    "id": "jk-0915",
+    "type": "和語",
+    "word": "あまねく",
+    "reading": "あまねく",
+    "meaning": "すみずみまで、広く行き渡って",
+    "level": 1,
+    "confusers": [
+      "jk-0916",
+      "jk-0917",
+      "jk-0906"
+    ],
+    "synonyms": [
+      "jk-0914"
+    ]
+  },
+  {
+    "id": "jk-0916",
+    "type": "和語",
+    "word": "ことごとく",
+    "reading": "ことごとく",
+    "meaning": "残らず。すべて",
+    "level": 1,
+    "confusers": [
+      "jk-0915",
+      "jk-0917",
+      "jk-0914"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0917",
+    "type": "和語",
+    "word": "つぶさに",
+    "reading": "つぶさに",
+    "meaning": "詳しく。細かく",
+    "level": 1,
+    "confusers": [
+      "jk-0916",
+      "jk-0915",
+      "jk-0906"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0918",
+    "type": "和語",
+    "word": "なまじ",
+    "reading": "なまじ",
+    "meaning": "中途半端に。いっそしないほうがよいのに",
+    "level": 1,
+    "confusers": [
+      "jk-0908",
+      "jk-0911",
+      "jk-0912"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0919",
+    "type": "和語",
+    "word": "いみじくも",
+    "reading": "いみじくも",
+    "meaning": "まことにうまく。適切に",
+    "level": 1,
+    "confusers": [
+      "jk-0920",
+      "jk-0921",
+      "jk-0913"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0920",
+    "type": "和語",
+    "word": "くしくも",
+    "reading": "くしくも",
+    "meaning": "不思議にも",
+    "level": 1,
+    "confusers": [
+      "jk-0919",
+      "jk-0915",
+      "jk-0922"
+    ],
+    "synonyms": [
+      "jk-0921"
+    ]
+  },
+  {
+    "id": "jk-0921",
+    "type": "和語",
+    "word": "はからずも",
+    "reading": "はからずも",
+    "meaning": "思いがけなく",
+    "level": 1,
+    "confusers": [
+      "jk-0919",
+      "jk-0903",
+      "jk-0918"
+    ],
+    "synonyms": [
+      "jk-0920"
+    ]
+  },
+  {
+    "id": "jk-0922",
+    "type": "和語",
+    "word": "ゆめゆめ",
+    "reading": "ゆめゆめ",
+    "meaning": "（禁止を伴って）決して",
+    "level": 1,
+    "confusers": [
+      "jk-0913",
+      "jk-0911",
+      "jk-0912"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0923",
+    "type": "和語",
+    "word": "よしんば",
+    "reading": "よしんば",
+    "meaning": "たとえ。仮に",
+    "level": 1,
+    "confusers": [
+      "jk-0918",
+      "jk-0922",
+      "jk-0911"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0924",
+    "type": "和語",
+    "word": "いぶかしい",
+    "reading": "いぶかしい",
+    "meaning": "疑わしい。不審である",
+    "level": 1,
+    "confusers": [
+      "jk-0925",
+      "jk-0930",
+      "jk-0932"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0925",
+    "type": "和語",
+    "word": "うとましい",
+    "reading": "うとましい",
+    "meaning": "いやで、遠ざけたい",
+    "level": 1,
+    "confusers": [
+      "jk-0924",
+      "jk-0926",
+      "jk-0927"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0926",
+    "type": "和語",
+    "word": "わずらわしい",
+    "reading": "わずらわしい",
+    "meaning": "面倒で、気が重い",
+    "level": 1,
+    "confusers": [
+      "jk-0925",
+      "jk-0930",
+      "jk-0927"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0927",
+    "type": "和語",
+    "word": "もどかしい",
+    "reading": "もどかしい",
+    "meaning": "思うようにならず、いらいらする",
+    "level": 1,
+    "confusers": [
+      "jk-0926",
+      "jk-0930",
+      "jk-0928"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0928",
+    "type": "和語",
+    "word": "やるせない",
+    "reading": "やるせない",
+    "meaning": "気持ちを晴らす方法がなく、つらい",
+    "level": 1,
+    "confusers": [
+      "jk-0927",
+      "jk-0929",
+      "jk-0925"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0929",
+    "type": "和語",
+    "word": "いたたまれない",
+    "reading": "いたたまれない",
+    "meaning": "その場に、じっとしていられない",
+    "level": 1,
+    "confusers": [
+      "jk-0928",
+      "jk-0930",
+      "jk-0963"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0930",
+    "type": "和語",
+    "word": "おぼつかない",
+    "reading": "おぼつかない",
+    "meaning": "しっかりしておらず、不安である",
+    "level": 1,
+    "confusers": [
+      "jk-0924",
+      "jk-0927",
+      "jk-0932"
+    ],
+    "synonyms": [
+      "jk-0931"
+    ]
+  },
+  {
+    "id": "jk-0931",
+    "type": "和語",
+    "word": "こころもとない",
+    "reading": "こころもとない",
+    "meaning": "頼りなく、不安である",
+    "level": 1,
+    "confusers": [
+      "jk-0924",
+      "jk-0926",
+      "jk-0928"
+    ],
+    "synonyms": [
+      "jk-0930"
+    ]
+  },
+  {
+    "id": "jk-0932",
+    "type": "和語",
+    "word": "いかがわしい",
+    "reading": "いかがわしい",
+    "meaning": "信用できない。また、道徳的に好ましくない",
+    "level": 1,
+    "confusers": [
+      "jk-0924",
+      "jk-0925",
+      "jk-0933"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0933",
+    "type": "和語",
+    "word": "まことしやか",
+    "reading": "まことしやか",
+    "meaning": "いかにも本当らしく見せるさま",
+    "level": 1,
+    "confusers": [
+      "jk-0932",
+      "jk-0934",
+      "jk-0909"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0934",
+    "type": "和語",
+    "word": "したたか",
+    "reading": "したたか",
+    "meaning": "手ごわく、簡単には屈しないさま",
+    "level": 1,
+    "confusers": [
+      "jk-0936",
+      "jk-0933",
+      "jk-0935"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0935",
+    "type": "和語",
+    "word": "ふてぶてしい",
+    "reading": "ふてぶてしい",
+    "meaning": "大胆で遠慮がなく、ずうずうしい",
+    "level": 1,
+    "confusers": [
+      "jk-0934",
+      "jk-0949",
+      "jk-0951"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0936",
+    "type": "和語",
+    "word": "かたくな",
+    "reading": "かたくな",
+    "meaning": "意地を張って、自分の考えを変えないさま",
+    "level": 1,
+    "confusers": [
+      "jk-0934",
+      "jk-0937",
+      "jk-0935"
+    ],
+    "synonyms": [
+      "jk-0110"
+    ]
+  },
+  {
+    "id": "jk-0937",
+    "type": "和語",
+    "word": "すげない",
+    "reading": "すげない",
+    "meaning": "思いやりがなく、そっけない",
+    "level": 1,
+    "confusers": [
+      "jk-0936",
+      "jk-0935",
+      "jk-0939"
+    ],
+    "synonyms": [
+      "jk-0938",
+      "jk-0978"
+    ]
+  },
+  {
+    "id": "jk-0938",
+    "type": "和語",
+    "word": "つれない",
+    "reading": "つれない",
+    "meaning": "相手の気持ちに応えず、冷たい",
+    "level": 1,
+    "confusers": [
+      "jk-0936",
+      "jk-0939",
+      "jk-0942"
+    ],
+    "synonyms": [
+      "jk-0937"
+    ]
+  },
+  {
+    "id": "jk-0939",
+    "type": "和語",
+    "word": "ぞんざい",
+    "reading": "ぞんざい",
+    "meaning": "扱い方や言葉づかいが、乱暴で丁寧でないさま",
+    "level": 1,
+    "confusers": [
+      "jk-0940",
+      "jk-0941",
+      "jk-0942"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0940",
+    "type": "和語",
+    "word": "なおざり",
+    "reading": "なおざり",
+    "meaning": "あまり気にかけず、放っておくさま",
+    "level": 1,
+    "confusers": [
+      "jk-0941",
+      "jk-0942",
+      "jk-0939"
+    ],
+    "synonyms": [
+      "jk-0481"
+    ]
+  },
+  {
+    "id": "jk-0941",
+    "type": "和語",
+    "word": "おざなり",
+    "reading": "おざなり",
+    "meaning": "その場しのぎに、いいかげんに済ませるさま",
+    "level": 1,
+    "confusers": [
+      "jk-0940",
+      "jk-0942",
+      "jk-0939"
+    ],
+    "synonyms": [
+      "jk-0979"
+    ]
+  },
+  {
+    "id": "jk-0942",
+    "type": "和語",
+    "word": "ないがしろ",
+    "reading": "ないがしろ",
+    "meaning": "あってもないかのように、軽んじるさま",
+    "level": 1,
+    "confusers": [
+      "jk-0940",
+      "jk-0941",
+      "jk-0939"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0943",
+    "type": "和語",
+    "word": "しめやか",
+    "reading": "しめやか",
+    "meaning": "しんみりと、ものさびしいさま",
+    "level": 1,
+    "confusers": [
+      "jk-0944",
+      "jk-0945",
+      "jk-0901"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0944",
+    "type": "和語",
+    "word": "おごそか",
+    "reading": "おごそか",
+    "meaning": "重々しく、近寄りがたいさま",
+    "level": 1,
+    "confusers": [
+      "jk-0943",
+      "jk-0945",
+      "jk-0934"
+    ],
+    "synonyms": [
+      "jk-0383",
+      "jk-0382"
+    ]
+  },
+  {
+    "id": "jk-0945",
+    "type": "和語",
+    "word": "ねんごろ",
+    "reading": "ねんごろ",
+    "meaning": "心をこめて、手厚くするさま",
+    "level": 1,
+    "confusers": [
+      "jk-0944",
+      "jk-0943",
+      "jk-0946"
+    ],
+    "synonyms": [
+      "jk-0484"
+    ]
+  },
+  {
+    "id": "jk-0946",
+    "type": "和語",
+    "word": "かいがいしい",
+    "reading": "かいがいしい",
+    "meaning": "てきぱきと、よく働くさま",
+    "level": 1,
+    "confusers": [
+      "jk-0945",
+      "jk-0934",
+      "jk-0947"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0947",
+    "type": "和語",
+    "word": "いじらしい",
+    "reading": "いじらしい",
+    "meaning": "幼い者や弱い者のけなげな様子が、かわいそうでいとおしい",
+    "level": 1,
+    "confusers": [
+      "jk-0948",
+      "jk-0946",
+      "jk-0949"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0948",
+    "type": "和語",
+    "word": "けなげ",
+    "reading": "けなげ",
+    "meaning": "弱い者が、困難に負けず立派にふるまうさま",
+    "level": 1,
+    "confusers": [
+      "jk-0947",
+      "jk-0946",
+      "jk-0934"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0949",
+    "type": "和語",
+    "word": "おこがましい",
+    "reading": "おこがましい",
+    "meaning": "身のほど知らずで、出過ぎている",
+    "level": 1,
+    "confusers": [
+      "jk-0935",
+      "jk-0932",
+      "jk-0948"
+    ],
+    "synonyms": [
+      "jk-0698"
+    ]
+  },
+  {
+    "id": "jk-0950",
+    "type": "和語",
+    "word": "あざとい",
+    "reading": "あざとい",
+    "meaning": "やり方が、露骨で抜け目がない",
+    "level": 1,
+    "confusers": [
+      "jk-0934",
+      "jk-0949",
+      "jk-0933"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0951",
+    "type": "和語",
+    "word": "こざかしい",
+    "reading": "こざかしい",
+    "meaning": "利口ぶって、生意気である",
+    "level": 1,
+    "confusers": [
+      "jk-0950",
+      "jk-0949",
+      "jk-0935"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0952",
+    "type": "和語",
+    "word": "そつがない",
+    "reading": "そつがない",
+    "meaning": "手落ちや無駄がない",
+    "level": 1,
+    "confusers": [
+      "jk-0946",
+      "jk-0934",
+      "jk-0948"
+    ],
+    "synonyms": [
+      "jk-0953"
+    ]
+  },
+  {
+    "id": "jk-0953",
+    "type": "和語",
+    "word": "如才ない",
+    "reading": "じょさいない",
+    "meaning": "気が利いていて、抜かりがない",
+    "level": 1,
+    "confusers": [
+      "jk-0946",
+      "jk-0951",
+      "jk-0950"
+    ],
+    "synonyms": [
+      "jk-0952"
+    ]
+  },
+  {
+    "id": "jk-0954",
+    "type": "和語",
+    "word": "手をこまねく",
+    "reading": "てをこまねく",
+    "meaning": "何もせずに、ただ見ている",
+    "level": 1,
+    "confusers": [
+      "jk-0955",
+      "jk-0956",
+      "jk-0957"
+    ],
+    "synonyms": [
+      "jk-0231"
+    ]
+  },
+  {
+    "id": "jk-0955",
+    "type": "和語",
+    "word": "二の足を踏む",
+    "reading": "にのあしをふむ",
+    "meaning": "思い切れずに、ためらう",
+    "level": 1,
+    "confusers": [
+      "jk-0954",
+      "jk-0989",
+      "jk-0963"
+    ],
+    "synonyms": [
+      "jk-0003",
+      "jk-0059"
+    ]
+  },
+  {
+    "id": "jk-0956",
+    "type": "和語",
+    "word": "匙を投げる",
+    "reading": "さじをなげる",
+    "meaning": "見込みがないと、あきらめる",
+    "level": 1,
+    "confusers": [
+      "jk-0987",
+      "jk-0983",
+      "jk-0954"
+    ],
+    "synonyms": [
+      "jk-0190"
+    ]
+  },
+  {
+    "id": "jk-0957",
+    "type": "和語",
+    "word": "水を差す",
+    "reading": "みずをさす",
+    "meaning": "うまくいっている物事の、邪魔をする",
+    "level": 1,
+    "confusers": [
+      "jk-0958",
+      "jk-0976",
+      "jk-0974"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0958",
+    "type": "和語",
+    "word": "口を挟む",
+    "reading": "くちをはさむ",
+    "meaning": "他人の話に、割り込んで話す",
+    "level": 1,
+    "confusers": [
+      "jk-0957",
+      "jk-0976",
+      "jk-0968"
+    ],
+    "synonyms": [
+      "jk-0694"
+    ]
+  },
+  {
+    "id": "jk-0959",
+    "type": "和語",
+    "word": "腑に落ちない",
+    "reading": "ふにおちない",
+    "meaning": "納得できない",
+    "level": 1,
+    "confusers": [
+      "jk-0962",
+      "jk-0970",
+      "jk-0957"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0960",
+    "type": "和語",
+    "word": "舌を巻く",
+    "reading": "したをまく",
+    "meaning": "非常に感心する",
+    "level": 1,
+    "confusers": [
+      "jk-0964",
+      "jk-0971",
+      "jk-0974"
+    ],
+    "synonyms": [
+      "jk-0051",
+      "jk-0961",
+      "jk-0984"
+    ]
+  },
+  {
+    "id": "jk-0961",
+    "type": "和語",
+    "word": "目を見張る",
+    "reading": "めをみはる",
+    "meaning": "驚いたり感心したりして、目を大きく開く",
+    "level": 1,
+    "confusers": [
+      "jk-0971",
+      "jk-0964",
+      "jk-0974"
+    ],
+    "synonyms": [
+      "jk-0823",
+      "jk-0960"
+    ]
+  },
+  {
+    "id": "jk-0962",
+    "type": "和語",
+    "word": "気が置けない",
+    "reading": "きがおけない",
+    "meaning": "遠慮や気づかいをする必要がない",
+    "level": 1,
+    "confusers": [
+      "jk-0959",
+      "jk-0964",
+      "jk-0963"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0963",
+    "type": "和語",
+    "word": "気が引ける",
+    "reading": "きがひける",
+    "meaning": "気おくれがする",
+    "level": 1,
+    "confusers": [
+      "jk-0962",
+      "jk-0989",
+      "jk-0970"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0964",
+    "type": "和語",
+    "word": "一目置く",
+    "reading": "いちもくおく",
+    "meaning": "相手が優れていると認めて、敬意を払う",
+    "level": 1,
+    "confusers": [
+      "jk-0960",
+      "jk-0965",
+      "jk-0962"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0965",
+    "type": "和語",
+    "word": "襟を正す",
+    "reading": "えりをただす",
+    "meaning": "気持ちを引き締めて、物事に当たる",
+    "level": 1,
+    "confusers": [
+      "jk-0966",
+      "jk-0967",
+      "jk-0964"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0966",
+    "type": "和語",
+    "word": "肝に銘じる",
+    "reading": "きもにめいじる",
+    "meaning": "心に深く刻みつけて、忘れないようにする",
+    "level": 1,
+    "confusers": [
+      "jk-0965",
+      "jk-0967",
+      "jk-0968"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0967",
+    "type": "和語",
+    "word": "腰を据える",
+    "reading": "こしをすえる",
+    "meaning": "落ち着いて、じっくりと物事に取り組む",
+    "level": 1,
+    "confusers": [
+      "jk-0965",
+      "jk-0966",
+      "jk-0955"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0968",
+    "type": "和語",
+    "word": "口火を切る",
+    "reading": "くちびをきる",
+    "meaning": "物事を、最初に始めるきっかけを作る",
+    "level": 1,
+    "confusers": [
+      "jk-0967",
+      "jk-0957",
+      "jk-0958"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0969",
+    "type": "和語",
+    "word": "歯に衣着せぬ",
+    "reading": "はにきぬきせぬ",
+    "meaning": "遠慮しないで、思ったことをはっきり言う",
+    "level": 1,
+    "confusers": [
+      "jk-0958",
+      "jk-0968",
+      "jk-0970"
+    ],
+    "synonyms": [
+      "jk-0131"
+    ]
+  },
+  {
+    "id": "jk-0970",
+    "type": "和語",
+    "word": "鼻につく",
+    "reading": "はなにつく",
+    "meaning": "飽きて、いやな感じがする",
+    "level": 1,
+    "confusers": [
+      "jk-0971",
+      "jk-0959",
+      "jk-0963"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0971",
+    "type": "和語",
+    "word": "眉をひそめる",
+    "reading": "まゆをひそめる",
+    "meaning": "心配事や不快なことがあって、顔をしかめる",
+    "level": 1,
+    "confusers": [
+      "jk-0970",
+      "jk-0960",
+      "jk-0961"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0972",
+    "type": "和語",
+    "word": "顔に泥を塗る",
+    "reading": "かおにどろをぬる",
+    "meaning": "恥をかかせる。面目を失わせる",
+    "level": 1,
+    "confusers": [
+      "jk-0973",
+      "jk-0974",
+      "jk-0957"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0973",
+    "type": "和語",
+    "word": "煮え湯を飲まされる",
+    "reading": "にえゆをのまされる",
+    "meaning": "信頼していた人に、ひどく裏切られる",
+    "level": 1,
+    "confusers": [
+      "jk-0972",
+      "jk-0975",
+      "jk-0991"
+    ],
+    "synonyms": [
+      "jk-0673"
+    ]
+  },
+  {
+    "id": "jk-0974",
+    "type": "和語",
+    "word": "鼻を明かす",
+    "reading": "はなをあかす",
+    "meaning": "出し抜いて、相手をあっと言わせる",
+    "level": 1,
+    "confusers": [
+      "jk-0972",
+      "jk-0964",
+      "jk-0960"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0975",
+    "type": "和語",
+    "word": "足元を見る",
+    "reading": "あしもとをみる",
+    "meaning": "相手の弱みにつけこむ",
+    "level": 1,
+    "confusers": [
+      "jk-0974",
+      "jk-0977",
+      "jk-0976"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0976",
+    "type": "和語",
+    "word": "揚げ足を取る",
+    "reading": "あげあしをとる",
+    "meaning": "言い損ないや言葉じりをとらえて、責めたり皮肉ったりする",
+    "level": 1,
+    "confusers": [
+      "jk-0975",
+      "jk-0970",
+      "jk-0958"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0977",
+    "type": "和語",
+    "word": "高をくくる",
+    "reading": "たかをくくる",
+    "meaning": "大したことはないと、見くびる",
+    "level": 1,
+    "confusers": [
+      "jk-0975",
+      "jk-0981",
+      "jk-0970"
+    ],
+    "synonyms": [
+      "jk-0542"
+    ]
+  },
+  {
+    "id": "jk-0978",
+    "type": "和語",
+    "word": "木で鼻をくくる",
+    "reading": "きではなをくくる",
+    "meaning": "ひどく無愛想に、冷たくあしらう",
+    "level": 1,
+    "confusers": [
+      "jk-0991",
+      "jk-0977",
+      "jk-0979"
+    ],
+    "synonyms": [
+      "jk-0937",
+      "jk-0992"
+    ]
+  },
+  {
+    "id": "jk-0979",
+    "type": "和語",
+    "word": "お茶を濁す",
+    "reading": "おちゃをにごす",
+    "meaning": "いいかげんなことを言って、その場をごまかす",
+    "level": 1,
+    "confusers": [
+      "jk-0980",
+      "jk-0981",
+      "jk-0977"
+    ],
+    "synonyms": [
+      "jk-0941",
+      "jk-0612"
+    ]
+  },
+  {
+    "id": "jk-0980",
+    "type": "和語",
+    "word": "油を売る",
+    "reading": "あぶらをうる",
+    "meaning": "仕事の途中で、むだ話などをして怠ける",
+    "level": 1,
+    "confusers": [
+      "jk-0979",
+      "jk-0954",
+      "jk-0981"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0981",
+    "type": "和語",
+    "word": "棚に上げる",
+    "reading": "たなにあげる",
+    "meaning": "自分に都合の悪いことには触れずに、知らん顔をする",
+    "level": 1,
+    "confusers": [
+      "jk-0979",
+      "jk-0977",
+      "jk-0976"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0982",
+    "type": "和語",
+    "word": "骨が折れる",
+    "reading": "ほねがおれる",
+    "meaning": "苦労が多い。手間がかかる",
+    "level": 1,
+    "confusers": [
+      "jk-0983",
+      "jk-0987",
+      "jk-0967"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0983",
+    "type": "和語",
+    "word": "手を焼く",
+    "reading": "てをやく",
+    "meaning": "扱いに困る。てこずる",
+    "level": 1,
+    "confusers": [
+      "jk-0982",
+      "jk-0987",
+      "jk-0956"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0984",
+    "type": "和語",
+    "word": "頭が下がる",
+    "reading": "あたまがさがる",
+    "meaning": "感心して、敬服する",
+    "level": 1,
+    "confusers": [
+      "jk-0964",
+      "jk-0965",
+      "jk-0985"
+    ],
+    "synonyms": [
+      "jk-0960"
+    ]
+  },
+  {
+    "id": "jk-0985",
+    "type": "和語",
+    "word": "胸を借りる",
+    "reading": "むねをかりる",
+    "meaning": "実力が上の人に、練習などの相手をしてもらう",
+    "level": 1,
+    "confusers": [
+      "jk-0964",
+      "jk-0984",
+      "jk-0986"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0986",
+    "type": "和語",
+    "word": "肩を並べる",
+    "reading": "かたをならべる",
+    "meaning": "同じくらいの力を持つ",
+    "level": 1,
+    "confusers": [
+      "jk-0985",
+      "jk-0964",
+      "jk-0974"
+    ],
+    "synonyms": [
+      "jk-0315"
+    ]
+  },
+  {
+    "id": "jk-0987",
+    "type": "和語",
+    "word": "音を上げる",
+    "reading": "ねをあげる",
+    "meaning": "困難に耐えられず、弱音をはく",
+    "level": 1,
+    "confusers": [
+      "jk-0956",
+      "jk-0982",
+      "jk-0983"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0988",
+    "type": "和語",
+    "word": "身につまされる",
+    "reading": "みにつまされる",
+    "meaning": "他人の不幸が、自分のことのように思われる",
+    "level": 1,
+    "confusers": [
+      "jk-0989",
+      "jk-0963",
+      "jk-0959"
+    ],
+    "synonyms": [
+      "jk-0550"
+    ]
+  },
+  {
+    "id": "jk-0989",
+    "type": "和語",
+    "word": "後ろ髪を引かれる",
+    "reading": "うしろがみをひかれる",
+    "meaning": "未練が残って、思い切れない",
+    "level": 1,
+    "confusers": [
+      "jk-0955",
+      "jk-0988",
+      "jk-0963"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0990",
+    "type": "和語",
+    "word": "目から鼻へ抜ける",
+    "reading": "めからはなへぬける",
+    "meaning": "非常に賢く、抜け目がない",
+    "level": 1,
+    "confusers": [
+      "jk-0953",
+      "jk-0960",
+      "jk-0974"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0991",
+    "type": "和語",
+    "word": "袖にする",
+    "reading": "そでにする",
+    "meaning": "親しくしていた人を、冷たく扱う",
+    "level": 1,
+    "confusers": [
+      "jk-0978",
+      "jk-0972",
+      "jk-0981"
+    ],
+    "synonyms": [
+      "jk-0839"
+    ]
+  },
+  {
+    "id": "jk-0992",
+    "type": "和語",
+    "word": "けんもほろろ",
+    "reading": "けんもほろろ",
+    "meaning": "頼みなどを、冷たく断るさま",
+    "level": 1,
+    "confusers": [
+      "jk-0991",
+      "jk-0937",
+      "jk-0938"
+    ],
+    "synonyms": [
+      "jk-0978"
+    ]
+  },
+  {
+    "id": "jk-0993",
+    "type": "和語",
+    "word": "気が気でない",
+    "reading": "きがきでない",
+    "meaning": "心配で、落ち着いていられない",
+    "level": 1,
+    "confusers": [
+      "jk-0929",
+      "jk-0963",
+      "jk-0928"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0994",
+    "type": "和語",
+    "word": "筆が立つ",
+    "reading": "ふでがたつ",
+    "meaning": "文章を書くのが上手である",
+    "level": 1,
+    "confusers": [
+      "jk-0969",
+      "jk-0990",
+      "jk-0995"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0995",
+    "type": "和語",
+    "word": "腕が鳴る",
+    "reading": "うでがなる",
+    "meaning": "力を発揮したくて、じっとしていられない",
+    "level": 1,
+    "confusers": [
+      "jk-0994",
+      "jk-0967",
+      "jk-0986"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0996",
+    "type": "和語",
+    "word": "立つ瀬がない",
+    "reading": "たつせがない",
+    "meaning": "自分の立場がなくなる",
+    "level": 1,
+    "confusers": [
+      "jk-0972",
+      "jk-0963",
+      "jk-0988"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0997",
+    "type": "和語",
+    "word": "寝耳に水",
+    "reading": "ねみみにみず",
+    "meaning": "不意の出来事に、ひどく驚くこと",
+    "level": 1,
+    "confusers": [
+      "jk-0961",
+      "jk-0960",
+      "jk-0959"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0998",
+    "type": "和語",
+    "word": "二つ返事",
+    "reading": "ふたつへんじ",
+    "meaning": "快く、すぐに承知すること",
+    "level": 1,
+    "confusers": [
+      "jk-0955",
+      "jk-0968",
+      "jk-0992"
+    ],
+    "synonyms": [
+      "jk-0751"
+    ]
+  },
+  {
+    "id": "jk-0999",
+    "type": "和語",
+    "word": "板につく",
+    "reading": "いたにつく",
+    "meaning": "経験を積んで、動作や態度がその仕事にふさわしくなる",
+    "level": 1,
+    "confusers": [
+      "jk-0967",
+      "jk-0986",
+      "jk-0994"
+    ],
+    "synonyms": [
+      "jk-1000"
+    ]
+  },
+  {
+    "id": "jk-1000",
+    "type": "和語",
+    "word": "堂に入る",
+    "reading": "どうにいる",
+    "meaning": "学問や技術などが、すっかり身についている",
+    "level": 1,
+    "confusers": [
+      "jk-0967",
+      "jk-0986",
+      "jk-0990"
+    ],
+    "synonyms": [
+      "jk-0999"
+    ]
+  }
+]
