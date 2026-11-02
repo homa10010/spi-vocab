@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "en-0901",
+    "word": "deposit",
+    "pos": "動詞",
+    "meaning": "預ける、置く",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0902",
+    "word": "detect",
+    "pos": "動詞",
+    "meaning": "見つける、検出する",
+    "level": 1,
+    "confusers": [
+      "en-0597",
+      "en-0019"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0903",
+    "word": "disappear",
+    "pos": "動詞",
+    "meaning": "消える",
+    "level": 1,
+    "confusers": [
+      "en-0109",
+      "en-0904"
+    ],
+    "synonyms": [
+      "en-0989"
+    ]
+  },
+  {
+    "id": "en-0904",
+    "word": "disappoint",
+    "pos": "動詞",
+    "meaning": "失望させる",
+    "level": 1,
+    "confusers": [
+      "en-0903"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0905",
+    "word": "display",
+    "pos": "動詞",
+    "meaning": "展示する、表に出す",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0906"
+    ]
+  },
+  {
+    "id": "en-0906",
+    "word": "exhibit",
+    "pos": "動詞",
+    "meaning": "展示する、示す",
+    "level": 1,
+    "confusers": [
+      "en-0927",
+      "en-0163"
+    ],
+    "synonyms": [
+      "en-0905"
+    ]
+  },
+  {
+    "id": "en-0907",
+    "word": "distinguish",
+    "pos": "動詞",
+    "meaning": "区別する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0908",
+    "word": "distribute",
+    "pos": "動詞",
+    "meaning": "分配する",
+    "level": 1,
+    "confusers": [
+      "en-0892",
+      "en-0909"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0909",
+    "word": "disturb",
+    "pos": "動詞",
+    "meaning": "邪魔する、乱す",
+    "level": 1,
+    "confusers": [
+      "en-0908"
+    ],
+    "synonyms": [
+      "en-0910"
+    ]
+  },
+  {
+    "id": "en-0910",
+    "word": "interrupt",
+    "pos": "動詞",
+    "meaning": "さえぎる、中断する",
+    "level": 1,
+    "confusers": [
+      "en-0940"
+    ],
+    "synonyms": [
+      "en-0909"
+    ]
+  },
+  {
+    "id": "en-0911",
+    "word": "donate",
+    "pos": "動詞",
+    "meaning": "寄付する",
+    "level": 1,
+    "confusers": [
+      "en-0912"
+    ],
+    "synonyms": [
+      "en-0892"
+    ]
+  },
+  {
+    "id": "en-0912",
+    "word": "dominate",
+    "pos": "動詞",
+    "meaning": "支配する",
+    "level": 1,
+    "confusers": [
+      "en-0911"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0913",
+    "word": "doubt",
+    "pos": "動詞",
+    "meaning": "（〜ではないと）疑問に思う",
+    "level": 1,
+    "confusers": [
+      "en-0596",
+      "en-0023"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0914",
+    "word": "emerge",
+    "pos": "動詞",
+    "meaning": "現れる",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0109"
+    ]
+  },
+  {
+    "id": "en-0915",
+    "word": "emphasize",
+    "pos": "動詞",
+    "meaning": "強調する",
+    "level": 1,
+    "confusers": [
+      "en-0367"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0916",
+    "word": "employ",
+    "pos": "動詞",
+    "meaning": "雇う",
+    "level": 1,
+    "confusers": [
+      "en-0108"
+    ],
+    "synonyms": [
+      "en-0917"
+    ]
+  },
+  {
+    "id": "en-0917",
+    "word": "hire",
+    "pos": "動詞",
+    "meaning": "雇う",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0916"
+    ]
+  },
+  {
+    "id": "en-0918",
+    "word": "enable",
+    "pos": "動詞",
+    "meaning": "可能にする",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0102"
+    ]
+  },
+  {
+    "id": "en-0919",
+    "word": "ensure",
+    "pos": "動詞",
+    "meaning": "確実にする",
+    "level": 1,
+    "confusers": [
+      "en-0871",
+      "en-0160"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0920",
+    "word": "equip",
+    "pos": "動詞",
+    "meaning": "装備させる",
+    "level": 1,
+    "confusers": [
+      "en-0672"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0921",
+    "word": "escape",
+    "pos": "動詞",
+    "meaning": "逃げる",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0922",
+    "word": "evaluate",
+    "pos": "動詞",
+    "meaning": "（価値を）評価する",
+    "level": 1,
+    "confusers": [
+      "en-0523"
+    ],
+    "synonyms": [
+      "en-0868"
+    ]
+  },
+  {
+    "id": "en-0923",
+    "word": "exaggerate",
+    "pos": "動詞",
+    "meaning": "誇張する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0924",
+    "word": "exchange",
+    "pos": "動詞",
+    "meaning": "交換する",
+    "level": 1,
+    "confusers": [
+      "en-0200"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0925",
+    "word": "fascinate",
+    "pos": "動詞",
+    "meaning": "魅了する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0873"
+    ]
+  },
+  {
+    "id": "en-0926",
+    "word": "forbid",
+    "pos": "動詞",
+    "meaning": "禁止する",
+    "level": 1,
+    "confusers": [
+      "en-0928"
+    ],
+    "synonyms": [
+      "en-0927"
+    ]
+  },
+  {
+    "id": "en-0927",
+    "word": "prohibit",
+    "pos": "動詞",
+    "meaning": "禁止する",
+    "level": 1,
+    "confusers": [
+      "en-0906"
+    ],
+    "synonyms": [
+      "en-0926"
+    ]
+  },
+  {
+    "id": "en-0928",
+    "word": "forgive",
+    "pos": "動詞",
+    "meaning": "（罪などを）許す",
+    "level": 1,
+    "confusers": [
+      "en-0926"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0929",
+    "word": "frighten",
+    "pos": "動詞",
+    "meaning": "怖がらせる",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0930",
+    "word": "fulfill",
+    "pos": "動詞",
+    "meaning": "果たす、満たす",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0931",
+    "word": "greet",
+    "pos": "動詞",
+    "meaning": "あいさつする",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0932",
+    "word": "hesitate",
+    "pos": "動詞",
+    "meaning": "ためらう",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0933",
+    "word": "illustrate",
+    "pos": "動詞",
+    "meaning": "（例や図で）説明する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0125"
+    ]
+  },
+  {
+    "id": "en-0934",
+    "word": "inherit",
+    "pos": "動詞",
+    "meaning": "相続する",
+    "level": 1,
+    "confusers": [
+      "en-0906"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0935",
+    "word": "injure",
+    "pos": "動詞",
+    "meaning": "傷つける",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0936",
+    "word": "insert",
+    "pos": "動詞",
+    "meaning": "挿入する",
+    "level": 1,
+    "confusers": [
+      "en-0937"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0937",
+    "word": "insult",
+    "pos": "動詞",
+    "meaning": "侮辱する",
+    "level": 1,
+    "confusers": [
+      "en-0936",
+      "en-0276",
+      "en-0891"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0938",
+    "word": "inspire",
+    "pos": "動詞",
+    "meaning": "奮い立たせる、着想を与える",
+    "level": 1,
+    "confusers": [
+      "en-0022"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0939",
+    "word": "install",
+    "pos": "動詞",
+    "meaning": "設置する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0940",
+    "word": "interpret",
+    "pos": "動詞",
+    "meaning": "解釈する、通訳する",
+    "level": 1,
+    "confusers": [
+      "en-0910"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0941",
+    "word": "invest",
+    "pos": "動詞",
+    "meaning": "投資する",
+    "level": 1,
+    "confusers": [
+      "en-0942"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0942",
+    "word": "investigate",
+    "pos": "動詞",
+    "meaning": "（詳しく）調べる、捜査する",
+    "level": 1,
+    "confusers": [
+      "en-0941"
+    ],
+    "synonyms": [
+      "en-0159",
+      "en-0214"
+    ]
+  },
+  {
+    "id": "en-0943",
+    "word": "isolate",
+    "pos": "動詞",
+    "meaning": "孤立させる",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0944",
+    "word": "justify",
+    "pos": "動詞",
+    "meaning": "正当化する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0945",
+    "word": "launch",
+    "pos": "動詞",
+    "meaning": "開始する、発射する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0222"
+    ]
+  },
+  {
+    "id": "en-0946",
+    "word": "locate",
+    "pos": "動詞",
+    "meaning": "位置を突き止める、置く",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0947",
+    "word": "melt",
+    "pos": "動詞",
+    "meaning": "溶ける",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0948",
+    "word": "modify",
+    "pos": "動詞",
+    "meaning": "修正する",
+    "level": 1,
+    "confusers": [
+      "en-0701",
+      "en-0959"
+    ],
+    "synonyms": [
+      "en-0258"
+    ]
+  },
+  {
+    "id": "en-0949",
+    "word": "motivate",
+    "pos": "動詞",
+    "meaning": "動機を与える、やる気にさせる",
+    "level": 1,
+    "confusers": [
+      "en-0735"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0950",
+    "word": "negotiate",
+    "pos": "動詞",
+    "meaning": "交渉する",
+    "level": 1,
+    "confusers": [
+      "en-0170"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0951",
+    "word": "oppose",
+    "pos": "動詞",
+    "meaning": "反対する",
+    "level": 1,
+    "confusers": [
+      "en-0957",
+      "en-0156"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0952",
+    "word": "overcome",
+    "pos": "動詞",
+    "meaning": "克服する",
+    "level": 1,
+    "confusers": [
+      "en-0396",
+      "en-0953"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0953",
+    "word": "overlook",
+    "pos": "動詞",
+    "meaning": "見落とす、見渡す",
+    "level": 1,
+    "confusers": [
+      "en-0952"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0954",
+    "word": "permit",
+    "pos": "動詞",
+    "meaning": "許可する",
+    "level": 1,
+    "confusers": [
+      "en-0084",
+      "en-0980",
+      "en-0265"
+    ],
+    "synonyms": [
+      "en-0102"
+    ]
+  },
+  {
+    "id": "en-0955",
+    "word": "possess",
+    "pos": "動詞",
+    "meaning": "所有する",
+    "level": 1,
+    "confusers": [
+      "en-0048"
+    ],
+    "synonyms": [
+      "en-0119"
+    ]
+  },
+  {
+    "id": "en-0956",
+    "word": "pretend",
+    "pos": "動詞",
+    "meaning": "ふりをする",
+    "level": 1,
+    "confusers": [
+      "en-0041"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0957",
+    "word": "propose",
+    "pos": "動詞",
+    "meaning": "提案する、結婚を申し込む",
+    "level": 1,
+    "confusers": [
+      "en-0043",
+      "en-0156",
+      "en-0951"
+    ],
+    "synonyms": [
+      "en-0155"
+    ]
+  },
+  {
+    "id": "en-0958",
+    "word": "protest",
+    "pos": "動詞",
+    "meaning": "抗議する",
+    "level": 1,
+    "confusers": [
+      "en-0019"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0959",
+    "word": "qualify",
+    "pos": "動詞",
+    "meaning": "資格を与える",
+    "level": 1,
+    "confusers": [
+      "en-0948",
+      "en-0289"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0960",
+    "word": "quit",
+    "pos": "動詞",
+    "meaning": "やめる",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0961",
+    "word": "react",
+    "pos": "動詞",
+    "meaning": "反応する",
+    "level": 1,
+    "confusers": [
+      "en-0240"
+    ],
+    "synonyms": [
+      "en-0962"
+    ]
+  },
+  {
+    "id": "en-0962",
+    "word": "respond",
+    "pos": "動詞",
+    "meaning": "応答する、反応する",
+    "level": 1,
+    "confusers": [
+      "en-0020"
+    ],
+    "synonyms": [
+      "en-0106",
+      "en-0961"
+    ]
+  },
+  {
+    "id": "en-0963",
+    "word": "recall",
+    "pos": "動詞",
+    "meaning": "思い出す、回収する",
+    "level": 1,
+    "confusers": [
+      "en-0138"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0964",
+    "word": "register",
+    "pos": "動詞",
+    "meaning": "登録する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0965",
+    "word": "regret",
+    "pos": "動詞",
+    "meaning": "後悔する",
+    "level": 1,
+    "confusers": [
+      "en-0020"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0966",
+    "word": "rescue",
+    "pos": "動詞",
+    "meaning": "救助する",
+    "level": 1,
+    "confusers": [
+      "en-0198",
+      "en-0474"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0967",
+    "word": "resemble",
+    "pos": "動詞",
+    "meaning": "似ている",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0968",
+    "word": "resolve",
+    "pos": "動詞",
+    "meaning": "解決する",
+    "level": 1,
+    "confusers": [
+      "en-0224"
+    ],
+    "synonyms": [
+      "en-0969"
+    ]
+  },
+  {
+    "id": "en-0969",
+    "word": "settle",
+    "pos": "動詞",
+    "meaning": "落ち着く、解決する",
+    "level": 1,
+    "confusers": [
+      "en-0791"
+    ],
+    "synonyms": [
+      "en-0968"
+    ]
+  },
+  {
+    "id": "en-0970",
+    "word": "restore",
+    "pos": "動詞",
+    "meaning": "回復させる、修復する",
+    "level": 1,
+    "confusers": [
+      "en-0971"
+    ],
+    "synonyms": [
+      "en-0149"
+    ]
+  },
+  {
+    "id": "en-0971",
+    "word": "restrict",
+    "pos": "動詞",
+    "meaning": "制限する",
+    "level": 1,
+    "confusers": [
+      "en-0784"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0972",
+    "word": "reveal",
+    "pos": "動詞",
+    "meaning": "明らかにする、暴露する",
+    "level": 1,
+    "confusers": [
+      "en-0257"
+    ],
+    "synonyms": [
+      "en-0883"
+    ]
+  },
+  {
+    "id": "en-0973",
+    "word": "review",
+    "pos": "動詞",
+    "meaning": "見直す、批評する",
+    "level": 1,
+    "confusers": [
+      "en-0407"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0974",
+    "word": "rush",
+    "pos": "動詞",
+    "meaning": "急ぐ",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0975",
+    "word": "sacrifice",
+    "pos": "動詞",
+    "meaning": "犠牲にする",
+    "level": 1,
+    "confusers": [
+      "en-0210"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0976",
+    "word": "seek",
+    "pos": "動詞",
+    "meaning": "探し求める",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0193"
+    ]
+  },
+  {
+    "id": "en-0977",
+    "word": "shift",
+    "pos": "動詞",
+    "meaning": "移す、切り替える",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0217"
+    ]
+  },
+  {
+    "id": "en-0978",
+    "word": "simplify",
+    "pos": "動詞",
+    "meaning": "単純化する",
+    "level": 1,
+    "confusers": [
+      "en-0832"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0979",
+    "word": "stretch",
+    "pos": "動詞",
+    "meaning": "伸ばす",
+    "level": 1,
+    "confusers": [
+      "en-0500"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0980",
+    "word": "submit",
+    "pos": "動詞",
+    "meaning": "提出する、服従する",
+    "level": 1,
+    "confusers": [
+      "en-0265",
+      "en-0954"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0981",
+    "word": "substitute",
+    "pos": "動詞",
+    "meaning": "代わりに使う",
+    "level": 1,
+    "confusers": [
+      "en-0505"
+    ],
+    "synonyms": [
+      "en-0207"
+    ]
+  },
+  {
+    "id": "en-0982",
+    "word": "summarize",
+    "pos": "動詞",
+    "meaning": "要約する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0983",
+    "word": "surround",
+    "pos": "動詞",
+    "meaning": "囲む",
+    "level": 1,
+    "confusers": [
+      "en-0994"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0984",
+    "word": "suspend",
+    "pos": "動詞",
+    "meaning": "一時停止する、つるす",
+    "level": 1,
+    "confusers": [
+      "en-0023"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0985",
+    "word": "swallow",
+    "pos": "動詞",
+    "meaning": "飲み込む",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0986",
+    "word": "tolerate",
+    "pos": "動詞",
+    "meaning": "我慢する、容認する",
+    "level": 1,
+    "confusers": [
+      "en-0735",
+      "en-0880"
+    ],
+    "synonyms": [
+      "en-1000"
+    ]
+  },
+  {
+    "id": "en-0987",
+    "word": "transport",
+    "pos": "動詞",
+    "meaning": "輸送する",
+    "level": 1,
+    "confusers": [
+      "en-0256"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0988",
+    "word": "urge",
+    "pos": "動詞",
+    "meaning": "促す、強く勧める",
+    "level": 1,
+    "confusers": [
+      "en-0798"
+    ],
+    "synonyms": [
+      "en-0153"
+    ]
+  },
+  {
+    "id": "en-0989",
+    "word": "vanish",
+    "pos": "動詞",
+    "meaning": "消える",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0903"
+    ]
+  },
+  {
+    "id": "en-0990",
+    "word": "warn",
+    "pos": "動詞",
+    "meaning": "警告する",
+    "level": 1,
+    "confusers": [
+      "en-0152"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0991",
+    "word": "wander",
+    "pos": "動詞",
+    "meaning": "歩き回る、さまよう",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0992",
+    "word": "withdraw",
+    "pos": "動詞",
+    "meaning": "引き出す、撤回する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0993",
+    "word": "yield",
+    "pos": "動詞",
+    "meaning": "屈する、譲る",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0994"
+    ]
+  },
+  {
+    "id": "en-0994",
+    "word": "surrender",
+    "pos": "動詞",
+    "meaning": "降伏する、引き渡す",
+    "level": 1,
+    "confusers": [
+      "en-0983"
+    ],
+    "synonyms": [
+      "en-0993"
+    ]
+  },
+  {
+    "id": "en-0995",
+    "word": "abandon",
+    "pos": "動詞",
+    "meaning": "捨てる、断念する",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0996",
+    "word": "accompany",
+    "pos": "動詞",
+    "meaning": "同行する、伴う",
+    "level": 1,
+    "confusers": [
+      "en-0999"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0997",
+    "word": "accumulate",
+    "pos": "動詞",
+    "meaning": "蓄積する",
+    "level": 1,
+    "confusers": [
+      "en-0878"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0998",
+    "word": "acknowledge",
+    "pos": "動詞",
+    "meaning": "認める",
+    "level": 1,
+    "confusers": [
+      "en-0298"
+    ],
+    "synonyms": [
+      "en-0103"
+    ]
+  },
+  {
+    "id": "en-0999",
+    "word": "accomplish",
+    "pos": "動詞",
+    "meaning": "成し遂げる",
+    "level": 1,
+    "confusers": [
+      "en-0996",
+      "en-0190",
+      "en-0231"
+    ],
+    "synonyms": [
+      "en-0004",
+      "en-0244"
+    ]
+  },
+  {
+    "id": "en-1000",
+    "word": "bear",
+    "pos": "動詞",
+    "meaning": "耐える、（子を）産む",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0986"
+    ]
+  }
+]

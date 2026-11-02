@@ -812,7 +812,9 @@
       "en-0071",
       "en-0870"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0922"
+    ]
   },
   {
     "id": "en-0869",
@@ -870,7 +872,9 @@
     "meaning": "引きつける",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0925"
+    ]
   },
   {
     "id": "en-0874",
@@ -972,7 +976,9 @@
     "confusers": [
       "en-0884"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0972"
+    ]
   },
   {
     "id": "en-0884",
@@ -1071,7 +1077,9 @@
     "meaning": "貢献する、寄付する",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0911"
+    ]
   },
   {
     "id": "en-0893",
