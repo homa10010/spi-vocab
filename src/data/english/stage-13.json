@@ -38,7 +38,9 @@
     "meaning": "攻撃的な、積極的な",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2624"
+    ]
   },
   {
     "id": "en-1205",
@@ -257,7 +259,9 @@
     "confusers": [
       "en-1215"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2646"
+    ]
   },
   {
     "id": "en-1223",
@@ -541,7 +545,9 @@
     "meaning": "敵意のある",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2624"
+    ]
   },
   {
     "id": "en-1248",
@@ -779,7 +785,10 @@
       "en-0601",
       "en-0561"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2613",
+      "en-2614"
+    ]
   },
   {
     "id": "en-1267",
@@ -874,7 +883,9 @@
     "confusers": [
       "en-1257"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2643"
+    ]
   },
   {
     "id": "en-1275",
@@ -1131,7 +1142,9 @@
     "meaning": "ささいな",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2698"
+    ]
   },
   {
     "id": "en-1297",

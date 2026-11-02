@@ -346,7 +346,9 @@
     "confusers": [
       "en-1758"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2673"
+    ]
   },
   {
     "id": "en-2030",
@@ -448,7 +450,9 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-2017"
+      "en-2017",
+      "en-2616",
+      "en-2617"
     ]
   },
   {
@@ -467,7 +471,10 @@
     "meaning": "情熱的な",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2694",
+      "en-2695"
+    ]
   },
   {
     "id": "en-2041",
@@ -515,7 +522,8 @@
     "confusers": [],
     "synonyms": [
       "en-1921",
-      "en-1205"
+      "en-1205",
+      "en-2647"
     ]
   },
   {
@@ -638,7 +646,8 @@
     "confusers": [],
     "synonyms": [
       "en-0622",
-      "en-0079"
+      "en-0079",
+      "en-2639"
     ]
   },
   {
@@ -678,7 +687,8 @@
     "synonyms": [
       "en-2058",
       "en-1230",
-      "en-1969"
+      "en-1969",
+      "en-2605"
     ]
   },
   {
@@ -864,7 +874,9 @@
     "meaning": "抜け目のない、賢い",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2618"
+    ]
   },
   {
     "id": "en-2074",
@@ -1110,7 +1122,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-0082"
+      "en-0082",
+      "en-2699"
     ]
   },
   {
@@ -1134,7 +1147,8 @@
       "en-1196"
     ],
     "synonyms": [
-      "en-0083"
+      "en-0083",
+      "en-2682"
     ]
   },
   {

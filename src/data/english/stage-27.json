@@ -1,0 +1,1243 @@
+[
+  {
+    "id": "en-2601",
+    "word": "abject",
+    "pos": "形容詞",
+    "meaning": "悲惨な、みじめな",
+    "level": 3,
+    "confusers": [
+      "en-0437",
+      "en-0502"
+    ],
+    "synonyms": [
+      "en-2602"
+    ]
+  },
+  {
+    "id": "en-2602",
+    "word": "miserable",
+    "pos": "形容詞",
+    "meaning": "みじめな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2601"
+    ]
+  },
+  {
+    "id": "en-2603",
+    "word": "abrasive",
+    "pos": "形容詞",
+    "meaning": "（態度が）とげとげしい、研磨用の",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2604",
+    "word": "abstruse",
+    "pos": "形容詞",
+    "meaning": "難解な",
+    "level": 3,
+    "confusers": [
+      "en-0602",
+      "en-1606"
+    ],
+    "synonyms": [
+      "en-0743"
+    ]
+  },
+  {
+    "id": "en-2605",
+    "word": "adamant",
+    "pos": "形容詞",
+    "meaning": "断固とした",
+    "level": 3,
+    "confusers": [
+      "en-2695"
+    ],
+    "synonyms": [
+      "en-2057",
+      "en-1969"
+    ]
+  },
+  {
+    "id": "en-2606",
+    "word": "adept",
+    "pos": "形容詞",
+    "meaning": "熟達した",
+    "level": 3,
+    "confusers": [
+      "en-0006",
+      "en-0007"
+    ],
+    "synonyms": [
+      "en-2607"
+    ]
+  },
+  {
+    "id": "en-2607",
+    "word": "proficient",
+    "pos": "形容詞",
+    "meaning": "熟達した",
+    "level": 3,
+    "confusers": [
+      "en-0074",
+      "en-0076",
+      "en-1835"
+    ],
+    "synonyms": [
+      "en-2606"
+    ]
+  },
+  {
+    "id": "en-2608",
+    "word": "aloof",
+    "pos": "形容詞",
+    "meaning": "よそよそしい",
+    "level": 3,
+    "confusers": [
+      "en-0465"
+    ],
+    "synonyms": [
+      "en-2609"
+    ]
+  },
+  {
+    "id": "en-2609",
+    "word": "distant",
+    "pos": "形容詞",
+    "meaning": "遠い、よそよそしい",
+    "level": 3,
+    "confusers": [
+      "en-0361",
+      "en-0535"
+    ],
+    "synonyms": [
+      "en-2608"
+    ]
+  },
+  {
+    "id": "en-2610",
+    "word": "amiable",
+    "pos": "形容詞",
+    "meaning": "愛想のよい",
+    "level": 3,
+    "confusers": [
+      "en-2612"
+    ],
+    "synonyms": [
+      "en-2611"
+    ]
+  },
+  {
+    "id": "en-2611",
+    "word": "friendly",
+    "pos": "形容詞",
+    "meaning": "友好的な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2610",
+      "en-2612"
+    ]
+  },
+  {
+    "id": "en-2612",
+    "word": "amicable",
+    "pos": "形容詞",
+    "meaning": "友好的な",
+    "level": 3,
+    "confusers": [
+      "en-2610",
+      "en-1206"
+    ],
+    "synonyms": [
+      "en-2611"
+    ]
+  },
+  {
+    "id": "en-2613",
+    "word": "antiquated",
+    "pos": "形容詞",
+    "meaning": "時代遅れの",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1266",
+      "en-2614"
+    ]
+  },
+  {
+    "id": "en-2614",
+    "word": "outdated",
+    "pos": "形容詞",
+    "meaning": "時代遅れの",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1266",
+      "en-2613"
+    ]
+  },
+  {
+    "id": "en-2615",
+    "word": "apathetic",
+    "pos": "形容詞",
+    "meaning": "無関心な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0657"
+    ]
+  },
+  {
+    "id": "en-2616",
+    "word": "arduous",
+    "pos": "形容詞",
+    "meaning": "骨の折れる",
+    "level": 3,
+    "confusers": [
+      "en-2695",
+      "en-2423"
+    ],
+    "synonyms": [
+      "en-2617",
+      "en-2038"
+    ]
+  },
+  {
+    "id": "en-2617",
+    "word": "laborious",
+    "pos": "形容詞",
+    "meaning": "骨の折れる",
+    "level": 3,
+    "confusers": [
+      "en-0411"
+    ],
+    "synonyms": [
+      "en-2038",
+      "en-2616"
+    ]
+  },
+  {
+    "id": "en-2618",
+    "word": "astute",
+    "pos": "形容詞",
+    "meaning": "鋭い、抜け目のない",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2073"
+    ]
+  },
+  {
+    "id": "en-2619",
+    "word": "audacious",
+    "pos": "形容詞",
+    "meaning": "大胆な、ずうずうしい",
+    "level": 3,
+    "confusers": [
+      "en-2426",
+      "en-2083"
+    ],
+    "synonyms": [
+      "en-1930"
+    ]
+  },
+  {
+    "id": "en-2620",
+    "word": "austere",
+    "pos": "形容詞",
+    "meaning": "（生活などが）簡素で厳しい",
+    "level": 3,
+    "confusers": [
+      "en-2428"
+    ],
+    "synonyms": [
+      "en-0783"
+    ]
+  },
+  {
+    "id": "en-2621",
+    "word": "avid",
+    "pos": "形容詞",
+    "meaning": "熱心な、貪欲な",
+    "level": 3,
+    "confusers": [
+      "en-0115",
+      "en-2109"
+    ],
+    "synonyms": [
+      "en-0663",
+      "en-1958",
+      "en-2116"
+    ]
+  },
+  {
+    "id": "en-2622",
+    "word": "banal",
+    "pos": "形容詞",
+    "meaning": "陳腐な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2623"
+    ]
+  },
+  {
+    "id": "en-2623",
+    "word": "trite",
+    "pos": "形容詞",
+    "meaning": "陳腐な、ありふれた",
+    "level": 3,
+    "confusers": [
+      "en-1897",
+      "en-2548"
+    ],
+    "synonyms": [
+      "en-2622"
+    ]
+  },
+  {
+    "id": "en-2624",
+    "word": "belligerent",
+    "pos": "形容詞",
+    "meaning": "好戦的な",
+    "level": 3,
+    "confusers": [
+      "en-0715"
+    ],
+    "synonyms": [
+      "en-1204",
+      "en-1247"
+    ]
+  },
+  {
+    "id": "en-2625",
+    "word": "benevolent",
+    "pos": "形容詞",
+    "meaning": "慈悲深い",
+    "level": 3,
+    "confusers": [
+      "en-2434"
+    ],
+    "synonyms": [
+      "en-2626"
+    ]
+  },
+  {
+    "id": "en-2626",
+    "word": "kind",
+    "pos": "形容詞",
+    "meaning": "親切な",
+    "level": 3,
+    "confusers": [
+      "en-2190"
+    ],
+    "synonyms": [
+      "en-1976",
+      "en-2625"
+    ]
+  },
+  {
+    "id": "en-2627",
+    "word": "benign",
+    "pos": "形容詞",
+    "meaning": "優しい、（病気が）良性の",
+    "level": 3,
+    "confusers": [
+      "en-0052"
+    ],
+    "synonyms": [
+      "en-1972"
+    ]
+  },
+  {
+    "id": "en-2628",
+    "word": "blatant",
+    "pos": "形容詞",
+    "meaning": "露骨な、見え透いた",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2629"
+    ]
+  },
+  {
+    "id": "en-2629",
+    "word": "flagrant",
+    "pos": "形容詞",
+    "meaning": "甚だしい、目に余る",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2628",
+      "en-2678"
+    ]
+  },
+  {
+    "id": "en-2630",
+    "word": "boisterous",
+    "pos": "形容詞",
+    "meaning": "騒々しい",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2631"
+    ]
+  },
+  {
+    "id": "en-2631",
+    "word": "noisy",
+    "pos": "形容詞",
+    "meaning": "騒がしい",
+    "level": 3,
+    "confusers": [
+      "en-1550"
+    ],
+    "synonyms": [
+      "en-2630"
+    ]
+  },
+  {
+    "id": "en-2632",
+    "word": "brazen",
+    "pos": "形容詞",
+    "meaning": "厚かましい",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2633"
+    ]
+  },
+  {
+    "id": "en-2633",
+    "word": "shameless",
+    "pos": "形容詞",
+    "meaning": "恥知らずな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2632"
+    ]
+  },
+  {
+    "id": "en-2634",
+    "word": "brusque",
+    "pos": "形容詞",
+    "meaning": "ぶっきらぼうな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1929"
+    ]
+  },
+  {
+    "id": "en-2635",
+    "word": "callous",
+    "pos": "形容詞",
+    "meaning": "冷淡な、無神経な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2636"
+    ]
+  },
+  {
+    "id": "en-2636",
+    "word": "heartless",
+    "pos": "形容詞",
+    "meaning": "無情な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2635"
+    ]
+  },
+  {
+    "id": "en-2637",
+    "word": "capricious",
+    "pos": "形容詞",
+    "meaning": "気まぐれな",
+    "level": 3,
+    "confusers": [
+      "en-0755"
+    ],
+    "synonyms": [
+      "en-2638",
+      "en-2683"
+    ]
+  },
+  {
+    "id": "en-2638",
+    "word": "fickle",
+    "pos": "形容詞",
+    "meaning": "移り気な",
+    "level": 3,
+    "confusers": [
+      "en-1723"
+    ],
+    "synonyms": [
+      "en-2637"
+    ]
+  },
+  {
+    "id": "en-2639",
+    "word": "circumspect",
+    "pos": "形容詞",
+    "meaning": "用心深い",
+    "level": 3,
+    "confusers": [
+      "en-0573",
+      "en-0020",
+      "en-0022"
+    ],
+    "synonyms": [
+      "en-0622",
+      "en-2054",
+      "en-2111"
+    ]
+  },
+  {
+    "id": "en-2640",
+    "word": "clandestine",
+    "pos": "形容詞",
+    "meaning": "秘密の、内密の",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2641"
+    ]
+  },
+  {
+    "id": "en-2641",
+    "word": "secret",
+    "pos": "形容詞",
+    "meaning": "秘密の",
+    "level": 3,
+    "confusers": [
+      "en-2064"
+    ],
+    "synonyms": [
+      "en-2640"
+    ]
+  },
+  {
+    "id": "en-2642",
+    "word": "cogent",
+    "pos": "形容詞",
+    "meaning": "説得力のある",
+    "level": 3,
+    "confusers": [
+      "en-0540",
+      "en-0798"
+    ],
+    "synonyms": [
+      "en-1936",
+      "en-1935"
+    ]
+  },
+  {
+    "id": "en-2643",
+    "word": "commensurate",
+    "pos": "形容詞",
+    "meaning": "釣り合った、相応の",
+    "level": 3,
+    "confusers": [
+      "en-1017"
+    ],
+    "synonyms": [
+      "en-1274"
+    ]
+  },
+  {
+    "id": "en-2644",
+    "word": "conciliatory",
+    "pos": "形容詞",
+    "meaning": "融和的な、なだめるような",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2645",
+    "word": "conducive",
+    "pos": "形容詞",
+    "meaning": "助けとなる、資する",
+    "level": 3,
+    "confusers": [
+      "en-1936"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2646",
+    "word": "contentious",
+    "pos": "形容詞",
+    "meaning": "論争を引き起こす",
+    "level": 3,
+    "confusers": [
+      "en-2455"
+    ],
+    "synonyms": [
+      "en-1222"
+    ]
+  },
+  {
+    "id": "en-2647",
+    "word": "copious",
+    "pos": "形容詞",
+    "meaning": "豊富な、多量の",
+    "level": 3,
+    "confusers": [
+      "en-1854",
+      "en-0755"
+    ],
+    "synonyms": [
+      "en-1921",
+      "en-2044"
+    ]
+  },
+  {
+    "id": "en-2648",
+    "word": "cordial",
+    "pos": "形容詞",
+    "meaning": "心からの、温かい",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2649",
+    "word": "cryptic",
+    "pos": "形容詞",
+    "meaning": "謎めいた",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2650"
+    ]
+  },
+  {
+    "id": "en-2650",
+    "word": "mysterious",
+    "pos": "形容詞",
+    "meaning": "不可解な、神秘的な",
+    "level": 3,
+    "confusers": [
+      "en-2486"
+    ],
+    "synonyms": [
+      "en-2649"
+    ]
+  },
+  {
+    "id": "en-2651",
+    "word": "culpable",
+    "pos": "形容詞",
+    "meaning": "有罪の、責めを負うべき",
+    "level": 3,
+    "confusers": [
+      "en-0626"
+    ],
+    "synonyms": [
+      "en-2652"
+    ]
+  },
+  {
+    "id": "en-2652",
+    "word": "guilty",
+    "pos": "形容詞",
+    "meaning": "有罪の、罪悪感のある",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2651"
+    ]
+  },
+  {
+    "id": "en-2653",
+    "word": "cursory",
+    "pos": "形容詞",
+    "meaning": "ぞんざいな、大まかな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2654"
+    ]
+  },
+  {
+    "id": "en-2654",
+    "word": "perfunctory",
+    "pos": "形容詞",
+    "meaning": "おざなりな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2653"
+    ]
+  },
+  {
+    "id": "en-2655",
+    "word": "daunting",
+    "pos": "形容詞",
+    "meaning": "ひるませるような、困難な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2656"
+    ]
+  },
+  {
+    "id": "en-2656",
+    "word": "intimidating",
+    "pos": "形容詞",
+    "meaning": "威圧的な、怖い",
+    "level": 3,
+    "confusers": [
+      "en-1996",
+      "en-1425"
+    ],
+    "synonyms": [
+      "en-2655"
+    ]
+  },
+  {
+    "id": "en-2657",
+    "word": "deft",
+    "pos": "形容詞",
+    "meaning": "器用な、巧みな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2658"
+    ]
+  },
+  {
+    "id": "en-2658",
+    "word": "skillful",
+    "pos": "形容詞",
+    "meaning": "熟練した、巧みな",
+    "level": 3,
+    "confusers": [
+      "en-0300"
+    ],
+    "synonyms": [
+      "en-2657"
+    ]
+  },
+  {
+    "id": "en-2659",
+    "word": "deleterious",
+    "pos": "形容詞",
+    "meaning": "有害な",
+    "level": 3,
+    "confusers": [
+      "en-2650"
+    ],
+    "synonyms": [
+      "en-2660",
+      "en-1923"
+    ]
+  },
+  {
+    "id": "en-2660",
+    "word": "harmful",
+    "pos": "形容詞",
+    "meaning": "有害な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1923",
+      "en-2659"
+    ]
+  },
+  {
+    "id": "en-2661",
+    "word": "derogatory",
+    "pos": "形容詞",
+    "meaning": "軽蔑的な",
+    "level": 3,
+    "confusers": [
+      "en-2030"
+    ],
+    "synonyms": [
+      "en-2662"
+    ]
+  },
+  {
+    "id": "en-2662",
+    "word": "contemptuous",
+    "pos": "形容詞",
+    "meaning": "軽蔑的な",
+    "level": 3,
+    "confusers": [
+      "en-2646"
+    ],
+    "synonyms": [
+      "en-2661"
+    ]
+  },
+  {
+    "id": "en-2663",
+    "word": "despondent",
+    "pos": "形容詞",
+    "meaning": "落胆した",
+    "level": 3,
+    "confusers": [
+      "en-0655"
+    ],
+    "synonyms": [
+      "en-2664"
+    ]
+  },
+  {
+    "id": "en-2664",
+    "word": "dejected",
+    "pos": "形容詞",
+    "meaning": "落胆した",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2663"
+    ]
+  },
+  {
+    "id": "en-2665",
+    "word": "destitute",
+    "pos": "形容詞",
+    "meaning": "極貧の",
+    "level": 3,
+    "confusers": [
+      "en-1028",
+      "en-0981"
+    ],
+    "synonyms": [
+      "en-2666"
+    ]
+  },
+  {
+    "id": "en-2666",
+    "word": "impoverished",
+    "pos": "形容詞",
+    "meaning": "貧しい",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2665"
+    ]
+  },
+  {
+    "id": "en-2667",
+    "word": "diffident",
+    "pos": "形容詞",
+    "meaning": "自信のない、内気な",
+    "level": 3,
+    "confusers": [
+      "en-2672",
+      "en-0639"
+    ],
+    "synonyms": [
+      "en-2668"
+    ]
+  },
+  {
+    "id": "en-2668",
+    "word": "shy",
+    "pos": "形容詞",
+    "meaning": "恥ずかしがりの",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2667"
+    ]
+  },
+  {
+    "id": "en-2669",
+    "word": "dilapidated",
+    "pos": "形容詞",
+    "meaning": "荒れ果てた、老朽化した",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2670",
+    "word": "discerning",
+    "pos": "形容詞",
+    "meaning": "識別力のある、目の肥えた",
+    "level": 3,
+    "confusers": [
+      "en-1593"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2671",
+    "word": "disparate",
+    "pos": "形容詞",
+    "meaning": "異質の、全く異なる",
+    "level": 3,
+    "confusers": [
+      "en-1946",
+      "en-2473"
+    ],
+    "synonyms": [
+      "en-2672"
+    ]
+  },
+  {
+    "id": "en-2672",
+    "word": "different",
+    "pos": "形容詞",
+    "meaning": "異なる",
+    "level": 3,
+    "confusers": [
+      "en-0356",
+      "en-0657"
+    ],
+    "synonyms": [
+      "en-2671"
+    ]
+  },
+  {
+    "id": "en-2673",
+    "word": "docile",
+    "pos": "形容詞",
+    "meaning": "従順な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2029"
+    ]
+  },
+  {
+    "id": "en-2674",
+    "word": "dogmatic",
+    "pos": "形容詞",
+    "meaning": "独断的な",
+    "level": 3,
+    "confusers": [
+      "en-0661",
+      "en-2045"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2675",
+    "word": "ebullient",
+    "pos": "形容詞",
+    "meaning": "元気いっぱいの",
+    "level": 3,
+    "confusers": [
+      "en-1931"
+    ],
+    "synonyms": [
+      "en-2676"
+    ]
+  },
+  {
+    "id": "en-2676",
+    "word": "exuberant",
+    "pos": "形容詞",
+    "meaning": "元気いっぱいの",
+    "level": 3,
+    "confusers": [
+      "en-2688"
+    ],
+    "synonyms": [
+      "en-2675"
+    ]
+  },
+  {
+    "id": "en-2677",
+    "word": "eclectic",
+    "pos": "形容詞",
+    "meaning": "折衷的な、幅広い",
+    "level": 3,
+    "confusers": [
+      "en-1955"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2678",
+    "word": "egregious",
+    "pos": "形容詞",
+    "meaning": "甚だしい、言語道断の",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2629"
+    ]
+  },
+  {
+    "id": "en-2679",
+    "word": "elusive",
+    "pos": "形容詞",
+    "meaning": "捉えどころのない",
+    "level": 3,
+    "confusers": [
+      "en-1962",
+      "en-2249"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2680",
+    "word": "emphatic",
+    "pos": "形容詞",
+    "meaning": "語気の強い、強調された",
+    "level": 3,
+    "confusers": [
+      "en-0367"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2681",
+    "word": "endemic",
+    "pos": "形容詞",
+    "meaning": "（ある地域に）特有の、風土病の",
+    "level": 3,
+    "confusers": [
+      "en-1706",
+      "en-0604"
+    ],
+    "synonyms": [
+      "en-1990"
+    ]
+  },
+  {
+    "id": "en-2682",
+    "word": "ephemeral",
+    "pos": "形容詞",
+    "meaning": "はかない、短命の",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2097"
+    ]
+  },
+  {
+    "id": "en-2683",
+    "word": "erratic",
+    "pos": "形容詞",
+    "meaning": "不規則な、気まぐれな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2684",
+      "en-2637"
+    ]
+  },
+  {
+    "id": "en-2684",
+    "word": "irregular",
+    "pos": "形容詞",
+    "meaning": "不規則な",
+    "level": 3,
+    "confusers": [
+      "en-0772",
+      "en-2000"
+    ],
+    "synonyms": [
+      "en-2683"
+    ]
+  },
+  {
+    "id": "en-2685",
+    "word": "erroneous",
+    "pos": "形容詞",
+    "meaning": "誤った",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2686"
+    ]
+  },
+  {
+    "id": "en-2686",
+    "word": "wrong",
+    "pos": "形容詞",
+    "meaning": "間違った",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2685"
+    ]
+  },
+  {
+    "id": "en-2687",
+    "word": "exemplary",
+    "pos": "形容詞",
+    "meaning": "模範的な",
+    "level": 3,
+    "confusers": [
+      "en-1160"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2688",
+    "word": "exorbitant",
+    "pos": "形容詞",
+    "meaning": "法外な",
+    "level": 3,
+    "confusers": [
+      "en-2676"
+    ],
+    "synonyms": [
+      "en-1961"
+    ]
+  },
+  {
+    "id": "en-2689",
+    "word": "extraneous",
+    "pos": "形容詞",
+    "meaning": "無関係な、外部からの",
+    "level": 3,
+    "confusers": [
+      "en-1285"
+    ],
+    "synonyms": [
+      "en-2000"
+    ]
+  },
+  {
+    "id": "en-2690",
+    "word": "facetious",
+    "pos": "形容詞",
+    "meaning": "ふざけた、おどけた",
+    "level": 3,
+    "confusers": [
+      "en-2494",
+      "en-2692"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2691",
+    "word": "fallible",
+    "pos": "形容詞",
+    "meaning": "誤りを犯しがちな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2692",
+    "word": "fastidious",
+    "pos": "形容詞",
+    "meaning": "好みがうるさい、潔癖な",
+    "level": 3,
+    "confusers": [
+      "en-2690",
+      "en-2020"
+    ],
+    "synonyms": [
+      "en-2693"
+    ]
+  },
+  {
+    "id": "en-2693",
+    "word": "fussy",
+    "pos": "形容詞",
+    "meaning": "好みがうるさい",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2692"
+    ]
+  },
+  {
+    "id": "en-2694",
+    "word": "fervent",
+    "pos": "形容詞",
+    "meaning": "熱烈な",
+    "level": 3,
+    "confusers": [
+      "en-2497"
+    ],
+    "synonyms": [
+      "en-2040",
+      "en-2695"
+    ]
+  },
+  {
+    "id": "en-2695",
+    "word": "ardent",
+    "pos": "形容詞",
+    "meaning": "熱烈な",
+    "level": 3,
+    "confusers": [
+      "en-2605",
+      "en-2423",
+      "en-2616"
+    ],
+    "synonyms": [
+      "en-2040",
+      "en-2694"
+    ]
+  },
+  {
+    "id": "en-2696",
+    "word": "flamboyant",
+    "pos": "形容詞",
+    "meaning": "派手な、きらびやかな",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2697"
+    ]
+  },
+  {
+    "id": "en-2697",
+    "word": "showy",
+    "pos": "形容詞",
+    "meaning": "派手な",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2696"
+    ]
+  },
+  {
+    "id": "en-2698",
+    "word": "frivolous",
+    "pos": "形容詞",
+    "meaning": "軽薄な、くだらない",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1296"
+    ]
+  },
+  {
+    "id": "en-2699",
+    "word": "frugal",
+    "pos": "形容詞",
+    "meaning": "質素な、倹約的な",
+    "level": 3,
+    "confusers": [
+      "en-2501",
+      "en-1245"
+    ],
+    "synonyms": [
+      "en-2095",
+      "en-0082"
+    ]
+  },
+  {
+    "id": "en-2700",
+    "word": "furtive",
+    "pos": "形容詞",
+    "meaning": "こそこそした",
+    "level": 3,
+    "confusers": [
+      "en-1965"
+    ],
+    "synonyms": []
+  }
+]
