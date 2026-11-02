@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "en-2101",
+    "word": "upright",
+    "pos": "形容詞",
+    "meaning": "まっすぐな、高潔な",
+    "level": 2,
+    "confusers": [
+      "en-1905"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2102",
+    "word": "utmost",
+    "pos": "形容詞",
+    "meaning": "最大限の",
+    "level": 2,
+    "confusers": [
+      "en-0803",
+      "en-0097"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2103",
+    "word": "vague",
+    "pos": "形容詞",
+    "meaning": "あいまいな",
+    "level": 2,
+    "confusers": [
+      "en-1823"
+    ],
+    "synonyms": [
+      "en-0615"
+    ]
+  },
+  {
+    "id": "en-2104",
+    "word": "vain",
+    "pos": "形容詞",
+    "meaning": "無駄な、うぬぼれた",
+    "level": 2,
+    "confusers": [
+      "en-0733"
+    ],
+    "synonyms": [
+      "en-1966"
+    ]
+  },
+  {
+    "id": "en-2105",
+    "word": "vehement",
+    "pos": "形容詞",
+    "meaning": "激しい、熱烈な",
+    "level": 2,
+    "confusers": [
+      "en-0365"
+    ],
+    "synonyms": [
+      "en-1255"
+    ]
+  },
+  {
+    "id": "en-2106",
+    "word": "verbal",
+    "pos": "形容詞",
+    "meaning": "言葉の、口頭の",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2107",
+    "word": "vigorous",
+    "pos": "形容詞",
+    "meaning": "精力的な、力強い",
+    "level": 2,
+    "confusers": [
+      "en-1281",
+      "en-1916"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2108",
+    "word": "vital",
+    "pos": "形容詞",
+    "meaning": "極めて重要な、生命の",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0091",
+      "en-0646"
+    ]
+  },
+  {
+    "id": "en-2109",
+    "word": "vivid",
+    "pos": "形容詞",
+    "meaning": "鮮やかな、生き生きとした",
+    "level": 2,
+    "confusers": [
+      "en-0799"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2110",
+    "word": "volatile",
+    "pos": "形容詞",
+    "meaning": "不安定な、変わりやすい",
+    "level": 2,
+    "confusers": [
+      "en-1299",
+      "en-0526",
+      "en-1286"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2111",
+    "word": "wary",
+    "pos": "形容詞",
+    "meaning": "用心深い",
+    "level": 2,
+    "confusers": [
+      "en-2112",
+      "en-1523"
+    ],
+    "synonyms": [
+      "en-0622"
+    ]
+  },
+  {
+    "id": "en-2112",
+    "word": "weary",
+    "pos": "形容詞",
+    "meaning": "疲れた、うんざりした",
+    "level": 2,
+    "confusers": [
+      "en-2111"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2113",
+    "word": "wholesome",
+    "pos": "形容詞",
+    "meaning": "健全な、健康によい",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2114",
+    "word": "widespread",
+    "pos": "形容詞",
+    "meaning": "広く行き渡った",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1272"
+    ]
+  },
+  {
+    "id": "en-2115",
+    "word": "witty",
+    "pos": "形容詞",
+    "meaning": "機知に富んだ",
+    "level": 2,
+    "confusers": [
+      "en-0530"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2116",
+    "word": "zealous",
+    "pos": "形容詞",
+    "meaning": "熱心な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0663",
+      "en-1958"
+    ]
+  },
+  {
+    "id": "en-2117",
+    "word": "deliberately",
+    "pos": "副詞",
+    "meaning": "故意に",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2118"
+    ]
+  },
+  {
+    "id": "en-2118",
+    "word": "intentionally",
+    "pos": "副詞",
+    "meaning": "故意に、わざと",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2117"
+    ]
+  },
+  {
+    "id": "en-2119",
+    "word": "explicitly",
+    "pos": "副詞",
+    "meaning": "明確に、はっきりと",
+    "level": 2,
+    "confusers": [
+      "en-2142"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2120",
+    "word": "inevitably",
+    "pos": "副詞",
+    "meaning": "必然的に、必ず",
+    "level": 2,
+    "confusers": [
+      "en-0711"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2121",
+    "word": "promptly",
+    "pos": "副詞",
+    "meaning": "即座に、時間どおりに",
+    "level": 2,
+    "confusers": [
+      "en-1084"
+    ],
+    "synonyms": [
+      "en-0100"
+    ]
+  },
+  {
+    "id": "en-2122",
+    "word": "simultaneously",
+    "pos": "副詞",
+    "meaning": "同時に",
+    "level": 2,
+    "confusers": [
+      "en-1284"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2123",
+    "word": "subsequently",
+    "pos": "副詞",
+    "meaning": "その後",
+    "level": 2,
+    "confusers": [
+      "en-0814",
+      "en-2144"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2124",
+    "word": "formerly",
+    "pos": "副詞",
+    "meaning": "以前は",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2125"
+    ]
+  },
+  {
+    "id": "en-2125",
+    "word": "previously",
+    "pos": "副詞",
+    "meaning": "以前に",
+    "level": 2,
+    "confusers": [
+      "en-0837",
+      "en-0086"
+    ],
+    "synonyms": [
+      "en-2124"
+    ]
+  },
+  {
+    "id": "en-2126",
+    "word": "hence",
+    "pos": "副詞",
+    "meaning": "それゆえ、したがって",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0815",
+      "en-0816"
+    ]
+  },
+  {
+    "id": "en-2127",
+    "word": "likewise",
+    "pos": "副詞",
+    "meaning": "同様に",
+    "level": 2,
+    "confusers": [
+      "en-0839",
+      "en-2051"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2128",
+    "word": "meanwhile",
+    "pos": "副詞",
+    "meaning": "その間に、一方で",
+    "level": 2,
+    "confusers": [
+      "en-2060",
+      "en-0845"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2129",
+    "word": "namely",
+    "pos": "副詞",
+    "meaning": "すなわち",
+    "level": 2,
+    "confusers": [
+      "en-0096",
+      "en-0845"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2130",
+    "word": "notably",
+    "pos": "副詞",
+    "meaning": "著しく、とりわけ",
+    "level": 2,
+    "confusers": [
+      "en-2025"
+    ],
+    "synonyms": [
+      "en-0821"
+    ]
+  },
+  {
+    "id": "en-2131",
+    "word": "partly",
+    "pos": "副詞",
+    "meaning": "部分的に、一部は",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2132",
+    "word": "potentially",
+    "pos": "副詞",
+    "meaning": "潜在的に",
+    "level": 2,
+    "confusers": [
+      "en-0092"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2133",
+    "word": "practically",
+    "pos": "副詞",
+    "meaning": "事実上、実際的に",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2134"
+    ]
+  },
+  {
+    "id": "en-2134",
+    "word": "virtually",
+    "pos": "副詞",
+    "meaning": "事実上",
+    "level": 2,
+    "confusers": [
+      "en-0099"
+    ],
+    "synonyms": [
+      "en-2133"
+    ]
+  },
+  {
+    "id": "en-2135",
+    "word": "presently",
+    "pos": "副詞",
+    "meaning": "現在、まもなく",
+    "level": 2,
+    "confusers": [
+      "en-0209",
+      "en-2125"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2136",
+    "word": "readily",
+    "pos": "副詞",
+    "meaning": "容易に、快く",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2137",
+    "word": "reluctantly",
+    "pos": "副詞",
+    "meaning": "しぶしぶ",
+    "level": 2,
+    "confusers": [
+      "en-0775"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2138",
+    "word": "seemingly",
+    "pos": "副詞",
+    "meaning": "見たところ",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0804"
+    ]
+  },
+  {
+    "id": "en-2139",
+    "word": "sincerely",
+    "pos": "副詞",
+    "meaning": "心から",
+    "level": 2,
+    "confusers": [
+      "en-0745"
+    ],
+    "synonyms": [
+      "en-2140"
+    ]
+  },
+  {
+    "id": "en-2140",
+    "word": "genuinely",
+    "pos": "副詞",
+    "meaning": "本当に、心から",
+    "level": 2,
+    "confusers": [
+      "en-0828",
+      "en-0695"
+    ],
+    "synonyms": [
+      "en-2139"
+    ]
+  },
+  {
+    "id": "en-2141",
+    "word": "solely",
+    "pos": "副詞",
+    "meaning": "単に、もっぱら",
+    "level": 2,
+    "confusers": [
+      "en-2078"
+    ],
+    "synonyms": [
+      "en-0831"
+    ]
+  },
+  {
+    "id": "en-2142",
+    "word": "exclusively",
+    "pos": "副詞",
+    "meaning": "独占的に、もっぱら",
+    "level": 2,
+    "confusers": [
+      "en-1962"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2143",
+    "word": "strictly",
+    "pos": "副詞",
+    "meaning": "厳密に、厳しく",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2144",
+    "word": "substantially",
+    "pos": "副詞",
+    "meaning": "相当に、大幅に",
+    "level": 2,
+    "confusers": [
+      "en-2123",
+      "en-1289"
+    ],
+    "synonyms": [
+      "en-0850"
+    ]
+  },
+  {
+    "id": "en-2145",
+    "word": "supposedly",
+    "pos": "副詞",
+    "meaning": "〜ということになっているが、たぶん",
+    "level": 2,
+    "confusers": [
+      "en-0156"
+    ],
+    "synonyms": [
+      "en-2146"
+    ]
+  },
+  {
+    "id": "en-2146",
+    "word": "allegedly",
+    "pos": "副詞",
+    "meaning": "伝えられるところでは",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2145"
+    ]
+  },
+  {
+    "id": "en-2147",
+    "word": "temporarily",
+    "pos": "副詞",
+    "meaning": "一時的に",
+    "level": 2,
+    "confusers": [
+      "en-0083"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2148",
+    "word": "undoubtedly",
+    "pos": "副詞",
+    "meaning": "疑いなく",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0819",
+      "en-0818"
+    ]
+  },
+  {
+    "id": "en-2149",
+    "word": "utterly",
+    "pos": "副詞",
+    "meaning": "まったく、完全に",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0810",
+      "en-0812",
+      "en-0811"
+    ]
+  },
+  {
+    "id": "en-2150",
+    "word": "wholly",
+    "pos": "副詞",
+    "meaning": "完全に、まったく",
+    "level": 2,
+    "confusers": [
+      "en-2113"
+    ],
+    "synonyms": [
+      "en-0810",
+      "en-0811"
+    ]
+  },
+  {
+    "id": "en-2151",
+    "word": "voluntarily",
+    "pos": "副詞",
+    "meaning": "自発的に",
+    "level": 2,
+    "confusers": [
+      "en-1286"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2152",
+    "word": "conversely",
+    "pos": "副詞",
+    "meaning": "逆に",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2153",
+    "word": "abruptly",
+    "pos": "副詞",
+    "meaning": "突然、不意に",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0851"
+    ]
+  },
+  {
+    "id": "en-2154",
+    "word": "accidentally",
+    "pos": "副詞",
+    "meaning": "偶然に、うっかり",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2155",
+    "word": "admittedly",
+    "pos": "副詞",
+    "meaning": "確かに（〜ではあるが）",
+    "level": 2,
+    "confusers": [
+      "en-0103"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2156",
+    "word": "briefly",
+    "pos": "副詞",
+    "meaning": "手短に、少しの間",
+    "level": 2,
+    "confusers": [
+      "en-0625"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2157",
+    "word": "dramatically",
+    "pos": "副詞",
+    "meaning": "劇的に",
+    "level": 2,
+    "confusers": [
+      "en-0661"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2158",
+    "word": "eagerly",
+    "pos": "副詞",
+    "meaning": "熱心に",
+    "level": 2,
+    "confusers": [
+      "en-0663"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2159",
+    "word": "effectively",
+    "pos": "副詞",
+    "meaning": "効果的に、事実上",
+    "level": 2,
+    "confusers": [
+      "en-2160",
+      "en-0075"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2160",
+    "word": "efficiently",
+    "pos": "副詞",
+    "meaning": "効率よく",
+    "level": 2,
+    "confusers": [
+      "en-2159",
+      "en-0074"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2161",
+    "word": "evidently",
+    "pos": "副詞",
+    "meaning": "明らかに",
+    "level": 2,
+    "confusers": [
+      "en-0098",
+      "en-0673"
+    ],
+    "synonyms": [
+      "en-0837"
+    ]
+  },
+  {
+    "id": "en-2162",
+    "word": "firmly",
+    "pos": "副詞",
+    "meaning": "しっかりと、断固として",
+    "level": 2,
+    "confusers": [
+      "en-2124",
+      "en-1969"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2163",
+    "word": "increasingly",
+    "pos": "副詞",
+    "meaning": "ますます",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2164",
+    "word": "literally",
+    "pos": "副詞",
+    "meaning": "文字どおりに",
+    "level": 2,
+    "confusers": [
+      "en-0722",
+      "en-0721"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2165",
+    "word": "mutually",
+    "pos": "副詞",
+    "meaning": "相互に",
+    "level": 2,
+    "confusers": [
+      "en-1263",
+      "en-0860"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2166",
+    "word": "adequately",
+    "pos": "副詞",
+    "meaning": "適切に、十分に",
+    "level": 2,
+    "confusers": [
+      "en-0070"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2167",
+    "word": "alternatively",
+    "pos": "副詞",
+    "meaning": "代わりに、あるいは",
+    "level": 2,
+    "confusers": [
+      "en-0543"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2168",
+    "word": "arguably",
+    "pos": "副詞",
+    "meaning": "ほぼ間違いなく",
+    "level": 2,
+    "confusers": [
+      "en-0111"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2169",
+    "word": "respectively",
+    "pos": "副詞",
+    "meaning": "それぞれ",
+    "level": 2,
+    "confusers": [
+      "en-1278"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2170",
+    "word": "tentatively",
+    "pos": "副詞",
+    "meaning": "仮に、ためらいがちに",
+    "level": 2,
+    "confusers": [
+      "en-1258"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2171",
+    "word": "thereby",
+    "pos": "副詞",
+    "meaning": "それによって",
+    "level": 2,
+    "confusers": [
+      "en-0815"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2172",
+    "word": "predominantly",
+    "pos": "副詞",
+    "meaning": "主に、大部分は",
+    "level": 2,
+    "confusers": [
+      "en-2047"
+    ],
+    "synonyms": [
+      "en-0845",
+      "en-0097"
+    ]
+  },
+  {
+    "id": "en-2173",
+    "word": "allude",
+    "pos": "動詞",
+    "meaning": "ほのめかす、言及する",
+    "level": 2,
+    "confusers": [
+      "en-0136"
+    ],
+    "synonyms": [
+      "en-0108"
+    ]
+  },
+  {
+    "id": "en-2174",
+    "word": "avert",
+    "pos": "動詞",
+    "meaning": "避ける、そらす",
+    "level": 2,
+    "confusers": [
+      "en-1364",
+      "en-1577"
+    ],
+    "synonyms": [
+      "en-0115"
+    ]
+  },
+  {
+    "id": "en-2175",
+    "word": "bolster",
+    "pos": "動詞",
+    "meaning": "強化する、支える",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1090",
+      "en-0263"
+    ]
+  },
+  {
+    "id": "en-2176",
+    "word": "curb",
+    "pos": "動詞",
+    "meaning": "抑制する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1480",
+      "en-1062"
+    ]
+  },
+  {
+    "id": "en-2177",
+    "word": "curtail",
+    "pos": "動詞",
+    "meaning": "削減する、短縮する",
+    "level": 2,
+    "confusers": [
+      "en-0355"
+    ],
+    "synonyms": [
+      "en-0196"
+    ]
+  },
+  {
+    "id": "en-2178",
+    "word": "deduct",
+    "pos": "動詞",
+    "meaning": "差し引く",
+    "level": 2,
+    "confusers": [
+      "en-0238",
+      "en-0584"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2179",
+    "word": "discourage",
+    "pos": "動詞",
+    "meaning": "落胆させる、思いとどまらせる",
+    "level": 2,
+    "confusers": [
+      "en-0153",
+      "en-0593",
+      "en-0148"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2180",
+    "word": "dwindle",
+    "pos": "動詞",
+    "meaning": "だんだん減少する",
+    "level": 2,
+    "confusers": [
+      "en-2190"
+    ],
+    "synonyms": [
+      "en-1034"
+    ]
+  },
+  {
+    "id": "en-2181",
+    "word": "emulate",
+    "pos": "動詞",
+    "meaning": "見習う、張り合う",
+    "level": 2,
+    "confusers": [
+      "en-1100"
+    ],
+    "synonyms": [
+      "en-0172"
+    ]
+  },
+  {
+    "id": "en-2182",
+    "word": "endow",
+    "pos": "動詞",
+    "meaning": "寄付する、授ける",
+    "level": 2,
+    "confusers": [
+      "en-1044",
+      "en-1043"
+    ],
+    "synonyms": [
+      "en-0911"
+    ]
+  },
+  {
+    "id": "en-2183",
+    "word": "entice",
+    "pos": "動詞",
+    "meaning": "誘い込む",
+    "level": 2,
+    "confusers": [
+      "en-0178",
+      "en-0671"
+    ],
+    "synonyms": [
+      "en-2184"
+    ]
+  },
+  {
+    "id": "en-2184",
+    "word": "lure",
+    "pos": "動詞",
+    "meaning": "誘惑する、おびき寄せる",
+    "level": 2,
+    "confusers": [
+      "en-0895"
+    ],
+    "synonyms": [
+      "en-1511",
+      "en-2183"
+    ]
+  },
+  {
+    "id": "en-2185",
+    "word": "forfeit",
+    "pos": "動詞",
+    "meaning": "（罰として）失う、没収される",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2186",
+    "word": "harness",
+    "pos": "動詞",
+    "meaning": "利用する、活用する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1112"
+    ]
+  },
+  {
+    "id": "en-2187",
+    "word": "heighten",
+    "pos": "動詞",
+    "meaning": "高める、強める",
+    "level": 2,
+    "confusers": [
+      "en-0929"
+    ],
+    "synonyms": [
+      "en-1423"
+    ]
+  },
+  {
+    "id": "en-2188",
+    "word": "hamper",
+    "pos": "動詞",
+    "meaning": "妨げる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1057",
+      "en-1413",
+      "en-0018"
+    ]
+  },
+  {
+    "id": "en-2189",
+    "word": "instill",
+    "pos": "動詞",
+    "meaning": "（考えを）しみ込ませる",
+    "level": 2,
+    "confusers": [
+      "en-0939",
+      "en-1765"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2190",
+    "word": "kindle",
+    "pos": "動詞",
+    "meaning": "燃え上がらせる、かき立てる",
+    "level": 2,
+    "confusers": [
+      "en-2180"
+    ],
+    "synonyms": [
+      "en-1306"
+    ]
+  },
+  {
+    "id": "en-2191",
+    "word": "lament",
+    "pos": "動詞",
+    "meaning": "嘆く、悲しむ",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1441"
+    ]
+  },
+  {
+    "id": "en-2192",
+    "word": "levy",
+    "pos": "動詞",
+    "meaning": "（税を）課す",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1059"
+    ]
+  },
+  {
+    "id": "en-2193",
+    "word": "mobilize",
+    "pos": "動詞",
+    "meaning": "動員する",
+    "level": 2,
+    "confusers": [
+      "en-2018",
+      "en-1068"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2194",
+    "word": "outlast",
+    "pos": "動詞",
+    "meaning": "〜より長持ちする",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2195",
+    "word": "overshadow",
+    "pos": "動詞",
+    "meaning": "影を薄くする、暗い影を落とす",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2196",
+    "word": "permeate",
+    "pos": "動詞",
+    "meaning": "浸透する、広がる",
+    "level": 2,
+    "confusers": [
+      "en-0954",
+      "en-0084"
+    ],
+    "synonyms": [
+      "en-1453"
+    ]
+  },
+  {
+    "id": "en-2197",
+    "word": "reiterate",
+    "pos": "動詞",
+    "meaning": "繰り返して言う",
+    "level": 2,
+    "confusers": [
+      "en-1428",
+      "en-0723"
+    ],
+    "synonyms": [
+      "en-2198"
+    ]
+  },
+  {
+    "id": "en-2198",
+    "word": "repeat",
+    "pos": "動詞",
+    "meaning": "繰り返す",
+    "level": 2,
+    "confusers": [
+      "en-1475"
+    ],
+    "synonyms": [
+      "en-2197"
+    ]
+  },
+  {
+    "id": "en-2199",
+    "word": "rejuvenate",
+    "pos": "動詞",
+    "meaning": "若返らせる、活性化させる",
+    "level": 2,
+    "confusers": [
+      "en-1095"
+    ],
+    "synonyms": [
+      "en-0257"
+    ]
+  },
+  {
+    "id": "en-2200",
+    "word": "salvage",
+    "pos": "動詞",
+    "meaning": "救い出す、回収する",
+    "level": 2,
+    "confusers": [
+      "en-2065"
+    ],
+    "synonyms": [
+      "en-0966"
+    ]
+  }
+]
