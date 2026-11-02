@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useMemo, useReducer, useState, type ReactNode } from 'react';
+import { createContext, useContext, useEffect, useMemo, useReducer, useRef, useState, type ReactNode } from 'react';
 import type { Dataset, Mode, SaveData } from '../types';
 import { DATASETS } from '../data';
 import { dayKey } from '../logic/day';
@@ -43,6 +43,27 @@ export function StoreProvider({ children, datasets = DATASETS, storage, now = ()
   useEffect(() => {
     if (store) setSaveFailed(!writeSave(store, save));
   }, [store, save]);
+
+  // ホーム画面アプリはメモリから復帰することが多いので、戻ってきたときと1分ごとに日付を見直す。
+  // 前日の途中セッションは、戻ってきたときだけ閉じる（学習中に4時をまたいでも中断しない）。
+  const nowRef = useRef(now);
+  nowRef.current = now;
+  const [, setTick] = useState(0);
+  useEffect(() => {
+    const onResume = () => {
+      if (document.visibilityState === 'hidden') return;
+      dispatch({ type: 'DROP_STALE', today: dayKey(nowRef.current()) });
+      setTick((t) => t + 1);
+    };
+    const timer = window.setInterval(() => setTick((t) => t + 1), 60_000);
+    document.addEventListener('visibilitychange', onResume);
+    window.addEventListener('focus', onResume);
+    return () => {
+      window.clearInterval(timer);
+      document.removeEventListener('visibilitychange', onResume);
+      window.removeEventListener('focus', onResume);
+    };
+  }, []);
 
   useEffect(() => {
     try {

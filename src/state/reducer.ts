@@ -11,7 +11,8 @@ export type Action =
   | { type: 'SET_NEW_PER_DAY'; value: 10 | 20 | 30 }
   | { type: 'DISMISS_IOS_GUIDE' }
   | { type: 'IMPORT'; save: SaveData }
-  | { type: 'RESET_MODE'; mode: Mode };
+  | { type: 'RESET_MODE'; mode: Mode }
+  | { type: 'DROP_STALE'; today: string };
 
 export function reducer(state: SaveData, action: Action): SaveData {
   switch (action.type) {
@@ -48,6 +49,8 @@ export function reducer(state: SaveData, action: Action): SaveData {
         progress: { ...state.progress, [action.mode]: {} },
         session: state.session?.mode === action.mode ? null : state.session,
       };
+    case 'DROP_STALE':
+      return state.session && state.session.day !== action.today ? { ...state, session: null } : state;
   }
 }
 

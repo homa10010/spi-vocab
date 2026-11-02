@@ -1,4 +1,4 @@
-import { render, screen, within } from '@testing-library/react';
+import { act, render, screen, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import type { Mode } from '../types';
 import App from '../App';
@@ -109,4 +109,21 @@ test('英単語タブでは英単語が問題になり、日本語の意味を�
   await user.click(screen.getByRole('button', { name: /今日の学習/ }));
   expect(screen.getByTestId('question').textContent).toMatch(/^word\d+$/);
   expect(within(screen.getByTestId('choices')).getAllByRole('button')).toHaveLength(4);
+});
+
+test('アプリを開いたまま翌朝に戻ってくると、前日の途中セッションは閉じてホームの件数も更新される', async () => {
+  const user = userEvent.setup();
+  let current = new Date(2026, 10, 2, 22, 0);
+  render(
+    <StoreProvider datasets={datasets} storage={localStorage} now={() => current}>
+      <App />
+    </StoreProvider>,
+  );
+  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  expect(screen.getByTestId('question')).toBeInTheDocument();
+  current = new Date(2026, 10, 3, 7, 0);
+  act(() => {
+    document.dispatchEvent(new Event('visibilitychange'));
+  });
+  expect(screen.getByRole('button', { name: /今日の学習/ })).toHaveTextContent('新しい語20問');
 });

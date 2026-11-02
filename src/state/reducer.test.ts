@@ -111,3 +111,9 @@ test('回答済みのまま閉じたら次の問題から再開し、二重に�
   expect(s.session?.index).toBe(1);
   expect(s.session?.answeredChoice).toBeNull();
 });
+
+test('DROP_STALE は日付の違うセッションだけを捨てる', () => {
+  const base = { ...defaultSave(), session: session() };
+  expect(reducer(base, { type: 'DROP_STALE', today: TODAY })).toBe(base);
+  expect(reducer(base, { type: 'DROP_STALE', today: '2026-11-03' }).session).toBeNull();
+});
