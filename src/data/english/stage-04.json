@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "en-0301",
+    "word": "activity",
+    "pos": "名詞",
+    "meaning": "活動",
+    "level": 1,
+    "confusers": [
+      "en-0271",
+      "en-0315"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0302",
+    "word": "agreement",
+    "pos": "名詞",
+    "meaning": "合意、協定",
+    "level": 1,
+    "confusers": [
+      "en-0303"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0303",
+    "word": "argument",
+    "pos": "名詞",
+    "meaning": "議論、口論",
+    "level": 1,
+    "confusers": [
+      "en-0302"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0304",
+    "word": "analysis",
+    "pos": "名詞",
+    "meaning": "分析",
+    "level": 1,
+    "confusers": [
+      "en-0305",
+      "en-0367"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0305",
+    "word": "anxiety",
+    "pos": "名詞",
+    "meaning": "不安、心配",
+    "level": 1,
+    "confusers": [
+      "en-0304",
+      "en-0294",
+      "en-0295"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0306",
+    "word": "appearance",
+    "pos": "名詞",
+    "meaning": "外見、出現",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0307",
+    "word": "application",
+    "pos": "名詞",
+    "meaning": "申し込み、応用",
+    "level": 1,
+    "confusers": [
+      "en-0308"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0308",
+    "word": "appointment",
+    "pos": "名詞",
+    "meaning": "（面会の）約束、任命",
+    "level": 1,
+    "confusers": [
+      "en-0307"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0309",
+    "word": "article",
+    "pos": "名詞",
+    "meaning": "記事、品物",
+    "level": 1,
+    "confusers": [
+      "en-0047"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0310",
+    "word": "aspect",
+    "pos": "名詞",
+    "meaning": "側面、局面",
+    "level": 1,
+    "confusers": [
+      "en-0020",
+      "en-0023"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0311",
+    "word": "assistance",
+    "pos": "名詞",
+    "meaning": "援助",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0312",
+    "word": "atmosphere",
+    "pos": "名詞",
+    "meaning": "雰囲気、大気",
+    "level": 1,
+    "confusers": [
+      "en-0069",
+      "en-0047",
+      "en-0284"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0313",
+    "word": "attention",
+    "pos": "名詞",
+    "meaning": "注意、注目",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0314",
+    "word": "audience",
+    "pos": "名詞",
+    "meaning": "聴衆、観客",
+    "level": 1,
+    "confusers": [
+      "en-0066"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0315",
+    "word": "authority",
+    "pos": "名詞",
+    "meaning": "権威、当局",
+    "level": 1,
+    "confusers": [
+      "en-0301",
+      "en-0058"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0316",
+    "word": "balance",
+    "pos": "名詞",
+    "meaning": "均衡、残高",
+    "level": 1,
+    "confusers": [
+      "en-0361",
+      "en-0269"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0317",
+    "word": "behavior",
+    "pos": "名詞",
+    "meaning": "振る舞い、行動",
+    "level": 1,
+    "confusers": [
+      "en-0318",
+      "en-0047"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0318",
+    "word": "belief",
+    "pos": "名詞",
+    "meaning": "信念、信じること",
+    "level": 1,
+    "confusers": [
+      "en-0317"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0319",
+    "word": "budget",
+    "pos": "名詞",
+    "meaning": "予算",
+    "level": 1,
+    "confusers": [
+      "en-0291"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0320",
+    "word": "capacity",
+    "pos": "名詞",
+    "meaning": "収容力、容量",
+    "level": 1,
+    "confusers": [
+      "en-0290"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0321",
+    "word": "career",
+    "pos": "名詞",
+    "meaning": "経歴、職業",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0322",
+    "word": "category",
+    "pos": "名詞",
+    "meaning": "部類、区分",
+    "level": 1,
+    "confusers": [
+      "en-0389"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0323",
+    "word": "challenge",
+    "pos": "名詞",
+    "meaning": "挑戦、難題",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0324",
+    "word": "character",
+    "pos": "名詞",
+    "meaning": "性格、登場人物",
+    "level": 1,
+    "confusers": [
+      "en-0341",
+      "en-0379"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0325",
+    "word": "choice",
+    "pos": "名詞",
+    "meaning": "選択",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0326",
+    "word": "citizen",
+    "pos": "名詞",
+    "meaning": "市民",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0327",
+    "word": "climate",
+    "pos": "名詞",
+    "meaning": "気候",
+    "level": 1,
+    "confusers": [
+      "en-0312"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0328",
+    "word": "colleague",
+    "pos": "名詞",
+    "meaning": "同僚",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0329",
+    "word": "committee",
+    "pos": "名詞",
+    "meaning": "委員会",
+    "level": 1,
+    "confusers": [
+      "en-0296"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0330",
+    "word": "competition",
+    "pos": "名詞",
+    "meaning": "競争",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0331",
+    "word": "concept",
+    "pos": "名詞",
+    "meaning": "概念",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0332",
+    "word": "conclusion",
+    "pos": "名詞",
+    "meaning": "結論",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0333",
+    "word": "confidence",
+    "pos": "名詞",
+    "meaning": "自信、信頼",
+    "level": 1,
+    "confusers": [
+      "en-0334"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0334",
+    "word": "conference",
+    "pos": "名詞",
+    "meaning": "会議",
+    "level": 1,
+    "confusers": [
+      "en-0333"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0335",
+    "word": "consequence",
+    "pos": "名詞",
+    "meaning": "結果、重大性",
+    "level": 1,
+    "confusers": [
+      "en-0334",
+      "en-0333"
+    ],
+    "synonyms": [
+      "en-0276",
+      "en-0396"
+    ]
+  },
+  {
+    "id": "en-0336",
+    "word": "contribution",
+    "pos": "名詞",
+    "meaning": "貢献、寄付",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0337",
+    "word": "conversation",
+    "pos": "名詞",
+    "meaning": "会話",
+    "level": 1,
+    "confusers": [
+      "en-0338"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0338",
+    "word": "conservation",
+    "pos": "名詞",
+    "meaning": "保護、保存",
+    "level": 1,
+    "confusers": [
+      "en-0337"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0339",
+    "word": "crisis",
+    "pos": "名詞",
+    "meaning": "危機",
+    "level": 1,
+    "confusers": [
+      "en-0340"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0340",
+    "word": "criticism",
+    "pos": "名詞",
+    "meaning": "批判",
+    "level": 1,
+    "confusers": [
+      "en-0339"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0341",
+    "word": "culture",
+    "pos": "名詞",
+    "meaning": "文化",
+    "level": 1,
+    "confusers": [
+      "en-0287"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0342",
+    "word": "customer",
+    "pos": "名詞",
+    "meaning": "顧客",
+    "level": 1,
+    "confusers": [
+      "en-0287",
+      "en-0343"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0343",
+    "word": "consumer",
+    "pos": "名詞",
+    "meaning": "消費者",
+    "level": 1,
+    "confusers": [
+      "en-0342",
+      "en-0198"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0344",
+    "word": "damage",
+    "pos": "名詞",
+    "meaning": "損害",
+    "level": 1,
+    "confusers": [
+      "en-0391",
+      "en-0292"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0345",
+    "word": "debate",
+    "pos": "名詞",
+    "meaning": "討論",
+    "level": 1,
+    "confusers": [
+      "en-0303"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0346",
+    "word": "decade",
+    "pos": "名詞",
+    "meaning": "10年間",
+    "level": 1,
+    "confusers": [
+      "en-0140"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0347",
+    "word": "decision",
+    "pos": "名詞",
+    "meaning": "決定、決心",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0348",
+    "word": "definition",
+    "pos": "名詞",
+    "meaning": "定義",
+    "level": 1,
+    "confusers": [
+      "en-0352"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0349",
+    "word": "degree",
+    "pos": "名詞",
+    "meaning": "程度、度、学位",
+    "level": 1,
+    "confusers": [
+      "en-0197"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0350",
+    "word": "department",
+    "pos": "名詞",
+    "meaning": "部門、学科",
+    "level": 1,
+    "confusers": [
+      "en-0351"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0351",
+    "word": "departure",
+    "pos": "名詞",
+    "meaning": "出発",
+    "level": 1,
+    "confusers": [
+      "en-0350"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0352",
+    "word": "description",
+    "pos": "名詞",
+    "meaning": "描写、記述",
+    "level": 1,
+    "confusers": [
+      "en-0348"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0353",
+    "word": "desire",
+    "pos": "名詞",
+    "meaning": "欲望、願望",
+    "level": 1,
+    "confusers": [
+      "en-0144",
+      "en-0140"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0354",
+    "word": "destination",
+    "pos": "名詞",
+    "meaning": "目的地",
+    "level": 1,
+    "confusers": [
+      "en-0352"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0355",
+    "word": "detail",
+    "pos": "名詞",
+    "meaning": "詳細",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0356",
+    "word": "difference",
+    "pos": "名詞",
+    "meaning": "違い",
+    "level": 1,
+    "confusers": [
+      "en-0357"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0357",
+    "word": "difficulty",
+    "pos": "名詞",
+    "meaning": "困難",
+    "level": 1,
+    "confusers": [
+      "en-0356"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0358",
+    "word": "direction",
+    "pos": "名詞",
+    "meaning": "方向、指示",
+    "level": 1,
+    "confusers": [
+      "en-0275"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0359",
+    "word": "discussion",
+    "pos": "名詞",
+    "meaning": "議論、話し合い",
+    "level": 1,
+    "confusers": [
+      "en-0347"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0360",
+    "word": "disease",
+    "pos": "名詞",
+    "meaning": "病気",
+    "level": 1,
+    "confusers": [
+      "en-0012",
+      "en-0201"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0361",
+    "word": "distance",
+    "pos": "名詞",
+    "meaning": "距離",
+    "level": 1,
+    "confusers": [
+      "en-0316"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0362",
+    "word": "duty",
+    "pos": "名詞",
+    "meaning": "義務、職務、関税",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0363",
+    "word": "economy",
+    "pos": "名詞",
+    "meaning": "経済",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0364",
+    "word": "education",
+    "pos": "名詞",
+    "meaning": "教育",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0365",
+    "word": "element",
+    "pos": "名詞",
+    "meaning": "要素",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0366",
+    "word": "emotion",
+    "pos": "名詞",
+    "meaning": "感情",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0367",
+    "word": "emphasis",
+    "pos": "名詞",
+    "meaning": "強調",
+    "level": 1,
+    "confusers": [
+      "en-0304"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0368",
+    "word": "employee",
+    "pos": "名詞",
+    "meaning": "従業員",
+    "level": 1,
+    "confusers": [
+      "en-0369"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0369",
+    "word": "employer",
+    "pos": "名詞",
+    "meaning": "雇用主",
+    "level": 1,
+    "confusers": [
+      "en-0368"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0370",
+    "word": "energy",
+    "pos": "名詞",
+    "meaning": "エネルギー、活力",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0371",
+    "word": "event",
+    "pos": "名詞",
+    "meaning": "出来事、行事",
+    "level": 1,
+    "confusers": [
+      "en-0018"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0372",
+    "word": "exception",
+    "pos": "名詞",
+    "meaning": "例外",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0373",
+    "word": "expense",
+    "pos": "名詞",
+    "meaning": "費用、出費",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0374",
+    "word": "explanation",
+    "pos": "名詞",
+    "meaning": "説明",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0375",
+    "word": "expression",
+    "pos": "名詞",
+    "meaning": "表現",
+    "level": 1,
+    "confusers": [
+      "en-0394"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0376",
+    "word": "facility",
+    "pos": "名詞",
+    "meaning": "施設、設備",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0377",
+    "word": "factor",
+    "pos": "名詞",
+    "meaning": "要因",
+    "level": 1,
+    "confusers": [
+      "en-0379"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0378",
+    "word": "failure",
+    "pos": "名詞",
+    "meaning": "失敗",
+    "level": 1,
+    "confusers": [
+      "en-0379"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0379",
+    "word": "feature",
+    "pos": "名詞",
+    "meaning": "特徴",
+    "level": 1,
+    "confusers": [
+      "en-0378",
+      "en-0380"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0380",
+    "word": "figure",
+    "pos": "名詞",
+    "meaning": "数字、人物、姿",
+    "level": 1,
+    "confusers": [
+      "en-0379"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0381",
+    "word": "function",
+    "pos": "名詞",
+    "meaning": "機能",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0382",
+    "word": "generation",
+    "pos": "名詞",
+    "meaning": "世代",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0383",
+    "word": "goal",
+    "pos": "名詞",
+    "meaning": "目標",
+    "level": 1,
+    "confusers": [
+      "en-0043"
+    ],
+    "synonyms": [
+      "en-0384"
+    ]
+  },
+  {
+    "id": "en-0384",
+    "word": "objective",
+    "pos": "名詞",
+    "meaning": "目的、目標",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0043",
+      "en-0383"
+    ]
+  },
+  {
+    "id": "en-0385",
+    "word": "growth",
+    "pos": "名詞",
+    "meaning": "成長",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0386",
+    "word": "guarantee",
+    "pos": "名詞",
+    "meaning": "保証",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0387",
+    "word": "harm",
+    "pos": "名詞",
+    "meaning": "害",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0388",
+    "word": "health",
+    "pos": "名詞",
+    "meaning": "健康",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0389",
+    "word": "history",
+    "pos": "名詞",
+    "meaning": "歴史",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0390",
+    "word": "honor",
+    "pos": "名詞",
+    "meaning": "名誉",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0391",
+    "word": "image",
+    "pos": "名詞",
+    "meaning": "像、イメージ",
+    "level": 1,
+    "confusers": [
+      "en-0171",
+      "en-0344"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0392",
+    "word": "impact",
+    "pos": "名詞",
+    "meaning": "衝撃、影響",
+    "level": 1,
+    "confusers": [],
+    "synonyms": [
+      "en-0060"
+    ]
+  },
+  {
+    "id": "en-0393",
+    "word": "importance",
+    "pos": "名詞",
+    "meaning": "重要性",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0394",
+    "word": "impression",
+    "pos": "名詞",
+    "meaning": "印象",
+    "level": 1,
+    "confusers": [
+      "en-0375"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0395",
+    "word": "income",
+    "pos": "名詞",
+    "meaning": "収入",
+    "level": 1,
+    "confusers": [
+      "en-0396"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0396",
+    "word": "outcome",
+    "pos": "名詞",
+    "meaning": "結果、成果",
+    "level": 1,
+    "confusers": [
+      "en-0395"
+    ],
+    "synonyms": [
+      "en-0276",
+      "en-0335"
+    ]
+  },
+  {
+    "id": "en-0397",
+    "word": "independence",
+    "pos": "名詞",
+    "meaning": "独立",
+    "level": 1,
+    "confusers": [
+      "en-0393"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0398",
+    "word": "individual",
+    "pos": "名詞",
+    "meaning": "個人",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0399",
+    "word": "industry",
+    "pos": "名詞",
+    "meaning": "産業、勤勉",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-0400",
+    "word": "information",
+    "pos": "名詞",
+    "meaning": "情報",
+    "level": 1,
+    "confusers": [],
+    "synonyms": []
+  }
+]

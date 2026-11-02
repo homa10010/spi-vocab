@@ -78,7 +78,7 @@ reason	名詞	理由	result,season,cause
 cause	名詞	原因	case,result,reason
 case	名詞	場合、事例	cause,occasion,issue	occasion
 issue	名詞	（議論すべき）問題、発行	tissue,solution,situation	problem
-problem	名詞	問題、困難	solution,situation,purpose
+problem	名詞	問題	solution,situation,purpose
 solution	名詞	解決策	pollution,situation,problem
 pollution	名詞	汚染	solution,population,situation
 situation	名詞	状況	condition,solution,tradition
