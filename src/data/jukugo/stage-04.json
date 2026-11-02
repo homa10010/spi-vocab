@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "jk-0301",
+    "type": "二字熟語",
+    "word": "敷衍",
+    "reading": "ふえん",
+    "meaning": "意味や趣旨を、詳しく押し広げて説明すること",
+    "level": 2,
+    "confusers": [
+      "jk-0152",
+      "jk-0156",
+      "jk-0130"
+    ],
+    "synonyms": [
+      "jk-0362"
+    ]
+  },
+  {
+    "id": "jk-0302",
+    "type": "二字熟語",
+    "word": "揶揄",
+    "reading": "やゆ",
+    "meaning": "からかうこと",
+    "level": 2,
+    "confusers": [
+      "jk-0303",
+      "jk-0305",
+      "jk-0309"
+    ],
+    "synonyms": [
+      "jk-0304"
+    ]
+  },
+  {
+    "id": "jk-0303",
+    "type": "二字熟語",
+    "word": "風刺",
+    "reading": "ふうし",
+    "meaning": "社会や人物の欠点を、遠回しに皮肉って批判すること",
+    "level": 2,
+    "confusers": [
+      "jk-0302",
+      "jk-0130",
+      "jk-0349"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0304",
+    "type": "二字熟語",
+    "word": "嘲笑",
+    "reading": "ちょうしょう",
+    "meaning": "ばかにして、あざ笑うこと",
+    "level": 2,
+    "confusers": [
+      "jk-0303",
+      "jk-0349",
+      "jk-0328"
+    ],
+    "synonyms": [
+      "jk-0302"
+    ]
+  },
+  {
+    "id": "jk-0305",
+    "type": "二字熟語",
+    "word": "叱咤",
+    "reading": "しった",
+    "meaning": "大声で、しかりつけて励ますこと",
+    "level": 2,
+    "confusers": [
+      "jk-0083",
+      "jk-0163",
+      "jk-0302"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0306",
+    "type": "二字熟語",
+    "word": "鼓舞",
+    "reading": "こぶ",
+    "meaning": "人を励まして、気持ちを奮い立たせること",
+    "level": 2,
+    "confusers": [
+      "jk-0163",
+      "jk-0081",
+      "jk-0305"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0307",
+    "type": "二字熟語",
+    "word": "懐柔",
+    "reading": "かいじゅう",
+    "meaning": "うまく手なずけて、従わせること",
+    "level": 2,
+    "confusers": [
+      "jk-0134",
+      "jk-0124",
+      "jk-0309"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0308",
+    "type": "二字熟語",
+    "word": "翻意",
+    "reading": "ほんい",
+    "meaning": "一度決めた考えを、変えること",
+    "level": 2,
+    "confusers": [
+      "jk-0003",
+      "jk-0309",
+      "jk-0190"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0309",
+    "type": "二字熟語",
+    "word": "翻弄",
+    "reading": "ほんろう",
+    "meaning": "思うままに、もてあそぶこと",
+    "level": 2,
+    "confusers": [
+      "jk-0308",
+      "jk-0307",
+      "jk-0302"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0310",
+    "type": "二字熟語",
+    "word": "漸進",
+    "reading": "ぜんしん",
+    "meaning": "順を追って、少しずつ進むこと",
+    "level": 2,
+    "confusers": [
+      "jk-0311",
+      "jk-0121",
+      "jk-0356"
+    ],
+    "synonyms": [
+      "jk-0014"
+    ]
+  },
+  {
+    "id": "jk-0311",
+    "type": "二字熟語",
+    "word": "急進",
+    "reading": "きゅうしん",
+    "meaning": "理想などを、急いで実現しようとすること",
+    "level": 2,
+    "confusers": [
+      "jk-0310",
+      "jk-0042",
+      "jk-0168"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0312",
+    "type": "二字熟語",
+    "word": "跋扈",
+    "reading": "ばっこ",
+    "meaning": "好ましくないものが、勝手気ままにのさばること",
+    "level": 2,
+    "confusers": [
+      "jk-0027",
+      "jk-0313",
+      "jk-0372"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0313",
+    "type": "二字熟語",
+    "word": "席巻",
+    "reading": "せっけん",
+    "meaning": "激しい勢いで、勢力範囲を広げること",
+    "level": 2,
+    "confusers": [
+      "jk-0312",
+      "jk-0293",
+      "jk-0124"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0314",
+    "type": "二字熟語",
+    "word": "凌駕",
+    "reading": "りょうが",
+    "meaning": "他のものを超えて、その上に出ること",
+    "level": 2,
+    "confusers": [
+      "jk-0315",
+      "jk-0316",
+      "jk-0313"
+    ],
+    "synonyms": [
+      "jk-0007"
+    ]
+  },
+  {
+    "id": "jk-0315",
+    "type": "二字熟語",
+    "word": "匹敵",
+    "reading": "ひってき",
+    "meaning": "能力や価値が、同じくらいであること",
+    "level": 2,
+    "confusers": [
+      "jk-0314",
+      "jk-0316",
+      "jk-0377"
+    ],
+    "synonyms": [
+      "jk-0005",
+      "jk-0080"
+    ]
+  },
+  {
+    "id": "jk-0316",
+    "type": "二字熟語",
+    "word": "遜色",
+    "reading": "そんしょく",
+    "meaning": "他と比べて、劣っていること",
+    "level": 2,
+    "confusers": [
+      "jk-0315",
+      "jk-0019",
+      "jk-0100"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0317",
+    "type": "二字熟語",
+    "word": "羅列",
+    "reading": "られつ",
+    "meaning": "ただ並べ連ねること",
+    "level": 2,
+    "confusers": [
+      "jk-0158",
+      "jk-0156",
+      "jk-0392"
+    ],
+    "synonyms": [
+      "jk-0157"
+    ]
+  },
+  {
+    "id": "jk-0318",
+    "type": "二字熟語",
+    "word": "途絶",
+    "reading": "とぜつ",
+    "meaning": "続いていたものが、途中で絶えること",
+    "level": 2,
+    "confusers": [
+      "jk-0151",
+      "jk-0121",
+      "jk-0319"
+    ],
+    "synonyms": [
+      "jk-0150"
+    ]
+  },
+  {
+    "id": "jk-0319",
+    "type": "二字熟語",
+    "word": "瓦解",
+    "reading": "がかい",
+    "meaning": "一部の崩れから、組織などの全体が崩れること",
+    "level": 2,
+    "confusers": [
+      "jk-0023",
+      "jk-0118",
+      "jk-0318"
+    ],
+    "synonyms": [
+      "jk-0320"
+    ]
+  },
+  {
+    "id": "jk-0320",
+    "type": "二字熟語",
+    "word": "破綻",
+    "reading": "はたん",
+    "meaning": "物事がうまくいかなくなって、成り立たなくなること",
+    "level": 2,
+    "confusers": [
+      "jk-0186",
+      "jk-0321",
+      "jk-0376"
+    ],
+    "synonyms": [
+      "jk-0319"
+    ]
+  },
+  {
+    "id": "jk-0321",
+    "type": "二字熟語",
+    "word": "窮地",
+    "reading": "きゅうち",
+    "meaning": "追い詰められて、逃げ場のない苦しい立場",
+    "level": 2,
+    "confusers": [
+      "jk-0047",
+      "jk-0103",
+      "jk-0376"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0322",
+    "type": "二字熟語",
+    "word": "僥倖",
+    "reading": "ぎょうこう",
+    "meaning": "思いがけない幸運",
+    "level": 2,
+    "confusers": [
+      "jk-0206",
+      "jk-0236",
+      "jk-0247"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0323",
+    "type": "二字熟語",
+    "word": "憂鬱",
+    "reading": "ゆううつ",
+    "meaning": "気分が晴れず、ふさぎこむこと",
+    "level": 2,
+    "confusers": [
+      "jk-0143",
+      "jk-0050",
+      "jk-0248"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0324",
+    "type": "二字熟語",
+    "word": "諦観",
+    "reading": "ていかん",
+    "meaning": "物事の本質をはっきりと見極め、悟ってあきらめること",
+    "level": 2,
+    "confusers": [
+      "jk-0255",
+      "jk-0190",
+      "jk-0143"
+    ],
+    "synonyms": [
+      "jk-0325"
+    ]
+  },
+  {
+    "id": "jk-0325",
+    "type": "二字熟語",
+    "word": "達観",
+    "reading": "たっかん",
+    "meaning": "物事の本質を見通し、細かいことにとらわれないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0331",
+      "jk-0142",
+      "jk-0255"
+    ],
+    "synonyms": [
+      "jk-0324"
+    ]
+  },
+  {
+    "id": "jk-0326",
+    "type": "二字熟語",
+    "word": "矜持",
+    "reading": "きょうじ",
+    "meaning": "自分の能力を信じて持つ、誇り",
+    "level": 2,
+    "confusers": [
+      "jk-0037",
+      "jk-0036",
+      "jk-0253"
+    ],
+    "synonyms": [
+      "jk-0327"
+    ]
+  },
+  {
+    "id": "jk-0327",
+    "type": "二字熟語",
+    "word": "自負",
+    "reading": "じふ",
+    "meaning": "自分の才能や仕事に、自信と誇りを持つこと",
+    "level": 2,
+    "confusers": [
+      "jk-0253",
+      "jk-0037",
+      "jk-0132"
+    ],
+    "synonyms": [
+      "jk-0326"
+    ]
+  },
+  {
+    "id": "jk-0328",
+    "type": "二字熟語",
+    "word": "卑下",
+    "reading": "ひげ",
+    "meaning": "自分を、必要以上に劣ったものとして扱うこと",
+    "level": 2,
+    "confusers": [
+      "jk-0132",
+      "jk-0327",
+      "jk-0316"
+    ],
+    "synonyms": [
+      "jk-0133"
+    ]
+  },
+  {
+    "id": "jk-0329",
+    "type": "二字熟語",
+    "word": "頑迷",
+    "reading": "がんめい",
+    "meaning": "かたくなで、物事の道理がわからないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0330",
+      "jk-0062",
+      "jk-0037"
+    ],
+    "synonyms": [
+      "jk-0110"
+    ]
+  },
+  {
+    "id": "jk-0330",
+    "type": "二字熟語",
+    "word": "偏狭",
+    "reading": "へんきょう",
+    "meaning": "考え方がかたよっていて、度量が狭いこと",
+    "level": 2,
+    "confusers": [
+      "jk-0234",
+      "jk-0329",
+      "jk-0038"
+    ],
+    "synonyms": [
+      "jk-0039"
+    ]
+  },
+  {
+    "id": "jk-0331",
+    "type": "二字熟語",
+    "word": "鷹揚",
+    "reading": "おうよう",
+    "meaning": "ゆったりとして、小さなことにこだわらないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0386",
+      "jk-0389",
+      "jk-0043"
+    ],
+    "synonyms": [
+      "jk-0038"
+    ]
+  },
+  {
+    "id": "jk-0332",
+    "type": "二字熟語",
+    "word": "狡猾",
+    "reading": "こうかつ",
+    "meaning": "ずるくて、悪賢いこと",
+    "level": 2,
+    "confusers": [
+      "jk-0307",
+      "jk-0027",
+      "jk-0133"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0333",
+    "type": "二字熟語",
+    "word": "繊細",
+    "reading": "せんさい",
+    "meaning": "感情などが細やかで、わずかなことにも感じやすいこと",
+    "level": 2,
+    "confusers": [
+      "jk-0031",
+      "jk-0141",
+      "jk-0040"
+    ],
+    "synonyms": [
+      "jk-0140"
+    ]
+  },
+  {
+    "id": "jk-0334",
+    "type": "二字熟語",
+    "word": "粗雑",
+    "reading": "そざつ",
+    "meaning": "細かいところまで注意が行き届かず、雑なこと",
+    "level": 2,
+    "confusers": [
+      "jk-0031",
+      "jk-0335",
+      "jk-0041"
+    ],
+    "synonyms": [
+      "jk-0033"
+    ]
+  },
+  {
+    "id": "jk-0335",
+    "type": "二字熟語",
+    "word": "拙速",
+    "reading": "せっそく",
+    "meaning": "できはよくないが、仕上がりが速いこと",
+    "level": 2,
+    "confusers": [
+      "jk-0042",
+      "jk-0100",
+      "jk-0387"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0336",
+    "type": "二字熟語",
+    "word": "陳腐",
+    "reading": "ちんぷ",
+    "meaning": "ありふれていて、古くさいこと",
+    "level": 2,
+    "confusers": [
+      "jk-0200",
+      "jk-0019",
+      "jk-0337"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0337",
+    "type": "二字熟語",
+    "word": "因習",
+    "reading": "いんしゅう",
+    "meaning": "昔から続いている、よくないしきたり",
+    "level": 2,
+    "confusers": [
+      "jk-0207",
+      "jk-0169",
+      "jk-0167"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0338",
+    "type": "二字熟語",
+    "word": "形骸",
+    "reading": "けいがい",
+    "meaning": "中身を失って、形だけが残っているもの",
+    "level": 2,
+    "confusers": [
+      "jk-0204",
+      "jk-0337",
+      "jk-0240"
+    ],
+    "synonyms": [
+      "jk-0339"
+    ]
+  },
+  {
+    "id": "jk-0339",
+    "type": "二字熟語",
+    "word": "空疎",
+    "reading": "くうそ",
+    "meaning": "見かけだけで、しっかりした内容がないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0344",
+      "jk-0029",
+      "jk-0204"
+    ],
+    "synonyms": [
+      "jk-0338"
+    ]
+  },
+  {
+    "id": "jk-0340",
+    "type": "二字熟語",
+    "word": "含蓄",
+    "reading": "がんちく",
+    "meaning": "言葉や文章に含まれる、深い意味や味わい",
+    "level": 2,
+    "confusers": [
+      "jk-0010",
+      "jk-0130",
+      "jk-0341"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0341",
+    "type": "二字熟語",
+    "word": "蘊蓄",
+    "reading": "うんちく",
+    "meaning": "長い間に積み上げた、深い知識",
+    "level": 2,
+    "confusers": [
+      "jk-0340",
+      "jk-0272",
+      "jk-0343"
+    ],
+    "synonyms": [
+      "jk-0342"
+    ]
+  },
+  {
+    "id": "jk-0342",
+    "type": "二字熟語",
+    "word": "造詣",
+    "reading": "ぞうけい",
+    "meaning": "ある分野についての、深い知識や優れた技量",
+    "level": 2,
+    "confusers": [
+      "jk-0224",
+      "jk-0343",
+      "jk-0357"
+    ],
+    "synonyms": [
+      "jk-0341"
+    ]
+  },
+  {
+    "id": "jk-0343",
+    "type": "二字熟語",
+    "word": "博識",
+    "reading": "はくしき",
+    "meaning": "広く物事を知っていること",
+    "level": 2,
+    "confusers": [
+      "jk-0192",
+      "jk-0158",
+      "jk-0340"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0344",
+    "type": "二字熟語",
+    "word": "浅薄",
+    "reading": "せんぱく",
+    "meaning": "知識や考えが浅く、薄っぺらなこと",
+    "level": 2,
+    "confusers": [
+      "jk-0204",
+      "jk-0343",
+      "jk-0225"
+    ],
+    "synonyms": [
+      "jk-0230"
+    ]
+  },
+  {
+    "id": "jk-0345",
+    "type": "二字熟語",
+    "word": "忌憚",
+    "reading": "きたん",
+    "meaning": "遠慮すること。遠慮して言うのをためらうこと",
+    "level": 2,
+    "confusers": [
+      "jk-0130",
+      "jk-0131",
+      "jk-0003"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0346",
+    "type": "二字熟語",
+    "word": "忖度",
+    "reading": "そんたく",
+    "meaning": "他人の心中を、おしはかること",
+    "level": 2,
+    "confusers": [
+      "jk-0026",
+      "jk-0134",
+      "jk-0255"
+    ],
+    "synonyms": [
+      "jk-0254"
+    ]
+  },
+  {
+    "id": "jk-0347",
+    "type": "二字熟語",
+    "word": "黙殺",
+    "reading": "もくさつ",
+    "meaning": "知っていながら、無視して取り合わないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0214",
+      "jk-0231",
+      "jk-0087"
+    ],
+    "synonyms": [
+      "jk-0088"
+    ]
+  },
+  {
+    "id": "jk-0348",
+    "type": "二字熟語",
+    "word": "看破",
+    "reading": "かんぱ",
+    "meaning": "隠されていることを、見抜くこと",
+    "level": 2,
+    "confusers": [
+      "jk-0128",
+      "jk-0254",
+      "jk-0256"
+    ],
+    "synonyms": [
+      "jk-0255"
+    ]
+  },
+  {
+    "id": "jk-0349",
+    "type": "二字熟語",
+    "word": "糾弾",
+    "reading": "きゅうだん",
+    "meaning": "罪や責任を問いただして、非難すること",
+    "level": 2,
+    "confusers": [
+      "jk-0107",
+      "jk-0128",
+      "jk-0305"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0350",
+    "type": "二字熟語",
+    "word": "弁明",
+    "reading": "べんめい",
+    "meaning": "自分の立場や行動について説明して、理解を求めること",
+    "level": 2,
+    "confusers": [
+      "jk-0106",
+      "jk-0349",
+      "jk-0351"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0351",
+    "type": "二字熟語",
+    "word": "陳謝",
+    "reading": "ちんしゃ",
+    "meaning": "事情を述べて、わびること",
+    "level": 2,
+    "confusers": [
+      "jk-0350",
+      "jk-0132",
+      "jk-0108"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0352",
+    "type": "二字熟語",
+    "word": "左遷",
+    "reading": "させん",
+    "meaning": "前より低い地位や官職に移すこと",
+    "level": 2,
+    "confusers": [
+      "jk-0096",
+      "jk-0097",
+      "jk-0353"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0353",
+    "type": "二字熟語",
+    "word": "抜擢",
+    "reading": "ばってき",
+    "meaning": "多くの人の中から特に選び出して、重要な役につけること",
+    "level": 2,
+    "confusers": [
+      "jk-0352",
+      "jk-0020",
+      "jk-0393"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0354",
+    "type": "二字熟語",
+    "word": "勇退",
+    "reading": "ゆうたい",
+    "meaning": "後進に道を譲るため、自ら進んで職を退くこと",
+    "level": 2,
+    "confusers": [
+      "jk-0219",
+      "jk-0097",
+      "jk-0352"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0355",
+    "type": "二字熟語",
+    "word": "隠遁",
+    "reading": "いんとん",
+    "meaning": "世の中から離れて、ひっそりと暮らすこと",
+    "level": 2,
+    "confusers": [
+      "jk-0189",
+      "jk-0127",
+      "jk-0231"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0356",
+    "type": "二字熟語",
+    "word": "邁進",
+    "reading": "まいしん",
+    "meaning": "恐れず、ひたすら突き進むこと",
+    "level": 2,
+    "confusers": [
+      "jk-0016",
+      "jk-0311",
+      "jk-0364"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0357",
+    "type": "二字熟語",
+    "word": "精進",
+    "reading": "しょうじん",
+    "meaning": "一つのことに心を集中して、努力を重ねること",
+    "level": 2,
+    "confusers": [
+      "jk-0358",
+      "jk-0228",
+      "jk-0356"
+    ],
+    "synonyms": [
+      "jk-0183"
+    ]
+  },
+  {
+    "id": "jk-0358",
+    "type": "二字熟語",
+    "word": "研鑽",
+    "reading": "けんさん",
+    "meaning": "学問などを、深くきわめること",
+    "level": 2,
+    "confusers": [
+      "jk-0012",
+      "jk-0224",
+      "jk-0359"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0359",
+    "type": "二字熟語",
+    "word": "考察",
+    "reading": "こうさつ",
+    "meaning": "物事を明らかにするため、よく調べて考えること",
+    "level": 2,
+    "confusers": [
+      "jk-0160",
+      "jk-0255",
+      "jk-0260"
+    ],
+    "synonyms": [
+      "jk-0025",
+      "jk-0057"
+    ]
+  },
+  {
+    "id": "jk-0360",
+    "type": "二字熟語",
+    "word": "俯瞰",
+    "reading": "ふかん",
+    "meaning": "高い所から見下ろすこと。また、全体を広く見渡すこと",
+    "level": 2,
+    "confusers": [
+      "jk-0054",
+      "jk-0255",
+      "jk-0231"
+    ],
+    "synonyms": [
+      "jk-0361"
+    ]
+  },
+  {
+    "id": "jk-0361",
+    "type": "二字熟語",
+    "word": "概観",
+    "reading": "がいかん",
+    "meaning": "全体を、ざっと見渡すこと",
+    "level": 2,
+    "confusers": [
+      "jk-0155",
+      "jk-0156",
+      "jk-0054"
+    ],
+    "synonyms": [
+      "jk-0360"
+    ]
+  },
+  {
+    "id": "jk-0362",
+    "type": "二字熟語",
+    "word": "詳述",
+    "reading": "しょうじゅつ",
+    "meaning": "詳しく述べること",
+    "level": 2,
+    "confusers": [
+      "jk-0154",
+      "jk-0152",
+      "jk-0317"
+    ],
+    "synonyms": [
+      "jk-0301"
+    ]
+  },
+  {
+    "id": "jk-0363",
+    "type": "二字熟語",
+    "word": "割愛",
+    "reading": "かつあい",
+    "meaning": "惜しいと思いながら、省くこと",
+    "level": 2,
+    "confusers": [
+      "jk-0153",
+      "jk-0271",
+      "jk-0190"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0364",
+    "type": "二字熟語",
+    "word": "踏破",
+    "reading": "とうは",
+    "meaning": "困難な道や長い道のりを、歩き通すこと",
+    "level": 2,
+    "confusers": [
+      "jk-0149",
+      "jk-0356",
+      "jk-0016"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0365",
+    "type": "二字熟語",
+    "word": "乖離",
+    "reading": "かいり",
+    "meaning": "結びつきがなくなって、離れ離れになること",
+    "level": 2,
+    "confusers": [
+      "jk-0022",
+      "jk-0209",
+      "jk-0268"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0366",
+    "type": "二字熟語",
+    "word": "背反",
+    "reading": "はいはん",
+    "meaning": "互いに相いれないこと。また、そむくこと",
+    "level": 2,
+    "confusers": [
+      "jk-0079",
+      "jk-0365",
+      "jk-0209"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0367",
+    "type": "二字熟語",
+    "word": "融合",
+    "reading": "ゆうごう",
+    "meaning": "異なるものがとけ合って、一つになること",
+    "level": 2,
+    "confusers": [
+      "jk-0013",
+      "jk-0368",
+      "jk-0137"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0368",
+    "type": "二字熟語",
+    "word": "統合",
+    "reading": "とうごう",
+    "meaning": "二つ以上のものを、合わせて一つにすること",
+    "level": 2,
+    "confusers": [
+      "jk-0367",
+      "jk-0369",
+      "jk-0158"
+    ],
+    "synonyms": [
+      "jk-0161"
+    ]
+  },
+  {
+    "id": "jk-0369",
+    "type": "二字熟語",
+    "word": "分裂",
+    "reading": "ぶんれつ",
+    "meaning": "一つのものが、いくつかに分かれること",
+    "level": 2,
+    "confusers": [
+      "jk-0368",
+      "jk-0136",
+      "jk-0293"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0370",
+    "type": "二字熟語",
+    "word": "派生",
+    "reading": "はせい",
+    "meaning": "元になるものから、分かれて生じること",
+    "level": 2,
+    "confusers": [
+      "jk-0369",
+      "jk-0090",
+      "jk-0277"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0371",
+    "type": "二字熟語",
+    "word": "波及",
+    "reading": "はきゅう",
+    "meaning": "影響が、次第に広い範囲に及ぶこと",
+    "level": 2,
+    "confusers": [
+      "jk-0293",
+      "jk-0370",
+      "jk-0372"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0372",
+    "type": "二字熟語",
+    "word": "蔓延",
+    "reading": "まんえん",
+    "meaning": "病気や悪い風潮などが、広がること",
+    "level": 2,
+    "confusers": [
+      "jk-0371",
+      "jk-0293",
+      "jk-0312"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0373",
+    "type": "二字熟語",
+    "word": "浸透",
+    "reading": "しんとう",
+    "meaning": "考え方などが、次第に広く行き渡ること",
+    "level": 2,
+    "confusers": [
+      "jk-0371",
+      "jk-0293",
+      "jk-0372"
+    ],
+    "synonyms": [
+      "jk-0117",
+      "jk-0193"
+    ]
+  },
+  {
+    "id": "jk-0374",
+    "type": "二字熟語",
+    "word": "漸減",
+    "reading": "ぜんげん",
+    "meaning": "少しずつ減ること",
+    "level": 2,
+    "confusers": [
+      "jk-0271",
+      "jk-0310",
+      "jk-0118"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0375",
+    "type": "二字熟語",
+    "word": "激変",
+    "reading": "げきへん",
+    "meaning": "状況などが、急に大きく変わること",
+    "level": 2,
+    "confusers": [
+      "jk-0295",
+      "jk-0294",
+      "jk-0181"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0376",
+    "type": "二字熟語",
+    "word": "閉塞",
+    "reading": "へいそく",
+    "meaning": "閉じふさがって、先の見通しが立たないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0321",
+      "jk-0291",
+      "jk-0121"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0377",
+    "type": "二字熟語",
+    "word": "膠着",
+    "reading": "こうちゃく",
+    "meaning": "状態が固定して、少しも動きがないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0295",
+      "jk-0376",
+      "jk-0005"
+    ],
+    "synonyms": [
+      "jk-0121"
+    ]
+  },
+  {
+    "id": "jk-0378",
+    "type": "二字熟語",
+    "word": "偏在",
+    "reading": "へんざい",
+    "meaning": "ある所にだけ、かたよって存在すること",
+    "level": 2,
+    "confusers": [
+      "jk-0379",
+      "jk-0392",
+      "jk-0268"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0379",
+    "type": "二字熟語",
+    "word": "遍在",
+    "reading": "へんざい",
+    "meaning": "広く、あちこちに存在すること",
+    "level": 2,
+    "confusers": [
+      "jk-0378",
+      "jk-0072",
+      "jk-0300"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0380",
+    "type": "二字熟語",
+    "word": "一貫",
+    "reading": "いっかん",
+    "meaning": "最初から最後まで、同じやり方や考えで通すこと",
+    "level": 2,
+    "confusers": [
+      "jk-0151",
+      "jk-0062",
+      "jk-0276"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0381",
+    "type": "二字熟語",
+    "word": "徹底",
+    "reading": "てってい",
+    "meaning": "すみずみまで、行き届くこと",
+    "level": 2,
+    "confusers": [
+      "jk-0158",
+      "jk-0380",
+      "jk-0031"
+    ],
+    "synonyms": [
+      "jk-0284"
+    ]
+  },
+  {
+    "id": "jk-0382",
+    "type": "二字熟語",
+    "word": "厳粛",
+    "reading": "げんしゅく",
+    "meaning": "おごそかで、心が引き締まるさま",
+    "level": 2,
+    "confusers": [
+      "jk-0109",
+      "jk-0138",
+      "jk-0384"
+    ],
+    "synonyms": [
+      "jk-0383"
+    ]
+  },
+  {
+    "id": "jk-0383",
+    "type": "二字熟語",
+    "word": "荘厳",
+    "reading": "そうごん",
+    "meaning": "重々しく、おごそかなこと",
+    "level": 2,
+    "confusers": [
+      "jk-0109",
+      "jk-0385",
+      "jk-0388"
+    ],
+    "synonyms": [
+      "jk-0382"
+    ]
+  },
+  {
+    "id": "jk-0384",
+    "type": "二字熟語",
+    "word": "閑散",
+    "reading": "かんさん",
+    "meaning": "ひっそりとして、人気がなく静かなこと",
+    "level": 2,
+    "confusers": [
+      "jk-0385",
+      "jk-0121",
+      "jk-0139"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0385",
+    "type": "二字熟語",
+    "word": "喧騒",
+    "reading": "けんそう",
+    "meaning": "人の声や物音で、騒がしいこと",
+    "level": 2,
+    "confusers": [
+      "jk-0384",
+      "jk-0246",
+      "jk-0181"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0386",
+    "type": "二字熟語",
+    "word": "悠長",
+    "reading": "ゆうちょう",
+    "meaning": "落ち着いていて、気が長いこと",
+    "level": 2,
+    "confusers": [
+      "jk-0387",
+      "jk-0043",
+      "jk-0331"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0387",
+    "type": "二字熟語",
+    "word": "性急",
+    "reading": "せいきゅう",
+    "meaning": "気が短く、物事を急いでするさま",
+    "level": 2,
+    "confusers": [
+      "jk-0386",
+      "jk-0335",
+      "jk-0042"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0388",
+    "type": "二字熟語",
+    "word": "慇懃",
+    "reading": "いんぎん",
+    "meaning": "礼儀正しく、丁寧なこと",
+    "level": 2,
+    "confusers": [
+      "jk-0036",
+      "jk-0132",
+      "jk-0133"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0389",
+    "type": "二字熟語",
+    "word": "淡白",
+    "reading": "たんぱく",
+    "meaning": "物事にこだわらず、あっさりしていること",
+    "level": 2,
+    "confusers": [
+      "jk-0227",
+      "jk-0331",
+      "jk-0111"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0390",
+    "type": "二字熟語",
+    "word": "執拗",
+    "reading": "しつよう",
+    "meaning": "しつこいこと",
+    "level": 2,
+    "confusers": [
+      "jk-0184",
+      "jk-0062",
+      "jk-0329"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0391",
+    "type": "二字熟語",
+    "word": "頻発",
+    "reading": "ひんぱつ",
+    "meaning": "同じようなことが、たびたび起こること",
+    "level": 2,
+    "confusers": [
+      "jk-0392",
+      "jk-0178",
+      "jk-0277"
+    ],
+    "synonyms": [
+      "jk-0180"
+    ]
+  },
+  {
+    "id": "jk-0392",
+    "type": "二字熟語",
+    "word": "散見",
+    "reading": "さんけん",
+    "meaning": "あちこちに、ちらほら見えること",
+    "level": 2,
+    "confusers": [
+      "jk-0391",
+      "jk-0379",
+      "jk-0378"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0393",
+    "type": "二字熟語",
+    "word": "逸材",
+    "reading": "いつざい",
+    "meaning": "優れた才能を持つ人",
+    "level": 2,
+    "confusers": [
+      "jk-0007",
+      "jk-0353",
+      "jk-0224"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0394",
+    "type": "二字熟語",
+    "word": "異端",
+    "reading": "いたん",
+    "meaning": "その時代や社会で、正統とされるものから外れていること",
+    "level": 2,
+    "confusers": [
+      "jk-0296",
+      "jk-0209",
+      "jk-0234"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0395",
+    "type": "二字熟語",
+    "word": "潮流",
+    "reading": "ちょうりゅう",
+    "meaning": "時代や社会が動いていく、大きな流れ",
+    "level": 2,
+    "confusers": [
+      "jk-0054",
+      "jk-0371",
+      "jk-0375"
+    ],
+    "synonyms": [
+      "jk-0198",
+      "jk-0197",
+      "jk-0396"
+    ]
+  },
+  {
+    "id": "jk-0396",
+    "type": "二字熟語",
+    "word": "趨勢",
+    "reading": "すうせい",
+    "meaning": "物事が、これからどうなっていくかという流れ",
+    "level": 2,
+    "confusers": [
+      "jk-0054",
+      "jk-0375",
+      "jk-0294"
+    ],
+    "synonyms": [
+      "jk-0395",
+      "jk-0198",
+      "jk-0197"
+    ]
+  },
+  {
+    "id": "jk-0397",
+    "type": "二字熟語",
+    "word": "端的",
+    "reading": "たんてき",
+    "meaning": "要点をはっきりと、手短に表すさま",
+    "level": 2,
+    "confusers": [
+      "jk-0077",
+      "jk-0131",
+      "jk-0156"
+    ],
+    "synonyms": [
+      "jk-0030"
+    ]
+  },
+  {
+    "id": "jk-0398",
+    "type": "二字熟語",
+    "word": "迂遠",
+    "reading": "うえん",
+    "meaning": "回り道をしていて、実際の役に立たないこと",
+    "level": 2,
+    "confusers": [
+      "jk-0130",
+      "jk-0029",
+      "jk-0386"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "jk-0399",
+    "type": "二字熟語",
+    "word": "迂闊",
+    "reading": "うかつ",
+    "meaning": "注意が足りず、うっかりしていること",
+    "level": 2,
+    "confusers": [
+      "jk-0230",
+      "jk-0283",
+      "jk-0034"
+    ],
+    "synonyms": [
+      "jk-0041"
+    ]
+  },
+  {
+    "id": "jk-0400",
+    "type": "二字熟語",
+    "word": "拘泥",
+    "reading": "こうでい",
+    "meaning": "一つのことに、こだわること",
+    "level": 2,
+    "confusers": [
+      "jk-0330",
+      "jk-0390",
+      "jk-0329"
+    ],
+    "synonyms": [
+      "jk-0184",
+      "jk-0062"
+    ]
+  }
+]
