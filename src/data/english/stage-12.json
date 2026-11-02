@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "en-1101",
+    "word": "streamline",
+    "pos": "動詞",
+    "meaning": "効率化する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1102",
+    "word": "subscribe",
+    "pos": "動詞",
+    "meaning": "定期購読する、署名する",
+    "level": 2,
+    "confusers": [
+      "en-0150",
+      "en-0221"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1103",
+    "word": "supplement",
+    "pos": "動詞",
+    "meaning": "補う",
+    "level": 2,
+    "confusers": [
+      "en-1105",
+      "en-0107",
+      "en-1104"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1104",
+    "word": "complement",
+    "pos": "動詞",
+    "meaning": "補完する",
+    "level": 2,
+    "confusers": [
+      "en-0580",
+      "en-1103",
+      "en-1105"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1105",
+    "word": "implement",
+    "pos": "動詞",
+    "meaning": "実行する、実施する",
+    "level": 2,
+    "confusers": [
+      "en-1103",
+      "en-1104"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1106",
+    "word": "suppress",
+    "pos": "動詞",
+    "meaning": "抑える、鎮圧する",
+    "level": 2,
+    "confusers": [
+      "en-0154",
+      "en-0156",
+      "en-0164"
+    ],
+    "synonyms": [
+      "en-1062"
+    ]
+  },
+  {
+    "id": "en-1107",
+    "word": "sustain",
+    "pos": "動詞",
+    "meaning": "維持する、支える",
+    "level": 2,
+    "confusers": [
+      "en-0135",
+      "en-0005"
+    ],
+    "synonyms": [
+      "en-0162"
+    ]
+  },
+  {
+    "id": "en-1108",
+    "word": "terminate",
+    "pos": "動詞",
+    "meaning": "終わらせる",
+    "level": 2,
+    "confusers": [
+      "en-0141"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1109",
+    "word": "undermine",
+    "pos": "動詞",
+    "meaning": "弱める、むしばむ",
+    "level": 2,
+    "confusers": [
+      "en-1111",
+      "en-0141"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1110",
+    "word": "undertake",
+    "pos": "動詞",
+    "meaning": "引き受ける",
+    "level": 2,
+    "confusers": [
+      "en-1111",
+      "en-1109"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1111",
+    "word": "undergo",
+    "pos": "動詞",
+    "meaning": "経験する、受ける",
+    "level": 2,
+    "confusers": [
+      "en-1110",
+      "en-1109"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1112",
+    "word": "utilize",
+    "pos": "動詞",
+    "meaning": "利用する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1051"
+    ]
+  },
+  {
+    "id": "en-1113",
+    "word": "verify",
+    "pos": "動詞",
+    "meaning": "検証する、確かめる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0033"
+    ]
+  },
+  {
+    "id": "en-1114",
+    "word": "violate",
+    "pos": "動詞",
+    "meaning": "違反する",
+    "level": 2,
+    "confusers": [
+      "en-0943"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1115",
+    "word": "waive",
+    "pos": "動詞",
+    "meaning": "放棄する、免除する",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1116",
+    "word": "abundance",
+    "pos": "名詞",
+    "meaning": "豊富",
+    "level": 2,
+    "confusers": [
+      "en-0995",
+      "en-1125"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1117",
+    "word": "accountability",
+    "pos": "名詞",
+    "meaning": "説明責任",
+    "level": 2,
+    "confusers": [
+      "en-0273"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1118",
+    "word": "acquisition",
+    "pos": "名詞",
+    "meaning": "取得、買収",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1119",
+    "word": "adjustment",
+    "pos": "名詞",
+    "meaning": "調整",
+    "level": 2,
+    "confusers": [
+      "en-0308",
+      "en-0537"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1120",
+    "word": "administration",
+    "pos": "名詞",
+    "meaning": "管理、行政",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1121",
+    "word": "allowance",
+    "pos": "名詞",
+    "meaning": "手当、許容",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1122",
+    "word": "amendment",
+    "pos": "名詞",
+    "meaning": "修正、改正",
+    "level": 2,
+    "confusers": [
+      "en-0536",
+      "en-1119"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1123",
+    "word": "applicant",
+    "pos": "名詞",
+    "meaning": "応募者",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0568"
+    ]
+  },
+  {
+    "id": "en-1124",
+    "word": "appraisal",
+    "pos": "名詞",
+    "meaning": "査定、評価",
+    "level": 2,
+    "confusers": [
+      "en-0045"
+    ],
+    "synonyms": [
+      "en-0552"
+    ]
+  },
+  {
+    "id": "en-1125",
+    "word": "attendance",
+    "pos": "名詞",
+    "meaning": "出席",
+    "level": 2,
+    "confusers": [
+      "en-0313",
+      "en-1116"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1126",
+    "word": "bankruptcy",
+    "pos": "名詞",
+    "meaning": "破産",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1127",
+    "word": "beneficiary",
+    "pos": "名詞",
+    "meaning": "受益者",
+    "level": 2,
+    "confusers": [
+      "en-0052"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1128",
+    "word": "bid",
+    "pos": "名詞",
+    "meaning": "入札、付け値",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1129",
+    "word": "breakthrough",
+    "pos": "名詞",
+    "meaning": "（大きな）進展、突破口",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1130",
+    "word": "brochure",
+    "pos": "名詞",
+    "meaning": "パンフレット",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1131",
+    "word": "bulk",
+    "pos": "名詞",
+    "meaning": "大部分、大量",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1132",
+    "word": "bureaucracy",
+    "pos": "名詞",
+    "meaning": "官僚制",
+    "level": 2,
+    "confusers": [
+      "en-0598"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1133",
+    "word": "clause",
+    "pos": "名詞",
+    "meaning": "条項",
+    "level": 2,
+    "confusers": [
+      "en-0278",
+      "en-0575"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1134",
+    "word": "client",
+    "pos": "名詞",
+    "meaning": "顧客、依頼人",
+    "level": 2,
+    "confusers": [
+      "en-0327"
+    ],
+    "synonyms": [
+      "en-0342"
+    ]
+  },
+  {
+    "id": "en-1135",
+    "word": "commission",
+    "pos": "名詞",
+    "meaning": "手数料",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1136",
+    "word": "compensation",
+    "pos": "名詞",
+    "meaning": "補償、報酬",
+    "level": 2,
+    "confusers": [
+      "en-0330"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1137",
+    "word": "competence",
+    "pos": "名詞",
+    "meaning": "能力、適性",
+    "level": 2,
+    "confusers": [
+      "en-0330",
+      "en-0587",
+      "en-0335"
+    ],
+    "synonyms": [
+      "en-0271"
+    ]
+  },
+  {
+    "id": "en-1138",
+    "word": "compliance",
+    "pos": "名詞",
+    "meaning": "（法令などの）順守",
+    "level": 2,
+    "confusers": [
+      "en-0579"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1139",
+    "word": "concession",
+    "pos": "名詞",
+    "meaning": "譲歩",
+    "level": 2,
+    "confusers": [
+      "en-0440"
+    ],
+    "synonyms": [
+      "en-0582"
+    ]
+  },
+  {
+    "id": "en-1140",
+    "word": "consensus",
+    "pos": "名詞",
+    "meaning": "合意、総意",
+    "level": 2,
+    "confusers": [
+      "en-0588"
+    ],
+    "synonyms": [
+      "en-0302"
+    ]
+  },
+  {
+    "id": "en-1141",
+    "word": "constraint",
+    "pos": "名詞",
+    "meaning": "制約",
+    "level": 2,
+    "confusers": [
+      "en-0641",
+      "en-0579"
+    ],
+    "synonyms": [
+      "en-1142"
+    ]
+  },
+  {
+    "id": "en-1142",
+    "word": "restriction",
+    "pos": "名詞",
+    "meaning": "制限",
+    "level": 2,
+    "confusers": [
+      "en-0401",
+      "en-0556"
+    ],
+    "synonyms": [
+      "en-0418",
+      "en-1141"
+    ]
+  },
+  {
+    "id": "en-1143",
+    "word": "consultant",
+    "pos": "名詞",
+    "meaning": "顧問、コンサルタント",
+    "level": 2,
+    "confusers": [
+      "en-0641",
+      "en-0891"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1144",
+    "word": "contingency",
+    "pos": "名詞",
+    "meaning": "不測の事態",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1145",
+    "word": "contractor",
+    "pos": "名詞",
+    "meaning": "請負業者",
+    "level": 2,
+    "confusers": [
+      "en-0064"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1146",
+    "word": "coverage",
+    "pos": "名詞",
+    "meaning": "報道、（保険の）補償",
+    "level": 2,
+    "confusers": [
+      "en-0593",
+      "en-0292"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1147",
+    "word": "criterion",
+    "pos": "名詞",
+    "meaning": "基準",
+    "level": 2,
+    "confusers": [
+      "en-0340",
+      "en-0339"
+    ],
+    "synonyms": [
+      "en-0496"
+    ]
+  },
+  {
+    "id": "en-1148",
+    "word": "deadline",
+    "pos": "名詞",
+    "meaning": "締め切り",
+    "level": 2,
+    "confusers": [
+      "en-1072"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1149",
+    "word": "deficit",
+    "pos": "名詞",
+    "meaning": "赤字",
+    "level": 2,
+    "confusers": [
+      "en-0052",
+      "en-0597"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1150",
+    "word": "delegation",
+    "pos": "名詞",
+    "meaning": "代表団、委任",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1151",
+    "word": "deputy",
+    "pos": "名詞",
+    "meaning": "代理人",
+    "level": 2,
+    "confusers": [
+      "en-0362"
+    ],
+    "synonyms": [
+      "en-0540"
+    ]
+  },
+  {
+    "id": "en-1152",
+    "word": "discrepancy",
+    "pos": "名詞",
+    "meaning": "食い違い",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0356"
+    ]
+  },
+  {
+    "id": "en-1153",
+    "word": "dividend",
+    "pos": "名詞",
+    "meaning": "配当金",
+    "level": 2,
+    "confusers": [
+      "en-0143"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1154",
+    "word": "draft",
+    "pos": "名詞",
+    "meaning": "草稿、下書き",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1155",
+    "word": "efficiency",
+    "pos": "名詞",
+    "meaning": "効率",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1156",
+    "word": "endorsement",
+    "pos": "名詞",
+    "meaning": "承認、支持",
+    "level": 2,
+    "confusers": [
+      "en-0537"
+    ],
+    "synonyms": [
+      "en-0045"
+    ]
+  },
+  {
+    "id": "en-1157",
+    "word": "enterprise",
+    "pos": "名詞",
+    "meaning": "企業、事業",
+    "level": 2,
+    "confusers": [
+      "en-1158",
+      "en-0865"
+    ],
+    "synonyms": [
+      "en-0592"
+    ]
+  },
+  {
+    "id": "en-1158",
+    "word": "entrepreneur",
+    "pos": "名詞",
+    "meaning": "起業家",
+    "level": 2,
+    "confusers": [
+      "en-1157"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1159",
+    "word": "equity",
+    "pos": "名詞",
+    "meaning": "公平、株式",
+    "level": 2,
+    "confusers": [
+      "en-0289"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1160",
+    "word": "exemption",
+    "pos": "名詞",
+    "meaning": "免除",
+    "level": 2,
+    "confusers": [
+      "en-0372"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1161",
+    "word": "expenditure",
+    "pos": "名詞",
+    "meaning": "支出、経費",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0373"
+    ]
+  },
+  {
+    "id": "en-1162",
+    "word": "expertise",
+    "pos": "名詞",
+    "meaning": "専門知識",
+    "level": 2,
+    "confusers": [
+      "en-0067"
+    ],
+    "synonyms": [
+      "en-0298"
+    ]
+  },
+  {
+    "id": "en-1163",
+    "word": "feasibility",
+    "pos": "名詞",
+    "meaning": "実現可能性",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0272"
+    ]
+  },
+  {
+    "id": "en-1164",
+    "word": "fee",
+    "pos": "名詞",
+    "meaning": "料金、謝礼",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0571"
+    ]
+  },
+  {
+    "id": "en-1165",
+    "word": "fluctuation",
+    "pos": "名詞",
+    "meaning": "変動",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1166",
+    "word": "inventory",
+    "pos": "名詞",
+    "meaning": "在庫、目録",
+    "level": 2,
+    "confusers": [
+      "en-0405"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1167",
+    "word": "invoice",
+    "pos": "名詞",
+    "meaning": "請求書",
+    "level": 2,
+    "confusers": [
+      "en-0225"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1168",
+    "word": "itinerary",
+    "pos": "名詞",
+    "meaning": "旅程",
+    "level": 2,
+    "confusers": [
+      "en-0722"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1169",
+    "word": "liability",
+    "pos": "名詞",
+    "meaning": "（法的）責任、負債",
+    "level": 2,
+    "confusers": [
+      "en-0271"
+    ],
+    "synonyms": [
+      "en-0596",
+      "en-0273"
+    ]
+  },
+  {
+    "id": "en-1170",
+    "word": "merger",
+    "pos": "名詞",
+    "meaning": "合併",
+    "level": 2,
+    "confusers": [
+      "en-1066"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1171",
+    "word": "momentum",
+    "pos": "名詞",
+    "meaning": "勢い",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1172",
+    "word": "monopoly",
+    "pos": "名詞",
+    "meaning": "独占",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1173",
+    "word": "mortgage",
+    "pos": "名詞",
+    "meaning": "住宅ローン、抵当",
+    "level": 2,
+    "confusers": [
+      "en-0737",
+      "en-0428"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1174",
+    "word": "negotiation",
+    "pos": "名詞",
+    "meaning": "交渉",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1175",
+    "word": "outlet",
+    "pos": "名詞",
+    "meaning": "販路、直販店、コンセント",
+    "level": 2,
+    "confusers": [
+      "en-1072",
+      "en-0444"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1176",
+    "word": "overtime",
+    "pos": "名詞",
+    "meaning": "残業",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1177",
+    "word": "patent",
+    "pos": "名詞",
+    "meaning": "特許",
+    "level": 2,
+    "confusers": [
+      "en-0447"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1178",
+    "word": "personnel",
+    "pos": "名詞",
+    "meaning": "人員、人事部",
+    "level": 2,
+    "confusers": [
+      "en-0454"
+    ],
+    "synonyms": [
+      "en-1179"
+    ]
+  },
+  {
+    "id": "en-1179",
+    "word": "staff",
+    "pos": "名詞",
+    "meaning": "職員",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1178"
+    ]
+  },
+  {
+    "id": "en-1180",
+    "word": "premium",
+    "pos": "名詞",
+    "meaning": "保険料、割増金",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1181",
+    "word": "prototype",
+    "pos": "名詞",
+    "meaning": "試作品、原型",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1182",
+    "word": "quota",
+    "pos": "名詞",
+    "meaning": "割り当て、ノルマ",
+    "level": 2,
+    "confusers": [
+      "en-0254"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1183",
+    "word": "recession",
+    "pos": "名詞",
+    "meaning": "景気後退",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1184",
+    "word": "recipient",
+    "pos": "名詞",
+    "meaning": "受取人",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1185",
+    "word": "remedy",
+    "pos": "名詞",
+    "meaning": "治療法、解決策",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0282"
+    ]
+  },
+  {
+    "id": "en-1186",
+    "word": "revenue",
+    "pos": "名詞",
+    "meaning": "歳入、収益",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0395"
+    ]
+  },
+  {
+    "id": "en-1187",
+    "word": "scheme",
+    "pos": "名詞",
+    "meaning": "計画、たくらみ",
+    "level": 2,
+    "confusers": [
+      "en-0503"
+    ],
+    "synonyms": [
+      "en-0464"
+    ]
+  },
+  {
+    "id": "en-1188",
+    "word": "shareholder",
+    "pos": "名詞",
+    "meaning": "株主",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1189",
+    "word": "specification",
+    "pos": "名詞",
+    "meaning": "仕様、明細",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1190",
+    "word": "sponsor",
+    "pos": "名詞",
+    "meaning": "後援者、出資者",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1191",
+    "word": "stake",
+    "pos": "名詞",
+    "meaning": "利害関係、出資",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1192",
+    "word": "subsidiary",
+    "pos": "名詞",
+    "meaning": "子会社",
+    "level": 2,
+    "confusers": [
+      "en-1193"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1193",
+    "word": "subsidy",
+    "pos": "名詞",
+    "meaning": "補助金",
+    "level": 2,
+    "confusers": [
+      "en-1192"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1194",
+    "word": "surplus",
+    "pos": "名詞",
+    "meaning": "余剰、黒字",
+    "level": 2,
+    "confusers": [
+      "en-0506"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1195",
+    "word": "tariff",
+    "pos": "名詞",
+    "meaning": "関税、料金表",
+    "level": 2,
+    "confusers": [
+      "en-0521"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-1196",
+    "word": "transaction",
+    "pos": "名詞",
+    "meaning": "取引",
+    "level": 2,
+    "confusers": [
+      "en-0275"
+    ],
+    "synonyms": [
+      "en-0520"
+    ]
+  },
+  {
+    "id": "en-1197",
+    "word": "turnover",
+    "pos": "名詞",
+    "meaning": "売上高、離職率",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1198",
+    "word": "venture",
+    "pos": "名詞",
+    "meaning": "冒険的事業、ベンチャー",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-1199",
+    "word": "warranty",
+    "pos": "名詞",
+    "meaning": "（製品の）保証書",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0386"
+    ]
+  },
+  {
+    "id": "en-1200",
+    "word": "workforce",
+    "pos": "名詞",
+    "meaning": "労働力",
+    "level": 2,
+    "confusers": [
+      "en-1090"
+    ],
+    "synonyms": [
+      "en-0411"
+    ]
+  }
+]

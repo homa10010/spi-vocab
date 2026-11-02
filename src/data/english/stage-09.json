@@ -806,7 +806,7 @@
     "id": "en-0868",
     "word": "appreciate",
     "pos": "動詞",
-    "meaning": "感謝する、正しく評価する",
+    "meaning": "感謝する、真価を認める",
     "level": 1,
     "confusers": [
       "en-0071",
@@ -827,7 +827,9 @@
       "en-0144",
       "en-0145"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1008"
+    ]
   },
   {
     "id": "en-0870",
@@ -903,7 +905,9 @@
     "confusers": [
       "en-0574"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1014"
+    ]
   },
   {
     "id": "en-0877",
@@ -1000,7 +1004,9 @@
     "confusers": [
       "en-0296"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1030"
+    ]
   },
   {
     "id": "en-0886",
@@ -1009,7 +1015,9 @@
     "meaning": "作曲する、構成する",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1028"
+    ]
   },
   {
     "id": "en-0887",
@@ -1101,7 +1109,9 @@
     "meaning": "批判する",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1024"
+    ]
   },
   {
     "id": "en-0895",

@@ -21,7 +21,8 @@
       "en-0303"
     ],
     "synonyms": [
-      "en-0588"
+      "en-0588",
+      "en-1140"
     ]
   },
   {
@@ -469,7 +470,9 @@
       "en-0287",
       "en-0343"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1134"
+    ]
   },
   {
     "id": "en-0343",
@@ -622,7 +625,9 @@
     "confusers": [
       "en-0357"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1152"
+    ]
   },
   {
     "id": "en-0357",
@@ -798,7 +803,9 @@
     "meaning": "費用、出費",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1161"
+    ]
   },
   {
     "id": "en-0374",
@@ -935,7 +942,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0871"
+      "en-0871",
+      "en-1199"
     ]
   },
   {
@@ -1028,7 +1036,9 @@
     "confusers": [
       "en-0396"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1186"
+    ]
   },
   {
     "id": "en-0396",

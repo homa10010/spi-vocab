@@ -217,7 +217,9 @@
     "meaning": "貿易、取引",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1196"
+    ]
   },
   {
     "id": "en-0521",
@@ -432,7 +434,9 @@
     "confusers": [
       "en-0539"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1151"
+    ]
   },
   {
     "id": "en-0541",
@@ -562,7 +566,9 @@
     "meaning": "評価",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1124"
+    ]
   },
   {
     "id": "en-0553",
@@ -734,7 +740,9 @@
     "meaning": "候補者",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1123"
+    ]
   },
   {
     "id": "en-0569",
@@ -763,7 +771,9 @@
     "confusers": [
       "en-0572"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1164"
+    ]
   },
   {
     "id": "en-0572",
@@ -885,7 +895,9 @@
     "confusers": [
       "en-0233"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1139"
+    ]
   },
   {
     "id": "en-0583",
@@ -997,7 +1009,9 @@
     "confusers": [
       "en-0591"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1157"
+    ]
   },
   {
     "id": "en-0593",
@@ -1039,7 +1053,9 @@
     "confusers": [
       "en-0345"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1169"
+    ]
   },
   {
     "id": "en-0597",

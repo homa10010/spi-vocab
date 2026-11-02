@@ -114,7 +114,9 @@
     "meaning": "労働",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1200"
+    ]
   },
   {
     "id": "en-0412",
@@ -184,7 +186,9 @@
     "meaning": "限界、制限",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1142"
+    ]
   },
   {
     "id": "en-0419",
@@ -690,7 +694,9 @@
       "en-0437",
       "en-0010"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1187"
+    ]
   },
   {
     "id": "en-0465",
@@ -1040,7 +1046,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0416"
+      "en-0416",
+      "en-1147"
     ]
   },
   {
