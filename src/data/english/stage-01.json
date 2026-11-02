@@ -3,45 +3,1327 @@
     "id": "en-0001",
     "word": "acquire",
     "pos": "動詞",
-    "meaning": "得る、習得する",
+    "meaning": "習得する、手に入れる",
     "level": 1,
-    "confusers": [],
-    "synonyms": []
+    "confusers": [
+      "en-0002",
+      "en-0003",
+      "en-0004"
+    ],
+    "synonyms": [
+      "en-0005"
+    ]
   },
   {
     "id": "en-0002",
-    "word": "decline",
+    "word": "require",
     "pos": "動詞",
-    "meaning": "断る、減少する",
+    "meaning": "必要とする",
     "level": 1,
-    "confusers": [],
+    "confusers": [
+      "en-0001",
+      "en-0003",
+      "en-0021"
+    ],
     "synonyms": []
   },
   {
     "id": "en-0003",
-    "word": "adequate",
-    "pos": "形容詞",
-    "meaning": "十分な、適切な",
+    "word": "inquire",
+    "pos": "動詞",
+    "meaning": "尋ねる、問い合わせる",
     "level": 1,
-    "confusers": [],
+    "confusers": [
+      "en-0001",
+      "en-0002",
+      "en-0030"
+    ],
     "synonyms": []
   },
   {
     "id": "en-0004",
-    "word": "purpose",
-    "pos": "名詞",
-    "meaning": "目的",
+    "word": "achieve",
+    "pos": "動詞",
+    "meaning": "成し遂げる、達成する",
     "level": 1,
-    "confusers": [],
+    "confusers": [
+      "en-0001",
+      "en-0039",
+      "en-0005"
+    ],
     "synonyms": []
   },
   {
     "id": "en-0005",
+    "word": "obtain",
+    "pos": "動詞",
+    "meaning": "得る、手に入れる",
+    "level": 1,
+    "confusers": [
+      "en-0004",
+      "en-0039",
+      "en-0007"
+    ],
+    "synonyms": [
+      "en-0001"
+    ]
+  },
+  {
+    "id": "en-0006",
+    "word": "adapt",
+    "pos": "動詞",
+    "meaning": "適応する、順応させる",
+    "level": 1,
+    "confusers": [
+      "en-0007",
+      "en-0008",
+      "en-0009"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0007",
+    "word": "adopt",
+    "pos": "動詞",
+    "meaning": "採用する、取り入れる",
+    "level": 1,
+    "confusers": [
+      "en-0006",
+      "en-0009",
+      "en-0015"
+    ],
+    "synonyms": [
+      "en-0027"
+    ]
+  },
+  {
+    "id": "en-0008",
+    "word": "adjust",
+    "pos": "動詞",
+    "meaning": "調整する、合わせる",
+    "level": 1,
+    "confusers": [
+      "en-0006",
+      "en-0007",
+      "en-0031"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0009",
+    "word": "accept",
+    "pos": "動詞",
+    "meaning": "受け入れる",
+    "level": 1,
+    "confusers": [
+      "en-0007",
+      "en-0021",
+      "en-0010"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0010",
+    "word": "reject",
+    "pos": "動詞",
+    "meaning": "拒否する、はねつける",
+    "level": 1,
+    "confusers": [
+      "en-0009",
+      "en-0024",
+      "en-0020"
+    ],
+    "synonyms": [
+      "en-0011"
+    ]
+  },
+  {
+    "id": "en-0011",
+    "word": "decline",
+    "pos": "動詞",
+    "meaning": "断る、減少する",
+    "level": 1,
+    "confusers": [
+      "en-0024",
+      "en-0025",
+      "en-0013"
+    ],
+    "synonyms": [
+      "en-0010",
+      "en-0012"
+    ]
+  },
+  {
+    "id": "en-0012",
+    "word": "decrease",
+    "pos": "動詞",
+    "meaning": "減少する、減らす",
+    "level": 1,
+    "confusers": [
+      "en-0013",
+      "en-0014",
+      "en-0025"
+    ],
+    "synonyms": [
+      "en-0011"
+    ]
+  },
+  {
+    "id": "en-0013",
+    "word": "increase",
+    "pos": "動詞",
+    "meaning": "増加する、増やす",
+    "level": 1,
+    "confusers": [
+      "en-0012",
+      "en-0014",
+      "en-0026"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0014",
+    "word": "improve",
+    "pos": "動詞",
+    "meaning": "改善する、向上させる",
+    "level": 1,
+    "confusers": [
+      "en-0013",
+      "en-0015",
+      "en-0016"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0015",
+    "word": "approve",
+    "pos": "動詞",
+    "meaning": "承認する、賛成する",
+    "level": 1,
+    "confusers": [
+      "en-0014",
+      "en-0016",
+      "en-0009"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0016",
+    "word": "prove",
+    "pos": "動詞",
+    "meaning": "証明する",
+    "level": 1,
+    "confusers": [
+      "en-0015",
+      "en-0014",
+      "en-0017"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0017",
+    "word": "provide",
+    "pos": "動詞",
+    "meaning": "提供する、供給する",
+    "level": 1,
+    "confusers": [
+      "en-0016",
+      "en-0026",
+      "en-0018"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0018",
+    "word": "prevent",
+    "pos": "動詞",
+    "meaning": "防ぐ、妨げる",
+    "level": 1,
+    "confusers": [
+      "en-0019",
+      "en-0017",
+      "en-0026"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0019",
+    "word": "protect",
+    "pos": "動詞",
+    "meaning": "守る、保護する",
+    "level": 1,
+    "confusers": [
+      "en-0018",
+      "en-0020",
+      "en-0026"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0020",
+    "word": "respect",
+    "pos": "動詞",
+    "meaning": "尊敬する、尊重する",
+    "level": 1,
+    "confusers": [
+      "en-0021",
+      "en-0022",
+      "en-0023"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0021",
+    "word": "expect",
+    "pos": "動詞",
+    "meaning": "予期する、期待する",
+    "level": 1,
+    "confusers": [
+      "en-0020",
+      "en-0022",
+      "en-0009"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0022",
+    "word": "inspect",
+    "pos": "動詞",
+    "meaning": "検査する、点検する",
+    "level": 1,
+    "confusers": [
+      "en-0020",
+      "en-0021",
+      "en-0023"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0023",
+    "word": "suspect",
+    "pos": "動詞",
+    "meaning": "疑う、怪しいと思う",
+    "level": 1,
+    "confusers": [
+      "en-0020",
+      "en-0021",
+      "en-0022"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0024",
+    "word": "deny",
+    "pos": "動詞",
+    "meaning": "否定する",
+    "level": 1,
+    "confusers": [
+      "en-0010",
+      "en-0025",
+      "en-0011"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0025",
+    "word": "delay",
+    "pos": "動詞",
+    "meaning": "遅らせる、延期する",
+    "level": 1,
+    "confusers": [
+      "en-0024",
+      "en-0011",
+      "en-0012"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0026",
+    "word": "produce",
+    "pos": "動詞",
+    "meaning": "生産する、作り出す",
+    "level": 1,
+    "confusers": [
+      "en-0017",
+      "en-0027",
+      "en-0016"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0027",
+    "word": "introduce",
+    "pos": "動詞",
+    "meaning": "紹介する、導入する",
+    "level": 1,
+    "confusers": [
+      "en-0026",
+      "en-0034",
+      "en-0038"
+    ],
+    "synonyms": [
+      "en-0007"
+    ]
+  },
+  {
+    "id": "en-0028",
+    "word": "consider",
+    "pos": "動詞",
+    "meaning": "よく考える、検討する",
+    "level": 1,
+    "confusers": [
+      "en-0029",
+      "en-0033",
+      "en-0036"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0029",
+    "word": "consist",
+    "pos": "動詞",
+    "meaning": "（〜から）成り立つ",
+    "level": 1,
+    "confusers": [
+      "en-0028",
+      "en-0030",
+      "en-0031"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0030",
+    "word": "insist",
+    "pos": "動詞",
+    "meaning": "主張する、言い張る",
+    "level": 1,
+    "confusers": [
+      "en-0029",
+      "en-0031",
+      "en-0032"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0031",
+    "word": "assist",
+    "pos": "動詞",
+    "meaning": "手伝う、援助する",
+    "level": 1,
+    "confusers": [
+      "en-0030",
+      "en-0032",
+      "en-0029"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0032",
+    "word": "resist",
+    "pos": "動詞",
+    "meaning": "抵抗する",
+    "level": 1,
+    "confusers": [
+      "en-0031",
+      "en-0030",
+      "en-0010"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0033",
+    "word": "confirm",
+    "pos": "動詞",
+    "meaning": "確認する、確かめる",
+    "level": 1,
+    "confusers": [
+      "en-0028",
+      "en-0034",
+      "en-0035"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0034",
+    "word": "inform",
+    "pos": "動詞",
+    "meaning": "知らせる、通知する",
+    "level": 1,
+    "confusers": [
+      "en-0033",
+      "en-0035",
+      "en-0027"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0035",
+    "word": "perform",
+    "pos": "動詞",
+    "meaning": "行う、演じる",
+    "level": 1,
+    "confusers": [
+      "en-0034",
+      "en-0033",
+      "en-0026"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0036",
+    "word": "recognize",
+    "pos": "動詞",
+    "meaning": "認識する、それとわかる",
+    "level": 1,
+    "confusers": [
+      "en-0038",
+      "en-0028",
+      "en-0022"
+    ],
+    "synonyms": [
+      "en-0037"
+    ]
+  },
+  {
+    "id": "en-0037",
+    "word": "realize",
+    "pos": "動詞",
+    "meaning": "気づく、実現する",
+    "level": 1,
+    "confusers": [
+      "en-0038",
+      "en-0004",
+      "en-0039"
+    ],
+    "synonyms": [
+      "en-0036"
+    ]
+  },
+  {
+    "id": "en-0038",
+    "word": "organize",
+    "pos": "動詞",
+    "meaning": "組織する、準備する",
+    "level": 1,
+    "confusers": [
+      "en-0036",
+      "en-0037",
+      "en-0026"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0039",
+    "word": "attempt",
+    "pos": "動詞",
+    "meaning": "試みる",
+    "level": 1,
+    "confusers": [
+      "en-0040",
+      "en-0004",
+      "en-0041"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0040",
+    "word": "attend",
+    "pos": "動詞",
+    "meaning": "出席する",
+    "level": 1,
+    "confusers": [
+      "en-0039",
+      "en-0041",
+      "en-0042"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0041",
+    "word": "intend",
+    "pos": "動詞",
+    "meaning": "〜するつもりである、意図する",
+    "level": 1,
+    "confusers": [
+      "en-0040",
+      "en-0042",
+      "en-0039"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0042",
+    "word": "extend",
+    "pos": "動詞",
+    "meaning": "延長する、広げる",
+    "level": 1,
+    "confusers": [
+      "en-0041",
+      "en-0040",
+      "en-0013"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0043",
+    "word": "purpose",
+    "pos": "名詞",
+    "meaning": "目的",
+    "level": 1,
+    "confusers": [
+      "en-0044",
+      "en-0048",
+      "en-0046"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0044",
+    "word": "proposal",
+    "pos": "名詞",
+    "meaning": "提案",
+    "level": 1,
+    "confusers": [
+      "en-0043",
+      "en-0045",
+      "en-0048"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0045",
+    "word": "approval",
+    "pos": "名詞",
+    "meaning": "承認、賛成",
+    "level": 1,
+    "confusers": [
+      "en-0044",
+      "en-0046",
+      "en-0047"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0046",
+    "word": "approach",
+    "pos": "名詞",
+    "meaning": "（問題への）取り組み方、接近",
+    "level": 1,
+    "confusers": [
+      "en-0045",
+      "en-0047",
+      "en-0050"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0047",
+    "word": "attitude",
+    "pos": "名詞",
+    "meaning": "態度",
+    "level": 1,
+    "confusers": [
+      "en-0046",
+      "en-0045",
+      "en-0061"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0048",
+    "word": "process",
+    "pos": "名詞",
+    "meaning": "過程",
+    "level": 1,
+    "confusers": [
+      "en-0049",
+      "en-0043",
+      "en-0044"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0049",
+    "word": "progress",
+    "pos": "名詞",
+    "meaning": "進歩、進行",
+    "level": 1,
+    "confusers": [
+      "en-0048",
+      "en-0051",
+      "en-0050"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0050",
+    "word": "access",
+    "pos": "名詞",
+    "meaning": "利用する手段・権利、入手方法",
+    "level": 1,
+    "confusers": [
+      "en-0051",
+      "en-0048",
+      "en-0046"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0051",
+    "word": "success",
+    "pos": "名詞",
+    "meaning": "成功",
+    "level": 1,
+    "confusers": [
+      "en-0050",
+      "en-0049",
+      "en-0060"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0052",
+    "word": "benefit",
+    "pos": "名詞",
+    "meaning": "恩恵、利点",
+    "level": 1,
+    "confusers": [
+      "en-0053",
+      "en-0060",
+      "en-0059"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0053",
+    "word": "profit",
+    "pos": "名詞",
+    "meaning": "（金銭上の）利益、もうけ",
+    "level": 1,
+    "confusers": [
+      "en-0052",
+      "en-0054",
+      "en-0059"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0054",
+    "word": "loss",
+    "pos": "名詞",
+    "meaning": "損失、失うこと",
+    "level": 1,
+    "confusers": [
+      "en-0053",
+      "en-0055",
+      "en-0051"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0055",
+    "word": "lack",
+    "pos": "名詞",
+    "meaning": "不足、欠如",
+    "level": 1,
+    "confusers": [
+      "en-0054",
+      "en-0051",
+      "en-0060"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0056",
+    "word": "opportunity",
+    "pos": "名詞",
+    "meaning": "機会、好機",
+    "level": 1,
+    "confusers": [
+      "en-0057",
+      "en-0058",
+      "en-0059"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0057",
+    "word": "occasion",
+    "pos": "名詞",
+    "meaning": "（特定の）時、場合、行事",
+    "level": 1,
+    "confusers": [
+      "en-0056",
+      "en-0058",
+      "en-0067"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0058",
+    "word": "priority",
+    "pos": "名詞",
+    "meaning": "優先、優先事項",
+    "level": 1,
+    "confusers": [
+      "en-0059",
+      "en-0056",
+      "en-0043"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0059",
+    "word": "property",
+    "pos": "名詞",
+    "meaning": "財産、所有物",
+    "level": 1,
+    "confusers": [
+      "en-0058",
+      "en-0053",
+      "en-0052"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0060",
+    "word": "effect",
+    "pos": "名詞",
+    "meaning": "効果、影響",
+    "level": 1,
+    "confusers": [
+      "en-0061",
+      "en-0052",
+      "en-0066"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0061",
+    "word": "effort",
+    "pos": "名詞",
+    "meaning": "努力",
+    "level": 1,
+    "confusers": [
+      "en-0060",
+      "en-0062",
+      "en-0047"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0062",
+    "word": "comfort",
+    "pos": "名詞",
+    "meaning": "快適さ、慰め",
+    "level": 1,
+    "confusers": [
+      "en-0061",
+      "en-0063",
+      "en-0065"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0063",
+    "word": "conflict",
+    "pos": "名詞",
+    "meaning": "対立、衝突",
+    "level": 1,
+    "confusers": [
+      "en-0062",
+      "en-0064",
+      "en-0065"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0064",
+    "word": "contract",
+    "pos": "名詞",
+    "meaning": "契約",
+    "level": 1,
+    "confusers": [
+      "en-0063",
+      "en-0065",
+      "en-0044"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0065",
+    "word": "contact",
+    "pos": "名詞",
+    "meaning": "接触、連絡",
+    "level": 1,
+    "confusers": [
+      "en-0064",
+      "en-0063",
+      "en-0050"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0066",
+    "word": "evidence",
+    "pos": "名詞",
+    "meaning": "証拠",
+    "level": 1,
+    "confusers": [
+      "en-0067",
+      "en-0068",
+      "en-0060"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0067",
+    "word": "experience",
+    "pos": "名詞",
+    "meaning": "経験",
+    "level": 1,
+    "confusers": [
+      "en-0068",
+      "en-0066",
+      "en-0069"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0068",
+    "word": "experiment",
+    "pos": "名詞",
+    "meaning": "実験",
+    "level": 1,
+    "confusers": [
+      "en-0067",
+      "en-0066",
+      "en-0069"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0069",
+    "word": "environment",
+    "pos": "名詞",
+    "meaning": "環境",
+    "level": 1,
+    "confusers": [
+      "en-0068",
+      "en-0067",
+      "en-0059"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0070",
+    "word": "adequate",
+    "pos": "形容詞",
+    "meaning": "（必要を満たすのに）十分な",
+    "level": 1,
+    "confusers": [
+      "en-0071",
+      "en-0073",
+      "en-0072"
+    ],
+    "synonyms": [
+      "en-0076"
+    ]
+  },
+  {
+    "id": "en-0071",
+    "word": "appropriate",
+    "pos": "形容詞",
+    "meaning": "適切な、ふさわしい",
+    "level": 1,
+    "confusers": [
+      "en-0070",
+      "en-0072",
+      "en-0073"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0072",
+    "word": "approximate",
+    "pos": "形容詞",
+    "meaning": "おおよその",
+    "level": 1,
+    "confusers": [
+      "en-0071",
+      "en-0073",
+      "en-0070"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0073",
+    "word": "accurate",
+    "pos": "形容詞",
+    "meaning": "正確な",
+    "level": 1,
+    "confusers": [
+      "en-0070",
+      "en-0072",
+      "en-0071"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0074",
+    "word": "efficient",
+    "pos": "形容詞",
+    "meaning": "効率のよい",
+    "level": 1,
+    "confusers": [
+      "en-0076",
+      "en-0075",
+      "en-0091"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0075",
+    "word": "effective",
+    "pos": "形容詞",
+    "meaning": "効果的な、有効な",
+    "level": 1,
+    "confusers": [
+      "en-0074",
+      "en-0076",
+      "en-0091"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0076",
+    "word": "sufficient",
+    "pos": "形容詞",
+    "meaning": "十分な",
+    "level": 1,
+    "confusers": [
+      "en-0074",
+      "en-0075",
+      "en-0091"
+    ],
+    "synonyms": [
+      "en-0070"
+    ]
+  },
+  {
+    "id": "en-0077",
+    "word": "considerable",
+    "pos": "形容詞",
+    "meaning": "かなりの、相当な",
+    "level": 1,
+    "confusers": [
+      "en-0078",
+      "en-0079",
+      "en-0090"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0078",
+    "word": "considerate",
+    "pos": "形容詞",
+    "meaning": "思いやりのある",
+    "level": 1,
+    "confusers": [
+      "en-0077",
+      "en-0080",
+      "en-0079"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0079",
+    "word": "sensible",
+    "pos": "形容詞",
+    "meaning": "分別のある、賢明な",
+    "level": 1,
+    "confusers": [
+      "en-0080",
+      "en-0078",
+      "en-0088"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0080",
+    "word": "sensitive",
+    "pos": "形容詞",
+    "meaning": "敏感な、傷つきやすい",
+    "level": 1,
+    "confusers": [
+      "en-0079",
+      "en-0078",
+      "en-0092"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0081",
+    "word": "economic",
+    "pos": "形容詞",
+    "meaning": "経済の、経済に関する",
+    "level": 1,
+    "confusers": [
+      "en-0082",
+      "en-0091",
+      "en-0092"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0082",
+    "word": "economical",
+    "pos": "形容詞",
+    "meaning": "節約になる、むだのない",
+    "level": 1,
+    "confusers": [
+      "en-0081",
+      "en-0074",
+      "en-0090"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0083",
+    "word": "temporary",
+    "pos": "形容詞",
+    "meaning": "一時的な",
+    "level": 1,
+    "confusers": [
+      "en-0084",
+      "en-0086",
+      "en-0093"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0084",
+    "word": "permanent",
+    "pos": "形容詞",
+    "meaning": "永久的な、永続的な",
+    "level": 1,
+    "confusers": [
+      "en-0083",
+      "en-0091",
+      "en-0092"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0085",
+    "word": "obvious",
+    "pos": "形容詞",
+    "meaning": "明らかな",
+    "level": 1,
+    "confusers": [
+      "en-0086",
+      "en-0087",
+      "en-0092"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0086",
+    "word": "previous",
+    "pos": "形容詞",
+    "meaning": "以前の、前の",
+    "level": 1,
+    "confusers": [
+      "en-0085",
+      "en-0087",
+      "en-0093"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0087",
+    "word": "various",
+    "pos": "形容詞",
+    "meaning": "さまざまな",
+    "level": 1,
+    "confusers": [
+      "en-0085",
+      "en-0086",
+      "en-0090"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0088",
+    "word": "reliable",
+    "pos": "形容詞",
+    "meaning": "信頼できる",
+    "level": 1,
+    "confusers": [
+      "en-0089",
+      "en-0090",
+      "en-0079"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0089",
+    "word": "available",
+    "pos": "形容詞",
+    "meaning": "利用できる、手に入る",
+    "level": 1,
+    "confusers": [
+      "en-0090",
+      "en-0088",
+      "en-0071"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0090",
+    "word": "valuable",
+    "pos": "形容詞",
+    "meaning": "貴重な、価値のある",
+    "level": 1,
+    "confusers": [
+      "en-0089",
+      "en-0088",
+      "en-0077"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0091",
+    "word": "essential",
+    "pos": "形容詞",
+    "meaning": "不可欠な、本質的な",
+    "level": 1,
+    "confusers": [
+      "en-0092",
+      "en-0093",
+      "en-0076"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0092",
+    "word": "potential",
+    "pos": "形容詞",
+    "meaning": "潜在的な、可能性のある",
+    "level": 1,
+    "confusers": [
+      "en-0091",
+      "en-0093",
+      "en-0085"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0093",
+    "word": "initial",
+    "pos": "形容詞",
+    "meaning": "最初の、初期の",
+    "level": 1,
+    "confusers": [
+      "en-0091",
+      "en-0092",
+      "en-0086"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0094",
     "word": "rarely",
     "pos": "副詞",
     "meaning": "めったに〜しない",
     "level": 1,
-    "confusers": [],
+    "confusers": [
+      "en-0096",
+      "en-0097",
+      "en-0099"
+    ],
+    "synonyms": [
+      "en-0095"
+    ]
+  },
+  {
+    "id": "en-0095",
+    "word": "hardly",
+    "pos": "副詞",
+    "meaning": "ほとんど〜ない",
+    "level": 1,
+    "confusers": [
+      "en-0096",
+      "en-0099",
+      "en-0098"
+    ],
+    "synonyms": [
+      "en-0094"
+    ]
+  },
+  {
+    "id": "en-0096",
+    "word": "nearly",
+    "pos": "副詞",
+    "meaning": "ほぼ、もう少しで",
+    "level": 1,
+    "confusers": [
+      "en-0095",
+      "en-0097",
+      "en-0094"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0097",
+    "word": "mostly",
+    "pos": "副詞",
+    "meaning": "大部分は、主に",
+    "level": 1,
+    "confusers": [
+      "en-0096",
+      "en-0099",
+      "en-0094"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0098",
+    "word": "eventually",
+    "pos": "副詞",
+    "meaning": "結局、最終的に",
+    "level": 1,
+    "confusers": [
+      "en-0099",
+      "en-0100",
+      "en-0097"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0099",
+    "word": "actually",
+    "pos": "副詞",
+    "meaning": "実際に、実は",
+    "level": 1,
+    "confusers": [
+      "en-0098",
+      "en-0100",
+      "en-0095"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-0100",
+    "word": "immediately",
+    "pos": "副詞",
+    "meaning": "ただちに、すぐに",
+    "level": 1,
+    "confusers": [
+      "en-0098",
+      "en-0099",
+      "en-0096"
+    ],
     "synonyms": []
   }
 ]
