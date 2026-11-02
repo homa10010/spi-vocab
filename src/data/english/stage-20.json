@@ -231,7 +231,8 @@
       "en-1116"
     ],
     "synonyms": [
-      "en-1205"
+      "en-1205",
+      "en-2044"
     ]
   },
   {
@@ -439,7 +440,8 @@
       "en-0621"
     ],
     "synonyms": [
-      "en-1273"
+      "en-1273",
+      "en-2027"
     ]
   },
   {
@@ -619,7 +621,9 @@
     "confusers": [
       "en-0085"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2074"
+    ]
   },
   {
     "id": "en-1955",
@@ -775,7 +779,9 @@
       "en-1540",
       "en-1327"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2065"
+    ]
   },
   {
     "id": "en-1968",
@@ -795,7 +801,9 @@
     "meaning": "堅い、断固とした",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2057"
+    ]
   },
   {
     "id": "en-1970",
@@ -826,7 +834,9 @@
     "meaning": "穏やかな、優しい",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2092"
+    ]
   },
   {
     "id": "en-1973",
@@ -847,7 +857,9 @@
     "meaning": "陰気な、悲観的な",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2035"
+    ]
   },
   {
     "id": "en-1975",

@@ -1,0 +1,1174 @@
+[
+  {
+    "id": "en-2001",
+    "word": "irresistible",
+    "pos": "形容詞",
+    "meaning": "抵抗できない",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2002",
+    "word": "lavish",
+    "pos": "形容詞",
+    "meaning": "ぜいたくな、気前のよい",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2003",
+    "word": "legitimate",
+    "pos": "形容詞",
+    "meaning": "合法の、正当な",
+    "level": 2,
+    "confusers": [
+      "en-1996"
+    ],
+    "synonyms": [
+      "en-0708"
+    ]
+  },
+  {
+    "id": "en-2004",
+    "word": "lenient",
+    "pos": "形容詞",
+    "meaning": "寛大な、甘い",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2005"
+    ]
+  },
+  {
+    "id": "en-2005",
+    "word": "tolerant",
+    "pos": "形容詞",
+    "meaning": "寛容な",
+    "level": 2,
+    "confusers": [
+      "en-0986",
+      "en-1895",
+      "en-0773"
+    ],
+    "synonyms": [
+      "en-0742",
+      "en-2004"
+    ]
+  },
+  {
+    "id": "en-2006",
+    "word": "liable",
+    "pos": "形容詞",
+    "meaning": "（法的に）責任がある、〜しがちな",
+    "level": 2,
+    "confusers": [
+      "en-0088",
+      "en-1243"
+    ],
+    "synonyms": [
+      "en-2007"
+    ]
+  },
+  {
+    "id": "en-2007",
+    "word": "prone",
+    "pos": "形容詞",
+    "meaning": "〜しがちな",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2006"
+    ]
+  },
+  {
+    "id": "en-2008",
+    "word": "lively",
+    "pos": "形容詞",
+    "meaning": "活発な、生き生きとした",
+    "level": 2,
+    "confusers": [
+      "en-2051"
+    ],
+    "synonyms": [
+      "en-1236"
+    ]
+  },
+  {
+    "id": "en-2009",
+    "word": "lofty",
+    "pos": "形容詞",
+    "meaning": "高尚な、高くそびえる",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2010",
+    "word": "lucid",
+    "pos": "形容詞",
+    "meaning": "明快な、わかりやすい",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2011"
+    ]
+  },
+  {
+    "id": "en-2011",
+    "word": "clear",
+    "pos": "形容詞",
+    "meaning": "明らかな、澄んだ",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0085",
+      "en-0673",
+      "en-2010"
+    ]
+  },
+  {
+    "id": "en-2012",
+    "word": "magnificent",
+    "pos": "形容詞",
+    "meaning": "壮大な、見事な",
+    "level": 2,
+    "confusers": [
+      "en-0785",
+      "en-1433"
+    ],
+    "synonyms": [
+      "en-2013"
+    ]
+  },
+  {
+    "id": "en-2013",
+    "word": "splendid",
+    "pos": "形容詞",
+    "meaning": "すばらしい、壮麗な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2012",
+      "en-2088"
+    ]
+  },
+  {
+    "id": "en-2014",
+    "word": "malicious",
+    "pos": "形容詞",
+    "meaning": "悪意のある",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2015",
+    "word": "manifest",
+    "pos": "形容詞",
+    "meaning": "明白な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0673",
+      "en-0616"
+    ]
+  },
+  {
+    "id": "en-2016",
+    "word": "meager",
+    "pos": "形容詞",
+    "meaning": "乏しい、貧弱な",
+    "level": 2,
+    "confusers": [
+      "en-0663"
+    ],
+    "synonyms": [
+      "en-1282"
+    ]
+  },
+  {
+    "id": "en-2017",
+    "word": "meticulous",
+    "pos": "形容詞",
+    "meaning": "細心の、几帳面な",
+    "level": 2,
+    "confusers": [
+      "en-2061"
+    ],
+    "synonyms": [
+      "en-1295",
+      "en-2038"
+    ]
+  },
+  {
+    "id": "en-2018",
+    "word": "mobile",
+    "pos": "形容詞",
+    "meaning": "移動できる、動きやすい",
+    "level": 2,
+    "confusers": [
+      "en-2024"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2019",
+    "word": "monotonous",
+    "pos": "形容詞",
+    "meaning": "単調な",
+    "level": 2,
+    "confusers": [
+      "en-1172"
+    ],
+    "synonyms": [
+      "en-2020"
+    ]
+  },
+  {
+    "id": "en-2020",
+    "word": "tedious",
+    "pos": "形容詞",
+    "meaning": "退屈な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2019"
+    ]
+  },
+  {
+    "id": "en-2021",
+    "word": "naive",
+    "pos": "形容詞",
+    "meaning": "世間知らずの、単純な",
+    "level": 2,
+    "confusers": [
+      "en-1991",
+      "en-1115"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2022",
+    "word": "nasty",
+    "pos": "形容詞",
+    "meaning": "不快な、意地の悪い",
+    "level": 2,
+    "confusers": [
+      "en-1978"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2023",
+    "word": "negligible",
+    "pos": "形容詞",
+    "meaning": "無視できるほどの",
+    "level": 2,
+    "confusers": [
+      "en-0716",
+      "en-1237",
+      "en-0170"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2024",
+    "word": "noble",
+    "pos": "形容詞",
+    "meaning": "高貴な、気高い",
+    "level": 2,
+    "confusers": [
+      "en-2018"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2025",
+    "word": "notable",
+    "pos": "形容詞",
+    "meaning": "注目すべき、著名な",
+    "level": 2,
+    "confusers": [
+      "en-2027"
+    ],
+    "synonyms": [
+      "en-2026"
+    ]
+  },
+  {
+    "id": "en-2026",
+    "word": "remarkable",
+    "pos": "形容詞",
+    "meaning": "注目すべき、驚くべき",
+    "level": 2,
+    "confusers": [
+      "en-0088"
+    ],
+    "synonyms": [
+      "en-2025"
+    ]
+  },
+  {
+    "id": "en-2027",
+    "word": "noticeable",
+    "pos": "形容詞",
+    "meaning": "目立つ、顕著な",
+    "level": 2,
+    "confusers": [
+      "en-2025",
+      "en-0178"
+    ],
+    "synonyms": [
+      "en-1939"
+    ]
+  },
+  {
+    "id": "en-2028",
+    "word": "nutritious",
+    "pos": "形容詞",
+    "meaning": "栄養のある",
+    "level": 2,
+    "confusers": [
+      "en-0685",
+      "en-1801",
+      "en-0614"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2029",
+    "word": "obedient",
+    "pos": "形容詞",
+    "meaning": "従順な",
+    "level": 2,
+    "confusers": [
+      "en-1758"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2030",
+    "word": "obligatory",
+    "pos": "形容詞",
+    "meaning": "義務的な",
+    "level": 2,
+    "confusers": [
+      "en-0438"
+    ],
+    "synonyms": [
+      "en-1221",
+      "en-1220"
+    ]
+  },
+  {
+    "id": "en-2031",
+    "word": "offensive",
+    "pos": "形容詞",
+    "meaning": "不快な、攻撃的な",
+    "level": 2,
+    "confusers": [
+      "en-0676"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2032",
+    "word": "ominous",
+    "pos": "形容詞",
+    "meaning": "不吉な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2033",
+    "word": "opaque",
+    "pos": "形容詞",
+    "meaning": "不透明な、わかりにくい",
+    "level": 2,
+    "confusers": [
+      "en-0797"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2034",
+    "word": "optimistic",
+    "pos": "形容詞",
+    "meaning": "楽観的な",
+    "level": 2,
+    "confusers": [
+      "en-2035"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2035",
+    "word": "pessimistic",
+    "pos": "形容詞",
+    "meaning": "悲観的な",
+    "level": 2,
+    "confusers": [
+      "en-2034",
+      "en-2040"
+    ],
+    "synonyms": [
+      "en-1974"
+    ]
+  },
+  {
+    "id": "en-2036",
+    "word": "outstanding",
+    "pos": "形容詞",
+    "meaning": "傑出した、未払いの",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0675"
+    ]
+  },
+  {
+    "id": "en-2037",
+    "word": "overwhelming",
+    "pos": "形容詞",
+    "meaning": "圧倒的な",
+    "level": 2,
+    "confusers": [
+      "en-1452"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2038",
+    "word": "painstaking",
+    "pos": "形容詞",
+    "meaning": "骨の折れる、念入りな",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2017"
+    ]
+  },
+  {
+    "id": "en-2039",
+    "word": "parallel",
+    "pos": "形容詞",
+    "meaning": "平行な、類似した",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2040",
+    "word": "passionate",
+    "pos": "形容詞",
+    "meaning": "情熱的な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2041",
+    "word": "perpetual",
+    "pos": "形容詞",
+    "meaning": "永続的な、絶え間ない",
+    "level": 2,
+    "confusers": [
+      "en-0766"
+    ],
+    "synonyms": [
+      "en-0084",
+      "en-0719"
+    ]
+  },
+  {
+    "id": "en-2042",
+    "word": "pertinent",
+    "pos": "形容詞",
+    "meaning": "関係のある、適切な",
+    "level": 2,
+    "confusers": [
+      "en-1078",
+      "en-0643"
+    ],
+    "synonyms": [
+      "en-0773"
+    ]
+  },
+  {
+    "id": "en-2043",
+    "word": "plausible",
+    "pos": "形容詞",
+    "meaning": "もっともらしい",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2044",
+    "word": "plentiful",
+    "pos": "形容詞",
+    "meaning": "豊富な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1921",
+      "en-1205"
+    ]
+  },
+  {
+    "id": "en-2045",
+    "word": "pragmatic",
+    "pos": "形容詞",
+    "meaning": "実用的な、現実的な",
+    "level": 2,
+    "confusers": [
+      "en-0661"
+    ],
+    "synonyms": [
+      "en-0753",
+      "en-0769"
+    ]
+  },
+  {
+    "id": "en-2046",
+    "word": "precarious",
+    "pos": "形容詞",
+    "meaning": "不安定な、危うい",
+    "level": 2,
+    "confusers": [
+      "en-0755"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2047",
+    "word": "predominant",
+    "pos": "形容詞",
+    "meaning": "支配的な、優勢な",
+    "level": 2,
+    "confusers": [
+      "en-1273"
+    ],
+    "synonyms": [
+      "en-1234"
+    ]
+  },
+  {
+    "id": "en-2048",
+    "word": "premature",
+    "pos": "形容詞",
+    "meaning": "時期尚早の",
+    "level": 2,
+    "confusers": [
+      "en-0728",
+      "en-1984"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2049",
+    "word": "prestigious",
+    "pos": "形容詞",
+    "meaning": "名声のある、一流の",
+    "level": 2,
+    "confusers": [
+      "en-1832"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2050",
+    "word": "probable",
+    "pos": "形容詞",
+    "meaning": "ありそうな",
+    "level": 2,
+    "confusers": [
+      "en-0842"
+    ],
+    "synonyms": [
+      "en-2051"
+    ]
+  },
+  {
+    "id": "en-2051",
+    "word": "likely",
+    "pos": "形容詞",
+    "meaning": "ありそうな、〜しそうな",
+    "level": 2,
+    "confusers": [
+      "en-2008"
+    ],
+    "synonyms": [
+      "en-2050"
+    ]
+  },
+  {
+    "id": "en-2052",
+    "word": "prolific",
+    "pos": "形容詞",
+    "meaning": "多作の、多産な",
+    "level": 2,
+    "confusers": [
+      "en-1083",
+      "en-0788"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2053",
+    "word": "provocative",
+    "pos": "形容詞",
+    "meaning": "挑発的な",
+    "level": 2,
+    "confusers": [
+      "en-1085",
+      "en-0764"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2054",
+    "word": "prudent",
+    "pos": "形容詞",
+    "meaning": "慎重な、分別のある",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0622",
+      "en-0079"
+    ]
+  },
+  {
+    "id": "en-2055",
+    "word": "reckless",
+    "pos": "形容詞",
+    "meaning": "無謀な",
+    "level": 2,
+    "confusers": [
+      "en-2056",
+      "en-0628",
+      "en-1465"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2056",
+    "word": "restless",
+    "pos": "形容詞",
+    "meaning": "落ち着かない",
+    "level": 2,
+    "confusers": [
+      "en-2055"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2057",
+    "word": "resolute",
+    "pos": "形容詞",
+    "meaning": "断固とした",
+    "level": 2,
+    "confusers": [
+      "en-0601",
+      "en-1859"
+    ],
+    "synonyms": [
+      "en-2058",
+      "en-1230",
+      "en-1969"
+    ]
+  },
+  {
+    "id": "en-2058",
+    "word": "determined",
+    "pos": "形容詞",
+    "meaning": "決心した、断固とした",
+    "level": 2,
+    "confusers": [
+      "en-0141"
+    ],
+    "synonyms": [
+      "en-2057"
+    ]
+  },
+  {
+    "id": "en-2059",
+    "word": "rewarding",
+    "pos": "形容詞",
+    "meaning": "やりがいのある",
+    "level": 2,
+    "confusers": [
+      "en-0473"
+    ],
+    "synonyms": [
+      "en-2060"
+    ]
+  },
+  {
+    "id": "en-2060",
+    "word": "worthwhile",
+    "pos": "形容詞",
+    "meaning": "やる価値のある",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2059"
+    ]
+  },
+  {
+    "id": "en-2061",
+    "word": "ridiculous",
+    "pos": "形容詞",
+    "meaning": "ばかげた",
+    "level": 2,
+    "confusers": [
+      "en-2017"
+    ],
+    "synonyms": [
+      "en-2062"
+    ]
+  },
+  {
+    "id": "en-2062",
+    "word": "absurd",
+    "pos": "形容詞",
+    "meaning": "ばかげた",
+    "level": 2,
+    "confusers": [
+      "en-0602",
+      "en-0743",
+      "en-1002"
+    ],
+    "synonyms": [
+      "en-2061"
+    ]
+  },
+  {
+    "id": "en-2063",
+    "word": "ruthless",
+    "pos": "形容詞",
+    "meaning": "無慈悲な、冷酷な",
+    "level": 2,
+    "confusers": [
+      "en-2056"
+    ],
+    "synonyms": [
+      "en-0647"
+    ]
+  },
+  {
+    "id": "en-2064",
+    "word": "sacred",
+    "pos": "形容詞",
+    "meaning": "神聖な",
+    "level": 2,
+    "confusers": [
+      "en-0975"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2065",
+    "word": "savage",
+    "pos": "形容詞",
+    "meaning": "獰猛な、野蛮な",
+    "level": 2,
+    "confusers": [
+      "en-0292"
+    ],
+    "synonyms": [
+      "en-1967"
+    ]
+  },
+  {
+    "id": "en-2066",
+    "word": "scenic",
+    "pos": "形容詞",
+    "meaning": "景色のよい",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2067",
+    "word": "secular",
+    "pos": "形容詞",
+    "meaning": "世俗の、非宗教的な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2068",
+    "word": "selfish",
+    "pos": "形容詞",
+    "meaning": "利己的な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2069",
+    "word": "sensational",
+    "pos": "形容詞",
+    "meaning": "衝撃的な、大評判の",
+    "level": 2,
+    "confusers": [
+      "en-0079"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2070",
+    "word": "sentimental",
+    "pos": "形容詞",
+    "meaning": "感傷的な",
+    "level": 2,
+    "confusers": [
+      "en-1871",
+      "en-0624"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2071",
+    "word": "serene",
+    "pos": "形容詞",
+    "meaning": "穏やかな、静かな",
+    "level": 2,
+    "confusers": [
+      "en-0783"
+    ],
+    "synonyms": [
+      "en-2072"
+    ]
+  },
+  {
+    "id": "en-2072",
+    "word": "tranquil",
+    "pos": "形容詞",
+    "meaning": "静かな、穏やかな",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2071"
+    ]
+  },
+  {
+    "id": "en-2073",
+    "word": "shrewd",
+    "pos": "形容詞",
+    "meaning": "抜け目のない、賢い",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2074",
+    "word": "skeptical",
+    "pos": "形容詞",
+    "meaning": "懐疑的な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1954"
+    ]
+  },
+  {
+    "id": "en-2075",
+    "word": "slender",
+    "pos": "形容詞",
+    "meaning": "ほっそりした",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2076",
+    "word": "sluggish",
+    "pos": "形容詞",
+    "meaning": "のろい、不活発な",
+    "level": 2,
+    "confusers": [
+      "en-2068"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2077",
+    "word": "sober",
+    "pos": "形容詞",
+    "meaning": "しらふの、冷静な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2078",
+    "word": "sole",
+    "pos": "形容詞",
+    "meaning": "唯一の",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2079"
+    ]
+  },
+  {
+    "id": "en-2079",
+    "word": "only",
+    "pos": "形容詞",
+    "meaning": "唯一の",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-2078"
+    ]
+  },
+  {
+    "id": "en-2080",
+    "word": "solemn",
+    "pos": "形容詞",
+    "meaning": "厳粛な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2081",
+    "word": "solitary",
+    "pos": "形容詞",
+    "meaning": "孤独な、単独の",
+    "level": 2,
+    "confusers": [
+      "en-1875"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2082",
+    "word": "sound",
+    "pos": "形容詞",
+    "meaning": "健全な、しっかりした",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2083",
+    "word": "spacious",
+    "pos": "形容詞",
+    "meaning": "広々とした",
+    "level": 2,
+    "confusers": [
+      "en-0755",
+      "en-1976"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2084",
+    "word": "sparse",
+    "pos": "形容詞",
+    "meaning": "まばらな",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2085",
+    "word": "stern",
+    "pos": "形容詞",
+    "meaning": "厳格な、いかめしい",
+    "level": 2,
+    "confusers": [
+      "en-1497"
+    ],
+    "synonyms": [
+      "en-0784",
+      "en-0783"
+    ]
+  },
+  {
+    "id": "en-2086",
+    "word": "stubborn",
+    "pos": "形容詞",
+    "meaning": "頑固な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2087",
+    "word": "subjective",
+    "pos": "形容詞",
+    "meaning": "主観的な",
+    "level": 2,
+    "confusers": [
+      "en-0384",
+      "en-0502"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2088",
+    "word": "superb",
+    "pos": "形容詞",
+    "meaning": "すばらしい、見事な",
+    "level": 2,
+    "confusers": [
+      "en-0792"
+    ],
+    "synonyms": [
+      "en-2013",
+      "en-0675"
+    ]
+  },
+  {
+    "id": "en-2089",
+    "word": "susceptible",
+    "pos": "形容詞",
+    "meaning": "影響を受けやすい、かかりやすい",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-1300"
+    ]
+  },
+  {
+    "id": "en-2090",
+    "word": "swift",
+    "pos": "形容詞",
+    "meaning": "迅速な",
+    "level": 2,
+    "confusers": [
+      "en-0977"
+    ],
+    "synonyms": [
+      "en-0690"
+    ]
+  },
+  {
+    "id": "en-2091",
+    "word": "temperate",
+    "pos": "形容詞",
+    "meaning": "温暖な、節度のある",
+    "level": 2,
+    "confusers": [
+      "en-0513",
+      "en-1946"
+    ],
+    "synonyms": [
+      "en-0735"
+    ]
+  },
+  {
+    "id": "en-2092",
+    "word": "tender",
+    "pos": "形容詞",
+    "meaning": "優しい、柔らかい",
+    "level": 2,
+    "confusers": [
+      "en-1093"
+    ],
+    "synonyms": [
+      "en-1972"
+    ]
+  },
+  {
+    "id": "en-2093",
+    "word": "tense",
+    "pos": "形容詞",
+    "meaning": "緊張した",
+    "level": 2,
+    "confusers": [
+      "en-1232",
+      "en-0487",
+      "en-1891"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2094",
+    "word": "terminal",
+    "pos": "形容詞",
+    "meaning": "末期の、終点の",
+    "level": 2,
+    "confusers": [
+      "en-1108"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2095",
+    "word": "thrifty",
+    "pos": "形容詞",
+    "meaning": "倹約的な",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0082"
+    ]
+  },
+  {
+    "id": "en-2096",
+    "word": "toxic",
+    "pos": "形容詞",
+    "meaning": "有毒な",
+    "level": 2,
+    "confusers": [
+      "en-0504"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2097",
+    "word": "transient",
+    "pos": "形容詞",
+    "meaning": "一時的な、はかない",
+    "level": 2,
+    "confusers": [
+      "en-1196"
+    ],
+    "synonyms": [
+      "en-0083"
+    ]
+  },
+  {
+    "id": "en-2098",
+    "word": "tremendous",
+    "pos": "形容詞",
+    "meaning": "途方もない、ものすごい",
+    "level": 2,
+    "confusers": [],
+    "synonyms": [
+      "en-0669"
+    ]
+  },
+  {
+    "id": "en-2099",
+    "word": "ultimate",
+    "pos": "形容詞",
+    "meaning": "究極の、最終的な",
+    "level": 2,
+    "confusers": [
+      "en-1996",
+      "en-0158"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2100",
+    "word": "unprecedented",
+    "pos": "形容詞",
+    "meaning": "前例のない",
+    "level": 2,
+    "confusers": [
+      "en-1827"
+    ],
+    "synonyms": []
+  }
+]

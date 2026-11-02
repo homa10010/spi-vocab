@@ -92,7 +92,9 @@
     "confusers": [
       "en-0707"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2003"
+    ]
   },
   {
     "id": "en-0709",
@@ -222,7 +224,8 @@
       "en-0717"
     ],
     "synonyms": [
-      "en-0084"
+      "en-0084",
+      "en-2041"
     ]
   },
   {
@@ -414,7 +417,9 @@
       "en-0701",
       "en-0611"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2091"
+    ]
   },
   {
     "id": "en-0736",
@@ -494,7 +499,9 @@
     "confusers": [
       "en-0741"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2005"
+    ]
   },
   {
     "id": "en-0743",
@@ -630,7 +637,9 @@
       "en-0460",
       "en-0751"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2045"
+    ]
   },
   {
     "id": "en-0754",
@@ -818,7 +827,9 @@
     "meaning": "現実的な",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2045"
+    ]
   },
   {
     "id": "en-0770",
@@ -861,7 +872,9 @@
       "en-0774",
       "en-0775"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2042"
+    ]
   },
   {
     "id": "en-0774",
@@ -980,7 +993,8 @@
     ],
     "synonyms": [
       "en-0784",
-      "en-1246"
+      "en-1246",
+      "en-2085"
     ]
   },
   {
@@ -992,7 +1006,8 @@
     "confusers": [],
     "synonyms": [
       "en-0783",
-      "en-1281"
+      "en-1281",
+      "en-2085"
     ]
   },
   {
@@ -1126,7 +1141,7 @@
     "id": "en-0797",
     "word": "unique",
     "pos": "形容詞",
-    "meaning": "独特の、唯一の",
+    "meaning": "独特の",
     "level": 1,
     "confusers": [
       "en-0511"

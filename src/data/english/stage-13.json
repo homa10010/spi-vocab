@@ -52,7 +52,8 @@
     "synonyms": [
       "en-0076",
       "en-0070",
-      "en-1921"
+      "en-1921",
+      "en-2044"
     ]
   },
   {
@@ -231,7 +232,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-1221"
+      "en-1221",
+      "en-2030"
     ]
   },
   {
@@ -242,7 +244,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-1220"
+      "en-1220",
+      "en-2030"
     ]
   },
   {
@@ -343,7 +346,9 @@
     "confusers": [
       "en-0347"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2057"
+    ]
   },
   {
     "id": "en-1231",
@@ -387,7 +392,9 @@
     "confusers": [
       "en-1273"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2047"
+    ]
   },
   {
     "id": "en-1235",
@@ -411,7 +418,8 @@
       "en-0660"
     ],
     "synonyms": [
-      "en-0605"
+      "en-0605",
+      "en-2008"
     ]
   },
   {
@@ -954,7 +962,9 @@
     "confusers": [
       "en-0808"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2016"
+    ]
   },
   {
     "id": "en-1283",
@@ -1106,7 +1116,9 @@
     "meaning": "徹底的な",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2017"
+    ]
   },
   {
     "id": "en-1296",
@@ -1156,7 +1168,8 @@
       "en-0090"
     ],
     "synonyms": [
-      "en-0080"
+      "en-0080",
+      "en-2089"
     ]
   }
 ]
