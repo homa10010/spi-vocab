@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "en-2501",
+    "word": "frugality",
+    "pos": "名詞",
+    "meaning": "倹約",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2502"
+    ]
+  },
+  {
+    "id": "en-2502",
+    "word": "thrift",
+    "pos": "名詞",
+    "meaning": "倹約",
+    "level": 3,
+    "confusers": [
+      "en-1514",
+      "en-1599",
+      "en-0977"
+    ],
+    "synonyms": [
+      "en-2501"
+    ]
+  },
+  {
+    "id": "en-2503",
+    "word": "gist",
+    "pos": "名詞",
+    "meaning": "要点、要旨",
+    "level": 3,
+    "confusers": [
+      "en-2260"
+    ],
+    "synonyms": [
+      "en-1709"
+    ]
+  },
+  {
+    "id": "en-2504",
+    "word": "glut",
+    "pos": "名詞",
+    "meaning": "供給過剰",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1194",
+      "en-2556"
+    ]
+  },
+  {
+    "id": "en-2505",
+    "word": "hindrance",
+    "pos": "名詞",
+    "meaning": "妨げ、障害",
+    "level": 3,
+    "confusers": [
+      "en-1057",
+      "en-2589"
+    ],
+    "synonyms": [
+      "en-0561",
+      "en-0560"
+    ]
+  },
+  {
+    "id": "en-2506",
+    "word": "homage",
+    "pos": "名詞",
+    "meaning": "敬意",
+    "level": 3,
+    "confusers": [
+      "en-0391"
+    ],
+    "synonyms": [
+      "en-2507",
+      "en-2464",
+      "en-2580"
+    ]
+  },
+  {
+    "id": "en-2507",
+    "word": "tribute",
+    "pos": "名詞",
+    "meaning": "賛辞、敬意の表れ",
+    "level": 3,
+    "confusers": [
+      "en-1014",
+      "en-1902",
+      "en-0892"
+    ],
+    "synonyms": [
+      "en-2506"
+    ]
+  },
+  {
+    "id": "en-2508",
+    "word": "hubris",
+    "pos": "名詞",
+    "meaning": "傲慢、思い上がり",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2509"
+    ]
+  },
+  {
+    "id": "en-2509",
+    "word": "arrogance",
+    "pos": "名詞",
+    "meaning": "傲慢",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2508",
+      "en-2525"
+    ]
+  },
+  {
+    "id": "en-2510",
+    "word": "impasse",
+    "pos": "名詞",
+    "meaning": "行き詰まり",
+    "level": 3,
+    "confusers": [
+      "en-1059"
+    ],
+    "synonyms": [
+      "en-2511"
+    ]
+  },
+  {
+    "id": "en-2511",
+    "word": "deadlock",
+    "pos": "名詞",
+    "meaning": "行き詰まり",
+    "level": 3,
+    "confusers": [
+      "en-1148"
+    ],
+    "synonyms": [
+      "en-2510"
+    ]
+  },
+  {
+    "id": "en-2512",
+    "word": "impetus",
+    "pos": "名詞",
+    "meaning": "勢い、はずみ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1171"
+    ]
+  },
+  {
+    "id": "en-2513",
+    "word": "inception",
+    "pos": "名詞",
+    "meaning": "始まり、発端",
+    "level": 3,
+    "confusers": [
+      "en-1661",
+      "en-0372"
+    ],
+    "synonyms": [
+      "en-2514"
+    ]
+  },
+  {
+    "id": "en-2514",
+    "word": "beginning",
+    "pos": "名詞",
+    "meaning": "始まり",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2543",
+      "en-2513",
+      "en-2544"
+    ]
+  },
+  {
+    "id": "en-2515",
+    "word": "indignation",
+    "pos": "名詞",
+    "meaning": "（不正への）憤り",
+    "level": 3,
+    "confusers": [
+      "en-1686"
+    ],
+    "synonyms": [
+      "en-2516"
+    ]
+  },
+  {
+    "id": "en-2516",
+    "word": "resentment",
+    "pos": "名詞",
+    "meaning": "憤り、恨み",
+    "level": 3,
+    "confusers": [
+      "en-1871",
+      "en-1479"
+    ],
+    "synonyms": [
+      "en-2515"
+    ]
+  },
+  {
+    "id": "en-2517",
+    "word": "inertia",
+    "pos": "名詞",
+    "meaning": "惰性、不活発",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2518",
+    "word": "infamy",
+    "pos": "名詞",
+    "meaning": "悪名",
+    "level": 3,
+    "confusers": [
+      "en-1755",
+      "en-0684"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2519",
+    "word": "influx",
+    "pos": "名詞",
+    "meaning": "流入",
+    "level": 3,
+    "confusers": [
+      "en-0175"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2520",
+    "word": "ingenuity",
+    "pos": "名詞",
+    "meaning": "創意工夫、独創性",
+    "level": 3,
+    "confusers": [
+      "en-1994"
+    ],
+    "synonyms": [
+      "en-2521"
+    ]
+  },
+  {
+    "id": "en-2521",
+    "word": "creativity",
+    "pos": "名詞",
+    "meaning": "創造性",
+    "level": 3,
+    "confusers": [
+      "en-0301"
+    ],
+    "synonyms": [
+      "en-2520"
+    ]
+  },
+  {
+    "id": "en-2522",
+    "word": "inhibition",
+    "pos": "名詞",
+    "meaning": "抑制、気後れ",
+    "level": 3,
+    "confusers": [
+      "en-1716",
+      "en-1836",
+      "en-1759"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2523",
+    "word": "innuendo",
+    "pos": "名詞",
+    "meaning": "当てこすり、ほのめかし",
+    "level": 3,
+    "confusers": [
+      "en-0712"
+    ],
+    "synonyms": [
+      "en-2524"
+    ]
+  },
+  {
+    "id": "en-2524",
+    "word": "insinuation",
+    "pos": "名詞",
+    "meaning": "当てこすり",
+    "level": 3,
+    "confusers": [
+      "en-1630",
+      "en-2295"
+    ],
+    "synonyms": [
+      "en-2523"
+    ]
+  },
+  {
+    "id": "en-2525",
+    "word": "insolence",
+    "pos": "名詞",
+    "meaning": "横柄さ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2509"
+    ]
+  },
+  {
+    "id": "en-2526",
+    "word": "intrigue",
+    "pos": "名詞",
+    "meaning": "陰謀",
+    "level": 3,
+    "confusers": [
+      "en-1259",
+      "en-1997",
+      "en-1715"
+    ],
+    "synonyms": [
+      "en-2527"
+    ]
+  },
+  {
+    "id": "en-2527",
+    "word": "conspiracy",
+    "pos": "名詞",
+    "meaning": "陰謀",
+    "level": 3,
+    "confusers": [
+      "en-1939"
+    ],
+    "synonyms": [
+      "en-2526"
+    ]
+  },
+  {
+    "id": "en-2528",
+    "word": "juncture",
+    "pos": "名詞",
+    "meaning": "（重大な）時点、局面",
+    "level": 3,
+    "confusers": [
+      "en-2450"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2529",
+    "word": "labyrinth",
+    "pos": "名詞",
+    "meaning": "迷路",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2530"
+    ]
+  },
+  {
+    "id": "en-2530",
+    "word": "maze",
+    "pos": "名詞",
+    "meaning": "迷路",
+    "level": 3,
+    "confusers": [
+      "en-0864"
+    ],
+    "synonyms": [
+      "en-2529"
+    ]
+  },
+  {
+    "id": "en-2531",
+    "word": "lethargy",
+    "pos": "名詞",
+    "meaning": "無気力",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2416"
+    ]
+  },
+  {
+    "id": "en-2532",
+    "word": "liaison",
+    "pos": "名詞",
+    "meaning": "連絡（係）、連携",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2533",
+    "word": "malice",
+    "pos": "名詞",
+    "meaning": "悪意",
+    "level": 3,
+    "confusers": [
+      "en-2014"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2534",
+    "word": "mandate",
+    "pos": "名詞",
+    "meaning": "（選挙民からの）信任、命令",
+    "level": 3,
+    "confusers": [
+      "en-1221",
+      "en-0161"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2535",
+    "word": "maxim",
+    "pos": "名詞",
+    "meaning": "格言、行動原理",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2406"
+    ]
+  },
+  {
+    "id": "en-2536",
+    "word": "menace",
+    "pos": "名詞",
+    "meaning": "脅威",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0518"
+    ]
+  },
+  {
+    "id": "en-2537",
+    "word": "misgiving",
+    "pos": "名詞",
+    "meaning": "不安、疑念",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0913"
+    ]
+  },
+  {
+    "id": "en-2538",
+    "word": "modicum",
+    "pos": "名詞",
+    "meaning": "わずか、少量",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2539",
+    "word": "nuance",
+    "pos": "名詞",
+    "meaning": "微妙な違い、ニュアンス",
+    "level": 3,
+    "confusers": [
+      "en-2540",
+      "en-0228"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2540",
+    "word": "nuisance",
+    "pos": "名詞",
+    "meaning": "迷惑（なもの・人）",
+    "level": 3,
+    "confusers": [
+      "en-2539"
+    ],
+    "synonyms": [
+      "en-2541"
+    ]
+  },
+  {
+    "id": "en-2541",
+    "word": "annoyance",
+    "pos": "名詞",
+    "meaning": "いらだち、迷惑",
+    "level": 3,
+    "confusers": [
+      "en-1550",
+      "en-1121"
+    ],
+    "synonyms": [
+      "en-2540"
+    ]
+  },
+  {
+    "id": "en-2542",
+    "word": "oblivion",
+    "pos": "名詞",
+    "meaning": "忘却",
+    "level": 3,
+    "confusers": [
+      "en-0085",
+      "en-0438"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2543",
+    "word": "onset",
+    "pos": "名詞",
+    "meaning": "始まり、襲来",
+    "level": 3,
+    "confusers": [
+      "en-1447"
+    ],
+    "synonyms": [
+      "en-2544",
+      "en-2514"
+    ]
+  },
+  {
+    "id": "en-2544",
+    "word": "outset",
+    "pos": "名詞",
+    "meaning": "始め、発端",
+    "level": 3,
+    "confusers": [
+      "en-1175"
+    ],
+    "synonyms": [
+      "en-2514",
+      "en-2543"
+    ]
+  },
+  {
+    "id": "en-2545",
+    "word": "opulence",
+    "pos": "名詞",
+    "meaning": "富裕、豪華さ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2546"
+    ]
+  },
+  {
+    "id": "en-2546",
+    "word": "affluence",
+    "pos": "名詞",
+    "meaning": "豊かさ、裕福",
+    "level": 3,
+    "confusers": [
+      "en-0175"
+    ],
+    "synonyms": [
+      "en-0527",
+      "en-2545"
+    ]
+  },
+  {
+    "id": "en-2547",
+    "word": "ordeal",
+    "pos": "名詞",
+    "meaning": "試練",
+    "level": 3,
+    "confusers": [
+      "en-0705",
+      "en-1579"
+    ],
+    "synonyms": [
+      "en-2548"
+    ]
+  },
+  {
+    "id": "en-2548",
+    "word": "trial",
+    "pos": "名詞",
+    "meaning": "裁判、試練、試み",
+    "level": 3,
+    "confusers": [
+      "en-1296"
+    ],
+    "synonyms": [
+      "en-2547"
+    ]
+  },
+  {
+    "id": "en-2549",
+    "word": "panacea",
+    "pos": "名詞",
+    "meaning": "万能薬",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2550",
+    "word": "paraphernalia",
+    "pos": "名詞",
+    "meaning": "（用具などの）一式、装備",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2551",
+    "word": "pathos",
+    "pos": "名詞",
+    "meaning": "哀感、ペーソス",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2552",
+    "word": "penchant",
+    "pos": "名詞",
+    "meaning": "好み、傾向",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0461",
+      "en-1753",
+      "en-0514"
+    ]
+  },
+  {
+    "id": "en-2553",
+    "word": "perseverance",
+    "pos": "名詞",
+    "meaning": "忍耐、根気",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1817",
+      "en-2554"
+    ]
+  },
+  {
+    "id": "en-2554",
+    "word": "tenacity",
+    "pos": "名詞",
+    "meaning": "粘り強さ",
+    "level": 3,
+    "confusers": [
+      "en-0320"
+    ],
+    "synonyms": [
+      "en-1817",
+      "en-2553"
+    ]
+  },
+  {
+    "id": "en-2555",
+    "word": "pinnacle",
+    "pos": "名詞",
+    "meaning": "頂点、絶頂",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2419",
+      "en-2418"
+    ]
+  },
+  {
+    "id": "en-2556",
+    "word": "plethora",
+    "pos": "名詞",
+    "meaning": "過多",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2504",
+      "en-2557"
+    ]
+  },
+  {
+    "id": "en-2557",
+    "word": "excess",
+    "pos": "名詞",
+    "meaning": "超過、過剰",
+    "level": 3,
+    "confusers": [
+      "en-0050",
+      "en-0051"
+    ],
+    "synonyms": [
+      "en-2556"
+    ]
+  },
+  {
+    "id": "en-2558",
+    "word": "precursor",
+    "pos": "名詞",
+    "meaning": "先駆け、前兆",
+    "level": 3,
+    "confusers": [
+      "en-1829",
+      "en-2046"
+    ],
+    "synonyms": [
+      "en-2559"
+    ]
+  },
+  {
+    "id": "en-2559",
+    "word": "forerunner",
+    "pos": "名詞",
+    "meaning": "先駆者、前触れ",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1822",
+      "en-2558"
+    ]
+  },
+  {
+    "id": "en-2560",
+    "word": "predicament",
+    "pos": "名詞",
+    "meaning": "苦境",
+    "level": 3,
+    "confusers": [
+      "en-0174"
+    ],
+    "synonyms": [
+      "en-2561",
+      "en-2566"
+    ]
+  },
+  {
+    "id": "en-2561",
+    "word": "plight",
+    "pos": "名詞",
+    "meaning": "苦境",
+    "level": 3,
+    "confusers": [
+      "en-2436"
+    ],
+    "synonyms": [
+      "en-2566",
+      "en-2560"
+    ]
+  },
+  {
+    "id": "en-2562",
+    "word": "premise",
+    "pos": "名詞",
+    "meaning": "前提",
+    "level": 3,
+    "confusers": [
+      "en-0233"
+    ],
+    "synonyms": [
+      "en-0554"
+    ]
+  },
+  {
+    "id": "en-2563",
+    "word": "proclivity",
+    "pos": "名詞",
+    "meaning": "（悪い）性向、傾向",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2564",
+      "en-0514"
+    ]
+  },
+  {
+    "id": "en-2564",
+    "word": "propensity",
+    "pos": "名詞",
+    "meaning": "傾向、性癖",
+    "level": 3,
+    "confusers": [
+      "en-0059"
+    ],
+    "synonyms": [
+      "en-0514",
+      "en-2563"
+    ]
+  },
+  {
+    "id": "en-2565",
+    "word": "prowess",
+    "pos": "名詞",
+    "meaning": "優れた腕前",
+    "level": 3,
+    "confusers": [
+      "en-0048",
+      "en-0049"
+    ],
+    "synonyms": [
+      "en-0300"
+    ]
+  },
+  {
+    "id": "en-2566",
+    "word": "quandary",
+    "pos": "名詞",
+    "meaning": "困惑、苦境",
+    "level": 3,
+    "confusers": [
+      "en-1640"
+    ],
+    "synonyms": [
+      "en-1687",
+      "en-2560",
+      "en-2561"
+    ]
+  },
+  {
+    "id": "en-2567",
+    "word": "rapport",
+    "pos": "名詞",
+    "meaning": "信頼関係",
+    "level": 3,
+    "confusers": [
+      "en-0154"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2568",
+    "word": "rebuttal",
+    "pos": "名詞",
+    "meaning": "反論、反証",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2569"
+    ]
+  },
+  {
+    "id": "en-2569",
+    "word": "refutation",
+    "pos": "名詞",
+    "meaning": "反駁",
+    "level": 3,
+    "confusers": [
+      "en-0470",
+      "en-1472"
+    ],
+    "synonyms": [
+      "en-2568"
+    ]
+  },
+  {
+    "id": "en-2570",
+    "word": "recourse",
+    "pos": "名詞",
+    "meaning": "頼みの綱、頼ること",
+    "level": 3,
+    "confusers": [
+      "en-0472"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2571",
+    "word": "remorse",
+    "pos": "名詞",
+    "meaning": "深い後悔",
+    "level": 3,
+    "confusers": [
+      "en-0206"
+    ],
+    "synonyms": [
+      "en-0965"
+    ]
+  },
+  {
+    "id": "en-2572",
+    "word": "renown",
+    "pos": "名詞",
+    "meaning": "名声",
+    "level": 3,
+    "confusers": [
+      "en-1094"
+    ],
+    "synonyms": [
+      "en-2573",
+      "en-1832"
+    ]
+  },
+  {
+    "id": "en-2573",
+    "word": "fame",
+    "pos": "名詞",
+    "meaning": "名声",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1832",
+      "en-2572"
+    ]
+  },
+  {
+    "id": "en-2574",
+    "word": "repercussion",
+    "pos": "名詞",
+    "meaning": "（間接的な）影響、反響",
+    "level": 3,
+    "confusers": [
+      "en-0359"
+    ],
+    "synonyms": [
+      "en-0335"
+    ]
+  },
+  {
+    "id": "en-2575",
+    "word": "reprisal",
+    "pos": "名詞",
+    "meaning": "報復",
+    "level": 3,
+    "confusers": [
+      "en-1124",
+      "en-0045"
+    ],
+    "synonyms": [
+      "en-2576"
+    ]
+  },
+  {
+    "id": "en-2576",
+    "word": "retaliation",
+    "pos": "名詞",
+    "meaning": "報復",
+    "level": 3,
+    "confusers": [
+      "en-2330"
+    ],
+    "synonyms": [
+      "en-1861",
+      "en-2575"
+    ]
+  },
+  {
+    "id": "en-2577",
+    "word": "respite",
+    "pos": "名詞",
+    "meaning": "一時的な休止、猶予",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2578"
+    ]
+  },
+  {
+    "id": "en-2578",
+    "word": "break",
+    "pos": "名詞",
+    "meaning": "休憩、中断",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2577"
+    ]
+  },
+  {
+    "id": "en-2579",
+    "word": "retribution",
+    "pos": "名詞",
+    "meaning": "報い、天罰",
+    "level": 3,
+    "confusers": [
+      "en-0336"
+    ],
+    "synonyms": [
+      "en-0450"
+    ]
+  },
+  {
+    "id": "en-2580",
+    "word": "reverence",
+    "pos": "名詞",
+    "meaning": "崇敬、敬意",
+    "level": 3,
+    "confusers": [
+      "en-1186"
+    ],
+    "synonyms": [
+      "en-0020",
+      "en-2506"
+    ]
+  },
+  {
+    "id": "en-2581",
+    "word": "rift",
+    "pos": "名詞",
+    "meaning": "亀裂、不和",
+    "level": 3,
+    "confusers": [
+      "en-1599"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2582",
+    "word": "scrutiny",
+    "pos": "名詞",
+    "meaning": "精査",
+    "level": 3,
+    "confusers": [
+      "en-1097"
+    ],
+    "synonyms": [
+      "en-2583"
+    ]
+  },
+  {
+    "id": "en-2583",
+    "word": "examination",
+    "pos": "名詞",
+    "meaning": "試験、調査",
+    "level": 3,
+    "confusers": [
+      "en-0374",
+      "en-0159"
+    ],
+    "synonyms": [
+      "en-2582"
+    ]
+  },
+  {
+    "id": "en-2584",
+    "word": "semblance",
+    "pos": "名詞",
+    "meaning": "外見、見せかけ",
+    "level": 3,
+    "confusers": [
+      "en-1631"
+    ],
+    "synonyms": [
+      "en-0306"
+    ]
+  },
+  {
+    "id": "en-2585",
+    "word": "serenity",
+    "pos": "名詞",
+    "meaning": "静けさ、平穏",
+    "level": 3,
+    "confusers": [
+      "en-2071"
+    ],
+    "synonyms": [
+      "en-2586"
+    ]
+  },
+  {
+    "id": "en-2586",
+    "word": "tranquility",
+    "pos": "名詞",
+    "meaning": "静けさ、平穏",
+    "level": 3,
+    "confusers": [
+      "en-2072",
+      "en-0289"
+    ],
+    "synonyms": [
+      "en-2585"
+    ]
+  },
+  {
+    "id": "en-2587",
+    "word": "solace",
+    "pos": "名詞",
+    "meaning": "慰め",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-0062"
+    ]
+  },
+  {
+    "id": "en-2588",
+    "word": "stamina",
+    "pos": "名詞",
+    "meaning": "持久力、体力",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-2589"
+    ]
+  },
+  {
+    "id": "en-2589",
+    "word": "endurance",
+    "pos": "名詞",
+    "meaning": "忍耐（力）、持久力",
+    "level": 3,
+    "confusers": [
+      "en-1044",
+      "en-0402"
+    ],
+    "synonyms": [
+      "en-2588"
+    ]
+  },
+  {
+    "id": "en-2590",
+    "word": "stigma",
+    "pos": "名詞",
+    "meaning": "汚名",
+    "level": 3,
+    "confusers": [
+      "en-2485"
+    ],
+    "synonyms": [
+      "en-2591"
+    ]
+  },
+  {
+    "id": "en-2591",
+    "word": "disgrace",
+    "pos": "名詞",
+    "meaning": "不名誉、恥",
+    "level": 3,
+    "confusers": [
+      "en-1594"
+    ],
+    "synonyms": [
+      "en-2590"
+    ]
+  },
+  {
+    "id": "en-2592",
+    "word": "strife",
+    "pos": "名詞",
+    "meaning": "争い",
+    "level": 3,
+    "confusers": [
+      "en-1498"
+    ],
+    "synonyms": [
+      "en-0063"
+    ]
+  },
+  {
+    "id": "en-2593",
+    "word": "surge",
+    "pos": "名詞",
+    "meaning": "急増、高まり",
+    "level": 3,
+    "confusers": [
+      "en-0988"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2594",
+    "word": "tenet",
+    "pos": "名詞",
+    "meaning": "（基本的な）信条、教義",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1696",
+      "en-2595"
+    ]
+  },
+  {
+    "id": "en-2595",
+    "word": "principle",
+    "pos": "名詞",
+    "meaning": "原理、原則、主義",
+    "level": 3,
+    "confusers": [
+      "en-1690"
+    ],
+    "synonyms": [
+      "en-2594"
+    ]
+  },
+  {
+    "id": "en-2596",
+    "word": "timidity",
+    "pos": "名詞",
+    "meaning": "臆病さ",
+    "level": 3,
+    "confusers": [
+      "en-1742",
+      "en-0704"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2597",
+    "word": "tirade",
+    "pos": "名詞",
+    "meaning": "長い非難演説",
+    "level": 3,
+    "confusers": [],
+    "synonyms": []
+  },
+  {
+    "id": "en-2598",
+    "word": "upheaval",
+    "pos": "名詞",
+    "meaning": "大変動、激変",
+    "level": 3,
+    "confusers": [],
+    "synonyms": [
+      "en-1904"
+    ]
+  },
+  {
+    "id": "en-2599",
+    "word": "vanity",
+    "pos": "名詞",
+    "meaning": "虚栄心、うぬぼれ",
+    "level": 3,
+    "confusers": [
+      "en-0989"
+    ],
+    "synonyms": []
+  },
+  {
+    "id": "en-2600",
+    "word": "zeal",
+    "pos": "名詞",
+    "meaning": "熱意",
+    "level": 3,
+    "confusers": [
+      "en-1579"
+    ],
+    "synonyms": [
+      "en-1705",
+      "en-2497",
+      "en-2423"
+    ]
+  }
+]

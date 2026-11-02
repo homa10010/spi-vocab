@@ -823,7 +823,9 @@
     "meaning": "勢い",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2512"
+    ]
   },
   {
     "id": "en-1172",
@@ -1062,7 +1064,9 @@
     "confusers": [
       "en-0506"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2504"
+    ]
   },
   {
     "id": "en-1195",
