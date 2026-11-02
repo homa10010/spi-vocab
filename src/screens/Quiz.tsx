@@ -1,8 +1,12 @@
+import { useEffect, useRef } from 'react';
 import type { LoadedEntry } from '../types';
 import { useStore } from '../state/store';
 import { currentItem } from '../logic/runner';
 import ProgressBar from '../components/ProgressBar';
 import ChoiceButton from '../components/ChoiceButton';
+
+/** 問題が出た直後のタップは無視する（「次へ」の2度押しで次の問題に答えてしまうのを防ぐ） */
+const TAP_GUARD_MS = 350;
 
 export default function Quiz() {
   const { save, dispatch, datasets, today } = useStore();
@@ -12,6 +16,14 @@ export default function Quiz() {
   const target = ds.byId.get(item.id)!;
   const answered = session.answeredChoice;
   const isJukugo = session.mode === 'jukugo';
+  const shownAt = useRef(Date.now());
+  useEffect(() => {
+    shownAt.current = Date.now();
+  }, [session.index]);
+  const choose = (cid: string) => {
+    if (Date.now() - shownAt.current < TAP_GUARD_MS) return;
+    dispatch({ type: 'ANSWER', choiceId: cid, today });
+  };
 
   const label = (e: LoadedEntry) => (isJukugo ? e.word : e.meaning);
   const detail = (e: LoadedEntry) =>
@@ -61,7 +73,7 @@ export default function Quiz() {
               label={label(e)}
               state={state}
               detail={answered === null ? null : detail(e)}
-              onClick={() => dispatch({ type: 'ANSWER', choiceId: cid, today })}
+              onClick={() => choose(cid)}
             />
           );
         })}

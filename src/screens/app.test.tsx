@@ -31,7 +31,14 @@ function choiceButton(label: string): HTMLElement {
   return within(screen.getByTestId('choices')).getByRole('button', { name: new RegExp(`^${label}(\\D|$)`) });
 }
 
-beforeEach(() => localStorage.clear());
+let clock = 0;
+beforeEach(() => {
+  localStorage.clear();
+  // 選択肢の誤タップ防止（表示直後のタップを無視）に引っかからないよう、呼ばれるたびに1秒進む時計にする
+  clock = 1_000_000;
+  vi.spyOn(Date, 'now').mockImplementation(() => (clock += 1000));
+});
+afterEach(() => vi.restoreAllMocks());
 
 test('今日の学習ボタンに件数が出る', () => {
   renderApp();
@@ -126,4 +133,20 @@ test('アプリを開いたまま翌朝に戻ってくると、前日の途中�
     document.dispatchEvent(new Event('visibilitychange'));
   });
   expect(screen.getByRole('button', { name: /今日の学習/ })).toHaveTextContent('新しい語20問');
+});
+
+test('次へを素早く2回タップしても、次の問題に回答してしまわない', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  await user.click(screen.getByRole('button', { name: /今日の学習/ }));
+  await user.click(choiceButton(correctWord()));
+  let manual = clock;
+  vi.spyOn(Date, 'now').mockImplementation(() => manual);
+  await user.click(screen.getByRole('button', { name: '次へ' }));
+  await user.click(within(screen.getByTestId('choices')).getAllByRole('button')[4]);
+  expect(screen.queryByText('正解')).toBeNull();
+  expect(screen.queryByText('不正解')).toBeNull();
+  manual += 400;
+  await user.click(choiceButton(correctWord()));
+  expect(screen.getByText('正解')).toBeInTheDocument();
 });

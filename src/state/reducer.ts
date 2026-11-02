@@ -34,7 +34,7 @@ export function reducer(state: SaveData, action: Action): SaveData {
       return { ...state, session, progress, stats: recordStudy(state.stats, action.today) };
     }
     case 'NEXT':
-      return state.session ? { ...state, session: next(state.session) } : state;
+      return state.session && state.session.answeredChoice !== null ? { ...state, session: next(state.session) } : state;
     case 'QUIT':
       return { ...state, session: null };
     case 'SET_NEW_PER_DAY':

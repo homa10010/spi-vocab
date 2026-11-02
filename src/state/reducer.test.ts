@@ -117,3 +117,8 @@ test('DROP_STALE は日付の違うセッションだけを捨てる', () => {
   expect(reducer(base, { type: 'DROP_STALE', today: TODAY })).toBe(base);
   expect(reducer(base, { type: 'DROP_STALE', today: '2026-11-03' }).session).toBeNull();
 });
+
+test('未回答のときの NEXT は何もしない', () => {
+  const s = reducer(defaultSave(), { type: 'START', session: session() });
+  expect(reducer(s, { type: 'NEXT' })).toBe(s);
+});

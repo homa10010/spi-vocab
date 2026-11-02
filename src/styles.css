@@ -34,7 +34,7 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-button, label.file { font: inherit; color: inherit; cursor: pointer; }
+button, label.file { font: inherit; color: inherit; cursor: pointer; touch-action: manipulation; }
 button:disabled { cursor: default; }
 :focus-visible { outline: 3px solid var(--ai); outline-offset: 2px; }
 
