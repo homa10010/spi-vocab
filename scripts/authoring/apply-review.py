@@ -60,5 +60,6 @@ for mode, fs in tsvs.items():
 print(f'反映: {len(log)}件 / 反映できず: {len(problems)}件')
 for x in problems:
     print('  ', x)
+subprocess.run([sys.executable, str(here / 'normalize-synonyms.py')], check=True)
 r = subprocess.run([sys.executable, str(here / 'rebuild.py')], capture_output=True, text=True)
 print(r.stdout.strip() or r.stderr.strip())

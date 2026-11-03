@@ -1,16 +1,16 @@
 frugality	名詞	倹約	futility,frugal,frailty	thrift
 thrift	名詞	倹約	thrive,drift,shift
 gist	名詞	要点、要旨	list,mist,jest	essence
-glut	名詞	供給過剰	gut,glue,slut	surplus
-hindrance	名詞	妨げ、障害	hinder,endurance,hindsight	obstacle,barrier
+glut	名詞	供給過剰	gut,glue,slut	surplus,excess
+hindrance	名詞	妨げ、障害	hinder,endurance,hindsight	obstacle,barrier,deterrent,disability
 homage	名詞	敬意	image,homes,hostage	tribute,deference,reverence
-tribute	名詞	賛辞、敬意の表れ	attribute,tribe,contribute
+tribute	名詞	賛辞、敬意の表れ	attribute,tribe,contribute	reverence,deference,accolade
 hubris	名詞	傲慢、思い上がり	hybrid,debris,humor	arrogance
 arrogance	名詞	傲慢	ignorance,arrogate,elegance
 impasse	名詞	行き詰まり	impose,compass,impassive	deadlock
 deadlock	名詞	行き詰まり	headlock,deadline,padlock
 impetus	名詞	勢い、はずみ	impetuous,impious,impetigo	momentum
-inception	名詞	始まり、発端	conception,reception,exception	beginning
+inception	名詞	始まり、発端	conception,reception,exception	beginning,onset,outset
 beginning	名詞	始まり	begging,binning,beginner	onset
 indignation	名詞	（不正への）憤り	indication,designation,dignity	resentment
 resentment	名詞	憤り、恨み	sentiment,presentment,resent
@@ -25,16 +25,16 @@ insinuation	名詞	当てこすり	insulation,inspiration,insinuate
 insolence	名詞	横柄さ	indolence,insolent,innocence	arrogance
 intrigue	名詞	陰謀	intricate,intrinsic,fatigue	conspiracy
 conspiracy	名詞	陰謀	conspicuous,constancy,conspire
-juncture	名詞	（重大な）時点、局面	junction,puncture,conjecture
+juncture	名詞	（重大な）時点、局面	junction,puncture,conjecture	aspect
 labyrinth	名詞	迷路	labyrinthine,labour,laboratory	maze
 maze	名詞	迷路	amaze,daze,maize
 lethargy	名詞	無気力	allergy,liturgy,lethal	apathy
-liaison	名詞	連絡（係）、連携	liaise,lesson,raisin
+liaison	名詞	連絡（係）、連携	liaise,lesson,raisin	contact
 malice	名詞	悪意	malicious,mallet,chalice
-mandate	名詞	（選挙民からの）信任、命令	mandatory,mandarin,manage
-maxim	名詞	格言、行動原理	maximum,maxima,axiom	proverb
+mandate	名詞	（選挙民からの）信任、命令	mandatory,mandarin,manage	order
+maxim	名詞	格言、行動原理	maximum,maxima,axiom	proverb,adage
 menace	名詞	脅威	menial,menacing,menu	threat
-misgiving	名詞	不安、疑念	misgivings,giving,forgiving	doubt
+misgiving	名詞	不安、疑念	misgivings,giving,forgiving	doubt,anxiety,apprehension
 modicum	名詞	わずか、少量	modicum,module,medium
 nuance	名詞	微妙な違い、ニュアンス	nuisance,announce,nuanced
 nuisance	名詞	迷惑（なもの・人）	nuance,nuisances,nuptials	annoyance
@@ -42,46 +42,46 @@ annoyance	名詞	いらだち、迷惑	annoy,allowance,abeyance
 oblivion	名詞	忘却	obvious,oblivious,obligation
 onset	名詞	始まり、襲来	upset,offset,outset	outset
 outset	名詞	始め、発端	upset,onset,outlet	beginning
-opulence	名詞	富裕、豪華さ	opulent,corpulence,affluence	affluence
+opulence	名詞	富裕、豪華さ	opulent,corpulence,affluence	affluence,wealth
 affluence	名詞	豊かさ、裕福	influence,affluent,effluence	wealth
 ordeal	名詞	試練	ideal,deal,orderly	trial
 trial	名詞	裁判、試練、試み	trail,trivial,dial
 panacea	名詞	万能薬	panache,pancreas,panoply
 paraphernalia	名詞	（用具などの）一式、装備	parameter,paragraph,paralysis
 pathos	名詞	哀感、ペーソス	pathways,pathetic,ethos
-penchant	名詞	好み、傾向	pendant,merchant,penchants	preference,inclination,tendency
-perseverance	名詞	忍耐、根気	severance,persistence,preservation	persistence,tenacity
+penchant	名詞	好み、傾向	pendant,merchant,penchants	preference,inclination,tendency,propensity,proclivity,trend
+perseverance	名詞	忍耐、根気	severance,persistence,preservation	persistence,tenacity,endurance
 tenacity	名詞	粘り強さ	tenancy,capacity,veracity	persistence
-pinnacle	名詞	頂点、絶頂	pinochle,binnacle,miracle	peak,apex
+pinnacle	名詞	頂点、絶頂	pinochle,binnacle,miracle	peak,apex,culmination
 plethora	名詞	過多	plethoric,platform,pleura	glut,excess
-excess	名詞	超過、過剰	access,success,excuse
-precursor	名詞	先駆け、前兆	cursor,predecessor,precarious	forerunner
+excess	名詞	超過、過剰	access,success,excuse	surplus
+precursor	名詞	先駆け、前兆	cursor,predecessor,precarious	forerunner,pioneer
 forerunner	名詞	先駆者、前触れ	forecaster,runner,forefather	pioneer
 predicament	名詞	苦境	predicate,predict,impediment	plight,quandary
 plight	名詞	苦境	flight,light,blight	quandary
 premise	名詞	前提	promise,premises,premier	assumption
-proclivity	名詞	（悪い）性向、傾向	proclamation,proclivities,acclivity	propensity,tendency
-propensity	名詞	傾向、性癖	property,propensities,intensity	tendency
+proclivity	名詞	（悪い）性向、傾向	proclamation,proclivities,acclivity	propensity,tendency,inclination,trend
+propensity	名詞	傾向、性癖	property,propensities,intensity	tendency,inclination,trend
 prowess	名詞	優れた腕前	process,progress,princess	skill
 quandary	名詞	困惑、苦境	quarry,quarter,boundary	dilemma
 rapport	名詞	信頼関係	report,support,rappel
 rebuttal	名詞	反論、反証	rebut,rebuff,refutal	refutation
 refutation	名詞	反駁	reputation,refusal,refute
-recourse	名詞	頼みの綱、頼ること	resource,course,recurse
+recourse	名詞	頼みの綱、頼ること	resource,course,recurse	reliance
 remorse	名詞	深い後悔	remove,morse,remorseful	regret
 renown	名詞	名声	renew,known,noun	fame,prestige
 fame	名詞	名声	game,lame,frame	prestige
-repercussion	名詞	（間接的な）影響、反響	percussion,discussion,concussion	consequence
-reprisal	名詞	報復	reprise,appraisal,approval	retaliation
+repercussion	名詞	（間接的な）影響、反響	percussion,discussion,concussion	consequence,effect,impact,implication
+reprisal	名詞	報復	reprise,appraisal,approval	retaliation,revenge
 retaliation	名詞	報復	relation,retail,retaliate	revenge
 respite	名詞	一時的な休止、猶予	despite,respire,spite	break
 break	名詞	休憩、中断	brake,bread,breach
 retribution	名詞	報い、天罰	distribution,attribution,contribution	punishment
-reverence	名詞	崇敬、敬意	reference,revenue,reverend	respect
-rift	名詞	亀裂、不和	gift,drift,lift
+reverence	名詞	崇敬、敬意	reference,revenue,reverend	respect,deference
+rift	名詞	亀裂、不和	gift,drift,lift	friction
 scrutiny	名詞	精査	scrutinize,mutiny,scrutable	examination
-examination	名詞	試験、調査	examiner,explanation,examine
-semblance	名詞	外見、見せかけ	resemblance,assembly,semblant	appearance
+examination	名詞	試験、調査	examiner,explanation,examine	research,inspection
+semblance	名詞	外見、見せかけ	resemblance,assembly,semblant	appearance,facade
 serenity	名詞	静けさ、平穏	severity,sincerity,serene	tranquility
 tranquility	名詞	静けさ、平穏	tranquil,quality,trinity
 solace	名詞	慰め	solstice,palace,solar	comfort
@@ -92,9 +92,9 @@ disgrace	名詞	不名誉、恥	disgust,grace,disguise
 strife	名詞	争い	strive,stripe,strike	conflict
 surge	名詞	急増、高まり	serge,urge,purge
 tenet	名詞	（基本的な）信条、教義	tenant,tent,tenth	doctrine,principle
-principle	名詞	原理、原則、主義	principal,principled,discipline
+principle	名詞	原理、原則、主義	principal,principled,discipline	doctrine
 timidity	名詞	臆病さ	humidity,timid,rapidity
 tirade	名詞	長い非難演説	parade,tirades,tirage
 upheaval	名詞	大変動、激変	heaval,uphill,upheave	turmoil
 vanity	名詞	虚栄心、うぬぼれ	vanilla,vanish,sanity
-zeal	名詞	熱意	seal,zest,deal	enthusiasm,fervor,ardor
+zeal	名詞	熱意	seal,zest,deal	enthusiasm,fervor,ardor,passion

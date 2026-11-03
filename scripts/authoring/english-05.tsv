@@ -1,6 +1,6 @@
-instruction	名詞	指示、指導	construction,instrument,institution
+instruction	名詞	指示、指導	construction,instrument,institution	direction
 insurance	名詞	保険	assurance,endurance,instance
-instance	名詞	例、場合	instant,distance,insurance
+instance	名詞	例、場合	instant,distance,insurance	occasion,case
 intention	名詞	意図	attention,invention,tension
 invention	名詞	発明	intention,convention,prevention
 interest	名詞	興味、利子	interview,interior,internet
@@ -17,17 +17,17 @@ level	名詞	段階、レベル	label,lever,novel
 license	名詞	免許	licence,silence,science
 limit	名詞	限界、制限	limp,liability,summit
 literature	名詞	文学	literacy,temperature,literal
-location	名詞	場所、位置	allocation,vocation,relocation
+location	名詞	場所、位置	allocation,vocation,relocation	position
 majority	名詞	大多数	minority,maturity,authority
 minority	名詞	少数派	majority,minor,priority
 material	名詞	材料、資料	maternal,mental,matter
-matter	名詞	事柄	material,manner,master
+matter	名詞	問題、事柄	material,manner,master	problem,issue
 meaning	名詞	意味	morning,mean,meaningful
 medicine	名詞	薬、医学	medium,medical,discipline
 memory	名詞	記憶	memorial,mercury,memo
 message	名詞	伝言	massage,passage,image
 mission	名詞	使命、任務	permission,emission,admission
-mood	名詞	気分	mode,food,flood
+mood	名詞	気分	mode,food,flood	atmosphere
 motion	名詞	動き、動議	emotion,notion,option
 nation	名詞	国家	notion,station,motion
 nature	名詞	自然、性質	nurture,feature,future
@@ -35,7 +35,7 @@ necessity	名詞	必要性	nationality,necessary,density
 network	名詞	ネットワーク、網状組織	framework,artwork,network
 notion	名詞	概念、考え	nation,motion,option	concept
 object	名詞	物体、対象	subject,project,objective
-obligation	名詞	義務	occupation,observation,application	duty
+obligation	名詞	義務	occupation,observation,application	duty,responsibility
 occupation	名詞	職業、占有	obligation,occasion,application	career
 profession	名詞	（専門的な）職業	procession,possession,confession	occupation,career
 option	名詞	選択肢	motion,notion,action	choice
@@ -75,7 +75,7 @@ risk	名詞	危険性	disk,rink,brisk
 role	名詞	役割	rule,roll,role
 rule	名詞	規則	role,ruler,mule	regulation
 regulation	名詞	規制、規則	population,regular,relation
-safety	名詞	安全	safe,society,safely
+safety	名詞	安全	safe,society,safely	security
 salary	名詞	給料	celery,gallery,salad	wage
 wage	名詞	賃金	page,stage,wager
 sample	名詞	見本	simple,example,sampling
@@ -95,6 +95,6 @@ source	名詞	源、出所	resource,course,sauce
 species	名詞	（生物の）種	special,specific,spices
 standard	名詞	基準、水準	stand,standing,standpoint	level
 statement	名詞	声明、陳述	settlement,treatment,station
-status	名詞	地位、状態	statue,stature,state
+status	名詞	地位、状態	statue,stature,state	condition
 strategy	名詞	戦略	tragedy,strategic,stage
 strength	名詞	強さ	length,strengthen,stretch

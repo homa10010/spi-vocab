@@ -1,8 +1,8 @@
 glance	動詞	ちらりと見る	glimpse,glare,chance
 grasp	動詞	つかむ、理解する	gasp,grip,clasp	grip
-grip	動詞	しっかりつかむ	grab,drip,trip
-halt	動詞	止める、停止する	salt,hall,holt	stop
-stop	動詞	止める	step,shop,top
+grip	動詞	しっかりつかむ	grab,drip,trip	seize
+halt	動詞	止める、停止する	salt,hall,holt	stop,suspend
+stop	動詞	止める	step,shop,top	quit
 harvest	動詞	収穫する	harvester,invest,hearth
 heal	動詞	治す、癒やす	heel,heat,deal	cure
 hunt	動詞	狩る、探し求める	haunt,hint,hurt	seek
@@ -10,22 +10,22 @@ ignite	動詞	点火する、火をつける	unite,ignore,ignorant
 illuminate	動詞	照らす、解明する	eliminate,illustrate,culminate
 immerse	動詞	浸す、没頭させる	immense,emerge,submerge	soak
 impair	動詞	損なう、弱める	repair,impart,despair	undermine
-impede	動詞	妨げる	impel,impend,impedance	hinder,prevent
+impede	動詞	妨げる	impel,impend,impedance	hinder,prevent,obstruct
 imprison	動詞	投獄する	improve,impression,prison
 improvise	動詞	即興で行う	improve,supervise,revise
 incline	動詞	傾ける、〜したい気にさせる	decline,recline,include
-indulge	動詞	ふける、甘やかす	divulge,bulge,induce
+indulge	動詞	ふける、甘やかす	divulge,bulge,induce	spoil
 inflict	動詞	（打撃・苦痛を）与える	conflict,afflict,inflate
 inflate	動詞	ふくらませる	deflate,inflict,elate
 infringe	動詞	（権利・法を）侵害する	fringe,inflict,infer	violate
 innovate	動詞	革新する	renovate,innocent,motivate
 insure	動詞	保険をかける	ensure,assure,injure
-intensify	動詞	強める、激化する	identify,intense,intestify	strengthen
+intensify	動詞	強める、激化する	identify,intense,intestify	strengthen,escalate
 intercept	動詞	途中で奪う、遮る	interpret,except,interact
 intimidate	動詞	脅す、怖がらせる	intimate,validate,initiate	threaten,frighten
 intrude	動詞	侵入する、押し入る	include,protrude,extrude
-invade	動詞	侵略する	evade,invader,pervade
-irritate	動詞	いらいらさせる	imitate,irrigate,iterate
+invade	動詞	侵略する	evade,invader,pervade	intrude
+irritate	動詞	いらいらさせる	imitate,irrigate,iterate	frustrate
 lean	動詞	寄りかかる、傾く	learn,mean,clean
 liberate	動詞	解放する	deliberate,literate,liberty	release,discharge
 linger	動詞	ぐずぐずする、長引く	finger,ginger,longer
@@ -37,47 +37,47 @@ mislead	動詞	誤解させる	misled,misread,lead
 mock	動詞	あざける	lock,mark,smock
 mold	動詞	形作る	mild,fold,hold	shape
 shape	動詞	形作る	share,shake,shame
-mount	動詞	上がる、増える、取り付ける	amount,count,mountain
+mount	動詞	（徐々に）増える、取り付ける	amount,count,mountain	attach,increase,ascend
 mourn	動詞	（死を）悼む	morn,mount,adjourn
-multiply	動詞	増やす、掛け算する	multiple,apply,supply
-navigate	動詞	航行する、操縦する	negotiate,navy,activate
-nominate	動詞	指名する、推薦する	dominate,nominal,eliminate
-nourish	動詞	栄養を与える、育む	flourish,nurse,punish	nurture
-obstruct	動詞	妨害する、ふさぐ	construct,instruct,abstract	hinder
+multiply	動詞	増やす、掛け算する	multiple,apply,supply	increase,boost
+navigate	動詞	航行する、操縦する	negotiate,navy,activate	steer
+nominate	動詞	指名する、推薦する	dominate,nominal,eliminate	recommend,appoint,designate
+nourish	動詞	栄養を与える、育む	flourish,nurse,punish	nurture,foster,breed
+obstruct	動詞	妨害する、ふさぐ	construct,instruct,abstract	hinder,prevent
 offset	動詞	相殺する、埋め合わせる	upset,onset,outset	compensate
-originate	動詞	始まる、生じる	original,nominate,orientate
-overhaul	動詞	総点検する	overall,overload,overhaul
+originate	動詞	始まる、生じる	original,nominate,orientate	commence
+overhaul	動詞	総点検する	overall,overload,overhaul	inspect
 overtake	動詞	追い越す	undertake,overtime,overcome
 overturn	動詞	ひっくり返す	overrun,turnover,return
 overwhelm	動詞	圧倒する	overcome,overhaul,overthrow
 penetrate	動詞	貫く、浸透する	perpetrate,generate,penetration
 persevere	動詞	辛抱する、根気よく続ける	preserve,persist,severe	persist,continue
 plunge	動詞	突っ込む、急落する	lounge,plunger,sponge
-ponder	動詞	じっくり考える	wonder,powder,ponderous	contemplate
+ponder	動詞	じっくり考える	wonder,powder,ponderous	contemplate,consider
 preside	動詞	議長を務める	reside,provide,decide
 proclaim	動詞	宣言する	exclaim,acclaim,reclaim	declare
 prosecute	動詞	起訴する	persecute,execute,prosecutor
 purify	動詞	浄化する	pure,verify,clarify
 radiate	動詞	放射する	radical,mediate,irradiate	emit
-reap	動詞	収穫する、（成果を）得る	leap,rep,heap	harvest
+reap	動詞	収穫する、（成果を）得る	leap,rep,heap	harvest,obtain,gain
 rebel	動詞	反抗する	rebuke,label,repel
-recede	動詞	後退する、遠ざかる	precede,proceed,recess
-reckon	動詞	（〜と）思う、みなす	beckon,recon,reconcile
-reclaim	動詞	取り戻す、埋め立てる	proclaim,exclaim,claim	retrieve
-recruit	動詞	採用する、募集する	recruitment,fruit,recut	hire
-rectify	動詞	正す、修正する	certify,ratify,identify	correct,modify,amend
-redeem	動詞	取り戻す、償う	redeemable,deem,seem
+recede	動詞	後退する、遠ざかる	precede,proceed,recess	retreat
+reckon	動詞	（〜と）思う、みなす	beckon,recon,reconcile	assume,suppose
+reclaim	動詞	取り戻す、埋め立てる	proclaim,exclaim,claim	retrieve,recover
+recruit	動詞	採用する、募集する	recruitment,fruit,recut	hire,adopt,employ
+rectify	動詞	正す、修正する	certify,ratify,identify	correct,modify,amend,revise
+redeem	動詞	（商品券などを）引き換える、償う	redeemable,deem,seem	recover
 refrain	動詞	差し控える	refrain,restrain,strain
 refund	動詞	払い戻す	fund,refine,refuse	reimburse
 refute	動詞	論破する、反証する	refuse,repute,salute
 rehearse	動詞	リハーサルする、練習する	hearse,reverse,rehears
 reign	動詞	君臨する、支配する	resign,feign,deign	dominate
-repel	動詞	追い払う、はねつける	expel,rebel,compel
+repel	動詞	追い払う、はねつける	expel,rebel,compel	reject
 replicate	動詞	複製する	duplicate,complicate,replica	reproduce
-reproach	動詞	非難する、とがめる	approach,reproduce,broach	blame,condemn
-reproduce	動詞	複製する、繁殖する	produce,reduce,introduce
+reproach	動詞	非難する、とがめる	approach,reproduce,broach	blame,condemn,criticize
+reproduce	動詞	複製する、繁殖する	produce,reduce,introduce	breed
 resent	動詞	憤慨する	present,resend,consent
-restrain	動詞	抑える、制止する	refrain,strain,retain	suppress
+restrain	動詞	抑える、制止する	refrain,strain,retain	suppress,inhibit
 retreat	動詞	退却する	treat,retract,repeat	withdraw
 revolt	動詞	反乱を起こす	revolve,result,volt	rebel
 rotate	動詞	回転する、交代する	rotation,notate,orient
@@ -87,10 +87,10 @@ scold	動詞	叱る	cold,scald,hold
 seize	動詞	つかむ、押収する	size,cease,sieze	grasp
 shatter	動詞	粉々にする	scatter,chatter,shutter
 shrink	動詞	縮む	shrinkage,brink,think
-signify	動詞	意味する、示す	simplify,specify,significant	indicate
+signify	動詞	意味する、示す	simplify,specify,significant	indicate,demonstrate,exhibit,imply
 soak	動詞	浸す	soap,soar,cloak
 soar	動詞	舞い上がる、急騰する	sour,roar,sore
-solicit	動詞	求める、懇願する	solid,explicit,elicit
+solicit	動詞	求める、懇願する	solid,explicit,elicit	seek
 spoil	動詞	台無しにする、甘やかす	soil,spool,spill	ruin
 squeeze	動詞	絞る	sneeze,freeze,breeze
 stain	動詞	汚す、しみをつける	strain,stairs,sustain

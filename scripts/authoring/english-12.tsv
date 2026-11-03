@@ -1,11 +1,11 @@
 streamline	動詞	効率化する	underline,stream,mainline
 subscribe	動詞	定期購読する、署名する	describe,prescribe,subside
-supplement	動詞	補う	implement,supply,complement
-complement	動詞	補完する	compliment,supplement,implement
+supplement	動詞	補足する、追加する	implement,supply,complement
+complement	動詞	補完する、引き立てる	compliment,supplement,implement
 implement	動詞	実行する、実施する	supplement,complement,impediment
 suppress	動詞	抑える、鎮圧する	support,suppose,express	inhibit
-sustain	動詞	維持する、支える	contain,obtain,stain	maintain
-terminate	動詞	終わらせる	determine,nominate,terminal
+sustain	動詞	維持する、支える	contain,obtain,stain	maintain,support
+terminate	動詞	終わらせる	determine,nominate,terminal	complete
 undermine	動詞	弱める、むしばむ	undergo,determine,underline
 undertake	動詞	引き受ける	undergo,overtake,undermine
 undergo	動詞	経験する、受ける	undertake,undermine,forgo
@@ -14,7 +14,7 @@ verify	動詞	検証する、確かめる	certify,vary,verity	confirm
 violate	動詞	違反する	isolate,violent,ventilate
 waive	動詞	放棄する、免除する	wave,wake,weave
 abundance	名詞	豊富	abandon,attendance,avoidance
-accountability	名詞	説明責任	availability,accessibility,responsibility
+accountability	名詞	説明責任	availability,accessibility	responsibility,liability
 acquisition	名詞	取得、買収	acquaintance,requisition,inquisition
 adjustment	名詞	調整	appointment,attachment,advertisement
 administration	名詞	管理、行政	admiration,administrator,adoration
@@ -33,7 +33,7 @@ bureaucracy	名詞	官僚制	democracy,bureau,aristocracy
 clause	名詞	条項	cause,clue,pause
 client	名詞	顧客、依頼人	clinic,cliente,climate	customer
 commission	名詞	手数料	omission,emission,submission
-compensation	名詞	補償、報酬	competition,composition,compression
+compensation	名詞	補償、報酬	competition,composition,compression	reward,coverage
 competence	名詞	能力、適性	competition,conscience,consequence	ability
 compliance	名詞	（法令などの）順守	appliance,alliance,complaint
 concession	名詞	譲歩	confession,profession,succession	compromise
@@ -54,7 +54,7 @@ dividend	名詞	配当金	division,divide,dividing
 draft	名詞	草稿、下書き	drift,graft,draught
 efficiency	名詞	効率	deficiency,sufficiency,effectiveness
 endorsement	名詞	承認、支持	enforcement,endowment,advertisement	approval
-enterprise	名詞	企業、事業	entrepreneur,enterprising,surprise	corporation
+enterprise	名詞	企業、事業	entrepreneur,enterprising,surprise	corporation,project,venture
 entrepreneur	名詞	起業家	enterprise,entertainer,entrance
 equity	名詞	公平、株式	equality,quality,entity
 exemption	名詞	免除	exception,exertion,extension
@@ -72,7 +72,7 @@ momentum	名詞	勢い	moment,memento,monument
 monopoly	名詞	独占	monotony,monologue,polygon
 mortgage	名詞	住宅ローン、抵当	mortal,mirage,message
 negotiation	名詞	交渉	navigation,negation,nomination
-outlet	名詞	販路、直販店、コンセント	outline,output,outlook
+outlet	名詞	販売店、コンセント	outline,output,outlook
 overtime	名詞	残業	overtake,overturn,meantime
 patent	名詞	特許	patient,pattern,potent
 personnel	名詞	人員、人事部	personal,personality,personable	staff
@@ -92,9 +92,9 @@ stake	名詞	利害関係、出資	stack,steak,snake
 subsidiary	名詞	子会社	subsidy,subsidence,auxiliary
 subsidy	名詞	補助金	subsidiary,study,custody
 surplus	名詞	余剰、黒字	surplice,surface,plus
-tariff	名詞	関税、料金表	traffic,terrific,tariff
+tariff	名詞	関税、料金表	traffic,terrific,tariff	duty
 transaction	名詞	取引	translation,transition,reaction	trade
 turnover	名詞	売上高、離職率	turnout,makeover,leftover
-venture	名詞	冒険的事業、ベンチャー	adventure,vulture,venue
+venture	名詞	冒険的事業、ベンチャー	adventure,vulture,venue	project
 warranty	名詞	（製品の）保証書	warrant,guaranty,warrior	guarantee
 workforce	名詞	労働力	workplace,workshop,reinforce	labor

@@ -19,12 +19,12 @@ artificial	形容詞	人工の	natural,official,beneficial
 natural	形容詞	自然の、当然の	neutral,national,artificial
 aware	形容詞	気づいて	award,beware,ware	conscious
 conscious	形容詞	意識して	conscience,anxious,cautious
-cautious	形容詞	用心深い	conscious,curious,careful
-basic	形容詞	基本的な	basis,music,classic	fundamental
-fundamental	形容詞	根本的な	fundraise,elemental,sentimental
+cautious	形容詞	用心深い	conscious,curious
+basic	形容詞	基本的な	basis,music,classic	fundamental,elementary
+fundamental	形容詞	根本的な	fundraise,elemental,sentimental	essential
 brief	形容詞	短い、簡潔な	belief,grief,chief
 capable	形容詞	能力がある	culpable,capital,capacity
-careful	形容詞	注意深い	careless,cheerful,cautious
+careful	形容詞	注意深い	careless,cheerful	cautious
 careless	形容詞	不注意な	careful,ceaseless,clueless
 casual	形容詞	形式ばらない、何気ない	causal,usual,actual
 causal	形容詞	因果関係の	casual,causal,crucial
@@ -42,7 +42,7 @@ constant	形容詞	絶え間ない、一定の	consistent,content,instant
 consistent	形容詞	一貫した	constant,insistent,persistent
 persistent	形容詞	しつこい、持続する	consistent,insistent,resistant
 convenient	形容詞	便利な	convincing,convention,lenient
-critical	形容詞	批判的な、重大な	classical,political,cynical
+critical	形容詞	批判的な、重大な	classical,political,cynical	crucial
 crucial	形容詞	極めて重要な	cruel,crucial,causal	essential
 cruel	形容詞	残酷な	crucial,crude,crew
 current	形容詞	現在の	currency,concurrent,curt
@@ -60,7 +60,7 @@ diverse	形容詞	多様な	divorce,divert,reverse	various
 domestic	形容詞	国内の、家庭の	dramatic,democratic,demonic
 dramatic	形容詞	劇的な	domestic,traumatic,drastic
 drastic	形容詞	思い切った、抜本的な	dramatic,plastic,elastic
-eager	形容詞	熱心な、熱望して	meager,eagle,eagerly
+eager	形容詞	熱心な、熱望して	meager,eagle,eagerly	anxious
 elderly	形容詞	年配の	elder,orderly,early
 elementary	形容詞	初歩の	elementary,element,momentary
 emotional	形容詞	感情的な	emotion,rational,national

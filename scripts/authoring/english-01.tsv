@@ -3,9 +3,9 @@ require	動詞	必要とする	acquire,inquire,expect
 inquire	動詞	尋ねる、問い合わせる	acquire,require,insist
 achieve	動詞	成し遂げる、達成する	acquire,attempt,obtain
 obtain	動詞	得る、手に入れる	achieve,attempt,adopt
-adapt	動詞	適応する、順応させる	adopt,adjust,accept
+adapt	動詞	適応する、順応させる	adopt,accept	adjust
 adopt	動詞	採用する、取り入れる	adapt,accept,approve	introduce
-adjust	動詞	調整する、合わせる	adapt,adopt,assist
+adjust	動詞	調整する、合わせる	adopt,assist
 accept	動詞	受け入れる	adopt,expect,reject
 reject	動詞	拒否する、はねつける	accept,deny,respect	decline
 decline	動詞	断る、減少する	deny,delay,increase	reject,decrease

@@ -9,7 +9,7 @@ accomplishment	名詞	業績、達成	accompaniment,achievement,commitment	achie
 accuracy	名詞	正確さ	accurate,adequacy,legacy
 acquaintance	名詞	知人、面識	acquisition,accountant,assistance
 addiction	名詞	中毒、依存症	addition,edition,affliction
-admission	名詞	入場（料）、入学、承認	admiration,emission,mission
+admission	名詞	入場・入学の許可、（罪などを）認めること	admiration,emission,mission	approval,endorsement
 adoption	名詞	採用、養子縁組	adaptation,option,adoptee
 affection	名詞	愛情	infection,affectation,perfection
 infection	名詞	感染	affection,inflection,injection
@@ -21,26 +21,26 @@ embassy	名詞	大使館	ambassador,embargo,emptiness
 ambiguity	名詞	あいまいさ	ambition,antiquity,ambiguous
 analogy	名詞	類似、類推	apology,anthology,analogue
 anecdote	名詞	逸話	antidote,annotate,anecdotal
-apparatus	名詞	装置、器具	appearance,apparent,status	device
+apparatus	名詞	装置、器具	appearance,apparent,status	device,appliance
 appliance	名詞	（家庭用）電気器具	application,alliance,compliance
-aptitude	名詞	適性、素質	attitude,altitude,gratitude
+aptitude	名詞	適性、素質	attitude,altitude,gratitude	competence
 gratitude	名詞	感謝	attitude,aptitude,gratuity
 arena	名詞	競技場、活動の場	area,arenas,aroma
 aspiration	名詞	熱望、抱負	inspiration,perspiration,ambition	ambition
 inspiration	名詞	ひらめき	aspiration,perspiration,respiration
 assembly	名詞	集会、組み立て	assemble,ensemble,assault
 auction	名詞	競売	action,caution,section
-caution	名詞	用心、注意	auction,cautious,cation
+caution	名詞	用心、注意	auction,cautious,cation	attention
 autonomy	名詞	自治、自律	astronomy,economy,anatomy	independence
 astronomy	名詞	天文学	autonomy,astrology,economy
 bias	名詞	偏見、先入観	bass,bias,basis	prejudice
 prejudice	名詞	偏見	practice,predict,justice
 biography	名詞	伝記	geography,bibliography,photography
-blueprint	名詞	青写真、計画	footprint,blue,print
+blueprint	名詞	設計図、青写真	footprint,blue,print	project,scheme
 boundary	名詞	境界	bound,boundless,foundry	border
 boycott	名詞	不買運動、ボイコット	boyhood,cottage,boy
 bribe	名詞	賄賂	bride,tribe,brine
-bulletin	名詞	公報、掲示	bullet,bulletproof,button
+bulletin	名詞	会報、速報	bullet,bulletproof,button
 catastrophe	名詞	大災害、大惨事	apostrophe,catastrophic,trophy	disaster
 calamity	名詞	災難、惨事	calamitous,family,amity	disaster,catastrophe
 capability	名詞	能力	capacity,capable,culpability	ability,competence
@@ -53,12 +53,12 @@ coalition	名詞	連合、連立	collision,collation,coal	alliance
 colony	名詞	植民地	colonel,colon,felony
 commodity	名詞	商品、日用品	community,comedy,commodious	product
 compassion	名詞	思いやり、同情	passion,comparison,compulsion	sympathy
-sympathy	名詞	同情、共感	symphony,symptom,empathy
+sympathy	名詞	同情、思いやり	symphony,symptom,empathy
 empathy	名詞	共感（する力）	sympathy,apathy,emphasis
-composition	名詞	構成、作文、作曲	competition,position,compost
+composition	名詞	構成、作文、作曲	competition,position,compost	constitution
 compound	名詞	化合物、合成物	compose,component,pound
 comprehension	名詞	理解（力）	comprehensive,apprehension,compression
-conception	名詞	概念、構想	reception,perception,deception	concept
+conception	名詞	概念、構想	reception,perception,deception	concept,notion
 confrontation	名詞	対立、対決	confirmation,conformation,frontier	conflict
 consciousness	名詞	意識	conscience,consistency,consensus	awareness
 awareness	名詞	意識、認識	aware,wariness,warehouse
@@ -67,7 +67,7 @@ contamination	名詞	汚染	contemplation,combination,containment	pollution
 contempt	名詞	軽蔑	content,contest,attempt
 controversy	名詞	論争	contrary,controversial,conversation	dispute
 dispute	名詞	論争、紛争	dispose,repute,disputed	argument
-conviction	名詞	確信、有罪判決	convention,convection,eviction
+conviction	名詞	確信、有罪判決	convention,convection,eviction	belief
 correspondence	名詞	文通、一致	correspondent,dependence,respondence
 counterpart	名詞	（対応する）相手、同等の人	counter,department,compartment
 courtesy	名詞	礼儀正しさ	curtsy,court,curiosity
@@ -86,8 +86,8 @@ dialect	名詞	方言	dialectic,dialogue,select
 dignity	名詞	威厳、尊厳	dignitary,dignify,density
 dilemma	名詞	板挟み、ジレンマ	dilemmas,lemma,diploma
 diploma	名詞	卒業証書	diplomat,diplomacy,dilemma	certificate
-disability	名詞	障害	ability,disabled,disparity
-discipline	名詞	規律、しつけ、学問分野	disciple,principle,discipleship
+disability	名詞	（心身の）障害	ability,disabled,disparity	obstacle
+discipline	名詞	規律、しつけ	disciple,principle,discipleship
 discretion	名詞	思慮分別、裁量	discrete,discreet,discussion
 discrimination	名詞	差別	recrimination,determination,discretion
 disorder	名詞	混乱、（心身の）不調	order,disorderly,border	chaos,confusion
@@ -97,4 +97,4 @@ doctrine	名詞	教義、主義	doctor,documentary,discipline
 donor	名詞	寄贈者、提供者	honor,donation,doner
 dose	名詞	（薬の）1回分の服用量	doze,dosage,rose
 drought	名詞	干ばつ	draught,brought,doubt
-duration	名詞	継続期間	durable,curation,during
+duration	名詞	継続期間	durable,curation,during	period

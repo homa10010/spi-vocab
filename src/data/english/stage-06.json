@@ -22,7 +22,8 @@
       "en-0023"
     ],
     "synonyms": [
-      "en-0503"
+      "en-0503",
+      "en-0504"
     ]
   },
   {
@@ -33,7 +34,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0502"
+      "en-0502",
+      "en-0504"
     ]
   },
   {
@@ -43,7 +45,10 @@
     "meaning": "話題",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0502",
+      "en-0503"
+    ]
   },
   {
     "id": "en-0505",
@@ -103,7 +108,9 @@
       "en-0508",
       "en-0287"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2480"
+    ]
   },
   {
     "id": "en-0510",
@@ -118,7 +125,7 @@
     "id": "en-0511",
     "word": "technique",
     "pos": "名詞",
-    "meaning": "技術、技法",
+    "meaning": "技法、手法",
     "level": 1,
     "confusers": [
       "en-0512"
@@ -136,7 +143,9 @@
     "confusers": [
       "en-0511"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0300"
+    ]
   },
   {
     "id": "en-0513",
@@ -172,7 +181,11 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0514"
+      "en-0514",
+      "en-1753",
+      "en-2552",
+      "en-2563",
+      "en-2564"
     ]
   },
   {
@@ -182,7 +195,11 @@
     "meaning": "用語、条件",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0285",
+      "en-2932",
+      "en-2933"
+    ]
   },
   {
     "id": "en-0517",
@@ -206,7 +223,8 @@
       "en-0216"
     ],
     "synonyms": [
-      "en-2536"
+      "en-2536",
+      "en-2972"
     ]
   },
   {
@@ -226,6 +244,7 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
+      "en-0576",
       "en-1196"
     ]
   },
@@ -272,19 +291,24 @@
     "meaning": "眺め、意見",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1776",
+      "en-1777"
+    ]
   },
   {
     "id": "en-0526",
     "word": "volume",
     "pos": "名詞",
-    "meaning": "体積、音量、巻",
+    "meaning": "量、音量",
     "level": 1,
     "confusers": [
       "en-0523",
       "en-0090"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0291"
+    ]
   },
   {
     "id": "en-0527",
@@ -298,6 +322,7 @@
       "en-0529"
     ],
     "synonyms": [
+      "en-2545",
       "en-2546"
     ]
   },
@@ -352,6 +377,7 @@
       "en-0533"
     ],
     "synonyms": [
+      "en-0371",
       "en-0538"
     ]
   },
@@ -564,7 +590,9 @@
     "confusers": [
       "en-0419"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2480"
+    ]
   },
   {
     "id": "en-0551",
@@ -669,7 +697,9 @@
     "meaning": "背景、経歴",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0321"
+    ]
   },
   {
     "id": "en-0560",
@@ -692,6 +722,7 @@
     "confusers": [],
     "synonyms": [
       "en-0560",
+      "en-1689",
       "en-2505"
     ]
   },
@@ -840,7 +871,9 @@
     "confusers": [
       "en-0542"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2455"
+    ]
   },
   {
     "id": "en-0575",
@@ -849,7 +882,9 @@
     "meaning": "手がかり",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2931"
+    ]
   },
   {
     "id": "en-0576",
@@ -860,7 +895,9 @@
     "confusers": [
       "en-0235"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0520"
+    ]
   },
   {
     "id": "en-0577",
@@ -872,7 +909,9 @@
       "en-0329",
       "en-0235"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0308"
+    ]
   },
   {
     "id": "en-0578",
@@ -943,7 +982,10 @@
     "confusers": [
       "en-0331"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0305",
+      "en-2420"
+    ]
   },
   {
     "id": "en-0584",
@@ -956,7 +998,8 @@
       "en-0065"
     ],
     "synonyms": [
-      "en-0317"
+      "en-0317",
+      "en-2467"
     ]
   },
   {
@@ -982,7 +1025,9 @@
     "meaning": "つながり",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0469"
+    ]
   },
   {
     "id": "en-0587",

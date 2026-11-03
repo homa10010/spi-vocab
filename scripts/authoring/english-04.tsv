@@ -1,6 +1,6 @@
 activity	名詞	活動	ability,authority,actuality
-agreement	名詞	合意、協定	argument,arrangement,announcement
-argument	名詞	議論、口論	agreement,document,instrument
+agreement	名詞	合意、協定	argument,arrangement,announcement	contract
+argument	名詞	議論、口論	agreement,document,instrument	discussion
 analysis	名詞	分析	anxiety,emphasis,thesis
 anxiety	名詞	不安、心配	analysis,variety,society
 appearance	名詞	外見、出現	appliance,acceptance,attendance
@@ -14,13 +14,13 @@ attention	名詞	注意、注目	intention,attendance,tension
 audience	名詞	聴衆、観客	obedience,attendance,evidence
 authority	名詞	権威、当局	activity,majority,priority
 balance	名詞	均衡、残高	distance,advance,instance
-behavior	名詞	振る舞い、行動	behalf,belief,attitude
+behavior	名詞	振る舞い、行動	behalf,belief	attitude
 belief	名詞	信念、信じること	relief,brief,behavior
 budget	名詞	予算	badge,bucket,amount
 capacity	名詞	収容力、容量	capability,capital,quantity
 career	名詞	経歴、職業	carrier,courage,career
 category	名詞	部類、区分	territory,history,theory
-challenge	名詞	挑戦、難題	change,chance,channel
+challenge	名詞	挑戦、難題	change,chance,channel	difficulty
 character	名詞	性格、登場人物	charity,culture,feature
 choice	名詞	選択	voice,choir,chance
 citizen	名詞	市民	resident,civilian,city
@@ -41,8 +41,8 @@ criticism	名詞	批判	crisis,critic,cynicism
 culture	名詞	文化	agriculture,custom,future
 customer	名詞	顧客	costume,custom,consumer
 consumer	名詞	消費者	customer,consumption,resume
-damage	名詞	損害	image,message,average
-debate	名詞	討論	debt,update,argument
+damage	名詞	損害	image,message,average	harm,loss
+debate	名詞	討論	debt,update	argument,discussion
 decade	名詞	10年間	decay,cascade,decide
 decision	名詞	決定、決心	division,precision,revision
 definition	名詞	定義	description,definite,demolition
@@ -59,16 +59,16 @@ direction	名詞	方向、指示	discretion,division,reaction
 discussion	名詞	議論、話し合い	discussion,decision,percussion
 disease	名詞	病気	decrease,disaster,release
 distance	名詞	距離	balance,instance,existence
-duty	名詞	義務、職務、関税	beauty,dirty,obligation
+duty	名詞	義務、職務、関税	beauty,dirty,obligation	responsibility
 economy	名詞	経済	ecology,enemy,economics
 education	名詞	教育	edition,graduation,dedication
-element	名詞	要素	elegant,elephant,elevator
+element	名詞	要素	elegant,elephant,elevator	factor
 emotion	名詞	感情	motion,promotion,notion
 emphasis	名詞	強調	emphasize,analysis,synthesis
 employee	名詞	従業員	employer,employment,refugee
 employer	名詞	雇用主	employee,employment,explorer
 energy	名詞	エネルギー、活力	enemy,energetic,synergy
-event	名詞	出来事、行事	invent,prevent,vent
+event	名詞	出来事、行事	invent,prevent,vent	occasion
 exception	名詞	例外	expectation,exemption,reception
 expense	名詞	費用、出費	expanse,expensive,defense
 explanation	名詞	説明	expectation,exploration,exploitation
@@ -80,7 +80,7 @@ feature	名詞	特徴	future,failure,figure
 figure	名詞	数字、人物、姿	future,feature,finger
 function	名詞	機能	fiction,junction,fraction
 generation	名詞	世代	generalization,generosity,operation
-goal	名詞	目標	coal,gold,purpose	objective
+goal	名詞	目標	coal,gold	objective,purpose
 objective	名詞	目的、目標	objection,object,subjective	purpose
 growth	名詞	成長	grow,growl,wealth
 guarantee	名詞	保証	grantee,guard,guidance

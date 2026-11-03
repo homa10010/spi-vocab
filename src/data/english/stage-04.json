@@ -21,6 +21,7 @@
       "en-0303"
     ],
     "synonyms": [
+      "en-0064",
       "en-0588",
       "en-1140",
       "en-1901"
@@ -36,6 +37,8 @@
       "en-0302"
     ],
     "synonyms": [
+      "en-0359",
+      "en-0345",
       "en-1669"
     ]
   },
@@ -63,7 +66,9 @@
       "en-0295"
     ],
     "synonyms": [
-      "en-2420"
+      "en-0583",
+      "en-2420",
+      "en-2537"
     ]
   },
   {
@@ -74,6 +79,7 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
+      "en-2407",
       "en-2408",
       "en-2584"
     ]
@@ -98,7 +104,9 @@
     "confusers": [
       "en-0307"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0577"
+    ]
   },
   {
     "id": "en-0309",
@@ -122,7 +130,8 @@
       "en-0023"
     ],
     "synonyms": [
-      "en-2494"
+      "en-2494",
+      "en-2528"
     ]
   },
   {
@@ -147,7 +156,9 @@
       "en-0047",
       "en-0284"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0430"
+    ]
   },
   {
     "id": "en-0313",
@@ -156,7 +167,9 @@
     "meaning": "注意、注目",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1633"
+    ]
   },
   {
     "id": "en-0314",
@@ -200,10 +213,10 @@
     "meaning": "振る舞い、行動",
     "level": 1,
     "confusers": [
-      "en-0318",
-      "en-0047"
+      "en-0318"
     ],
     "synonyms": [
+      "en-0047",
       "en-0584",
       "en-2467"
     ]
@@ -218,6 +231,7 @@
       "en-0317"
     ],
     "synonyms": [
+      "en-1670",
       "en-2457"
     ]
   },
@@ -252,7 +266,9 @@
     "confusers": [],
     "synonyms": [
       "en-0439",
-      "en-0440"
+      "en-0440",
+      "en-0559",
+      "en-1918"
     ]
   },
   {
@@ -264,7 +280,9 @@
     "confusers": [
       "en-0389"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1870"
+    ]
   },
   {
     "id": "en-0323",
@@ -273,7 +291,9 @@
     "meaning": "挑戦、難題",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0357"
+    ]
   },
   {
     "id": "en-0324",
@@ -286,7 +306,8 @@
       "en-0379"
     ],
     "synonyms": [
-      "en-0454"
+      "en-0454",
+      "en-1890"
     ]
   },
   {
@@ -517,6 +538,8 @@
       "en-0292"
     ],
     "synonyms": [
+      "en-0387",
+      "en-0054",
       "en-2469"
     ]
   },
@@ -526,10 +549,11 @@
     "pos": "名詞",
     "meaning": "討論",
     "level": 1,
-    "confusers": [
-      "en-0303"
-    ],
-    "synonyms": []
+    "confusers": [],
+    "synonyms": [
+      "en-0303",
+      "en-0359"
+    ]
   },
   {
     "id": "en-0346",
@@ -660,7 +684,9 @@
     "confusers": [
       "en-0356"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0323"
+    ]
   },
   {
     "id": "en-0358",
@@ -671,7 +697,9 @@
     "confusers": [
       "en-0275"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0401"
+    ]
   },
   {
     "id": "en-0359",
@@ -682,7 +710,10 @@
     "confusers": [
       "en-0347"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0303",
+      "en-0345"
+    ]
   },
   {
     "id": "en-0360",
@@ -718,7 +749,10 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0438"
+      "en-0273",
+      "en-0438",
+      "en-1195",
+      "en-2948"
     ]
   },
   {
@@ -747,6 +781,7 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
+      "en-0377",
       "en-0581"
     ]
   },
@@ -814,7 +849,10 @@
     "confusers": [
       "en-0018"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0057",
+      "en-0532"
+    ]
   },
   {
     "id": "en-0372",
@@ -876,7 +914,9 @@
     "confusers": [
       "en-0379"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0365"
+    ]
   },
   {
     "id": "en-0378",
@@ -904,7 +944,8 @@
     ],
     "synonyms": [
       "en-1897",
-      "en-1898"
+      "en-1898",
+      "en-2923"
     ]
   },
   {
@@ -942,11 +983,10 @@
     "pos": "名詞",
     "meaning": "目標",
     "level": 1,
-    "confusers": [
-      "en-0043"
-    ],
+    "confusers": [],
     "synonyms": [
-      "en-0384"
+      "en-0384",
+      "en-0043"
     ]
   },
   {
@@ -991,6 +1031,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
+      "en-0344",
+      "en-2436",
       "en-2469"
     ]
   },
@@ -1041,7 +1083,10 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-0060"
+      "en-0060",
+      "en-1750",
+      "en-2574",
+      "en-2957"
     ]
   },
   {
@@ -1090,7 +1135,8 @@
     ],
     "synonyms": [
       "en-0276",
-      "en-0335"
+      "en-0335",
+      "en-2957"
     ]
   },
   {

@@ -6,28 +6,28 @@ sordid	形容詞	卑しい、汚い	sorted,sordidly,morbid
 sporadic	形容詞	散発的な	spasmodic,sporadically,periodic
 spurious	形容詞	偽の	spuriously,furious,curious	false
 false	形容詞	誤った、偽の	fault,falls,pulse	erroneous
-staunch	形容詞	忠実な、熱心な	stanch,launch,staunchly	steadfast,loyal
+staunch	形容詞	忠実な、揺るぎない	stanch,launch,staunchly	steadfast,loyal,faithful,eager,enthusiastic,zealous
 steadfast	形容詞	揺るぎない、忠実な	steady,breakfast,stead	faithful,loyal
 stoic	形容詞	禁欲的な、我慢強い	stoical,stoicism,heroic
-stringent	形容詞	厳格な、厳しい	astringent,stringently,stridency	strict,rigorous
+stringent	形容詞	厳格な、厳しい	astringent,stringently,stridency	strict,rigorous,severe,harsh,stern,austere
 succinct	形容詞	簡潔な	succinctly,distinct,succulent	concise,terse,brief
-terse	形容詞	簡潔な、そっけない	tersely,verse,tease	concise
+terse	形容詞	簡潔な、そっけない	tersely,verse,tease	concise,brief
 superfluous	形容詞	余分な、不必要な	superficial,supervisor,fluous	redundant
-surreptitious	形容詞	内密の、こそこそした	repetitious,surreptitiously,superstitious	furtive
+surreptitious	形容詞	内密の、こそこそした	repetitious,surreptitiously,superstitious	furtive,clandestine,secret
 tacit	形容詞	暗黙の	tactic,tacitly,taciturn	implicit
 tenacious	形容詞	粘り強い	tenacity,tenaciously,vivacious	persistent
 tenuous	形容詞	薄弱な、もろい	tenuously,strenuous,tedious	fragile
 turbulent	形容詞	荒れ狂う、動乱の	turbulence,truculent,turbine
 ubiquitous	形容詞	至る所にある	ubiquity,obsequious,iniquitous	widespread
 venerable	形容詞	尊敬すべき、由緒ある	vulnerable,venerate,veneer
-verbose	形容詞	冗長な、言葉数の多い	verbal,verbosity,verb	wordy
+verbose	形容詞	冗長な、言葉数の多い	verbal,verbosity,verb	wordy,redundant
 wordy	形容詞	言葉数の多い	worthy,word,windy
 vicarious	形容詞	（他人を通して）間接的に味わう	various,precarious,vicariously
 vigilant	形容詞	用心深い、油断のない	vigil,vigilance,vigorous	wary,cautious,circumspect
 vindictive	形容詞	復讐心に燃えた	vindicate,addictive,predictive	vengeful
 vengeful	形容詞	復讐心のある	revengeful,vengefully,hateful
-virulent	形容詞	悪性の、敵意に満ちた	virulence,violent,turbulent
-whimsical	形容詞	気まぐれな	whimsy,musical,whimsically	capricious
+virulent	形容詞	悪性の、敵意に満ちた	virulence,violent,turbulent	hostile
+whimsical	形容詞	気まぐれな	whimsy,musical,whimsically	capricious,erratic
 candidly	副詞	率直に	candidate,candid,candidacy	frankly
 covertly	副詞	ひそかに	overtly,covert,coverlet	secretly
 secretly	副詞	こっそりと	secret,sacredly,secretively
@@ -38,35 +38,35 @@ inadvertently	副詞	うっかり、不注意で	advertently,inadvertent,inadequ
 indiscriminately	副詞	無差別に	discriminately,indiscreetly,indiscriminate
 inherently	副詞	本来、本質的に	inherent,coherently,inheritably	essentially
 essentially	副詞	本質的に、基本的に	essential,especially,potentially
-invariably	副詞	いつも、必ず	inevitably,invariable,variably	always
+invariably	副詞	いつも、必ず	invariable,variably	always,inevitably
 always	副詞	いつも	away,almost,allways
 meticulously	副詞	細心の注意を払って	meticulous,ridiculously,miraculously	painstakingly
 painstakingly	副詞	念入りに	painstaking,painlessly,takingly
 nonetheless	副詞	それにもかかわらず	nevertheless,nonetheless,none	nevertheless
 notoriously	副詞	悪名高く	notably,notoriety,notorious
-ostensibly	副詞	表向きは	ostentatiously,ostensible,sensibly	apparently,seemingly
+ostensibly	副詞	表向きは	ostentatiously,ostensible,sensibly	apparently,seemingly,supposedly
 perpetually	副詞	絶えず、永久に	perpetual,perceptually,punctually	constantly
-profoundly	副詞	深く、大いに	profound,profusely,pronouncedly	deeply
+profoundly	副詞	深く、大いに	profound,profusely,pronouncedly	deeply,significantly
 deeply	副詞	深く	deep,dearly,depth
 prudently	副詞	慎重に	prudent,prudently,impudently	cautiously
 cautiously	副詞	用心深く	cautious,consciously,curiously
-reputedly	副詞	評判では	reputably,reputed,repeatedly	allegedly
+reputedly	副詞	評判では	reputably,reputed,repeatedly	allegedly,supposedly
 repeatedly	副詞	繰り返して	reputedly,repeated,reportedly
 sparingly	副詞	控えめに、節約して	sparkling,sparing,sparely
 unanimously	副詞	満場一致で	anonymously,unanimous,magnanimously
-unequivocally	副詞	明確に、きっぱりと	equivocally,unequal,unequivocal	definitely
+unequivocally	副詞	明確に、きっぱりと	equivocally,unequal,unequivocal	definitely,explicitly
 vehemently	副詞	激しく、猛烈に	vehement,vehicle,vehemence
 verbatim	副詞	一語一語そのまま、逐語的に	verbal,verbiage,verbatims	literally
-wholeheartedly	副詞	心から、全面的に	wholehearted,heartedly,wholesomely	sincerely
+wholeheartedly	副詞	心から、全面的に	wholehearted,heartedly,wholesomely	sincerely,genuinely
 intermittently	副詞	断続的に	intermittent,intimately,intermediately	occasionally
 paradoxically	副詞	逆説的に	paradox,periodically,paradoxical
 ironically	副詞	皮肉にも	ironic,iconically,chronically
-conceivably	副詞	考えられる限りでは、ひょっとすると	conceive,conceivable,inconceivably	possibly
+conceivably	副詞	考えられる限りでは、ひょっとすると	conceive,conceivable,inconceivably	possibly,perhaps
 inexplicably	副詞	不可解にも	inexplicable,inextricably,explicably
 haphazardly	副詞	無計画に	haphazard,hazardously,happily	randomly
 randomly	副詞	無作為に	random,randomness,roundly
 vendetta	名詞	（長期の）確執	vendor,veranda,vendetta	feud
-feud	名詞	（長く続く）確執、不和	feed,fend,fraud
+feud	名詞	（長く続く）確執、不和	feed,fend,fraud	friction,rift
 venue	名詞	開催地、会場	avenue,revenue,menu
 vestige	名詞	名残、痕跡	vertigo,prestige,vestibule	trace
 trace	名詞	痕跡、跡	race,grace,track
@@ -95,6 +95,6 @@ brink	名詞	瀬戸際	brick,drink,blink	verge
 verge	名詞	縁、間際	merge,surge,verse
 catalyst	名詞	触媒、きっかけ	catalog,analyst,catapult
 cessation	名詞	停止、中止	cession,session,secession	halt
-cohesion	名詞	結束、まとまり	coercion,adhesion,cohesive	unity
+cohesion	名詞	結束、まとまり	coercion,adhesion,cohesive	unity,solidarity
 unity	名詞	統一、まとまり	unit,united,utility
-dearth	名詞	不足、欠乏	death,earth,depth	shortage,scarcity
+dearth	名詞	不足、欠乏	death,earth,depth	shortage,scarcity,lack,deficiency

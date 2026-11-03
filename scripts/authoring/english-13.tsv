@@ -1,10 +1,10 @@
-accessible	形容詞	利用しやすい、近づきやすい	acceptable,accessory,possible
+accessible	形容詞	利用しやすい、近づきやすい	acceptable,accessory,possible	available
 adjacent	形容詞	隣接した	adjunct,adjective,agent
-affordable	形容詞	手ごろな価格の	accordable,profitable,available
-aggressive	形容詞	攻撃的な、積極的な	progressive,aggression,impressive
+affordable	形容詞	手ごろな価格の	accordable,profitable,available	reasonable
+aggressive	形容詞	攻撃的な、積極的な	progressive,aggression,impressive	active
 ample	形容詞	十分な、豊富な	simple,sample,amply	sufficient,adequate
 applicable	形容詞	適用できる	appliance,applicant,amicable
-arbitrary	形容詞	任意の、恣意的な	arbitrator,ordinary,military
+arbitrary	形容詞	任意の、恣意的な	arbitrator,ordinary,military	optional
 assertive	形容詞	自己主張の強い	assertion,sensitive,aggressive
 attentive	形容詞	注意深い	attractive,retentive,tentative	careful
 authentic	形容詞	本物の	author,authority,athletic	genuine
@@ -14,7 +14,7 @@ coherent	形容詞	首尾一貫した	inherent,adherent,cohesive	consistent
 collective	形容詞	集団の、共同の	selective,collect,effective
 commercial	形容詞	商業の	commerce,financial,controversial
 compatible	形容詞	両立できる、互換性のある	comparable,combustible,comfortable
-comparable	形容詞	匹敵する、比較できる	compatible,comfortable,capable
+comparable	形容詞	匹敵する、比較できる	compatible,comfortable,capable	equivalent
 competent	形容詞	有能な	competitive,component,content	capable
 competitive	形容詞	競争の激しい	competent,repetitive,comparative
 compulsory	形容詞	義務的な、強制的な	complimentary,compulsive,cursory	mandatory
@@ -30,7 +30,7 @@ cumulative	形容詞	累積的な	accumulative,cumbersome,comparative
 decisive	形容詞	決定的な、断固とした	divisive,decision,derisive
 defective	形容詞	欠陥のある	detective,effective,deflective
 dense	形容詞	密集した、濃い	tense,sense,dance
-distinct	形容詞	はっきり異なる、明確な	distinguish,extinct,instinct
+distinct	形容詞	はっきり異なる、明確な	distinguish,extinct,instinct	specific
 dominant	形容詞	支配的な、優勢な	dormant,domain,prominent
 durable	形容詞	耐久性のある	curable,duration,desirable
 dynamic	形容詞	動的な、精力的な	dramatic,dynamite,domestic	active
@@ -40,7 +40,7 @@ equivalent	形容詞	同等の	equivocal,ambivalent,eventual	equal
 explicit	形容詞	明示的な	implicit,elicit,exploit
 implicit	形容詞	暗黙の	explicit,implicate,illicit
 feasible	形容詞	実現可能な	visible,flexible,feeble	viable
-viable	形容詞	実行可能な、存続できる	variable,visible,liable
+viable	形容詞	実行可能な、存続できる	variable,visible,liable	sustainable
 fiscal	形容詞	財政の	physical,focal,fiscally	financial
 fragile	形容詞	壊れやすい	agile,fertile,frail
 harsh	形容詞	厳しい、過酷な	marsh,rash,hash	severe
@@ -48,7 +48,7 @@ hostile	形容詞	敵意のある	hostel,hospital,fertile
 identical	形容詞	同一の	identify,ideal,critical
 impartial	形容詞	公平な	partial,impractical,martial
 partial	形容詞	部分的な、不公平な	partial,impartial,martial
-imperative	形容詞	絶対に必要な	imperial,comparative,operative	essential
+imperative	形容詞	絶対に必要な	imperial,comparative,operative	essential,indispensable
 indispensable	形容詞	不可欠な	dispensable,inexplicable,responsible	essential
 inherent	形容詞	固有の、本来備わっている	coherent,adherent,inherit
 innovative	形容詞	革新的な	innate,innocent,informative
@@ -62,17 +62,17 @@ profitable	形容詞	利益になる	portable,profitably,preferable
 marginal	形容詞	周辺的な、わずかな	original,margin,martial	slight
 mutual	形容詞	相互の	mental,natural,actual
 nominal	形容詞	名目上の	normal,nominate,minimal
-novel	形容詞	斬新な	navel,level,noble	original
+novel	形容詞	斬新な	navel,level,noble	original,innovative
 obsolete	形容詞	時代遅れの	absolute,desolate,obstacle
 optimal	形容詞	最適な	optional,optimism,maximal
 optional	形容詞	任意の、選択できる	optimal,optical,national
 overall	形容詞	全体的な	overcall,overhaul,overload	entire
-overdue	形容詞	期限切れの	overdo,overview,overdose
+overdue	形容詞	期限を過ぎた、延滞した	overdo,overview,overdose
 preliminary	形容詞	予備的な	primary,preliminaries,elementary
 prevalent	形容詞	広く行き渡った	prevail,relevant,prevent
 prominent	形容詞	目立つ、卓越した	permanent,dominant,eminent
 proportional	形容詞	比例した	provisional,professional,proportion
-radical	形容詞	急進的な、抜本的な	radial,radiant,medical	drastic
+radical	形容詞	急進的な、抜本的な	radial,radiant,medical	drastic,fundamental
 redundant	形容詞	余分な、冗長な	abundant,redundancy,abundance
 renewable	形容詞	再生可能な	removable,reviewable,renew
 respective	形容詞	それぞれの	respectful,respectable,perspective
@@ -86,7 +86,7 @@ spontaneous	形容詞	自発的な	simultaneous,instantaneous,sponsor	voluntary
 voluntary	形容詞	自発的な、ボランティアの	volunteer,vocabulary,solitary
 sophisticated	形容詞	洗練された、高度な	sophomore,complicated,authenticated
 stagnant	形容詞	停滞した	stagnate,pregnant,staging
-substantial	形容詞	相当な、実質的な	substance,substantive,essential	considerable
+substantial	形容詞	相当な、実質的な	substance,substantive,essential	considerable,significant
 subsequent	形容詞	その後の	consequent,sequence,subsequence
 superficial	形容詞	表面的な	beneficial,artificial,superior
 supplementary	形容詞	補足の	complementary,supplement,elementary	additional

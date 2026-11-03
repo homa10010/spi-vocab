@@ -1,7 +1,7 @@
 afford	動詞	（金銭的・時間的に）余裕がある	effort,offer,avoid
 allow	動詞	許可する、可能にする	admit,approve,accept
-admit	動詞	認める	allow,deny,accept
-advise	動詞	忠告する、助言する	suggest,recommend,inform
+admit	動詞	（事実・過ちを）認める	allow,deny,accept
+advise	動詞	忠告する、助言する	suggest,inform	recommend
 apply	動詞	申し込む、適用する	reply,supply,imply
 reply	動詞	返事をする	apply,supply,imply
 supply	動詞	供給する	apply,reply,support	provide
@@ -9,7 +9,7 @@ imply	動詞	ほのめかす、暗に意味する	apply,reply,indicate
 appear	動詞	現れる、〜のように見える	appeal,apply,occur
 appeal	動詞	訴える、魅力がある	appear,apply,impress
 argue	動詞	議論する、言い争う	agree,advise,complain	insist
-arrange	動詞	手配する、整える	organize,prepare,manage
+arrange	動詞	手配する、整える	manage	organize,prepare
 assume	動詞	（当然のことと）思う、仮定する	consume,resume,predict	suppose
 consume	動詞	消費する	assume,resume,reduce
 avoid	動詞	避ける	prevent,afford,ignore
@@ -17,13 +17,13 @@ borrow	動詞	借りる	lend,owe,own
 lend	動詞	貸す	borrow,owe,offer
 owe	動詞	借りがある、〜のおかげである	borrow,own,lend
 own	動詞	所有する	owe,lend,obtain
-combine	動詞	結びつける、組み合わせる	connect,compare,contain
+combine	動詞	結びつける、組み合わせる	compare,contain	connect
 compare	動詞	比較する	compete,combine,prepare
 compete	動詞	競争する	compare,complete,complain
-complete	動詞	完成させる、終える	compete,complain,achieve
+complete	動詞	完成させる、終える	compete,complain	achieve
 complain	動詞	不平を言う	compete,explain,complete
-explain	動詞	説明する	complain,describe,express
-connect	動詞	つなぐ、結びつける	combine,collect,contact
+explain	動詞	説明する	complain,express	describe
+connect	動詞	つなぐ、結びつける	collect,contact
 collect	動詞	集める	connect,select,correct
 correct	動詞	訂正する	collect,improve,adjust
 select	動詞	選ぶ	collect,prefer,reject
@@ -33,7 +33,7 @@ mention	動詞	言及する、話に出す	inform,explain,reply
 offer	動詞	申し出る、差し出す	afford,prefer,suggest
 continue	動詞	続ける	contain,consist,remain
 contain	動詞	含む	continue,consist,maintain	include
-include	動詞	含む、含める	conclude,exclude,involve
+include	動詞	含む、含める	conclude,exclude
 remain	動詞	〜のままである、残る	remind,maintain,continue
 remind	動詞	思い出させる	remain,remove,mention
 create	動詞	創造する、生み出す	decide,destroy,imagine	produce
@@ -47,25 +47,25 @@ deliver	動詞	配達する、届ける	develop,discover,supply
 develop	動詞	発達させる、開発する	deliver,improve,discover
 discover	動詞	発見する	develop,recover,deliver
 recover	動詞	回復する、取り戻す	discover,remove,improve
-describe	動詞	描写する、（特徴などを）述べる	explain,destroy,prescribe
+describe	動詞	描写する、（特徴などを）述べる	destroy,prescribe
 destroy	動詞	破壊する	describe,develop,protect
-earn	動詞	稼ぐ	learn,owe,afford
+earn	動詞	稼ぐ	learn,owe,afford	gain,obtain
 encourage	動詞	励ます、促す	advise,support,suggest
 support	動詞	支える、支持する	supply,suggest,assist
-suggest	動詞	提案する	support,suppose,advise
+suggest	動詞	提案する	support,suppose,advise	imply
 suppose	動詞	（〜だと）思う、推測する	suggest,support,prefer
 establish	動詞	設立する、確立する	estimate,organize,publish
 estimate	動詞	見積もる	establish,measure,examine
 examine	動詞	調べる、検査する	estimate,measure,determine	inspect
 measure	動詞	測る	estimate,examine,manage
-manage	動詞	なんとか〜する、管理する	measure,arrange,maintain
-maintain	動詞	維持する、主張する	manage,remain,contain
+manage	動詞	なんとか〜する、管理する	measure,arrange,maintain	operate
+maintain	動詞	維持する、主張する	manage,remain,contain	preserve,insist
 exist	動詞	存在する	insist,assist,remain
 express	動詞	表現する	explain,impress,expect
 impress	動詞	感動させる、印象を与える	express,appeal,improve
 focus	動詞	集中する、焦点を合わせる	attend,prefer,observe
-gain	動詞	得る、増す	earn,own,increase	obtain,acquire
-identify	動詞	特定する、見分ける	satisfy,recognize,indicate
+gain	動詞	得る、増す	own	obtain,acquire,increase
+identify	動詞	特定する、見分ける	satisfy,indicate	recognize
 ignore	動詞	無視する	avoid,deny,imagine	neglect
 neglect	動詞	怠る、おろそかにする	select,reject,refuse
 imagine	動詞	想像する	imitate,manage,ignore
@@ -74,13 +74,13 @@ indicate	動詞	示す、指し示す	imply,predict,dedicate
 predict	動詞	予測する	protect,indicate,prevent	expect,anticipate
 influence	動詞	影響を及ぼす	inform,involve,indicate	affect
 affect	動詞	影響を与える	effect,afford,attend
-involve	動詞	巻き込む、関与させる	include,evolve,invite
+involve	動詞	伴う、巻き込む	evolve,invite	include,contain
 notice	動詞	気づく	notify,note,announce	realize
 observe	動詞	観察する、（規則を）守る	obey,deserve,preserve
 obey	動詞	従う	observe,obtain,owe
 occur	動詞	起こる、（考えが）浮かぶ	occupy,offer,appear
 occupy	動詞	占める	occur,operate,own
-operate	動詞	操作する、運営する	cooperate,occupy,manage
+operate	動詞	操作する、運営する	cooperate,occupy
 cooperate	動詞	協力する	operate,compete,participate
 participate	動詞	参加する	anticipate,attend,cooperate
 anticipate	動詞	予想する、楽しみに待つ	participate,predict,imagine	expect
@@ -91,10 +91,10 @@ publish	動詞	出版する、公表する	punish,polish,establish
 punish	動詞	罰する	publish,polish,perish
 purchase	動詞	購入する	pursue,promise,preserve
 pursue	動詞	追い求める	purchase,persuade,pursuit
-recommend	動詞	勧める、推薦する	advise,comment,command
+recommend	動詞	勧める、推薦する	comment,command
 refuse	動詞	断る、拒む	refer,neglect,deny	reject,decline
 reduce	動詞	減らす	produce,induce,deduce	decrease,decline
-agree	動詞	同意する	argue,admit,approve
+agree	動詞	同意する	argue,admit	approve
 resume	動詞	再開する	assume,consume,remain
 conclude	動詞	結論を下す	include,exclude,complete
-exclude	動詞	除外する	include,conclude,remove
+exclude	動詞	除外する	include,conclude

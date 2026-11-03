@@ -94,7 +94,8 @@
       "en-0577"
     ],
     "synonyms": [
-      "en-0536"
+      "en-0536",
+      "en-2916"
     ]
   },
   {
@@ -127,18 +128,24 @@
     "meaning": "中毒、依存症",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1850",
+      "en-1851"
+    ]
   },
   {
     "id": "en-1612",
     "word": "admission",
     "pos": "名詞",
-    "meaning": "入場（料）、入学、承認",
+    "meaning": "入場・入学の許可、（罪などを）認めること",
     "level": 2,
     "confusers": [
       "en-0429"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0045",
+      "en-1156"
+    ]
   },
   {
     "id": "en-1613",
@@ -208,7 +215,8 @@
       "en-1625"
     ],
     "synonyms": [
-      "en-1652"
+      "en-1652",
+      "en-1721"
     ]
   },
   {
@@ -254,7 +262,9 @@
     "confusers": [
       "en-0548"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2409"
+    ]
   },
   {
     "id": "en-1623",
@@ -277,7 +287,8 @@
       "en-0498"
     ],
     "synonyms": [
-      "en-0599"
+      "en-0599",
+      "en-1625"
     ]
   },
   {
@@ -291,7 +302,9 @@
       "en-1618",
       "en-1138"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1624"
+    ]
   },
   {
     "id": "en-1626",
@@ -303,7 +316,10 @@
       "en-0047",
       "en-1627"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1137",
+      "en-2918"
+    ]
   },
   {
     "id": "en-1627",
@@ -384,6 +400,8 @@
       "en-0622"
     ],
     "synonyms": [
+      "en-0313",
+      "en-2443",
       "en-2874"
     ]
   },
@@ -453,10 +471,13 @@
     "id": "en-1639",
     "word": "blueprint",
     "pos": "名詞",
-    "meaning": "青写真、計画",
+    "meaning": "設計図、青写真",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0464",
+      "en-1187"
+    ]
   },
   {
     "id": "en-1640",
@@ -491,7 +512,7 @@
     "id": "en-1643",
     "word": "bulletin",
     "pos": "名詞",
-    "meaning": "公報、掲示",
+    "meaning": "会報、速報",
     "level": 2,
     "confusers": [],
     "synonyms": []
@@ -647,7 +668,7 @@
     "id": "en-1656",
     "word": "sympathy",
     "pos": "名詞",
-    "meaning": "同情、共感",
+    "meaning": "同情、思いやり",
     "level": 2,
     "confusers": [
       "en-0508",
@@ -679,7 +700,9 @@
       "en-0330",
       "en-0459"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1665"
+    ]
   },
   {
     "id": "en-1659",
@@ -712,7 +735,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-0331"
+      "en-0331",
+      "en-0436"
     ]
   },
   {
@@ -750,7 +774,9 @@
       "en-0620"
     ],
     "synonyms": [
-      "en-1663"
+      "en-1663",
+      "en-1815",
+      "en-1847"
     ]
   },
   {
@@ -760,7 +786,9 @@
     "meaning": "憲法、構成、体質",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1658"
+    ]
   },
   {
     "id": "en-1666",
@@ -812,7 +840,8 @@
     ],
     "synonyms": [
       "en-0303",
-      "en-1668"
+      "en-1668",
+      "en-2455"
     ]
   },
   {
@@ -822,7 +851,9 @@
     "meaning": "確信、有罪判決",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0318"
+    ]
   },
   {
     "id": "en-1671",
@@ -842,7 +873,9 @@
     "confusers": [
       "en-0350"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1814"
+    ]
   },
   {
     "id": "en-1673",
@@ -911,7 +944,9 @@
     ],
     "synonyms": [
       "en-0491",
-      "en-0055"
+      "en-0055",
+      "en-1869",
+      "en-2900"
     ]
   },
   {
@@ -946,7 +981,10 @@
     "confusers": [
       "en-1308"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2936",
+      "en-2937"
+    ]
   },
   {
     "id": "en-1682",
@@ -1035,21 +1073,26 @@
     "id": "en-1689",
     "word": "disability",
     "pos": "名詞",
-    "meaning": "障害",
+    "meaning": "（心身の）障害",
     "level": 2,
     "confusers": [
       "en-0271"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0561",
+      "en-2505"
+    ]
   },
   {
     "id": "en-1690",
     "word": "discipline",
     "pos": "名詞",
-    "meaning": "規律、しつけ、学問分野",
+    "meaning": "規律、しつけ",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1905"
+    ]
   },
   {
     "id": "en-1691",
@@ -1085,7 +1128,10 @@
     ],
     "synonyms": [
       "en-1649",
-      "en-0585"
+      "en-0585",
+      "en-1904",
+      "en-2940",
+      "en-2943"
     ]
   },
   {
@@ -1121,6 +1167,7 @@
     ],
     "synonyms": [
       "en-2594",
+      "en-2595",
       "en-2910"
     ]
   },
@@ -1164,6 +1211,8 @@
     "confusers": [
       "en-1235"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0452"
+    ]
   }
 ]

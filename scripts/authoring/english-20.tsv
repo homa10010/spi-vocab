@@ -1,21 +1,21 @@
 treaty	名詞	条約	treatment,treat,entreaty	agreement
 tribe	名詞	部族	bribe,tribute,tribal
 tuition	名詞	授業料	intuition,tution,nutrition
-turmoil	名詞	混乱、騒ぎ	turbulence,toil,turnover	chaos,confusion
-upbringing	名詞	しつけ、養育	bringing,upgrading,upright
+turmoil	名詞	混乱、騒ぎ	turbulence,toil,turnover	chaos,confusion,disorder
+upbringing	名詞	しつけ、養育	bringing,upgrading,upright	discipline
 utility	名詞	有用性、（電気・ガスなどの）公共事業	futility,utilize,ability
 vaccine	名詞	ワクチン	vaccinate,vacancy,vaseline
 validity	名詞	妥当性、有効性	vitality,valid,stupidity
 vegetation	名詞	（ある地域の）植物、草木	vegetable,meditation,vegetarian
 velocity	名詞	速度	ferocity,veracity,velvet	speed,pace
-speed	名詞	速さ	seed,spend,spread
+speed	名詞	速さ	seed,spend,spread	pace
 verdict	名詞	（陪審の）評決	verdant,predict,edict
 vessel	名詞	船、容器、血管	vassal,vestle,vowel
 veteran	名詞	ベテラン、退役軍人	veterinarian,vegetarian,vertebra
 victim	名詞	犠牲者、被害者	victory,victor,vicinity
 vigor	名詞	活力	vigorous,rigor,vapor	energy
 virtue	名詞	美徳	virtual,virtuoso,vertue
-vocation	名詞	天職、職業	vacation,location,invocation	profession
+vocation	名詞	天職、職業	vacation,location,invocation	profession,occupation,career
 vacation	名詞	休暇	vocation,location,vacancy
 warfare	名詞	戦争（状態）、戦闘	welfare,warehouse,farewell
 abundant	形容詞	豊富な	abandon,redundant,abundance	ample
@@ -31,7 +31,7 @@ bold	形容詞	大胆な	bald,bolt,old
 brilliant	形容詞	見事な、輝かしい	brilliance,resilient,brilliantly
 candid	形容詞	率直な	candidate,candy,candle	frank
 frank	形容詞	率直な	prank,franc,flank
-coarse	形容詞	粗い、下品な	course,hoarse,cease
+coarse	形容詞	粗い、下品な	course,hoarse,cease	rough,crude
 compelling	形容詞	説得力のある、抗しがたい	compiling,expelling,compel	convincing
 convincing	形容詞	説得力のある	convicting,convince,convening
 complacent	形容詞	自己満足した	complaisant,compliant,adjacent
@@ -41,22 +41,22 @@ constructive	形容詞	建設的な	destructive,conductive,instructive
 destructive	形容詞	破壊的な	constructive,distinctive,destruct
 contrary	形容詞	反対の	contract,contrast,canary	opposite
 opposite	形容詞	反対の	oppose,composite,apposite
-crude	形容詞	粗野な、未加工の	rude,crude,cruel	raw
+crude	形容詞	粗野な、未加工の	rude,crude,cruel	raw,rough
 decent	形容詞	まともな、きちんとした	descent,recent,dissent
 desperate	形容詞	必死の、絶望的な	separate,disparate,deprecate
 devoted	形容詞	献身的な	devote,voted,devout	faithful
-discreet	形容詞	思慮深い、控えめな	discrete,disreputable,secret
+discreet	形容詞	思慮深い、控えめな	discrete,disreputable,secret	modest
 disposable	形容詞	使い捨ての	disposal,possible,dispensable
-distinguished	形容詞	著名な、際立った	extinguished,distinguish,distinct	eminent
+distinguished	形容詞	著名な、際立った	extinguished,distinguish,distinct	eminent,prominent
 eminent	形容詞	著名な、高名な	imminent,prominent,dominant	prominent
 imminent	形容詞	差し迫った	eminent,immanent,immense
 dormant	形容詞	休止中の、眠っている	dominant,doormat,mordant
 dubious	形容詞	疑わしい	devious,dubiously,obvious
-eccentric	形容詞	風変わりな	electric,concentric,eclectic	odd
+eccentric	形容詞	風変わりな	electric,concentric,eclectic	odd,peculiar,strange
 elegant	形容詞	優雅な	element,eloquent,elephant
 eloquent	形容詞	雄弁な	elegant,frequent,eloquence
 enthusiastic	形容詞	熱心な	enthusiasm,ecstatic,athletic	eager
-ethical	形容詞	倫理的な	ethnic,critical,elliptical
+ethical	形容詞	倫理的な	ethnic,critical,elliptical	moral
 exceptional	形容詞	例外的な、並外れた	exceptionally,exception,conventional	extraordinary
 excessive	形容詞	過度の	expensive,extensive,exclusive
 exclusive	形容詞	排他的な、独占的な	excessive,inclusive,elusive
@@ -66,7 +66,7 @@ fertile	形容詞	肥沃な	futile,fragile,hostile
 futile	形容詞	無駄な	fertile,utile,fragile
 fierce	形容詞	激しい、獰猛な	pierce,fiercely,force
 finite	形容詞	有限の	infinite,define,finish
-firm	形容詞	堅い、断固とした	farm,form,film
+firm	形容詞	堅い、断固とした	farm,form,film	decisive
 fluent	形容詞	流暢な	affluent,fluid,frequent
 formidable	形容詞	手ごわい	formable,favorable,forbidden
 gentle	形容詞	穏やかな、優しい	genteel,gentile,general
@@ -74,7 +74,7 @@ gigantic	形容詞	巨大な	giant,gigabyte,romantic	enormous,huge
 gloomy	形容詞	陰気な、悲観的な	glossy,groomy,bloomy
 graceful	形容詞	優美な	grateful,gracious,disgraceful	elegant
 gracious	形容詞	親切な、上品な	graceful,precious,spacious
-grim	形容詞	厳しい、険しい	grime,trim,grin
+grim	形容詞	厳しい、険しい	grime,trim,grin	severe,harsh
 hasty	形容詞	急いだ、軽率な	nasty,tasty,haste
 hectic	形容詞	非常に忙しい	hectare,tactic,hepatic
 hereditary	形容詞	遺伝性の、世襲の	heredity,heritage,hereafter
@@ -87,14 +87,14 @@ impatient	形容詞	いらいらした、待ちきれない	patient,impotent,imp
 impulsive	形容詞	衝動的な	compulsive,repulsive,impressive
 incompatible	形容詞	相いれない、互換性のない	compatible,incomparable,incomputable
 inconsistent	形容詞	一貫性のない、矛盾した	consistent,insistent,incoherent
-indigenous	形容詞	土着の、固有の	ingenious,indignant,indigent	native
+indigenous	形容詞	土着の、先住の	ingenious,indignant,indigent	native,inherent
 native	形容詞	生まれた土地の、母国の	nation,naive,active
 influential	形容詞	影響力のある	influence,confidential,initial
 informative	形容詞	有益な情報を含む	informal,formative,imitative
-ingenious	形容詞	独創的な、巧妙な	ingenuous,genius,indigenous
+ingenious	形容詞	独創的な、巧妙な	ingenuous,genius,indigenous	original
 intact	形容詞	損なわれていない	impact,contact,tact
 intimate	形容詞	親密な	estimate,ultimate,intimidate
-intrinsic	形容詞	本質的な、固有の	extrinsic,instinct,intricate	inherent
-invaluable	形容詞	非常に貴重な	valuable,invariable,invalid	precious
+intrinsic	形容詞	本質的な、固有の	extrinsic,instinct,intricate	inherent,essential
+invaluable	形容詞	非常に貴重な	invariable,invalid	precious,valuable
 ironic	形容詞	皮肉な	iconic,chronic,irony
 irrelevant	形容詞	無関係な	relevant,irreverent,irregular

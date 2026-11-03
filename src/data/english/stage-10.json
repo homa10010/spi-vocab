@@ -6,7 +6,9 @@
     "meaning": "預ける、置く",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0946"
+    ]
   },
   {
     "id": "en-0902",
@@ -18,7 +20,10 @@
       "en-0597",
       "en-0019"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0148",
+      "en-0946"
+    ]
   },
   {
     "id": "en-0903",
@@ -67,7 +72,11 @@
       "en-0163"
     ],
     "synonyms": [
-      "en-0905"
+      "en-0173",
+      "en-0900",
+      "en-0905",
+      "en-1490",
+      "en-2235"
     ]
   },
   {
@@ -202,7 +211,8 @@
       "en-0108"
     ],
     "synonyms": [
-      "en-0917"
+      "en-0917",
+      "en-1467"
     ]
   },
   {
@@ -235,10 +245,11 @@
     "meaning": "確実にする",
     "level": 1,
     "confusers": [
-      "en-0871",
       "en-0160"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0871"
+    ]
   },
   {
     "id": "en-0920",
@@ -393,6 +404,7 @@
     "confusers": [],
     "synonyms": [
       "en-0125",
+      "en-2381",
       "en-3000"
     ]
   },
@@ -540,7 +552,10 @@
     "meaning": "位置を突き止める、置く",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0901",
+      "en-0902"
+    ]
   },
   {
     "id": "en-0947",
@@ -549,7 +564,9 @@
     "meaning": "溶ける",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1363"
+    ]
   },
   {
     "id": "en-0948",
@@ -563,6 +580,8 @@
     ],
     "synonyms": [
       "en-0258",
+      "en-0128",
+      "en-0863",
       "en-1009",
       "en-1468"
     ]
@@ -719,7 +738,10 @@
     "meaning": "やめる",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0145",
+      "en-1405"
+    ]
   },
   {
     "id": "en-0961",
@@ -757,7 +779,9 @@
     "confusers": [
       "en-0138"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2200"
+    ]
   },
   {
     "id": "en-0964",
@@ -831,7 +855,8 @@
       "en-0791"
     ],
     "synonyms": [
-      "en-0968"
+      "en-0968",
+      "en-2348"
     ]
   },
   {
@@ -845,6 +870,7 @@
     ],
     "synonyms": [
       "en-0149",
+      "en-0188",
       "en-2323"
     ]
   },
@@ -916,7 +942,8 @@
     "confusers": [],
     "synonyms": [
       "en-0193",
-      "en-1408"
+      "en-1408",
+      "en-1493"
     ]
   },
   {
@@ -1008,7 +1035,9 @@
     "confusers": [
       "en-0023"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1404"
+    ]
   },
   {
     "id": "en-0985",
@@ -1059,6 +1088,7 @@
     ],
     "synonyms": [
       "en-0153",
+      "en-0194",
       "en-1084",
       "en-2380"
     ]
@@ -1106,6 +1136,7 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
+      "en-0242",
       "en-1481",
       "en-2322"
     ]
@@ -1114,11 +1145,12 @@
     "id": "en-0993",
     "word": "yield",
     "pos": "動詞",
-    "meaning": "屈する、譲る",
+    "meaning": "（利益などを）もたらす、屈する",
     "level": 1,
     "confusers": [],
     "synonyms": [
       "en-0994",
+      "en-1329",
       "en-1502",
       "en-2364"
     ]
@@ -1162,7 +1194,10 @@
     "confusers": [
       "en-0999"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0177",
+      "en-1379"
+    ]
   },
   {
     "id": "en-0997",
@@ -1216,7 +1251,8 @@
     "confusers": [],
     "synonyms": [
       "en-0986",
-      "en-1044"
+      "en-1044",
+      "en-1528"
     ]
   }
 ]

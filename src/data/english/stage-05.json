@@ -6,7 +6,9 @@
     "meaning": "指示、指導",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0358"
+    ]
   },
   {
     "id": "en-0402",
@@ -29,7 +31,10 @@
       "en-0361",
       "en-0402"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0057",
+      "en-0279"
+    ]
   },
   {
     "id": "en-0404",
@@ -206,7 +211,9 @@
     "meaning": "場所、位置",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0459"
+    ]
   },
   {
     "id": "en-0421",
@@ -241,18 +248,23 @@
     "confusers": [
       "en-0424"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1758"
+    ]
   },
   {
     "id": "en-0424",
     "word": "matter",
     "pos": "名詞",
-    "meaning": "事柄",
+    "meaning": "問題、事柄",
     "level": 1,
     "confusers": [
       "en-0423"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0281",
+      "en-0280"
+    ]
   },
   {
     "id": "en-0425",
@@ -310,7 +322,9 @@
     "meaning": "気分",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0312"
+    ]
   },
   {
     "id": "en-0431",
@@ -378,7 +392,8 @@
       "en-0441"
     ],
     "synonyms": [
-      "en-0331"
+      "en-0331",
+      "en-1661"
     ]
   },
   {
@@ -405,6 +420,7 @@
     ],
     "synonyms": [
       "en-0362",
+      "en-0273",
       "en-2948"
     ]
   },
@@ -421,7 +437,8 @@
     ],
     "synonyms": [
       "en-0321",
-      "en-0440"
+      "en-0440",
+      "en-1918"
     ]
   },
   {
@@ -459,7 +476,9 @@
     "meaning": "命令、注文",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2534"
+    ]
   },
   {
     "id": "en-0443",
@@ -503,7 +522,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-1910"
+      "en-1910",
+      "en-1911"
     ]
   },
   {
@@ -570,7 +590,11 @@
     "meaning": "期間、時代",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1700",
+      "en-2913",
+      "en-2914"
+    ]
   },
   {
     "id": "en-0453",
@@ -604,7 +628,9 @@
     "confusers": [
       "en-0466"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1808"
+    ]
   },
   {
     "id": "en-0456",
@@ -646,6 +672,7 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
+      "en-0420",
       "en-2974"
     ]
   },
@@ -707,7 +734,10 @@
       "en-0010"
     ],
     "synonyms": [
-      "en-1187"
+      "en-1157",
+      "en-1187",
+      "en-1198",
+      "en-1639"
     ]
   },
   {
@@ -735,7 +765,9 @@
       "en-0023"
     ],
     "synonyms": [
-      "en-1808"
+      "en-1782",
+      "en-1808",
+      "en-1834"
     ]
   },
   {
@@ -767,7 +799,9 @@
     "meaning": "関係",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0586"
+    ]
   },
   {
     "id": "en-0470",
@@ -791,7 +825,9 @@
     "confusers": [
       "en-0472"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2583"
+    ]
   },
   {
     "id": "en-0472",
@@ -812,7 +848,9 @@
     "meaning": "報酬、ほうび",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1136"
+    ]
   },
   {
     "id": "en-0474",
@@ -822,7 +860,8 @@
     "level": 1,
     "confusers": [],
     "synonyms": [
-      "en-1736"
+      "en-1736",
+      "en-1816"
     ]
   },
   {
@@ -871,7 +910,9 @@
     "confusers": [
       "en-0295"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0486"
+    ]
   },
   {
     "id": "en-0479",
@@ -911,7 +952,9 @@
     "meaning": "規模、目盛り",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1786"
+    ]
   },
   {
     "id": "en-0483",
@@ -953,7 +996,9 @@
     "meaning": "警備、保障",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0478"
+    ]
   },
   {
     "id": "en-0487",
@@ -1089,7 +1134,9 @@
     "meaning": "地位、状態",
     "level": 1,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0285"
+    ]
   },
   {
     "id": "en-0499",

@@ -1,10 +1,10 @@
 juxtapose	動詞	並べて置く、並列する	suppose,expose,juxtaposition
-mollify	動詞	なだめる、和らげる	modify,mollusk,qualify	pacify,appease
-muster	動詞	（勇気・支持などを）奮い起こす、集める	master,mustard,monster	summon
-negate	動詞	無効にする、否定する	negotiate,navigate,negative	nullify
-nullify	動詞	無効にする	notify,null,nullity	invalidate
-invalidate	動詞	無効にする	validate,invalid,evaluate
-obliterate	動詞	消し去る、跡形もなくする	obligate,literate,alliterate	erase
+mollify	動詞	なだめる、和らげる	modify,mollusk,qualify	pacify,appease,placate,mitigate,relieve,ease,alleviate,abate
+muster	動詞	（勇気・支持などを）奮い起こす、集める	master,mustard,monster	summon,gather,collect,garner
+negate	動詞	無効にする、否定する	negotiate,navigate,negative	nullify,deny,invalidate,rescind
+nullify	動詞	無効にする	notify,null,nullity	invalidate,rescind
+invalidate	動詞	無効にする	validate,invalid,evaluate	rescind
+obliterate	動詞	消し去る、跡形もなくする	obligate,literate,alliterate	erase,efface
 ostracize	動詞	仲間外れにする	ostrich,criticize,organize	exclude
 oust	動詞	追い出す	out,bust,joust	expel
 expel	動詞	追い出す、除名する	excel,repel,expend
@@ -13,52 +13,52 @@ perpetrate	動詞	（悪事を）犯す	perpetuate,penetrate,perforate	commit
 perpetuate	動詞	永続させる	perpetrate,perpetual,punctuate
 plummet	動詞	急落する	plume,plumber,summit	plunge
 preclude	動詞	妨げる、不可能にする	include,prelude,exclude	prevent,impede,hamper,hinder
-procrastinate	動詞	先延ばしにする	proclaim,prostrate,procreate	postpone,delay
+procrastinate	動詞	先延ばしにする	proclaim,prostrate,procreate	postpone,delay,defer
 proliferate	動詞	急増する、増殖する	prolific,deliberate,proliferation	multiply
-propagate	動詞	広める、繁殖させる	propaganda,prorogate,promulgate	spread
-spread	動詞	広げる、広まる	spend,sprout,thread	broaden
-quell	動詞	鎮める	quill,quench,dwell	suppress,subdue
-rebuke	動詞	叱責する	rebuff,rebut,reboot	reproach,scold
+propagate	動詞	広める、繁殖させる	propaganda,prorogate,promulgate	spread,breed,reproduce
+spread	動詞	広げる、広まる	spend,sprout,thread	broaden,extend,expand,permeate
+quell	動詞	鎮める	quill,quench,dwell	suppress,subdue,pacify,quash
+rebuke	動詞	叱責する	rebuff,rebut,reboot	reproach,scold,chastise
 recant	動詞	（主張を）撤回する	recount,decant,recall	withdraw
 recuperate	動詞	回復する	recuperative,cooperate,operate	recover,restore
 refurbish	動詞	改装する	furnish,refresh,polish	renovate
-relinquish	動詞	放棄する、手放す	relish,extinguish,vanquish	abandon
+relinquish	動詞	放棄する、手放す	relish,extinguish,vanquish	abandon,waive,renounce
 remunerate	動詞	報酬を払う	enumerate,generate,remuneration
-renounce	動詞	放棄する、断念する	announce,denounce,pronounce	abandon
-repudiate	動詞	拒絶する、否認する	repute,refute,repeat	reject
+renounce	動詞	放棄する、断念する	announce,denounce,pronounce	abandon,waive
+repudiate	動詞	拒絶する、否認する	repute,refute,repeat	reject,deny
 rescind	動詞	取り消す、無効にする	rescue,resend,remind	cancel
 retaliate	動詞	報復する	retail,relate,retract
 revere	動詞	あがめる、尊敬する	reverse,revert,severe	respect
-saturate	動詞	飽和させる、浸す	saturday,satire,satiate	soak
+saturate	動詞	飽和させる、浸す	saturday,satire,satiate	soak,immerse
 shun	動詞	避ける	shunt,stun,shine	avoid,avert,dodge
 squander	動詞	浪費する	wander,squadron,squalor	waste,dissipate
-waste	動詞	浪費する、無駄にする	taste,haste,paste
-stifle	動詞	抑える、窒息させる	stiff,rifle,trifle	suppress
-stipulate	動詞	規定する、明記する	stimulate,manipulate,speculate	specify
-subjugate	動詞	征服する、服従させる	subject,conjugate,subordinate	conquer
-substantiate	動詞	実証する	substantial,substitute,instantiate	prove,verify,demonstrate
+waste	動詞	浪費する、無駄にする	taste,haste,paste	dissipate
+stifle	動詞	抑える、窒息させる	stiff,rifle,trifle	suppress,restrain,subdue,curb,inhibit
+stipulate	動詞	規定する、明記する	stimulate,manipulate,speculate	specify,prescribe
+subjugate	動詞	征服する、服従させる	subject,conjugate,subordinate	conquer,subdue
+substantiate	動詞	実証する	substantial,substitute,instantiate	prove,verify,demonstrate,corroborate
 supplant	動詞	取って代わる	supply,implant,transplant	replace,supersede,displace
-surmise	動詞	推測する	surprise,demise,premise	speculate,suppose
+surmise	動詞	推測する	surprise,demise,premise	speculate,suppose,infer,presume
 tantalize	動詞	じらす	tantamount,tangle,totalize	tease
 tease	動詞	からかう、いじめる	tense,lease,cease
-thwart	動詞	阻止する、くじく	swart,wart,athwart	frustrate
+thwart	動詞	阻止する、くじく	swart,wart,athwart	frustrate,deter
 transcend	動詞	超越する	transcendent,descend,transfer	surpass
 undercut	動詞	（価格を）下回る、弱体化させる	undercover,underscore,undermine
-unravel	動詞	解明する、ほどく	travel,unveil,ravel	solve
-solve	動詞	解く、解決する	salve,resolve,shove	resolve
-usurp	動詞	（地位・権力を）奪う	usual,usury,burp	seize
-vex	動詞	いらだたせる、悩ませる	vext,vox,flex	annoy
-vindicate	動詞	潔白を証明する	indicate,dedicate,vindictive	justify
-waver	動詞	揺れる、迷う	wafer,water,waiver	hesitate
-wane	動詞	衰える、（月が）欠ける	wake,wine,vane	decline
+unravel	動詞	解明する、ほどく	travel,unveil,ravel	solve,illuminate
+solve	動詞	解く、解決する	salve,resolve,shove	resolve,settle
+usurp	動詞	（地位・権力を）奪う	usual,usury,burp	seize,deprive
+vex	動詞	いらだたせる、悩ませる	vext,vox,flex	annoy,irritate,frustrate,bother,beset,aggravate
+vindicate	動詞	潔白を証明する	indicate,dedicate,vindictive	justify,exonerate
+waver	動詞	揺れる、迷う	wafer,water,waiver	hesitate,sway
+wane	動詞	衰える、（月が）欠ける	wake,wine,vane	decline,wither,decay,languish
 wield	動詞	（権力などを）振るう	yield,field,shield	exert
 abhor	動詞	ひどく嫌う	harbor,abort,arbor	detest,loathe
-adjourn	動詞	休会する、延期する	adjust,journey,sojourn	postpone,defer
+adjourn	動詞	休会する、延期する	adjust,journey,sojourn	postpone,defer,delay
 allot	動詞	割り当てる	allow,blot,ballot	allocate,assign,cast
 ameliorate	動詞	改善する	deteriorate,meliorate,amalgamate	improve
 annex	動詞	併合する	annexe,annual,index
 bequeath	動詞	遺言で譲る	beneath,breathe,bequest
-beset	動詞	悩ませる、付きまとう	upset,besiege,offset
+beset	動詞	悩ませる、付きまとう	upset,besiege,offset	bother
 blur	動詞	ぼやけさせる	blue,slur,blurt
 brandish	動詞	振り回す	branch,banish,blandish
 cede	動詞	譲る、割譲する	cease,seed,concede	yield,surrender
@@ -67,34 +67,34 @@ collude	動詞	共謀する	collide,conclude,allude
 construe	動詞	解釈する	construct,construe,strew	interpret
 contrive	動詞	考案する、たくらむ	contrite,deprive,strive	devise
 debase	動詞	（価値・品位を）落とす	debate,database,abase	degrade
-decry	動詞	公然と非難する	deny,decree,cry	denounce,condemn
+decry	動詞	公然と非難する	deny,decree,cry	denounce,condemn,reproach,censure
 deface	動詞	外観を損なう	efface,surface,defame
-defraud	動詞	だまし取る	defrost,fraud,defrock	cheat
-delude	動詞	欺く、惑わす	elude,allude,delete	deceive
-desecrate	動詞	（神聖なものを）汚す	consecrate,decorate,desiccate
+defraud	動詞	だまし取る	defrost,fraud,defrock	cheat,deceive,dupe
+delude	動詞	欺く、惑わす	elude,allude,delete	deceive,dupe,cheat
+desecrate	動詞	（神聖なものを）汚す	consecrate,decorate,desiccate	stain,tarnish
 douse	動詞	（火を）消す、水をかける	dowse,house,rouse	extinguish
 dupe	動詞	だます	dope,duke,dump	deceive,cheat
 efface	動詞	消し去る	deface,surface,preface	erase
-engulf	動詞	飲み込む、巻き込む	gulf,engage,envelop	swallow
-exalt	動詞	高める、称賛する	exult,exhaust,assault	praise,acclaim
-exhort	動詞	熱心に勧める	extort,exert,export	urge
-expound	動詞	詳しく説明する	expand,compound,propound	explain
-extricate	動詞	救い出す、解放する	extract,intricate,extinct	rescue,liberate
-fend	動詞	（攻撃を）かわす、何とかやっていく	feud,fund,mend
+engulf	動詞	飲み込む、巻き込む	gulf,engage,envelop	swallow,involve,entangle
+exalt	動詞	高める、称賛する	exult,exhaust,assault	praise,acclaim,applaud,elevate,enhance,admire,heighten,extol
+exhort	動詞	熱心に勧める	extort,exert,export	urge,recommend
+expound	動詞	詳しく説明する	expand,compound,propound	explain,illustrate
+extricate	動詞	救い出す、解放する	extract,intricate,extinct	rescue,liberate,release,discharge,salvage
+fend	動詞	（攻撃を）かわす、何とかやっていく	feud,fund,mend	dodge
 flinch	動詞	ひるむ	clinch,finch,flick
-foment	動詞	（騒ぎを）あおる	ferment,moment,foam	incite,provoke
+foment	動詞	（騒ぎを）あおる	ferment,moment,foam	incite,provoke,instigate
 impel	動詞	駆り立てる	impale,expel,compel	compel,goad,incite
 ingratiate	動詞	取り入る	gratify,ingrate,initiate
-mar	動詞	損なう、台無しにする	marl,mare,war	spoil,ruin
+mar	動詞	損なう、台無しにする	marl,mare,war	spoil,ruin,impair,deface,detract
 partake	動詞	参加する、共にする	partaker,mistake,take	participate
 peruse	動詞	熟読する	pursue,peruser,refuse
 pilfer	動詞	くすねる	pilfering,filter,pillar	steal
 steal	動詞	盗む	steel,stale,seal
 plagiarize	動詞	盗用する	plague,plagiary,polarize
-quash	動詞	（判決を）破棄する、鎮圧する	squash,quasi,wash	suppress
+quash	動詞	（判決を）破棄する、鎮圧する	squash,quasi,wash	suppress,subdue
 ransack	動詞	くまなく探す、荒らす	ransom,rucksack,sack
 relish	動詞	楽しむ、味わう	relinquish,relist,polish	enjoy
 enjoy	動詞	楽しむ	employ,annoy,envoy
-reprimand	動詞	叱責する	remand,repair,reprimant	rebuke,scold
+reprimand	動詞	叱責する	remand,repair,reprimant	rebuke,scold,chastise
 rummage	動詞	かき回して探す	ransack,damage,message	ransack
 tarnish	動詞	（名声などを）汚す、曇らせる	varnish,garnish,furnish	stain

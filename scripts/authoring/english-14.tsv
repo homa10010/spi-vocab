@@ -1,6 +1,6 @@
 acclaim	動詞	称賛する	claim,exclaim,proclaim	praise,admire,applaud
-praise	動詞	ほめる	raise,prize,phrase
-accuse	動詞	告発する、責める	excuse,amuse,abuse
+praise	動詞	ほめる	raise,prize,phrase	admire
+accuse	動詞	告発する、責める	excuse,amuse,abuse	blame
 activate	動詞	作動させる、活性化する	motivate,captivate,cultivate
 applaud	動詞	拍手を送る、称賛する	applause,apply,appeal	admire,praise
 arouse	動詞	（感情を）呼び起こす	arise,rouse,around
@@ -10,23 +10,23 @@ aspire	動詞	熱望する	inspire,expire,aspirin
 audit	動詞	会計監査する	edit,audition,admit
 bargain	動詞	交渉する、値切る	bargaining,gain,obtain	negotiate
 betray	動詞	裏切る	portray,betrayal,obey
-boost	動詞	押し上げる、増やす	boast,boot,roost
+boost	動詞	押し上げる、増やす	boast,boot,roost	increase,elevate
 boast	動詞	自慢する	boost,coast,toast
 bother	動詞	悩ませる、わざわざ〜する	brother,bather,other
-breed	動詞	繁殖させる、育てる	bleed,brood,breath	nurture
+breed	動詞	繁殖させる、育てる	bleed,brood,breath	nurture,foster
 broaden	動詞	広げる	broad,harden,burden	expand,extend
 browse	動詞	（店や本を）見て回る、閲覧する	brows,arouse,blouse
 cherish	動詞	大切にする	perish,cheerish,cherry
 circulate	動詞	循環する、流通させる	calculate,circular,speculate
 cite	動詞	引用する、例に挙げる	site,sight,excite	quote
-coincide	動詞	同時に起こる、一致する	collide,coincident,decide
+coincide	動詞	同時に起こる、一致する	collide,coincident,decide	correspond
 collapse	動詞	崩壊する、倒れる	elapse,lapse,collaborate
 commemorate	動詞	記念する	communicate,commerce,celebrate
 commute	動詞	通勤する	compute,commune,mute
-compel	動詞	強いる	compete,repel,expel	force
-force	動詞	強いる、押しつける	forge,fierce,source	impose
+compel	動詞	強いる	compete,repel,expel	force,enforce
+force	動詞	強いる、押しつける	forge,fierce,source	impose,enforce
 compress	動詞	圧縮する	impress,express,suppress
-concede	動詞	（しぶしぶ）認める、譲歩する	conceive,precede,recede	admit,acknowledge
+concede	動詞	（しぶしぶ）認める、譲歩する	conceive,precede,recede	admit,acknowledge,yield
 confer	動詞	協議する、授与する	refer,defer,conform
 confront	動詞	直面する、立ち向かう	affront,front,conform	face
 face	動詞	直面する、向き合う	fade,lace,phase
@@ -34,7 +34,7 @@ conquer	動詞	征服する、克服する	concur,conquest,concern	overcome
 conserve	動詞	保存する、節約する	conservative,observe,deserve	preserve
 contaminate	動詞	汚染する	contemplate,captivate,terminate	pollute
 pollute	動詞	汚染する	pollution,dilute,salute
-contend	動詞	争う、主張する	contest,contain,pretend
+contend	動詞	争う、主張する	contest,contain,pretend	insist,maintain,assert
 contradict	動詞	矛盾する、反論する	contract,predict,dictate
 correspond	動詞	一致する、文通する	respond,correspondent,despond
 counsel	動詞	助言する	council,cancel,consul	advise
@@ -45,7 +45,7 @@ deceive	動詞	だます	receive,conceive,perceive	cheat
 defer	動詞	延期する	refer,differ,confer	postpone,delay
 postpone	動詞	延期する	postcard,component,opponent	delay
 degrade	動詞	品位を下げる、劣化させる	upgrade,grade,decade
-delegate	動詞	（権限を）委任する、代表として派遣する	relegate,delicate,dedicate
+delegate	動詞	（権限を）委任する、代表として派遣する	relegate,delicate,dedicate	dispatch
 deploy	動詞	配備する、展開する	employ,deplore,display
 depict	動詞	描写する	predict,depart,deposit	describe,portray
 designate	動詞	指定する、任命する	design,resignation,dedicate	appoint
@@ -60,27 +60,27 @@ discharge	動詞	解放する、排出する	charge,recharge,disclose	release
 discriminate	動詞	差別する、区別する	incriminate,criminal,distinguish	distinguish
 dispatch	動詞	派遣する、発送する	detach,despatch,patch	send
 send	動詞	送る	spend,lend,sent
-dissolve	動詞	溶かす、解散する	resolve,solve,involve
+dissolve	動詞	溶かす、解散する	resolve,solve,involve	melt
 divert	動詞	そらす、転用する	convert,divide,diverse
 drain	動詞	排水する、消耗させる	brain,train,strain
 dwell	動詞	住む、（〜について）くよくよ考える	swell,well,dwelling	reside
 reside	動詞	住む	resign,decide,preside
 ease	動詞	和らげる	tease,lease,cease	relieve,mitigate
 elect	動詞	選挙で選ぶ	select,erect,eject	select
-elevate	動詞	上げる、高める	elevator,celebrate,alleviate
+elevate	動詞	上げる、高める	elevator,celebrate,alleviate	enhance
 embark	動詞	乗船する、着手する	embargo,remark,bark
 embed	動詞	埋め込む	bed,ember,embody
 encounter	動詞	（偶然）出会う、遭遇する	counter,encourage,account
 endeavor	動詞	努力する	endear,favor,endeavour
-engage	動詞	従事する、関与する	enrage,engine,gauge
+engage	動詞	従事する、関与する	enrage,engine,gauge	involve
 enhance	動詞	高める、向上させる	enhancement,advance,entrance	improve
 enlarge	動詞	拡大する	large,enrage,enlist	expand
 enrich	動詞	豊かにする	rich,enroll,entrench
-entail	動詞	伴う、必要とする	detail,retail,entitle	require
+entail	動詞	伴う、必要とする	detail,retail,entitle	require,accompany,involve
 entertain	動詞	楽しませる	contain,maintain,certain
 erase	動詞	（文字などを）消す	raise,ease,phrase	delete,cancel
 erect	動詞	建てる、立てる	elect,direct,correct
-erode	動詞	浸食する、むしばむ	explode,corrode,ode
+erode	動詞	浸食する、むしばむ	explode,corrode,ode	undermine
 escalate	動詞	激化する、段階的に増大する	calculate,escalator,circulate
 evaporate	動詞	蒸発する	evacuate,elaborate,operate
 evoke	動詞	（感情・記憶を）呼び起こす	invoke,revoke,provoke	arouse

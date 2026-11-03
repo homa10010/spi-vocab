@@ -6,7 +6,9 @@
     "meaning": "効率化する",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1541"
+    ]
   },
   {
     "id": "en-1102",
@@ -24,7 +26,7 @@
     "id": "en-1103",
     "word": "supplement",
     "pos": "動詞",
-    "meaning": "補う",
+    "meaning": "補足する、追加する",
     "level": 2,
     "confusers": [
       "en-1105",
@@ -37,7 +39,7 @@
     "id": "en-1104",
     "word": "complement",
     "pos": "動詞",
-    "meaning": "補完する",
+    "meaning": "補完する、引き立てる",
     "level": 2,
     "confusers": [
       "en-0580",
@@ -75,6 +77,7 @@
       "en-1062",
       "en-1480",
       "en-1501",
+      "en-2176",
       "en-2320",
       "en-2336",
       "en-2394"
@@ -91,7 +94,10 @@
       "en-0005"
     ],
     "synonyms": [
-      "en-0162"
+      "en-0162",
+      "en-0154",
+      "en-1522",
+      "en-2175"
     ]
   },
   {
@@ -103,7 +109,9 @@
     "confusers": [
       "en-0141"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0123"
+    ]
   },
   {
     "id": "en-1109",
@@ -116,6 +124,7 @@
       "en-0141"
     ],
     "synonyms": [
+      "en-1383",
       "en-1412",
       "en-2241"
     ]
@@ -191,7 +200,10 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-1389"
+      "en-1389",
+      "en-2325",
+      "en-2327",
+      "en-2985"
     ]
   },
   {
@@ -212,10 +224,12 @@
     "pos": "名詞",
     "meaning": "説明責任",
     "level": 2,
-    "confusers": [
-      "en-0273"
-    ],
-    "synonyms": []
+    "confusers": [],
+    "synonyms": [
+      "en-0273",
+      "en-1169",
+      "en-2948"
+    ]
   },
   {
     "id": "en-1118",
@@ -255,6 +269,7 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
+      "en-1895",
       "en-2975"
     ]
   },
@@ -416,7 +431,10 @@
     "confusers": [
       "en-0330"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0473",
+      "en-1146"
+    ]
   },
   {
     "id": "en-1137",
@@ -431,6 +449,7 @@
     ],
     "synonyms": [
       "en-0271",
+      "en-1626",
       "en-1646"
     ]
   },
@@ -519,7 +538,9 @@
     "meaning": "不測の事態",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1703"
+    ]
   },
   {
     "id": "en-1145",
@@ -542,7 +563,9 @@
       "en-0593",
       "en-0292"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1136"
+    ]
   },
   {
     "id": "en-1147",
@@ -655,7 +678,9 @@
       "en-0537"
     ],
     "synonyms": [
-      "en-0045"
+      "en-0045",
+      "en-1612",
+      "en-1847"
     ]
   },
   {
@@ -669,7 +694,9 @@
       "en-0865"
     ],
     "synonyms": [
-      "en-0592"
+      "en-0592",
+      "en-0464",
+      "en-1198"
     ]
   },
   {
@@ -737,7 +764,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-0272"
+      "en-0272",
+      "en-1782"
     ]
   },
   {
@@ -804,7 +832,9 @@
     ],
     "synonyms": [
       "en-0596",
-      "en-0273"
+      "en-0273",
+      "en-1117",
+      "en-2948"
     ]
   },
   {
@@ -863,7 +893,7 @@
     "id": "en-1175",
     "word": "outlet",
     "pos": "名詞",
-    "meaning": "販路、直販店、コンセント",
+    "meaning": "販売店、コンセント",
     "level": 2,
     "confusers": [
       "en-1072",
@@ -973,7 +1003,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-0282"
+      "en-0282",
+      "en-1872"
     ]
   },
   {
@@ -997,7 +1028,8 @@
       "en-0503"
     ],
     "synonyms": [
-      "en-0464"
+      "en-0464",
+      "en-1639"
     ]
   },
   {
@@ -1068,7 +1100,8 @@
       "en-0506"
     ],
     "synonyms": [
-      "en-2504"
+      "en-2504",
+      "en-2557"
     ]
   },
   {
@@ -1080,7 +1113,9 @@
     "confusers": [
       "en-0521"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-0362"
+    ]
   },
   {
     "id": "en-1196",
@@ -1111,7 +1146,10 @@
     "meaning": "冒険的事業、ベンチャー",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0464",
+      "en-1157"
+    ]
   },
   {
     "id": "en-1199",

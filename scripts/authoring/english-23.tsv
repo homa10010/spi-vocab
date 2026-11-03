@@ -1,4 +1,4 @@
-abate	動詞	和らぐ、弱まる	abet,debate,rebate	subside
+abate	動詞	和らぐ、弱まる	abet,debate,rebate	subside,ease,mitigate,relieve,alleviate
 abstain	動詞	控える、棄権する	obtain,attain,abstract	refrain
 alleviate	動詞	軽減する、和らげる	elevate,abbreviate,deviate	relieve,mitigate,ease
 amass	動詞	蓄積する、ためる	amaze,mass,embrace	accumulate
@@ -9,49 +9,49 @@ pacify	動詞	静める、なだめる	specify,pacific,pacifist
 apprehend	動詞	逮捕する	comprehend,apprentice,reprehend
 ascertain	動詞	確かめる	certain,entertain,assert	confirm,verify
 assimilate	動詞	同化する、吸収する	simulate,stimulate,similar	absorb
-augment	動詞	増大させる	argument,fragment,augur	increase
+augment	動詞	増大させる	argument,fragment,augur	increase,boost,escalate
 avenge	動詞	復讐する	revenge,average,avenue
 belittle	動詞	見くびる、けなす	little,beetle,belated
 bewilder	動詞	当惑させる	wilder,bewail,wonder	confuse
 cajole	動詞	おだてて〜させる	cajun,console,coax	coax
 coax	動詞	なだめすかす、説得する	hoax,cox,coach	persuade
 capitulate	動詞	降伏する	capital,recapitulate,calculate	surrender
-censure	動詞	非難する、とがめる	censor,census,ensure	condemn,reproach
-circumvent	動詞	（規制などを）回避する	circumstance,circulate,invent	evade
+censure	動詞	非難する、とがめる	censor,census,ensure	condemn,reproach,denounce
+circumvent	動詞	（規制などを）回避する	circumstance,circulate,invent	evade,avoid
 evade	動詞	逃れる、回避する	invade,avoid,fade	avoid
-coerce	動詞	強要する	coarse,coherence,course	compel,force
-concur	動詞	同意する、同時に起こる	occur,conquer,incur	agree
+coerce	動詞	強要する	coarse,coherence,course	compel,force,enforce
+concur	動詞	同意する、同時に起こる	occur,conquer,incur	agree,coincide
 condone	動詞	大目に見る、容認する	condemn,cologne,condole	tolerate
 confiscate	動詞	没収する	confess,confide,configure	seize
 convene	動詞	召集する、開く	convey,convent,intervene	summon
 corroborate	動詞	裏付ける	collaborate,corrode,elaborate	verify,confirm
 corrode	動詞	腐食する	erode,corrupt,commode
-culminate	動詞	最高潮に達する、結果として〜になる	eliminate,illuminate,cumulate
+culminate	動詞	最高潮に達する、結果として〜になる	eliminate,illuminate,cumulate	ensue
 debunk	動詞	（誤りを）暴く	debut,bunk,debate	expose
 expose	動詞	さらす、暴露する	impose,oppose,explore	reveal
 decipher	動詞	解読する	cipher,decide,describe
-delineate	動詞	（輪郭を）描く	eliminate,delinquent,lineage	depict
-demolish	動詞	取り壊す	abolish,polish,diminish	dismantle
-denote	動詞	示す、意味する	donate,denounce,devote	signify
+delineate	動詞	（輪郭を）描く	eliminate,delinquent,lineage	depict,portray
+demolish	動詞	取り壊す	abolish,polish,diminish	dismantle,destroy,wreck
+denote	動詞	示す、意味する	donate,denounce,devote	signify,indicate,represent,imply,demonstrate,exhibit
 deplore	動詞	嘆く、遺憾に思う	explore,implore,deplete	lament
 deride	動詞	あざける	derive,decide,divide	mock,ridicule
 ridicule	動詞	あざける、ばかにする	ridiculous,radical,reticule	mock
 detest	動詞	ひどく嫌う	detect,attest,protest	loathe
 loathe	動詞	ひどく嫌う	loath,clothe,soothe
-detract	動詞	（価値などを）損なう	distract,retract,attract	undermine
+detract	動詞	（価値などを）損なう	distract,retract,attract	undermine,impair
 devour	動詞	むさぼり食う	devout,devote,favour
-dissipate	動詞	散らす、浪費する	dissipate,anticipate,participate	scatter
+dissipate	動詞	散らす、浪費する	dissipate,anticipate,participate	scatter,disperse
 dissuade	動詞	思いとどまらせる	persuade,disuse,dismay	deter,discourage
 divulge	動詞	（秘密を）漏らす	indulge,divide,bulge	disclose,reveal
-dodge	動詞	身をかわす、うまく避ける	lodge,badge,dog	evade,avoid
+dodge	動詞	身をかわす、うまく避ける	lodge,badge,dog	evade,avoid,avert
 eclipse	動詞	（他より）影を薄くする	ellipse,eclipsed,collapse	overshadow
 elicit	動詞	（反応などを）誘い出す	illicit,explicit,solicit	evoke
 elude	動詞	うまく逃れる	allude,delude,exclude	evade
-emanate	動詞	発する、生じる	emancipate,eliminate,emigrate	emit
+emanate	動詞	発する、生じる	emancipate,eliminate,emigrate	emit,originate
 embellish	動詞	飾る、粉飾する	embezzle,embody,polish	decorate
 embezzle	動詞	着服する、横領する	embellish,embed,dazzle
-encompass	動詞	包含する	compass,encounter,encode	include
-encroach	動詞	侵害する、侵入する	approach,reproach,encourage	infringe
+encompass	動詞	包含する	compass,encounter,encode	include,contain
+encroach	動詞	侵害する、侵入する	approach,reproach,encourage	infringe,intrude,invade
 enlighten	動詞	啓発する	lighten,enliven,frighten
 ensue	動詞	結果として起こる	ensure,issue,pursue	follow
 follow	動詞	後に続く	hollow,swallow,fellow
@@ -60,16 +60,16 @@ enumerate	動詞	列挙する	numerate,generate,emulate	list
 list	動詞	一覧にする、列挙する	lift,last,lest
 eradicate	動詞	根絶する	radiate,irradiate,educate	eliminate
 exacerbate	動詞	悪化させる	exasperate,exaggerate,acerbate	aggravate,deteriorate
-aggravate	動詞	悪化させる、いらだたせる	aggregate,gravitate,aggressive	deteriorate
+aggravate	動詞	悪化させる、いらだたせる	aggregate,gravitate,aggressive	deteriorate,frustrate,irritate,annoy
 exasperate	動詞	激怒させる	exaggerate,exacerbate,desperate	infuriate
 infuriate	動詞	激怒させる	infatuate,inaugurate,furious
 excavate	動詞	発掘する	evacuate,elevate,cave
 exonerate	動詞	無実を証明する	exaggerate,generate,exorbitant	acquit
 acquit	動詞	無罪とする	acquire,quit,acquaint
-expedite	動詞	促進する、早める	expedition,expend,expire	accelerate
-extol	動詞	ほめたたえる	extort,extract,patrol	praise
+expedite	動詞	促進する、早める	expedition,expend,expire	accelerate,promote,facilitate,foster
+extol	動詞	ほめたたえる	extort,extract,patrol	praise,acclaim,applaud,admire
 extort	動詞	強奪する、ゆすり取る	extol,distort,retort
-fathom	動詞	理解する、見抜く	phantom,fathomless,bottom	comprehend,understand
+fathom	動詞	理解する、見抜く	phantom,fathomless,bottom	comprehend,understand,grasp,discern
 comprehend	動詞	理解する	apprehend,comprehensive,compend	understand,grasp
 understand	動詞	理解する	undertake,underhand,understate	grasp
 feign	動詞	装う、ふりをする	reign,foreign,deign	pretend
@@ -80,21 +80,21 @@ forsake	動詞	見捨てる	forsaken,mistake,forgo	abandon,discard
 fortify	動詞	強化する	fortunate,modify,testify	reinforce,strengthen,bolster
 galvanize	動詞	奮い立たせる	galaxy,organize,gallant	stimulate,inspire
 garner	動詞	集める、獲得する	garnet,gardener,warner	gather,collect
-gather	動詞	集める	father,rather,further	collect
-glean	動詞	少しずつ集める	clean,lean,gleam	collect
+gather	動詞	集める	father,rather,further	collect,assemble
+glean	動詞	少しずつ集める	clean,lean,gleam	collect,garner,gather
 gloat	動詞	ほくそ笑む	float,goat,bloat
-goad	動詞	駆り立てる、けしかける	road,load,goal	provoke
+goad	動詞	駆り立てる、けしかける	road,load,goal	provoke,incite
 gratify	動詞	満足させる	gratitude,ratify,glorify	satisfy
 hoard	動詞	ため込む	board,hoarse,horde	amass
 humiliate	動詞	恥をかかせる	humility,eliminate,humidity	embarrass
-impeach	動詞	弾劾する、告発する	impinge,preach,peach
+impeach	動詞	弾劾する、告発する	impinge,preach,peach	accuse
 incite	動詞	扇動する、駆り立てる	insight,excite,cite	provoke
 incur	動詞	（損害・費用を）招く、負う	occur,recur,concur
 indict	動詞	起訴する	predict,addict,interdict	prosecute
 implore	動詞	懇願する	explore,deplore,implode	beg,plead,solicit
-insinuate	動詞	遠回しに言う、ほのめかす	insulate,infiltrate,eliminate	imply
-instigate	動詞	扇動する、着手させる	investigate,mitigate,instill	incite
+insinuate	動詞	遠回しに言う、ほのめかす	insulate,infiltrate,eliminate	imply,allude
+instigate	動詞	扇動する、着手させる	investigate,mitigate,instill	incite,embark
 inundate	動詞	殺到する、氾濫させる	undulate,inaugurate,innovate	overwhelm
 jeopardize	動詞	危険にさらす	jeopardy,jealous,energize	endanger
-languish	動詞	衰える、苦しむ	language,anguish,vanquish
+languish	動詞	衰える、苦しむ	language,anguish,vanquish	wither,decay
 meander	動詞	曲がりくねる、ぶらつく	meaning,wander,meadow	wander

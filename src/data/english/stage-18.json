@@ -32,7 +32,9 @@
     "confusers": [
       "en-0539"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1144"
+    ]
   },
   {
     "id": "en-1704",
@@ -55,6 +57,7 @@
     "confusers": [],
     "synonyms": [
       "en-2423",
+      "en-2424",
       "en-2497",
       "en-2600"
     ]
@@ -68,7 +71,9 @@
     "confusers": [
       "en-0604"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1823"
+    ]
   },
   {
     "id": "en-1707",
@@ -238,7 +243,9 @@
       "en-0563",
       "en-0382"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1618"
+    ]
   },
   {
     "id": "en-1722",
@@ -262,7 +269,9 @@
       "en-1724",
       "en-0381"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-1798"
+    ]
   },
   {
     "id": "en-1724",
@@ -273,7 +282,10 @@
     "confusers": [
       "en-1723"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2581",
+      "en-2869"
+    ]
   },
   {
     "id": "en-1725",
@@ -561,7 +573,11 @@
       "en-0307"
     ],
     "synonyms": [
-      "en-2452"
+      "en-0060",
+      "en-0392",
+      "en-2452",
+      "en-2574",
+      "en-2957"
     ]
   },
   {
@@ -599,7 +615,10 @@
     "confusers": [],
     "synonyms": [
       "en-0514",
-      "en-2552"
+      "en-0515",
+      "en-2552",
+      "en-2563",
+      "en-2564"
     ]
   },
   {
@@ -652,7 +671,8 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
-      "en-0581"
+      "en-0581",
+      "en-0423"
     ]
   },
   {
@@ -727,7 +747,9 @@
       "en-0401",
       "en-1630"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2583"
+    ]
   },
   {
     "id": "en-1765",
@@ -843,7 +865,9 @@
     "confusers": [
       "en-1776"
     ],
-    "synonyms": []
+    "synonyms": [
+      "en-2944"
+    ]
   },
   {
     "id": "en-1776",
@@ -856,7 +880,8 @@
       "en-0921"
     ],
     "synonyms": [
-      "en-1777"
+      "en-1777",
+      "en-0525"
     ]
   },
   {
@@ -867,6 +892,7 @@
     "level": 2,
     "confusers": [],
     "synonyms": [
+      "en-0525",
       "en-1776"
     ]
   },
@@ -925,6 +951,8 @@
     ],
     "synonyms": [
       "en-0272",
+      "en-0466",
+      "en-1163",
       "en-1834"
     ]
   },
@@ -967,7 +995,9 @@
     "meaning": "大きさ、規模",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-0482"
+    ]
   },
   {
     "id": "en-1787",
@@ -1041,7 +1071,9 @@
     "meaning": "移住、移動",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-2492"
+    ]
   },
   {
     "id": "en-1794",
@@ -1093,7 +1125,9 @@
     "meaning": "神話、作り話",
     "level": 2,
     "confusers": [],
-    "synonyms": []
+    "synonyms": [
+      "en-1723"
+    ]
   },
   {
     "id": "en-1799",

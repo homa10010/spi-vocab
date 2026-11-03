@@ -10,14 +10,14 @@ immediate	形容詞	即座の	intermediate,immense,mediate
 immense	形容詞	莫大な	intense,immerse,immediate	enormous,huge
 inevitable	形容詞	避けられない	invisible,invaluable,inedible
 innocent	形容詞	無実の、無邪気な	innovative,indecent,innate
-intelligent	形容詞	知的な、頭のよい	intelligible,diligent,negligent
+intelligent	形容詞	頭のよい、聡明な	intelligible,diligent,negligent
 intellectual	形容詞	知性の、知的な	intelligent,individual,ineffectual
 diligent	形容詞	勤勉な	intelligent,negligent,delicate
 negligent	形容詞	怠慢な	negligible,diligent,intelligent
 internal	形容詞	内部の	external,eternal,international
 external	形容詞	外部の	internal,eternal,extend
 eternal	形容詞	永遠の	external,internal,maternal	permanent
-liberal	形容詞	寛大な、自由主義の	literal,liberty,deliberate
+liberal	形容詞	寛大な、自由主義の	literal,liberty,deliberate	generous
 literal	形容詞	文字どおりの	literary,liberal,literate
 literary	形容詞	文学の	literal,literacy,military
 literate	形容詞	読み書きのできる	literal,literary,illiterate
@@ -29,9 +29,9 @@ mature	形容詞	成熟した	nature,premature,manure
 mental	形容詞	精神の	metal,rental,dental
 physical	形容詞	身体の、物理的な	physician,mental,psychical
 minor	形容詞	小さいほうの、重要でない	major,mirror,miner
-major	形容詞	大きいほうの、主要な	minor,mayor,measure	main
-main	形容詞	主な	maim,mane,chief
-chief	形容詞	最高位の、主要な	brief,thief,chef
+major	形容詞	大きいほうの、主要な	minor,mayor,measure	main,chief,primary
+main	形容詞	主な	maim,mane	chief,primary
+chief	形容詞	最高位の、主要な	brief,thief,chef	primary
 moderate	形容詞	適度な、穏健な	modest,modern,accelerate
 moral	形容詞	道徳の	mortal,mural,morale
 mortal	形容詞	死ぬ運命の、致命的な	moral,portal,total
@@ -40,17 +40,17 @@ positive	形容詞	肯定的な、前向きな	possessive,negative,positively
 neutral	形容詞	中立の	natural,neural,central
 numerous	形容詞	多数の	enormous,humorous,generous
 generous	形容詞	気前のよい、寛大な	numerous,gorgeous,dangerous
-obscure	形容詞	不明瞭な、無名の	obscene,secure,mature
+obscure	形容詞	不明瞭な、無名の	obscene,secure,mature	ambiguous
 secure	形容詞	安全な、確実な	obscure,sincere,cure
-sincere	形容詞	誠実な、心からの	secure,since,serene	faithful
-odd	形容詞	奇妙な、奇数の	add,old,god	strange
-strange	形容詞	奇妙な、見知らぬ	strangle,range,stranger
-ordinary	形容詞	普通の	extraordinary,orderly,binary
+sincere	形容詞	誠実な、心からの	secure,since,serene	faithful,genuine,honest
+odd	形容詞	奇妙な、奇数の	add,old,god	strange,peculiar
+strange	形容詞	奇妙な、見知らぬ	strangle,range,stranger	peculiar
+ordinary	形容詞	普通の	extraordinary,orderly,binary	common
 extraordinary	形容詞	並外れた	ordinary,extracurricular,temporary
-original	形容詞	独創的な、最初の	origin,regional,originate
+original	形容詞	独創的な、最初の	origin,regional,originate	initial
 political	形容詞	政治の	critical,polite,politic
 polite	形容詞	礼儀正しい	political,police,polish
-practical	形容詞	実用的な	practice,tactical,political
+practical	形容詞	実用的な	practice,tactical,political	realistic
 precise	形容詞	正確な、精密な	precious,concise,precede	accurate,exact
 precious	形容詞	貴重な	precise,previous,gracious	valuable
 pregnant	形容詞	妊娠している	poignant,prominent,pregnancy
@@ -58,7 +58,7 @@ primary	形容詞	主要な、初等の	primitive,prime,primarily
 primitive	形容詞	原始的な	primary,positive,prime
 private	形容詞	私的な	privacy,pirate,primate
 public	形容詞	公共の	publish,pubic,republic
-proper	形容詞	適切な、正式の	property,prosper,paper	appropriate
+proper	形容詞	適切な、正式の	property,prosper,paper	appropriate,formal,suitable
 prosperous	形容詞	繁栄している	preposterous,prosper,precious
 protective	形容詞	保護的な	productive,perspective,protection
 productive	形容詞	生産的な	protective,reproductive,product
@@ -67,11 +67,11 @@ punctual	形容詞	時間を守る	actual,punctuation,eventual
 rare	形容詞	まれな	rear,raw,rarely
 raw	形容詞	生の、未加工の	law,row,rare
 realistic	形容詞	現実的な	idealistic,ritualistic,real
-reasonable	形容詞	筋の通った、手ごろな	seasonable,reasoning,responsible
+reasonable	形容詞	筋の通った、手ごろな	seasonable,reasoning,responsible	rational,logical
 recent	形容詞	最近の	decent,resent,frequent
 regular	形容詞	規則正しい、定期的な	popular,regulate,singular
 relevant	形容詞	関連のある	elevant,relative,reluctant
-relative	形容詞	相対的な、関係のある	relevant,negative,related
+relative	形容詞	相対的な、比較上の	relevant,negative,related
 reluctant	形容詞	気が進まない	relevant,redundant,resultant
 remote	形容詞	遠い、人里離れた	promote,remove,emote
 responsible	形容詞	責任のある	responsive,reasonable,possible
@@ -82,19 +82,19 @@ rural	形容詞	田舎の	urban,plural,rule
 urban	形容詞	都市の	rural,turban,suburban
 severe	形容詞	厳しい、深刻な	sever,several,sincere	strict
 strict	形容詞	厳格な	district,restrict,stick
-significant	形容詞	重要な、かなりの	signify,magnificent,sufficient
+significant	形容詞	重要な、かなりの	signify,magnificent,sufficient	considerable
 slight	形容詞	わずかな	sight,light,slightly
 solid	形容詞	固体の、しっかりした	stolid,valid,solitary
-specific	形容詞	特定の、明確な	specify,pacific,scientific
-stable	形容詞	安定した	table,able,suitable
-steady	形容詞	着実な、一定の	ready,stead,heady
-subtle	形容詞	微妙な、かすかな	subtitle,settle,shuttle
+specific	形容詞	特定の、明確な	specify,pacific,scientific	particular
+stable	形容詞	安定した	table,able,suitable	steady
+steady	形容詞	着実な、一定の	ready,stead,heady	constant
+subtle	形容詞	微妙な、かすかな	subtitle,settle,shuttle	delicate
 superior	形容詞	上位の、勝っている	inferior,superb,supervisor
 inferior	形容詞	下位の、劣っている	superior,interior,infer
-interior	形容詞	室内の	inferior,exterior,interim
+interior	形容詞	室内の	inferior,exterior,interim	internal
 suitable	形容詞	適した	stable,suit,sustainable	appropriate
 typical	形容詞	典型的な	topical,tropical,optical
-unique	形容詞	独特の	antique,uniform,technique
+unique	形容詞	独特の	antique,uniform,technique	peculiar
 urgent	形容詞	緊急の	agent,urge,argent
-valid	形容詞	有効な、妥当な	solid,invalid,vivid
+valid	形容詞	有効な、妥当な	solid,invalid,vivid	effective
 visible	形容詞	目に見える	invisible,visual,feasible
