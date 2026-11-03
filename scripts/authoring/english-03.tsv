@@ -45,7 +45,7 @@ attain	動詞	達成する、到達する	obtain,contain,retain	achieve
 retain	動詞	保持する	obtain,contain,attain	maintain,preserve
 expand	動詞	拡大する、広がる	expend,exceed	extend
 spend	動詞	（金や時間を）使う、過ごす	depend,expend,lend	consume
-defend	動詞	守る、弁護する	depend,offend,descend	protect
+defend	動詞	守る、弁護する	depend,offend,descend	protect,observe
 offend	動詞	怒らせる、気分を害する	defend,attend,afford
 proceed	動詞	進む、続行する	succeed,exceed,precede	continue
 precede	動詞	〜に先行する	proceed,recede,succeed
@@ -76,7 +76,7 @@ reaction	名詞	反応	relation,action,result
 result	名詞	結果	reason,cause	effect
 reason	名詞	理由	result,season,cause
 cause	名詞	原因	case,result,reason
-case	名詞	場合、事例	cause,occasion,issue	occasion
+case	名詞	場合、事例	cause,issue	occasion
 issue	名詞	（議論すべき）問題、発行	tissue,solution,situation	problem
 problem	名詞	問題	solution,situation,purpose
 solution	名詞	解決策	pollution,situation,problem
@@ -85,9 +85,9 @@ situation	名詞	状況	condition,solution,tradition
 condition	名詞	状態、条件	situation,tradition,contract
 tradition	名詞	伝統	condition,custom,situation
 custom	名詞	（社会の）習慣、慣習	tradition,costume,culture	habit
-habit	名詞	（個人の）習慣、癖	custom,ability,tradition
+habit	名詞	（個人の）習慣、癖	ability,tradition
 quality	名詞	質	quantity,ability,quantity
-quantity	名詞	量	quality,amount,variety	amount
+quantity	名詞	量	quality,variety	amount
 amount	名詞	総額、量	average,account,range
 average	名詞	平均	amount,range,advantage
 range	名詞	範囲	average,variety,change
