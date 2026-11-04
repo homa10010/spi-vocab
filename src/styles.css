@@ -2,25 +2,62 @@
   単語カードの見た目。藍＝操作、若竹＝正解、紅＝不正解。
   紙は少し緑がかった灰色。問題文だけ明朝にして、辞書の見出しのように見せる。
 */
+/* ---------- 色（ライト／ダーク × テーマ色6色）----------
+   値はすべて WCAG のコントラスト比で確認済み：文字 4.5:1 以上、グラフの線 3:1 以上。
+   ダークでは、テーマ色を明るくしてボタンの文字を暗くする（同じ色のままだと読みにくいため）。 */
 :root {
   --paper: #e9ede8;
   --card: #fbfcf9;
   --ink: #1f2622;
   --ink-soft: #5c6660;
   --rule: #c7d0c8;
-  --ai: #2b4a8c;
-  --ai-deep: #1d3566;
-  --ai-wash: #dfe6f3;
   --wakatake: #2f7d5b;
   --wakatake-wash: #dcefe4;
   --beni: #b8323d;
   --beni-wash: #f6dfe0;
+  --on-accent: #ffffff;
+  --shadow: rgba(31, 38, 34, 0.35);
+  --overlay: rgba(31, 38, 34, 0.45);
+  --series-jukugo: #2a78d6;
+  --series-english: #c4501f;
+  --accent: #2b4a8c;
+  --accent-deep: #1d3566;
+  --accent-wash: #dfe6f3;
   --sans: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', 'Yu Gothic UI', 'Meiryo', sans-serif;
   --serif: 'Hiragino Mincho ProN', 'Yu Mincho', 'Noto Serif JP', 'YuMincho', serif;
   --radius-card: 14px;
   --radius-btn: 10px;
   color-scheme: light;
 }
+[data-theme='dark'] {
+  --paper: #121614;
+  --card: #1c221f;
+  --ink: #e4eae6;
+  --ink-soft: #9aa59f;
+  --rule: #343e39;
+  --wakatake: #5cc493;
+  --wakatake-wash: #1b3a2b;
+  --beni: #f08088;
+  --beni-wash: #45232a;
+  --on-accent: #10151a;
+  --shadow: rgba(0, 0, 0, 0.6);
+  --overlay: rgba(0, 0, 0, 0.6);
+  --series-jukugo: #3987e5;
+  --series-english: #d95926;
+  color-scheme: dark;
+}
+[data-accent='ai'] { --accent: #2b4a8c; --accent-deep: #1d3566; --accent-wash: #dfe6f3; }
+[data-accent='aomidori'] { --accent: #1d6b66; --accent-deep: #134f4b; --accent-wash: #d9eeec; }
+[data-accent='murasaki'] { --accent: #5b3d8f; --accent-deep: #432b6d; --accent-wash: #e8e1f3; }
+[data-accent='daidai'] { --accent: #a6460f; --accent-deep: #7e340a; --accent-wash: #f7e3d6; }
+[data-accent='momo'] { --accent: #a3365f; --accent-deep: #7d2747; --accent-wash: #f5dfe7; }
+[data-accent='sumi'] { --accent: #3b4650; --accent-deep: #2a3239; --accent-wash: #e1e5e8; }
+[data-theme='dark'], [data-theme='dark'][data-accent='ai'] { --accent: #9db4ec; --accent-deep: #7f9be0; --accent-wash: #222c42; }
+[data-theme='dark'][data-accent='aomidori'] { --accent: #7fd1c9; --accent-deep: #5fbcb3; --accent-wash: #183331; }
+[data-theme='dark'][data-accent='murasaki'] { --accent: #c3aaf0; --accent-deep: #a98fe0; --accent-wash: #2c2540; }
+[data-theme='dark'][data-accent='daidai'] { --accent: #f4a874; --accent-deep: #e98f53; --accent-wash: #3a2a1e; }
+[data-theme='dark'][data-accent='momo'] { --accent: #f29ebe; --accent-deep: #e57fa6; --accent-wash: #3b2330; }
+[data-theme='dark'][data-accent='sumi'] { --accent: #c3ccd4; --accent-deep: #a6b1bb; --accent-wash: #2a3036; }
 
 * { box-sizing: border-box; }
 
@@ -36,7 +73,7 @@ body {
 
 button, label.file { font: inherit; color: inherit; cursor: pointer; touch-action: manipulation; }
 button:disabled { cursor: default; }
-:focus-visible { outline: 3px solid var(--ai); outline-offset: 2px; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 
 h1, h2, p { margin: 0; }
 
@@ -59,11 +96,12 @@ h1, h2, p { margin: 0; }
   padding: 12px 16px;
   text-align: center;
 }
-.primary { background: var(--ai); color: #fff; border: none; }
-.primary:active { background: var(--ai-deep); }
-.secondary { background: transparent; color: var(--ai); border: 1.5px solid var(--ai); }
+.primary { background: var(--accent); color: var(--on-accent); border: none; }
+.primary:disabled { background: var(--rule); color: var(--ink-soft); }
+.primary:active { background: var(--accent-deep); }
+.secondary { background: transparent; color: var(--accent); border: 1.5px solid var(--accent); }
 .danger { background: transparent; color: var(--beni); border: 1.5px solid var(--beni); }
-.link { background: none; border: none; color: var(--ai); padding: 8px 4px; min-height: 44px; font-weight: 700; }
+.link { background: none; border: none; color: var(--accent); padding: 8px 4px; min-height: 44px; font-weight: 700; }
 
 .notice, .hint, .help { font-size: 14px; color: var(--ink-soft); }
 .notice {
@@ -100,7 +138,7 @@ h1, h2, p { margin: 0; }
   font-weight: 700;
   color: var(--ink-soft);
 }
-.tab.is-active { background: var(--card); color: var(--ink); box-shadow: 0 1px 2px rgba(31, 38, 34, 0.18); }
+.tab.is-active { background: var(--card); color: var(--ink); box-shadow: 0 1px 2px var(--shadow); }
 
 /* 「今日の学習」は単語帳の表紙のように大きく */
 .daily {
@@ -113,8 +151,8 @@ h1, h2, p { margin: 0; }
   padding: 28px 22px 24px 56px;
   border: none;
   border-radius: var(--radius-card);
-  background: var(--ai);
-  color: #fff;
+  background: var(--accent);
+  color: var(--on-accent);
   text-align: left;
 }
 .daily::before {
@@ -129,7 +167,7 @@ h1, h2, p { margin: 0; }
   background: var(--paper);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.35);
 }
-.daily:active { background: var(--ai-deep); }
+.daily:active { background: var(--accent-deep); }
 .daily:disabled { background: var(--rule); color: var(--ink-soft); }
 .daily-title { font-family: var(--serif); font-size: 28px; font-weight: 600; letter-spacing: 0.06em; line-height: 1.2; }
 .daily-detail { font-size: 15px; opacity: 0.92; }
@@ -159,7 +197,7 @@ h1, h2, p { margin: 0; }
 }
 
 .guide {
-  background: var(--ai-wash);
+  background: var(--accent-wash);
   border-radius: var(--radius-btn);
   padding: 14px;
   display: flex;
@@ -175,7 +213,7 @@ h1, h2, p { margin: 0; }
 .quiz-top { display: flex; align-items: center; gap: 10px; }
 .progress { flex: 1; display: flex; align-items: center; gap: 10px; }
 .progress-track { flex: 1; height: 6px; border-radius: 3px; background: var(--rule); overflow: hidden; }
-.progress-fill { height: 100%; background: var(--ai); transition: width 0.2s ease; }
+.progress-fill { height: 100%; background: var(--accent); transition: width 0.2s ease; }
 .progress-text { font-size: 13px; color: var(--ink-soft); font-variant-numeric: tabular-nums; min-width: 5.5em; text-align: right; }
 
 .card {
@@ -188,7 +226,7 @@ h1, h2, p { margin: 0; }
   flex-direction: column;
   justify-content: center;
   gap: 10px;
-  box-shadow: 0 1px 0 var(--rule), 0 8px 24px -16px rgba(31, 38, 34, 0.35);
+  box-shadow: 0 1px 0 var(--rule), 0 8px 24px -16px var(--shadow);
 }
 .card::before {
   content: '';
@@ -233,7 +271,7 @@ h1, h2, p { margin: 0; }
   background: var(--card);
   text-align: left;
 }
-.choice:not(:disabled):active { border-color: var(--ai); background: var(--ai-wash); }
+.choice:not(:disabled):active { border-color: var(--accent); background: var(--accent-wash); }
 .choice-label { font-size: 18px; font-weight: 700; }
 .choice-detail { display: flex; flex-wrap: wrap; column-gap: 10px; font-size: 13px; color: var(--ink-soft); line-height: 1.5; }
 .choice-meaning { color: var(--ink); }
@@ -245,7 +283,7 @@ h1, h2, p { margin: 0; }
   position: sticky;
   bottom: max(12px, env(safe-area-inset-bottom));
   margin-top: 6px;
-  box-shadow: 0 6px 18px -6px rgba(29, 53, 102, 0.55);
+  box-shadow: 0 6px 18px -6px var(--shadow);
 }
 
 /* ---------- 結果・一覧・設定 ---------- */
@@ -300,14 +338,14 @@ h1, h2, p { margin: 0; }
   background: var(--card);
   font-weight: 700;
 }
-.seg.is-active { border-color: var(--ai); background: var(--ai-wash); color: var(--ai-deep); }
+.seg.is-active { border-color: var(--accent); background: var(--accent-wash); color: var(--accent); }
 label.file { position: relative; display: flex; align-items: center; justify-content: center; }
 label.file input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
 
 .overlay {
   position: fixed;
   inset: 0;
-  background: rgba(31, 38, 34, 0.45);
+  background: var(--overlay);
   display: flex;
   align-items: flex-end;
   justify-content: center;
@@ -329,3 +367,67 @@ label.file input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
 @media (prefers-reduced-motion: reduce) {
   .progress-fill { transition: none; }
 }
+
+/* ---------- ランダム ---------- */
+.random-row { display: flex; gap: 8px; }
+.random-row .random { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0; line-height: 1.3; }
+.random-row .random small { font-size: 12px; font-weight: 400; color: var(--ink-soft); }
+.random-row .change { width: auto; flex: none; padding: 12px 18px; }
+.dialog-title { font-size: 17px; }
+.checks { display: flex; flex-direction: column; gap: 8px; }
+.check {
+  display: flex; align-items: center; gap: 12px; min-height: 48px; padding: 0 14px;
+  border: 1.5px solid var(--rule); border-radius: var(--radius-btn); font-weight: 700; cursor: pointer;
+}
+.check.is-on { border-color: var(--accent); background: var(--accent-wash); }
+.check input { width: 20px; height: 20px; accent-color: var(--accent); margin: 0; }
+
+/* ---------- 正答率のグラフ ---------- */
+.chart { display: flex; flex-direction: column; gap: 8px; }
+.chart-head { display: flex; align-items: center; justify-content: space-between; }
+.chart-head h2 { font-size: 15px; }
+.chart-range { display: flex; gap: 6px; }
+.chart-range .seg { min-height: 36px; padding: 0 14px; font-size: 13px; }
+.legend { list-style: none; margin: 0; padding: 0; display: flex; gap: 16px; font-size: 13px; color: var(--ink-soft); }
+.legend li { display: flex; align-items: center; gap: 6px; }
+.legend-swatch { display: inline-block; width: 14px; height: 3px; border-radius: 2px; background: currentColor; }
+.line-jukugo { color: var(--series-jukugo); }
+.line-english { color: var(--series-english); }
+.legend-swatch.line-jukugo { background: var(--series-jukugo); }
+.legend-swatch.line-english { background: var(--series-english); }
+.chart-plot { position: relative; background: var(--card); border-radius: var(--radius-card); padding: 6px 4px 2px; }
+.chart-plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.chart .grid { stroke: var(--rule); stroke-width: 1; }
+.chart .axis { fill: var(--ink-soft); font-size: 10px; font-family: var(--sans); }
+.chart .line { fill: none; stroke: currentColor; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart .dot { fill: currentColor; stroke: var(--card); stroke-width: 2; }
+.chart .direct { fill: var(--ink); font-size: 11px; font-weight: 700; font-family: var(--sans); }
+.chart .crosshair { stroke: var(--ink-soft); stroke-width: 1; stroke-dasharray: 3 3; }
+.chart .hit { fill: transparent; cursor: pointer; }
+.chart-readout { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 14px; min-height: 22px; font-size: 13px; color: var(--ink-soft); }
+.chart-readout strong { color: var(--ink); }
+.chart-readout > span { display: inline-flex; align-items: center; gap: 6px; color: var(--ink); }
+.chart-empty { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; padding: 0 40px; text-align: center; font-size: 13px; color: var(--ink-soft); pointer-events: none; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- テーマ設定 ---------- */
+.segmented.two { grid-template-columns: repeat(2, 1fr); }
+.swatches { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.swatch {
+  display: flex; align-items: center; gap: 8px; min-height: 48px; padding: 0 12px;
+  border: 1.5px solid var(--rule); border-radius: var(--radius-btn); background: var(--card); font-weight: 700;
+}
+.swatch.is-active { border-color: var(--accent); background: var(--accent-wash); }
+.swatch-dot { width: 18px; height: 18px; border-radius: 50%; flex: none; }
+[data-swatch='ai'] .swatch-dot { background: #2b4a8c; }
+[data-swatch='aomidori'] .swatch-dot { background: #1d6b66; }
+[data-swatch='murasaki'] .swatch-dot { background: #5b3d8f; }
+[data-swatch='daidai'] .swatch-dot { background: #a6460f; }
+[data-swatch='momo'] .swatch-dot { background: #a3365f; }
+[data-swatch='sumi'] .swatch-dot { background: #3b4650; }
+[data-theme='dark'] [data-swatch='ai'] .swatch-dot { background: #9db4ec; }
+[data-theme='dark'] [data-swatch='aomidori'] .swatch-dot { background: #7fd1c9; }
+[data-theme='dark'] [data-swatch='murasaki'] .swatch-dot { background: #c3aaf0; }
+[data-theme='dark'] [data-swatch='daidai'] .swatch-dot { background: #f4a874; }
+[data-theme='dark'] [data-swatch='momo'] .swatch-dot { background: #f29ebe; }
+[data-theme='dark'] [data-swatch='sumi'] .swatch-dot { background: #c3ccd4; }

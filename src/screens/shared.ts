@@ -1,7 +1,7 @@
 import type { LoadedEntry } from '../types';
 import { makeRng } from '../logic/random';
 
-export const MODE_LABEL = { jukugo: '熟語', english: '英単語' } as const;
+export const MODE_LABEL = { jukugo: '国語', english: '英語' } as const;
 
 export function freshRng() {
   return makeRng((Date.now() ^ Math.floor(Math.random() * 2 ** 31)) >>> 0);

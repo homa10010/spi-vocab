@@ -112,7 +112,7 @@ test('壊れたバックアップを読み込むと理由が出る', async () =>
 test('英単語タブでは英単語が問題になり、日本語の意味を選ぶ', async () => {
   const user = userEvent.setup();
   renderApp();
-  await user.click(screen.getByRole('tab', { name: '英単語' }));
+  await user.click(screen.getByRole('tab', { name: '英語' }));
   await user.click(screen.getByRole('button', { name: /学習を始める/ }));
   expect(screen.getByTestId('question').textContent).toMatch(/^word\d+$/);
   expect(within(screen.getByTestId('choices')).getAllByRole('button')).toHaveLength(4);
@@ -167,7 +167,7 @@ test('1回終えても、続けて新しい語で学習を始められる', asyn
 test('ランダム20問を始めると、20問のセッションになる', async () => {
   const user = userEvent.setup();
   renderApp();
-  await user.click(screen.getByRole('button', { name: 'ランダム20問' }));
+  await user.click(screen.getByRole('button', { name: /^ランダム20問/ }));
   expect(screen.getByText('1 / 20')).toBeInTheDocument();
 });
 
@@ -176,4 +176,66 @@ test('設定は「1回に出す新しい語」', async () => {
   renderApp();
   await user.click(screen.getByRole('button', { name: '設定' }));
   expect(screen.getByRole('heading', { name: '1回に出す新しい語' })).toBeInTheDocument();
+});
+
+test('タブは国語と英語', () => {
+  renderApp();
+  expect(screen.getByRole('tab', { name: '国語' })).toBeInTheDocument();
+  expect(screen.getByRole('tab', { name: '英語' })).toBeInTheDocument();
+  expect(screen.queryByText(/^ステージ$/)).toBeNull();
+});
+
+test('ランダムの範囲を変更でき、保存される。1つも選ばないと保存できない', async () => {
+  const user = userEvent.setup();
+  const first = renderApp();
+  await user.click(screen.getByRole('button', { name: '変更' }));
+  const dialog = screen.getByRole('dialog', { name: 'ランダムの範囲' });
+  for (const t of ['和語', '四字熟語', 'ことわざ']) await user.click(within(dialog).getByRole('checkbox', { name: t }));
+  await user.click(within(dialog).getByRole('button', { name: '保存' }));
+  expect(screen.getByRole('button', { name: /^ランダム20問/ })).toHaveTextContent('二字熟語');
+  expect(screen.getByRole('button', { name: /^ランダム20問/ })).not.toHaveTextContent('ことわざ');
+  first.unmount();
+  renderApp();
+  expect(screen.getByRole('button', { name: /^ランダム20問/ })).not.toHaveTextContent('ことわざ');
+  await user.click(screen.getByRole('button', { name: '変更' }));
+  const d2 = screen.getByRole('dialog', { name: 'ランダムの範囲' });
+  await user.click(within(d2).getByRole('checkbox', { name: '二字熟語' }));
+  expect(within(d2).getByRole('button', { name: '保存' })).toBeDisabled();
+});
+
+test('英語のランダム範囲はレベルで選ぶ', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  await user.click(screen.getByRole('tab', { name: '英語' }));
+  await user.click(screen.getByRole('button', { name: '変更' }));
+  const dialog = screen.getByRole('dialog', { name: 'ランダムの範囲' });
+  expect(within(dialog).getAllByRole('checkbox').map((c) => c.getAttribute('aria-label') ?? (c as HTMLInputElement).labels?.[0]?.textContent)).toEqual(['レベル1', 'レベル2', 'レベル3']);
+});
+
+test('今日の正答率が表示される', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  expect(screen.getByTestId('today-rate')).toHaveTextContent('—');
+  await user.click(screen.getByRole('button', { name: /学習を始める/ }));
+  await user.click(choiceButton(correctWord()));
+  await user.click(screen.getByRole('button', { name: 'やめる' }));
+  expect(screen.getByTestId('today-rate')).toHaveTextContent('100%');
+});
+
+test('正答率のグラフを週間と月間で切り替えられる', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  expect(screen.getByRole('img', { name: /直近7日間の正答率/ })).toBeInTheDocument();
+  await user.click(screen.getByRole('button', { name: '月間' }));
+  expect(screen.getByRole('img', { name: /直近30日間の正答率/ })).toBeInTheDocument();
+});
+
+test('設定でダークモードとテーマ色を変えられる', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  await user.click(screen.getByRole('button', { name: '設定' }));
+  await user.click(screen.getByRole('button', { name: 'ダーク' }));
+  expect(document.documentElement.dataset.theme).toBe('dark');
+  await user.click(screen.getByRole('button', { name: '紫' }));
+  expect(document.documentElement.dataset.accent).toBe('murasaki');
 });

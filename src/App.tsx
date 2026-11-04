@@ -8,6 +8,7 @@ import Result from './screens/Result';
 import StageList from './screens/StageList';
 import WeakList from './screens/WeakList';
 import Settings from './screens/Settings';
+import { useTheme } from './theme';
 
 export type Screen = 'home' | 'stages' | 'weak' | 'settings';
 
@@ -16,6 +17,7 @@ export default function App() {
   const [mode, setMode] = useState<Mode>('jukugo');
   const [screen, setScreen] = useState<Screen>('home');
   const goHome = () => setScreen('home');
+  useTheme(save.settings.themeMode, save.settings.accent);
 
   let body;
   if (save.session) body = isFinished(save.session) ? <Result /> : <Quiz />;

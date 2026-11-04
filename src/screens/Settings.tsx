@@ -1,5 +1,6 @@
 import { useState, type ChangeEvent } from 'react';
-import type { Mode, SaveData } from '../types';
+import type { Accent, Mode, SaveData } from '../types';
+import { ACCENT_LABEL } from '../theme';
 import { useStore } from '../state/store';
 import { exportBackup, parseBackup } from '../logic/storage';
 import ConfirmDialog from '../components/ConfirmDialog';
@@ -86,6 +87,37 @@ export default function Settings({ onBack }: { onBack: () => void }) {
               onClick={() => dispatch({ type: 'SET_NEW_PER_DAY', value: v })}
             >
               {v}語
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section className="setting">
+        <h2>表示</h2>
+        <div className="segmented two">
+          {(['light', 'dark'] as const).map((m) => (
+            <button
+              key={m}
+              aria-pressed={save.settings.themeMode === m}
+              className={save.settings.themeMode === m ? 'seg is-active' : 'seg'}
+              onClick={() => dispatch({ type: 'SET_THEME', themeMode: m })}
+            >
+              {m === 'light' ? 'ライト' : 'ダーク'}
+            </button>
+          ))}
+        </div>
+        <h2>テーマ色</h2>
+        <div className="swatches">
+          {(Object.keys(ACCENT_LABEL) as Accent[]).map((a) => (
+            <button
+              key={a}
+              aria-pressed={save.settings.accent === a}
+              className={save.settings.accent === a ? 'swatch is-active' : 'swatch'}
+              data-swatch={a}
+              onClick={() => dispatch({ type: 'SET_THEME', accent: a })}
+            >
+              <span className="swatch-dot" aria-hidden="true" />
+              {ACCENT_LABEL[a]}
             </button>
           ))}
         </div>

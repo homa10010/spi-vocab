@@ -1,10 +1,14 @@
+import { useState } from 'react';
 import type { Mode } from '../types';
 import type { Screen } from '../App';
 import { useStore } from '../state/store';
 import { buildDailySession, buildRandomSession, dailyCounts, PRACTICE_SIZE } from '../logic/session';
-import { clearedCount, stageInfos } from '../logic/stages';
 import { displayStreak } from '../logic/streak';
 import IosGuide from '../components/IosGuide';
+import RandomFilterDialog from '../components/RandomFilterDialog';
+import AccuracyChart from '../components/AccuracyChart';
+import { todayAccuracy } from '../logic/history';
+import { JUKUGO_TYPES, LEVELS } from '../logic/storage';
 import { MODE_LABEL, freshRng } from './shared';
 
 type Props = { mode: Mode; onModeChange: (m: Mode) => void; onNavigate: (s: Screen) => void };
@@ -13,15 +17,26 @@ export default function Home({ mode, onModeChange, onNavigate }: Props) {
   const { save, dispatch, datasets, today, warning, saveFailed } = useStore();
   const ds = datasets[mode];
   const progress = save.progress[mode];
-  const infos = stageInfos(ds, progress);
   const counts = dailyCounts(mode, ds, progress, save.settings, today);
   const total = counts.review + counts.fresh;
   const weakCount = ds.entries.filter((e) => progress[e.id]?.weak).length;
 
   const start = () =>
     dispatch({ type: 'START', session: buildDailySession(mode, ds, progress, save.settings, today, freshRng()) });
+  const { randomTypes, randomLevels } = save.settings;
+  const filter = mode === 'jukugo' ? { types: randomTypes } : { levels: randomLevels };
   const startRandom = () =>
-    dispatch({ type: 'START', session: buildRandomSession(mode, ds, progress, today, freshRng()) });
+    dispatch({ type: 'START', session: buildRandomSession(mode, ds, progress, today, freshRng(), filter) });
+  const [editing, setEditing] = useState(false);
+  const rangeLabel =
+    mode === 'jukugo'
+      ? randomTypes.length === JUKUGO_TYPES.length
+        ? 'すべて'
+        : randomTypes.join('・')
+      : randomLevels.length === LEVELS.length
+        ? 'すべて'
+        : randomLevels.map((l) => `レベル${l}`).join('・');
+  const rate = todayAccuracy(save.stats.history, mode, today);
 
   return (
     <main className="home">
@@ -52,16 +67,22 @@ export default function Home({ mode, onModeChange, onNavigate }: Props) {
         </span>
       </button>
       {total === 0 && <p className="hint">すべての語を出題済みです。ランダムで復習できます</p>}
-      <button className="secondary random" onClick={startRandom}>
-        ランダム{PRACTICE_SIZE}問
-      </button>
+      <div className="random-row">
+        <button className="secondary random" onClick={startRandom}>
+          ランダム{PRACTICE_SIZE}問
+          <small>（{rangeLabel}）</small>
+        </button>
+        <button className="secondary change" onClick={() => setEditing(true)}>
+          変更
+        </button>
+      </div>
 
       <dl className="stats">
         <div>
-          <dt>ステージ</dt>
-          <dd>
-            {clearedCount(infos)}
-            <small> / {infos.length}</small>
+          <dt>今日の正答率</dt>
+          <dd data-testid="today-rate">
+            {rate === null ? '—' : rate}
+            {rate !== null && <small>%</small>}
           </dd>
         </div>
         <div>
@@ -80,11 +101,27 @@ export default function Home({ mode, onModeChange, onNavigate }: Props) {
         </div>
       </dl>
 
+      <AccuracyChart history={save.stats.history} today={today} />
+
       <nav className="menu">
         <button onClick={() => onNavigate('stages')}>ステージ一覧</button>
         <button onClick={() => onNavigate('weak')}>苦手リスト</button>
         <button onClick={() => onNavigate('settings')}>設定</button>
       </nav>
+
+      {editing && (
+        <RandomFilterDialog
+          mode={mode}
+          types={randomTypes}
+          levels={randomLevels}
+          onCancel={() => setEditing(false)}
+          onSave={(v) => {
+            if (v.types) dispatch({ type: 'SET_RANDOM_TYPES', value: v.types });
+            if (v.levels) dispatch({ type: 'SET_RANDOM_LEVELS', value: v.levels });
+            setEditing(false);
+          }}
+        />
+      )}
     </main>
   );
 }

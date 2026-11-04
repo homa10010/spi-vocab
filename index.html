@@ -11,6 +11,14 @@
     <link rel="icon" href="/spi-vocab/icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/spi-vocab/apple-touch-icon.png" />
     <title>SPI言語対策</title>
+    <script>
+      // 保存したテーマを最初の描画より前に当てて、ダークモードで一瞬白くなるのを防ぐ
+      try {
+        var s = JSON.parse(localStorage.getItem('spi-vocab-progress-v1') || '{}').settings || {};
+        document.documentElement.dataset.theme = s.themeMode || 'light';
+        document.documentElement.dataset.accent = s.accent || 'ai';
+      } catch (e) {}
+    </script>
   </head>
   <body>
     <div id="root"></div>
