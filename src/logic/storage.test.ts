@@ -5,12 +5,12 @@ import {
 
 const sample = (): SaveData => ({
   ...defaultSave(),
-  settings: { newPerDay: 30, iosGuideSeen: true },
+  settings: { ...defaultSave().settings, newPerDay: 30, iosGuideSeen: true },
   progress: {
     jukugo: { 'jk-0001': { box: 2, due: '2026-11-05', correct: 2, wrong: 0, lastCorrect: true, weak: false } },
     english: {},
   },
-  stats: { streak: 3, lastStudyDay: '2026-11-02' },
+  stats: { streak: 3, lastStudyDay: '2026-11-02', history: { '2026-11-02': { jukugo: { correct: 1, total: 2 } } } },
   session: {
     mode: 'jukugo', kind: 'daily', stage: null, day: '2026-11-02',
     queue: [{ id: 'jk-0001', choices: ['jk-0001'], requeue: false }], index: 0, answeredChoice: null, results: [],
@@ -32,9 +32,13 @@ beforeEach(() => localStorage.clear());
 test('初期値', () => {
   expect(defaultSave()).toEqual({
     version: 1,
-    settings: { newPerDay: 20, iosGuideSeen: false },
+    settings: {
+      newPerDay: 20, iosGuideSeen: false,
+      randomTypes: ['二字熟語', '和語', '四字熟語', 'ことわざ'], randomLevels: [1, 2, 3],
+      themeMode: 'light', accent: 'ai',
+    },
     progress: { jukugo: {}, english: {} },
-    stats: { streak: 0, lastStudyDay: null },
+    stats: { streak: 0, lastStudyDay: null, history: {} },
     session: null,
   });
   expect(STORAGE_KEY).toBe('spi-vocab-progress-v1');
@@ -109,4 +113,28 @@ test('isSaveData は firstDay の有無どちらも受け付け、型違いは�
   const bad = sample() as unknown as { progress: { jukugo: Record<string, Record<string, unknown>> } };
   bad.progress.jukugo['jk-0001'].firstDay = 5;
   expect(isSaveData(bad)).toBe(false);
+});
+
+test('新しい設定項目がない古い保存データも、初期値を補って読める', () => {
+  const old = sample() as unknown as { settings: Record<string, unknown>; stats: Record<string, unknown> };
+  old.settings = { newPerDay: 30, iosGuideSeen: true };
+  old.stats = { streak: 3, lastStudyDay: '2026-11-02' };
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(old));
+  const { save, warning } = loadSave(localStorage);
+  expect(warning).toBeNull();
+  expect(save.settings).toEqual({
+    newPerDay: 30, iosGuideSeen: true,
+    randomTypes: ['二字熟語', '和語', '四字熟語', 'ことわざ'], randomLevels: [1, 2, 3],
+    themeMode: 'light', accent: 'ai',
+  });
+  expect(save.stats.history).toEqual({});
+});
+
+test('設定の値が不正なら壊れたデータとして扱う', () => {
+  const bad = sample() as unknown as { settings: Record<string, unknown> };
+  bad.settings = { ...bad.settings, accent: 'rainbow' };
+  expect(isSaveData(bad)).toBe(false);
+  const bad2 = sample() as unknown as { settings: Record<string, unknown> };
+  bad2.settings = { ...bad2.settings, randomLevels: [4] };
+  expect(isSaveData(bad2)).toBe(false);
 });

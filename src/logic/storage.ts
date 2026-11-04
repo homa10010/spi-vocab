@@ -1,16 +1,40 @@
-import type { SaveData } from '../types';
+import type { SaveData, Settings } from '../types';
 
 export const STORAGE_KEY = 'spi-vocab-progress-v1';
 export const CORRUPT_KEY = 'spi-vocab-progress-v1-corrupt';
 export type LoadWarning = 'corrupt' | 'unavailable' | null;
 
+export const JUKUGO_TYPES = ['二字熟語', '和語', '四字熟語', 'ことわざ'] as const;
+export const LEVELS = [1, 2, 3] as const;
+export const ACCENTS = ['ai', 'aomidori', 'murasaki', 'daidai', 'momo', 'sumi'] as const;
+
+export function defaultSettings(): Settings {
+  return {
+    newPerDay: 20,
+    iosGuideSeen: false,
+    randomTypes: [...JUKUGO_TYPES],
+    randomLevels: [...LEVELS],
+    themeMode: 'light',
+    accent: 'ai',
+  };
+}
+
 export function defaultSave(): SaveData {
   return {
     version: 1,
-    settings: { newPerDay: 20, iosGuideSeen: false },
+    settings: defaultSettings(),
     progress: { jukugo: {}, english: {} },
-    stats: { streak: 0, lastStudyDay: null },
+    stats: { streak: 0, lastStudyDay: null, history: {} },
     session: null,
+  };
+}
+
+/** 古い版で保存したデータに、あとから増えた項目の初期値を補う */
+function normalize(x: SaveData): SaveData {
+  return {
+    ...x,
+    settings: { ...defaultSettings(), ...x.settings },
+    stats: { ...x.stats, history: x.stats.history ?? {} },
   };
 }
 
@@ -45,8 +69,21 @@ export function isSaveData(x: unknown): x is SaveData {
   if (!isObj(x) || x.version !== 1) return false;
   const { settings, progress, stats } = x;
   if (!isObj(settings) || ![10, 20, 30].includes(settings.newPerDay as number) || !isBool(settings.iosGuideSeen)) return false;
+  const listOf = (v: unknown, allowed: readonly unknown[]) =>
+    v === undefined || (Array.isArray(v) && v.length > 0 && v.every((i) => allowed.includes(i)));
+  if (!listOf(settings.randomTypes, JUKUGO_TYPES) || !listOf(settings.randomLevels, LEVELS)) return false;
+  if (settings.themeMode !== undefined && !['light', 'dark'].includes(settings.themeMode as string)) return false;
+  if (settings.accent !== undefined && !(ACCENTS as readonly string[]).includes(settings.accent as string)) return false;
   if (!isObj(progress) || !MODES.every((m) => isObj(progress[m]) && Object.values(progress[m] as object).every(isProgress))) return false;
   if (!isObj(stats) || !isNum(stats.streak) || !(stats.lastStudyDay === null || isStr(stats.lastStudyDay))) return false;
+  if (
+    stats.history !== undefined &&
+    !(isObj(stats.history) &&
+      Object.values(stats.history).every(
+        (d) => isObj(d) && Object.values(d).every((r) => isObj(r) && isNum(r.correct) && isNum(r.total)),
+      ))
+  )
+    return false;
   return isSession(x.session);
 }
 
@@ -61,7 +98,7 @@ export function loadSave(storage: Storage | null): { save: SaveData; warning: Lo
   if (raw === null) return { save: defaultSave(), warning: null };
   try {
     const parsed: unknown = JSON.parse(raw);
-    if (isSaveData(parsed)) return { save: parsed, warning: null };
+    if (isSaveData(parsed)) return { save: normalize(parsed), warning: null };
   } catch {
     // 下で退避する
   }
@@ -98,5 +135,5 @@ export function parseBackup(text: string): { ok: true; save: SaveData } | { ok: 
     return { ok: false, reason: '新しい版のアプリで作られたバックアップです' };
   }
   if (!isSaveData(parsed)) return { ok: false, reason: 'バックアップの中身が壊れています' };
-  return { ok: true, save: { ...parsed, session: null } };
+  return { ok: true, save: { ...normalize(parsed), session: null } };
 }

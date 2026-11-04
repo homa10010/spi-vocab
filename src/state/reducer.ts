@@ -1,4 +1,5 @@
-import type { Dataset, Mode, SaveData, Session } from '../types';
+import type { Accent, Dataset, JukugoType, Level, Mode, SaveData, Session, ThemeMode } from '../types';
+import { pruneHistory, recordHistory } from '../logic/history';
 import { answer, next } from '../logic/runner';
 import { applyAnswer } from '../logic/srs';
 import { recordStudy } from '../logic/streak';
@@ -12,7 +13,10 @@ export type Action =
   | { type: 'DISMISS_IOS_GUIDE' }
   | { type: 'IMPORT'; save: SaveData }
   | { type: 'RESET_MODE'; mode: Mode }
-  | { type: 'DROP_STALE'; today: string };
+  | { type: 'DROP_STALE'; today: string }
+  | { type: 'SET_RANDOM_TYPES'; value: JukugoType[] }
+  | { type: 'SET_RANDOM_LEVELS'; value: Level[] }
+  | { type: 'SET_THEME'; themeMode?: ThemeMode; accent?: Accent };
 
 export function reducer(state: SaveData, action: Action): SaveData {
   switch (action.type) {
@@ -31,7 +35,9 @@ export function reducer(state: SaveData, action: Action): SaveData {
           [recorded.id]: applyAnswer(state.progress[mode][recorded.id], recorded.correct, action.today),
         },
       };
-      return { ...state, session, progress, stats: recordStudy(state.stats, action.today) };
+      const studied = recordStudy(state.stats, action.today);
+      const history = pruneHistory(recordHistory(state.stats.history, mode, action.today, recorded.correct), action.today);
+      return { ...state, session, progress, stats: { ...studied, history } };
     }
     case 'NEXT':
       return state.session && state.session.answeredChoice !== null ? { ...state, session: next(state.session) } : state;
@@ -48,6 +54,21 @@ export function reducer(state: SaveData, action: Action): SaveData {
         ...state,
         progress: { ...state.progress, [action.mode]: {} },
         session: state.session?.mode === action.mode ? null : state.session,
+      };
+    case 'SET_RANDOM_TYPES':
+      return action.value.length ? { ...state, settings: { ...state.settings, randomTypes: action.value } } : state;
+    case 'SET_RANDOM_LEVELS':
+      return action.value.length
+        ? { ...state, settings: { ...state.settings, randomLevels: [...action.value].sort() } }
+        : state;
+    case 'SET_THEME':
+      return {
+        ...state,
+        settings: {
+          ...state.settings,
+          themeMode: action.themeMode ?? state.settings.themeMode,
+          accent: action.accent ?? state.settings.accent,
+        },
       };
     case 'DROP_STALE':
       return state.session && state.session.day !== action.today ? { ...state, session: null } : state;

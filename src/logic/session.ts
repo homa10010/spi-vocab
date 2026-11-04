@@ -1,4 +1,4 @@
-import type { Dataset, LoadedEntry, Mode, ProgressMap, Session, SessionKind, Settings } from '../types';
+import type { Dataset, JukugoType, Level, LoadedEntry, Mode, ProgressMap, Session, SessionKind, Settings } from '../types';
 import { buildChoices } from './distractors';
 import { shuffle, type Rng } from './random';
 import { isDue, isSeen } from './srs';
@@ -67,8 +67,17 @@ export function buildStagePractice(
 }
 
 /** ステージや出題済みかどうかに関係なく、そのモードの全語から選ぶ */
-export function buildRandomSession(mode: Mode, ds: Dataset, _progress: ProgressMap, today: string, rng: Rng): Session {
-  return makeSession(mode, 'random', null, shuffle(ds.entries, rng).slice(0, PRACTICE_SIZE), ds, today, rng);
+export type RandomFilter = { types?: JukugoType[]; levels?: Level[] };
+
+export function buildRandomSession(
+  mode: Mode, ds: Dataset, _progress: ProgressMap, today: string, rng: Rng, filter: RandomFilter = {},
+): Session {
+  const pool = ds.entries.filter(
+    (e) =>
+      (!filter.types || ('type' in e && filter.types.includes(e.type))) &&
+      (!filter.levels || filter.levels.includes(e.level)),
+  );
+  return makeSession(mode, 'random', null, shuffle(pool, rng).slice(0, PRACTICE_SIZE), ds, today, rng);
 }
 
 export function buildWeakSession(mode: Mode, ds: Dataset, progress: ProgressMap, today: string, rng: Rng): Session {

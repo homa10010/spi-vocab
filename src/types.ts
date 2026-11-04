@@ -40,7 +40,17 @@ export type WordProgress = {
 };
 export type ProgressMap = Record<string, WordProgress>;
 
-export type Settings = { newPerDay: 10 | 20 | 30; iosGuideSeen: boolean };
+export type ThemeMode = 'light' | 'dark';
+export type Accent = 'ai' | 'aomidori' | 'murasaki' | 'daidai' | 'momo' | 'sumi';
+export type Settings = {
+  newPerDay: 10 | 20 | 30;
+  iosGuideSeen: boolean;
+  /** ランダム出題の範囲（国語は種類、英語はレベル） */
+  randomTypes: JukugoType[];
+  randomLevels: Level[];
+  themeMode: ThemeMode;
+  accent: Accent;
+};
 
 export type QueueItem = { id: string; choices: string[]; requeue: boolean };
 export type SessionKind = 'daily' | 'stage' | 'weak' | 'random';
@@ -55,7 +65,10 @@ export type Session = {
   results: { id: string; correct: boolean }[];
 };
 
-export type Stats = { streak: number; lastStudyDay: string | null };
+export type DayResult = { correct: number; total: number };
+/** 日付 → モードごとの正解数・回答数（グラフと今日の正答率に使う） */
+export type History = Record<string, Partial<Record<Mode, DayResult>>>;
+export type Stats = { streak: number; lastStudyDay: string | null; history: History };
 
 export type SaveData = {
   version: 1;

@@ -27,7 +27,7 @@ test('ANSWER で progress と stats が更新される', () => {
   let s = reducer(defaultSave(), { type: 'START', session: session() });
   s = reducer(s, { type: 'ANSWER', choiceId: 'jk-0001', today: TODAY });
   expect(s.progress.jukugo['jk-0001']).toMatchObject({ box: 1, correct: 1, lastCorrect: true });
-  expect(s.stats).toEqual({ streak: 1, lastStudyDay: TODAY });
+  expect(s.stats).toMatchObject({ streak: 1, lastStudyDay: TODAY });
   expect(s.session?.answeredChoice).toBe('jk-0001');
 });
 
@@ -61,7 +61,7 @@ test('設定・iOS案内・インポート', () => {
   expect(s.settings.newPerDay).toBe(30);
   s = reducer(s, { type: 'DISMISS_IOS_GUIDE' });
   expect(s.settings.iosGuideSeen).toBe(true);
-  const imported = { ...defaultSave(), stats: { streak: 9, lastStudyDay: TODAY } };
+  const imported = { ...defaultSave(), stats: { streak: 9, lastStudyDay: TODAY, history: {} } };
   expect(reducer(s, { type: 'IMPORT', save: imported })).toEqual(imported);
 });
 
@@ -121,4 +121,26 @@ test('DROP_STALE は日付の違うセッションだけを捨てる', () => {
 test('未回答のときの NEXT は何もしない', () => {
   const s = reducer(defaultSave(), { type: 'START', session: session() });
   expect(reducer(s, { type: 'NEXT' })).toBe(s);
+});
+
+test('ANSWER で今日の正答率の記録が増える（再出題は数えない）', () => {
+  let s = reducer(defaultSave(), { type: 'START', session: session() });
+  s = reducer(s, { type: 'ANSWER', choiceId: 'jk-0002', today: TODAY });
+  expect(s.stats.history[TODAY]).toEqual({ jukugo: { correct: 0, total: 1 } });
+});
+
+test('ランダムの範囲を変えられる。空にはできない', () => {
+  let s = reducer(defaultSave(), { type: 'SET_RANDOM_TYPES', value: ['ことわざ'] });
+  expect(s.settings.randomTypes).toEqual(['ことわざ']);
+  expect(reducer(s, { type: 'SET_RANDOM_TYPES', value: [] })).toBe(s);
+  s = reducer(s, { type: 'SET_RANDOM_LEVELS', value: [3, 1] });
+  expect(s.settings.randomLevels).toEqual([1, 3]);
+  expect(reducer(s, { type: 'SET_RANDOM_LEVELS', value: [] })).toBe(s);
+});
+
+test('テーマを変えられる', () => {
+  let s = reducer(defaultSave(), { type: 'SET_THEME', themeMode: 'dark' });
+  expect(s.settings.themeMode).toBe('dark');
+  s = reducer(s, { type: 'SET_THEME', accent: 'murasaki' });
+  expect(s.settings).toMatchObject({ themeMode: 'dark', accent: 'murasaki' });
 });

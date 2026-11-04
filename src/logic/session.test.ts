@@ -1,4 +1,5 @@
 import type { ProgressMap, Settings, WordProgress } from '../types';
+import { defaultSettings } from './storage';
 import { id, jk, range } from '../test/fixtures';
 import { makeRng } from './random';
 import { buildDailySession, buildRandomSession, buildStagePractice, buildWeakSession, dailyCounts } from './session';
@@ -6,7 +7,7 @@ import { buildDataset } from './validate';
 
 const TODAY = '2026-11-10';
 const ds = buildDataset([range(100, (n) => jk(n)), range(100, (n) => jk(n + 100)), range(100, (n) => jk(n + 200))]);
-const settings: Settings = { newPerDay: 20, iosGuideSeen: true };
+const settings: Settings = { ...defaultSettings(), newPerDay: 20, iosGuideSeen: true };
 const wp = (o: Partial<WordProgress> = {}): WordProgress => ({
   box: 2, due: '2026-11-20', correct: 1, wrong: 0, lastCorrect: true, weak: false, ...o,
 });
@@ -101,4 +102,17 @@ test('ランダムは全ステージから20問、出題済みかどうかに関
   const all = new Set<string>();
   for (let seed = 0; seed < 30; seed++) buildRandomSession('jukugo', ds, {}, TODAY, makeRng(seed)).queue.forEach((q) => all.add(ds.byId.get(q.id)!.stage + ''));
   expect(all).toEqual(new Set(['1', '2', '3']));
+});
+
+test('ランダムは種類やレベルで絞り込める', () => {
+  const mixed = buildDataset([[
+    ...range(10, (n) => jk(n, { type: '二字熟語' })),
+    ...range(10, (n) => jk(n + 10, { type: 'ことわざ' })),
+    ...range(10, (n) => jk(n + 20, { type: '和語' })),
+  ]]);
+  const s = buildRandomSession('jukugo', mixed, {}, TODAY, makeRng(3), { types: ['ことわざ', '和語'] });
+  expect(s.queue).toHaveLength(20);
+  s.queue.forEach((q) => expect(['ことわざ', '和語']).toContain((mixed.byId.get(q.id) as { type: string }).type));
+  const s2 = buildRandomSession('jukugo', mixed, {}, TODAY, makeRng(3), { types: ['ことわざ'] });
+  expect(s2.queue).toHaveLength(10);
 });
