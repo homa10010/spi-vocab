@@ -239,3 +239,8 @@ test('設定でダークモードとテーマ色を変えられる', async () =>
   await user.click(screen.getByRole('button', { name: '紫' }));
   expect(document.documentElement.dataset.accent).toBe('murasaki');
 });
+
+test('横向きのとき用に「縦向きにしてください」の案内を持っている', () => {
+  renderApp();
+  expect(screen.getByText('スマホを縦向きにしてください')).toBeInTheDocument();
+});
