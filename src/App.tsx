@@ -26,14 +26,5 @@ export default function App() {
   else if (screen === 'settings') body = <Settings onBack={goHome} />;
   else body = <Home mode={mode} onModeChange={setMode} onNavigate={setScreen} />;
 
-  return (
-    <>
-      <div className="app">{body}</div>
-      {/* iPhoneはWebから画面の向きを固定できないので、横向きのときはこの案内で画面を覆う */}
-      <div className="rotate-notice" aria-hidden="true">
-        <div className="rotate-icon" />
-        <p>スマホを縦向きにしてください</p>
-      </div>
-    </>
-  );
+  return <div className="app">{body}</div>;
 }
